@@ -1,0 +1,231 @@
+﻿1
+00:00:00,350 --> 00:00:02,980
+- Now that you've finished
+the ITIL 4 Foundation,
+
+2
+00:00:02,980 --> 00:00:05,500
+you may be wondering what comes next.
+
+3
+00:00:05,500 --> 00:00:08,690
+Well, the ITIL path has
+several different exams
+
+4
+00:00:08,690 --> 00:00:10,320
+that link you up to what we call
+
+5
+00:00:10,320 --> 00:00:12,600
+the ITIL Master Certification.
+
+6
+00:00:12,600 --> 00:00:13,750
+And you'll see here on the screen,
+
+7
+00:00:13,750 --> 00:00:15,640
+there's actually two distinct paths.
+
+8
+00:00:15,640 --> 00:00:17,980
+There's a left path and a right path.
+
+9
+00:00:17,980 --> 00:00:20,350
+Let's go ahead and start
+with the left path.
+
+10
+00:00:20,350 --> 00:00:21,390
+Now on the left side,
+
+11
+00:00:21,390 --> 00:00:24,240
+you're working up from ITIL
+foundation up to what's learned
+
+12
+00:00:24,240 --> 00:00:27,560
+as the MP or ITIL managing professional.
+
+13
+00:00:27,560 --> 00:00:30,370
+The ITIL managing professional,
+to earn that certification,
+
+14
+00:00:30,370 --> 00:00:33,630
+you have to earn four ITIL
+specialist certifications.
+
+15
+00:00:33,630 --> 00:00:36,490
+Each one of these has
+their own exam for them.
+
+16
+00:00:36,490 --> 00:00:39,440
+Now the ITIL specialist for
+create, deliver and support,
+
+17
+00:00:39,440 --> 00:00:42,200
+ITIL specialist for
+drive stakeholder value,
+
+18
+00:00:42,200 --> 00:00:44,690
+ITIL specialist for high velocity IT
+
+19
+00:00:44,690 --> 00:00:47,860
+and ITIL specialist for
+direct, plan and improve.
+
+20
+00:00:47,860 --> 00:00:50,960
+As you take all four of these
+exams and you pass them,
+
+21
+00:00:50,960 --> 00:00:52,060
+once you get all four,
+
+22
+00:00:52,060 --> 00:00:55,130
+you are now known as an
+ITIL managing professional.
+
+23
+00:00:55,130 --> 00:00:56,880
+Now if we look on the right side,
+
+24
+00:00:56,880 --> 00:00:59,780
+you can also become an
+ITIL strategic leader.
+
+25
+00:00:59,780 --> 00:01:02,880
+An ITIL strategic leader is
+mostly focused on management
+
+26
+00:01:02,880 --> 00:01:06,690
+and leadership and has only
+two requirements for that.
+
+27
+00:01:06,690 --> 00:01:09,060
+You'll have to get the ITIL
+specialist for direct, plan
+
+28
+00:01:09,060 --> 00:01:11,540
+and improve and the ITIL
+leader certification
+
+29
+00:01:11,540 --> 00:01:13,660
+for digital and IT strategy.
+
+30
+00:01:13,660 --> 00:01:16,070
+Now you may have noticed
+that one of those exams
+
+31
+00:01:16,070 --> 00:01:18,130
+is shared on both sides of the chart.
+
+32
+00:01:18,130 --> 00:01:20,980
+We have the ITIL specialist
+for direct, plan and improve
+
+33
+00:01:20,980 --> 00:01:23,530
+which is found on both the
+managing professional path
+
+34
+00:01:23,530 --> 00:01:25,550
+and the strategic leader path.
+
+35
+00:01:25,550 --> 00:01:26,920
+So when it comes down to it,
+
+36
+00:01:26,920 --> 00:01:29,160
+if you've already gotten
+the managing professional,
+
+37
+00:01:29,160 --> 00:01:31,800
+it's only one more exam, the ITIL leader
+
+38
+00:01:31,800 --> 00:01:33,910
+that will then get you to
+being a strategic leader
+
+39
+00:01:33,910 --> 00:01:36,090
+and when you put both of those together
+
+40
+00:01:36,090 --> 00:01:39,090
+that then brings you up
+to being an ITIL master.
+
+41
+00:01:39,090 --> 00:01:42,440
+So the entire pathway
+is laid out before you.
+
+42
+00:01:42,440 --> 00:01:44,070
+Which should you go for next?
+
+43
+00:01:44,070 --> 00:01:45,380
+Well, that's really up to you
+
+44
+00:01:45,380 --> 00:01:47,650
+and what you do in your organization.
+
+45
+00:01:47,650 --> 00:01:49,220
+Based on the job that you're doing,
+
+46
+00:01:49,220 --> 00:01:50,053
+you're going to want to pick
+
+47
+00:01:50,053 --> 00:01:52,610
+the ITIL specialist or
+ITIL leader certification
+
+48
+00:01:52,610 --> 00:01:54,880
+that most aligns to the role you're doing
+
+49
+00:01:54,880 --> 00:01:57,010
+and then you'll learn the other roles,
+
+50
+00:01:57,010 --> 00:01:58,710
+be able to get their
+certifications as well
+
+51
+00:01:58,710 --> 00:02:01,083
+and work your way up to
+being an ITIL master.
+

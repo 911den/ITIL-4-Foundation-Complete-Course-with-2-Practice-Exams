@@ -1,0 +1,791 @@
+﻿1
+00:00:01,060 --> 00:00:03,750
+- We've come a long way
+throughout this course,
+
+2
+00:00:03,750 --> 00:00:06,640
+and in this lesson, I want
+to put it all together.
+
+3
+00:00:06,640 --> 00:00:07,960
+We started out talking about our
+
+4
+00:00:07,960 --> 00:00:09,820
+four dimensions of service management,
+
+5
+00:00:09,820 --> 00:00:11,810
+which include organizations and people,
+
+6
+00:00:11,810 --> 00:00:13,270
+information and technology,
+
+7
+00:00:13,270 --> 00:00:14,420
+partners and suppliers,
+
+8
+00:00:14,420 --> 00:00:16,590
+and the value stream and processes.
+
+9
+00:00:16,590 --> 00:00:19,850
+Then, we talked about the
+ITIL service value system.
+
+10
+00:00:19,850 --> 00:00:22,510
+This included our opportunity
+and demands as our input,
+
+11
+00:00:22,510 --> 00:00:24,810
+and those are shaped by
+our service value chain,
+
+12
+00:00:24,810 --> 00:00:27,900
+our governance, our practices,
+our guiding principles,
+
+13
+00:00:27,900 --> 00:00:29,410
+and our continual improvement,
+
+14
+00:00:29,410 --> 00:00:32,070
+and out the other side, we got value.
+
+15
+00:00:32,070 --> 00:00:34,490
+Now, we also dug into the
+service value chain itself,
+
+16
+00:00:34,490 --> 00:00:36,530
+as part of the service value system.
+
+17
+00:00:36,530 --> 00:00:39,770
+We explored the different
+parts of it, like engage, plan,
+
+18
+00:00:39,770 --> 00:00:43,020
+improve, design and
+transition, obtain and build,
+
+19
+00:00:43,020 --> 00:00:45,950
+deliver and support, and
+our products and services.
+
+20
+00:00:45,950 --> 00:00:48,930
+And then, we spent the last
+three sections of the course
+
+21
+00:00:48,930 --> 00:00:53,010
+looking at the 34 different
+practices across ITIL 4.
+
+22
+00:00:53,010 --> 00:00:55,760
+But now, it's time for us
+to put it all together.
+
+23
+00:00:55,760 --> 00:00:57,860
+So let's walk through
+a real-world scenario
+
+24
+00:00:57,860 --> 00:00:59,720
+with an incident that
+needs to be resolved,
+
+25
+00:00:59,720 --> 00:01:01,800
+and see how everything
+we talked about so far
+
+26
+00:01:01,800 --> 00:01:05,135
+will be integrated together
+to create the desired value.
+
+27
+00:01:05,135 --> 00:01:08,600
+Now, let's pretend we work
+for a large logistics company,
+
+28
+00:01:08,600 --> 00:01:11,210
+something like Walmart or
+Amazon, and we're part of
+
+29
+00:01:11,210 --> 00:01:14,350
+their IT service management
+organization within the company.
+
+30
+00:01:14,350 --> 00:01:16,710
+They have a warehouse
+that uses a wifi network
+
+31
+00:01:16,710 --> 00:01:18,520
+in order to allow the forklift driver
+
+32
+00:01:18,520 --> 00:01:20,770
+to receive instructions
+on his mobile device
+
+33
+00:01:20,770 --> 00:01:23,530
+that tells him which aisle
+and which rack the product is
+
+34
+00:01:23,530 --> 00:01:25,330
+that he needs to go pick up.
+
+35
+00:01:25,330 --> 00:01:28,010
+Unfortunately, the wireless
+access point that supports
+
+36
+00:01:28,010 --> 00:01:29,920
+the wifi in this area of the warehouse
+
+37
+00:01:29,920 --> 00:01:32,578
+isn't working so well, and
+so the driver's mobile device
+
+38
+00:01:32,578 --> 00:01:34,940
+can't get the information that he needs.
+
+39
+00:01:34,940 --> 00:01:37,470
+Now, this has a significant
+impact on our business
+
+40
+00:01:37,470 --> 00:01:39,740
+because whenever that
+forklift driver can't receive
+
+41
+00:01:39,740 --> 00:01:42,070
+the instructions quickly
+enough, there's a risk
+
+42
+00:01:42,070 --> 00:01:44,850
+that a tight business
+deadline might be missed.
+
+43
+00:01:44,850 --> 00:01:47,100
+After all, some companies like Amazon
+
+44
+00:01:47,100 --> 00:01:48,720
+rely on their super-fast shipping
+
+45
+00:01:48,720 --> 00:01:51,290
+as a core function of
+their business model.
+
+46
+00:01:51,290 --> 00:01:52,550
+Now, while this may seem like
+
+47
+00:01:52,550 --> 00:01:54,580
+a relatively straightforward incident,
+
+48
+00:01:54,580 --> 00:01:56,900
+it can't be resolved simply
+by following the steps
+
+49
+00:01:56,900 --> 00:01:59,450
+of a predetermined incident
+management procedure.
+
+50
+00:01:59,450 --> 00:02:01,670
+Instead, there's a lot of interconnections
+
+51
+00:02:01,670 --> 00:02:03,680
+among the practices and the activities
+
+52
+00:02:03,680 --> 00:02:05,670
+for this wireless network to get fixed
+
+53
+00:02:05,670 --> 00:02:07,970
+and returned to normal operations.
+
+54
+00:02:07,970 --> 00:02:11,810
+So let's get started with the
+service value system first.
+
+55
+00:02:11,810 --> 00:02:13,760
+First, we're going to see
+that we have a demand,
+
+56
+00:02:13,760 --> 00:02:15,730
+and in this case, the warehouse manager
+
+57
+00:02:15,730 --> 00:02:18,440
+and the forklift driver
+discovered the wifi coverage
+
+58
+00:02:18,440 --> 00:02:20,490
+isn't working properly
+in a certain portion
+
+59
+00:02:20,490 --> 00:02:21,710
+of the warehouse.
+
+60
+00:02:21,710 --> 00:02:23,920
+This means the forklift
+driver needs to drive
+
+61
+00:02:23,920 --> 00:02:26,860
+back to the manager's office
+in between each pickup,
+
+62
+00:02:26,860 --> 00:02:29,160
+so he can find out the
+location of his next product
+
+63
+00:02:29,160 --> 00:02:30,410
+within the warehouse.
+
+64
+00:02:30,410 --> 00:02:31,700
+This is causing delays,
+
+65
+00:02:31,700 --> 00:02:34,210
+and that could cause delivery
+deadlines to be missed.
+
+66
+00:02:34,210 --> 00:02:35,740
+This is an incident.
+
+67
+00:02:35,740 --> 00:02:38,760
+From this demand, we now
+move to the engage activity,
+
+68
+00:02:38,760 --> 00:02:39,870
+where the warehouse manager
+
+69
+00:02:39,870 --> 00:02:41,880
+is going to call up the service desk.
+
+70
+00:02:41,880 --> 00:02:43,780
+The service desk agent
+listens to the issue
+
+71
+00:02:43,780 --> 00:02:45,790
+that's being described
+by the warehouse manager,
+
+72
+00:02:45,790 --> 00:02:48,480
+they log it as an incident in
+the incident management system
+
+73
+00:02:48,480 --> 00:02:51,640
+and they categorize that
+incident as a high priority.
+
+74
+00:02:51,640 --> 00:02:53,650
+The agent then lets the
+warehouse manager know
+
+75
+00:02:53,650 --> 00:02:55,090
+that they're going to
+escalate the issue to
+
+76
+00:02:55,090 --> 00:02:57,100
+the technical support
+team that's responsible
+
+77
+00:02:57,100 --> 00:02:59,480
+for that wireless network,
+and they provide him updates
+
+78
+00:02:59,480 --> 00:03:01,920
+every two hours until that issue is fixed.
+
+79
+00:03:01,920 --> 00:03:04,970
+Now, the service desk
+agent escalates the ticket
+
+80
+00:03:04,970 --> 00:03:06,330
+for the wireless network
+
+81
+00:03:06,330 --> 00:03:08,730
+up to the wireless network support team.
+
+82
+00:03:08,730 --> 00:03:10,820
+These are the folks who have
+the delivery and support
+
+83
+00:03:10,820 --> 00:03:12,580
+function in the value chain activity
+
+84
+00:03:12,580 --> 00:03:14,410
+for this wireless network.
+
+85
+00:03:14,410 --> 00:03:16,360
+This allows the service
+desk agent to provide
+
+86
+00:03:16,360 --> 00:03:18,420
+the information to the
+network support engineer,
+
+87
+00:03:18,420 --> 00:03:20,790
+and the diagnosis and
+analysis of the incident
+
+88
+00:03:20,790 --> 00:03:23,210
+is going to begin by that engineer.
+
+89
+00:03:23,210 --> 00:03:25,830
+Next, the network support
+engineer identifies that
+
+90
+00:03:25,830 --> 00:03:27,900
+the wireless access point has failed,
+
+91
+00:03:27,900 --> 00:03:29,750
+and she decides to replace it with a spare
+
+92
+00:03:29,750 --> 00:03:32,130
+from the existing spare parts inventory.
+
+93
+00:03:32,130 --> 00:03:35,470
+This action alone is going
+to involve several practices.
+
+94
+00:03:35,470 --> 00:03:38,200
+First, we have the IT
+asset management practice,
+
+95
+00:03:38,200 --> 00:03:39,760
+so that she can update the serial number
+
+96
+00:03:39,760 --> 00:03:41,800
+in the configuration item database.
+
+97
+00:03:41,800 --> 00:03:43,020
+Then, she goes through
+
+98
+00:03:43,020 --> 00:03:45,090
+the service configuration
+management practice,
+
+99
+00:03:45,090 --> 00:03:46,810
+because she needs to configure this device
+
+100
+00:03:46,810 --> 00:03:49,750
+based on the approved
+baseline, and install it.
+
+101
+00:03:49,750 --> 00:03:52,010
+She's also going to go through
+the change control practice,
+
+102
+00:03:52,010 --> 00:03:53,820
+since she's going to install
+a new piece of equipment
+
+103
+00:03:53,820 --> 00:03:55,670
+into the network, and of course,
+
+104
+00:03:55,670 --> 00:03:57,590
+she's going to go through
+incident management,
+
+105
+00:03:57,590 --> 00:04:00,230
+because she's working on
+resolving an incident.
+
+106
+00:04:00,230 --> 00:04:01,630
+Let's assume that the replacement
+
+107
+00:04:01,630 --> 00:04:03,660
+of this wireless access
+point is considered
+
+108
+00:04:03,660 --> 00:04:07,010
+a standard change, so no
+additional approvals are needed.
+
+109
+00:04:07,010 --> 00:04:09,390
+If it was a normal change, then
+we would have to go through
+
+110
+00:04:09,390 --> 00:04:11,810
+and get approval through the
+change management process,
+
+111
+00:04:11,810 --> 00:04:14,670
+or escalate that issue
+as an emergency change.
+
+112
+00:04:14,670 --> 00:04:16,450
+Either way, all of this would occur
+
+113
+00:04:16,450 --> 00:04:18,600
+within the change control
+practice, though, right?
+
+114
+00:04:18,600 --> 00:04:21,500
+Finally, our network engineer
+replaces the access point,
+
+115
+00:04:21,500 --> 00:04:22,980
+verifies that it's working,
+
+116
+00:04:22,980 --> 00:04:25,470
+and she updates the
+incident management system.
+
+117
+00:04:25,470 --> 00:04:27,850
+She then calls the service
+desk agent, and tells her
+
+118
+00:04:27,850 --> 00:04:30,500
+that she believes the
+incident has been resolved.
+
+119
+00:04:30,500 --> 00:04:32,480
+Now that the engineer
+has fixed the incident,
+
+120
+00:04:32,480 --> 00:04:34,870
+she sits back and thinks
+about what happened,
+
+121
+00:04:34,870 --> 00:04:36,590
+and she thinks about
+any possible ways that
+
+122
+00:04:36,590 --> 00:04:38,570
+she could have fixed
+this more efficiently.
+
+123
+00:04:38,570 --> 00:04:41,070
+If she thinks of any, she might
+add those to the continual
+
+124
+00:04:41,070 --> 00:04:44,180
+improvement register as suggestions
+for future improvements.
+
+125
+00:04:44,180 --> 00:04:46,030
+If she does this, this becomes part of
+
+126
+00:04:46,030 --> 00:04:49,690
+continual improvement practice
+and the improve activity.
+
+127
+00:04:49,690 --> 00:04:51,580
+Now, the service desk
+agent, on the other hand,
+
+128
+00:04:51,580 --> 00:04:53,450
+goes back to the engage activity
+
+129
+00:04:53,450 --> 00:04:55,470
+by contacting the warehouse manager,
+
+130
+00:04:55,470 --> 00:04:57,120
+and she tells him that
+the wireless network
+
+131
+00:04:57,120 --> 00:04:58,640
+should be working again.
+
+132
+00:04:58,640 --> 00:05:00,220
+She asks the manager to verify that
+
+133
+00:05:00,220 --> 00:05:03,200
+the forklift driver's mobile
+phone is working again,
+
+134
+00:05:03,200 --> 00:05:05,840
+and gets the confirmation
+of this, and when she does,
+
+135
+00:05:05,840 --> 00:05:08,600
+she can then close that incident fully.
+
+136
+00:05:08,600 --> 00:05:10,300
+Now, when we look at the final block
+
+137
+00:05:10,300 --> 00:05:13,110
+on the service value system, that's value.
+
+138
+00:05:13,110 --> 00:05:15,110
+The value's being co-created by ensuring
+
+139
+00:05:15,110 --> 00:05:18,060
+the wireless coverage is
+restored, and the forklift driver
+
+140
+00:05:18,060 --> 00:05:21,210
+can now perform his job
+more efficiently once again,
+
+141
+00:05:21,210 --> 00:05:24,010
+by using that mobile device
+to identify the location
+
+142
+00:05:24,010 --> 00:05:26,320
+of the product that he
+needs to pick up and move.
+
+143
+00:05:26,320 --> 00:05:29,510
+About an hour later, that
+warehouse manager might receive
+
+144
+00:05:29,510 --> 00:05:33,180
+a brief email, asking for
+a user satisfaction survey.
+
+145
+00:05:33,180 --> 00:05:35,020
+This might ask for his
+feedback on the incident
+
+146
+00:05:35,020 --> 00:05:36,410
+and its resolution.
+
+147
+00:05:36,410 --> 00:05:39,270
+This would become an engage
+activity again, right?
+
+148
+00:05:39,270 --> 00:05:41,800
+Well, if he fills out the
+survey, we can then take that
+
+149
+00:05:41,800 --> 00:05:44,420
+and based on the feedback
+received, we can identify
+
+150
+00:05:44,420 --> 00:05:47,240
+trends and patterns based
+on satisfaction scores
+
+151
+00:05:47,240 --> 00:05:48,820
+in the user's comments.
+
+152
+00:05:48,820 --> 00:05:50,560
+This would fall under our improve area,
+
+153
+00:05:50,560 --> 00:05:52,680
+and we're going to be determining
+if our incident management
+
+154
+00:05:52,680 --> 00:05:55,730
+system and our processes
+are working effectively.
+
+155
+00:05:55,730 --> 00:05:57,340
+So, that was a lot.
+
+156
+00:05:57,340 --> 00:05:59,410
+As you can see, all of this ties together,
+
+157
+00:05:59,410 --> 00:06:01,340
+and we enter and leave
+different activities
+
+158
+00:06:01,340 --> 00:06:04,260
+and different practices all
+throughout this single incident
+
+159
+00:06:04,260 --> 00:06:05,900
+and its single resolution.
+
+160
+00:06:05,900 --> 00:06:08,470
+It isn't a simply linear
+process, but instead,
+
+161
+00:06:08,470 --> 00:06:10,850
+we're bounced from engage
+to the deliver and support,
+
+162
+00:06:10,850 --> 00:06:14,120
+back to engage, over to improve,
+and many other practices,
+
+163
+00:06:14,120 --> 00:06:16,820
+several times during this quick example.
+
+164
+00:06:16,820 --> 00:06:18,920
+Remember, identifying and understanding
+
+165
+00:06:18,920 --> 00:06:21,320
+all of these interconnections
+is the key to establishing
+
+166
+00:06:21,320 --> 00:06:23,140
+and promoting good service management.
+
+167
+00:06:23,140 --> 00:06:25,340
+So when you're looking
+at one of your processes,
+
+168
+00:06:25,340 --> 00:06:27,520
+or one of your workloads,
+you need to consider
+
+169
+00:06:27,520 --> 00:06:29,800
+all of these things as
+you're laying it out,
+
+170
+00:06:29,800 --> 00:06:31,080
+so you can make sure you're doing it
+
+171
+00:06:31,080 --> 00:06:33,383
+the most efficient and
+effective way possible.
+

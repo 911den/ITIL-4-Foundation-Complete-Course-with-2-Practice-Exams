@@ -1,0 +1,651 @@
+﻿1
+00:00:00,470 --> 00:00:01,960
+- Welcome to the complete course
+
+2
+00:00:01,960 --> 00:00:05,190
+for the ITIL 4 Foundation
+certification exam.
+
+3
+00:00:05,190 --> 00:00:06,670
+In this course, you're going to learn
+
+4
+00:00:06,670 --> 00:00:08,810
+everything you need to
+know to take and pass
+
+5
+00:00:08,810 --> 00:00:11,860
+the ITIL 4 Foundation exam
+on your first attempt.
+
+6
+00:00:11,860 --> 00:00:13,810
+In addition to that,
+you're going to be exposed
+
+7
+00:00:13,810 --> 00:00:15,700
+to the entire ITIL 4 framework.
+
+8
+00:00:15,700 --> 00:00:17,180
+So you can learn how to best use it
+
+9
+00:00:17,180 --> 00:00:18,820
+within your organization.
+
+10
+00:00:18,820 --> 00:00:20,290
+So whether you're taking this course
+
+11
+00:00:20,290 --> 00:00:22,110
+to learn about the ITIL 4 framework
+
+12
+00:00:22,110 --> 00:00:23,880
+or you're taking this
+course to prepare for
+
+13
+00:00:23,880 --> 00:00:26,250
+the certification exam
+so you can get a new job
+
+14
+00:00:26,250 --> 00:00:28,120
+or advance in your current organization.
+
+15
+00:00:28,120 --> 00:00:30,300
+This course has been designed specifically
+
+16
+00:00:30,300 --> 00:00:32,380
+to teach you everything
+covered in the official
+
+17
+00:00:32,380 --> 00:00:33,850
+ITIL Foundation textbook
+
+18
+00:00:33,850 --> 00:00:36,930
+and it's designed as a
+complete textbook replacement.
+
+19
+00:00:36,930 --> 00:00:39,160
+Now before we dive into
+the course materials
+
+20
+00:00:39,160 --> 00:00:41,590
+let me provide you with a
+quick introduction to ITIL.
+
+21
+00:00:41,590 --> 00:00:43,280
+If your boss enrolled you in this course
+
+22
+00:00:43,280 --> 00:00:45,400
+you may not even know
+what ITIL is all about
+
+23
+00:00:45,400 --> 00:00:46,950
+or what it's used for.
+
+24
+00:00:46,950 --> 00:00:49,530
+Well, ITIL is a framework
+for service management.
+
+25
+00:00:49,530 --> 00:00:50,967
+But I guess that begs the question,
+
+26
+00:00:50,967 --> 00:00:53,540
+"What exactly is service management?"
+
+27
+00:00:53,540 --> 00:00:56,050
+Well service management
+is a set of specialized
+
+28
+00:00:56,050 --> 00:00:58,760
+organizational capabilities
+for enabling value
+
+29
+00:00:58,760 --> 00:01:01,160
+to customers in the form of services.
+
+30
+00:01:01,160 --> 00:01:03,240
+We're going to talk a lot
+about service management
+
+31
+00:01:03,240 --> 00:01:04,730
+throughout this entire course.
+
+32
+00:01:04,730 --> 00:01:07,100
+In fact, the entirety of Section Two
+
+33
+00:01:07,100 --> 00:01:09,870
+is dedicated to the topic
+of Service Management.
+
+34
+00:01:09,870 --> 00:01:12,180
+Now ITIL was designed
+to provide organizations
+
+35
+00:01:12,180 --> 00:01:15,600
+with a comprehensive framework
+for IT service management.
+
+36
+00:01:15,600 --> 00:01:17,690
+In fact, ITIL is the most popular
+
+37
+00:01:17,690 --> 00:01:19,820
+and widely used information technology
+
+38
+00:01:19,820 --> 00:01:22,790
+service management framework
+in the entire world.
+
+39
+00:01:22,790 --> 00:01:24,750
+It's one of the reasons
+that ITIL Foundation
+
+40
+00:01:24,750 --> 00:01:27,610
+has such a high demand,
+because most large companies
+
+41
+00:01:27,610 --> 00:01:29,620
+have built their IT
+service management systems
+
+42
+00:01:29,620 --> 00:01:32,450
+and processes around the idea and concepts
+
+43
+00:01:32,450 --> 00:01:34,080
+of the ITIL framework.
+
+44
+00:01:34,080 --> 00:01:37,200
+Now I know I've gotten you
+excited about ITIL, hopefully
+
+45
+00:01:37,200 --> 00:01:39,580
+and I need to take just a
+small detour in the course
+
+46
+00:01:39,580 --> 00:01:42,710
+to introduce myself and share
+with you four important tips
+
+47
+00:01:42,710 --> 00:01:45,340
+to help you learn better
+during our time together.
+
+48
+00:01:45,340 --> 00:01:47,530
+Now first, my name is Jason Dion
+
+49
+00:01:47,530 --> 00:01:50,600
+and I'm the lead instructor
+here at Dion Training Solutions.
+
+50
+00:01:50,600 --> 00:01:53,140
+I've been working in the
+IT and cyber security field
+
+51
+00:01:53,140 --> 00:01:57,190
+for over two decades for
+organizations both large and small.
+
+52
+00:01:57,190 --> 00:01:58,930
+In all of these organizations though
+
+53
+00:01:58,930 --> 00:02:01,930
+there's been one common
+thread and that's ITIL.
+
+54
+00:02:01,930 --> 00:02:04,100
+Now when I'm talking
+about small organizations
+
+55
+00:02:04,100 --> 00:02:06,570
+I'm talking about companies
+with less than 20 people.
+
+56
+00:02:06,570 --> 00:02:08,360
+Small companies like my own.
+
+57
+00:02:08,360 --> 00:02:10,370
+When I talk about large organizations
+
+58
+00:02:10,370 --> 00:02:12,350
+I'm thinking about some
+of my previous positions.
+
+59
+00:02:12,350 --> 00:02:15,070
+My last one in particular
+I was with an organization
+
+60
+00:02:15,070 --> 00:02:17,870
+that spanned six continents,
+dozens of countries
+
+61
+00:02:17,870 --> 00:02:19,450
+and millions of end users.
+
+62
+00:02:19,450 --> 00:02:23,230
+And guess what, all of these
+organizations they ran on ITIL.
+
+63
+00:02:23,230 --> 00:02:24,940
+So I'm not just an instructor,
+
+64
+00:02:24,940 --> 00:02:26,590
+I'm also a practitioner of ITIL.
+
+65
+00:02:26,590 --> 00:02:28,540
+And I've been using it for decades.
+
+66
+00:02:28,540 --> 00:02:31,140
+Now rest assured you are
+in great hands with us.
+
+67
+00:02:31,140 --> 00:02:33,770
+In fact, I'm an authorized
+instructor for ITIL
+
+68
+00:02:33,770 --> 00:02:36,490
+and my company is an accredited
+training organization
+
+69
+00:02:36,490 --> 00:02:38,640
+for PeopleCert on behalf of AXELOS,
+
+70
+00:02:38,640 --> 00:02:40,330
+the creators of the ITIL framework
+
+71
+00:02:40,330 --> 00:02:42,010
+and the certification exams.
+
+72
+00:02:42,010 --> 00:02:43,760
+In fact because we're an ATO,
+
+73
+00:02:43,760 --> 00:02:46,000
+all of our courses are reviewed by AXELOS
+
+74
+00:02:46,000 --> 00:02:47,590
+prior to us releasing them to you.
+
+75
+00:02:47,590 --> 00:02:48,620
+And this ensures that you're getting
+
+76
+00:02:48,620 --> 00:02:51,530
+the quality training
+required to pass the exam.
+
+77
+00:02:51,530 --> 00:02:54,237
+And now for my four tips
+for success in this course.
+
+78
+00:02:54,237 --> 00:02:56,590
+First every video in this course
+
+79
+00:02:56,590 --> 00:02:59,400
+has the ability for you to
+turn on closed captioning.
+
+80
+00:02:59,400 --> 00:03:01,610
+Each video is captioned
+by a real live human
+
+81
+00:03:01,610 --> 00:03:03,090
+and checked for accuracy.
+
+82
+00:03:03,090 --> 00:03:04,920
+This allows you to read
+along with the course
+
+83
+00:03:04,920 --> 00:03:06,090
+if you need to.
+
+84
+00:03:06,090 --> 00:03:07,690
+Many of my students who speak English
+
+85
+00:03:07,690 --> 00:03:10,270
+as their second language, really
+love having those captions
+
+86
+00:03:10,270 --> 00:03:12,640
+playing along with the videos
+and this helps them aid
+
+87
+00:03:12,640 --> 00:03:14,650
+in their learning and understanding.
+
+88
+00:03:14,650 --> 00:03:16,540
+Now if you want to enable closed captions
+
+89
+00:03:16,540 --> 00:03:18,050
+simply click on the CC button
+
+90
+00:03:18,050 --> 00:03:19,687
+in the bottom of the video player.
+
+91
+00:03:19,687 --> 00:03:22,430
+My second tip is about playback speed.
+
+92
+00:03:22,430 --> 00:03:24,700
+I've gotten some students
+who say I talk too fast.
+
+93
+00:03:24,700 --> 00:03:26,900
+I have others who say I talk too slow.
+
+94
+00:03:26,900 --> 00:03:29,710
+Either way, you get to control
+the speed of the instruction
+
+95
+00:03:29,710 --> 00:03:31,100
+by clicking on the 1x button
+
+96
+00:03:31,100 --> 00:03:32,760
+in the bottom of the video player.
+
+97
+00:03:32,760 --> 00:03:34,190
+If you want me to teach faster,
+
+98
+00:03:34,190 --> 00:03:37,510
+simply select 1.25x or 1.5x.
+
+99
+00:03:37,510 --> 00:03:38,770
+If you want me to teach slower
+
+100
+00:03:38,770 --> 00:03:41,740
+simply click .75 or .5x.
+
+101
+00:03:41,740 --> 00:03:45,070
+Either way, faster or
+slower, the choice is yours.
+
+102
+00:03:45,070 --> 00:03:47,370
+The third and probably one
+of the most important tips
+
+103
+00:03:47,370 --> 00:03:49,350
+is about our student support group.
+
+104
+00:03:49,350 --> 00:03:50,620
+We have a student support group
+
+105
+00:03:50,620 --> 00:03:52,250
+with several thousand other students
+
+106
+00:03:52,250 --> 00:03:54,160
+who are learning ITIL and other IT
+
+107
+00:03:54,160 --> 00:03:55,760
+and project management certifications
+
+108
+00:03:55,760 --> 00:03:57,100
+through all of our courses.
+
+109
+00:03:57,100 --> 00:03:58,510
+If you want to join the fun there
+
+110
+00:03:58,510 --> 00:04:02,850
+you can find us at
+facebook.com/groups/diontraining
+
+111
+00:04:02,850 --> 00:04:05,080
+and you can request to
+join our private group.
+
+112
+00:04:05,080 --> 00:04:07,070
+There's not extra cost to
+you by joining this group
+
+113
+00:04:07,070 --> 00:04:08,650
+and it's there to help you.
+
+114
+00:04:08,650 --> 00:04:10,480
+In this group, we answer questions,
+
+115
+00:04:10,480 --> 00:04:11,910
+put out additional free content
+
+116
+00:04:11,910 --> 00:04:14,650
+and help support each other
+through our IT careers.
+
+117
+00:04:14,650 --> 00:04:16,560
+So if you want to ask a question there
+
+118
+00:04:16,560 --> 00:04:18,040
+all you have to do is post it
+
+119
+00:04:18,040 --> 00:04:20,500
+and you'll likely get an answer
+within just a few minutes
+
+120
+00:04:20,500 --> 00:04:22,480
+because most of the time,
+there are thousands of
+
+121
+00:04:22,480 --> 00:04:24,510
+other students, both past and present
+
+122
+00:04:24,510 --> 00:04:26,440
+who join the conversations there.
+
+123
+00:04:26,440 --> 00:04:27,850
+So if you're on Facebook,
+
+124
+00:04:27,850 --> 00:04:30,310
+I highly recommend
+joining the group today.
+
+125
+00:04:30,310 --> 00:04:31,800
+Now if you aren't on Facebook,
+
+126
+00:04:31,800 --> 00:04:33,450
+you can still ask your questions
+
+127
+00:04:33,450 --> 00:04:35,250
+if you get stuck during this course.
+
+128
+00:04:35,250 --> 00:04:37,860
+Simply click on the Q and A tab
+of your course learning page
+
+129
+00:04:37,860 --> 00:04:39,410
+and enter your question there.
+
+130
+00:04:39,410 --> 00:04:41,080
+Either myself or one of my team members
+
+131
+00:04:41,080 --> 00:04:42,390
+will answer your question there
+
+132
+00:04:42,390 --> 00:04:44,700
+within one to two days in most cases.
+
+133
+00:04:44,700 --> 00:04:46,210
+Like I said, the Facebook group,
+
+134
+00:04:46,210 --> 00:04:48,020
+you're going to get something
+answered much quicker
+
+135
+00:04:48,020 --> 00:04:50,350
+because we have thousands of
+people there to support you.
+
+136
+00:04:50,350 --> 00:04:51,810
+If you do it here in the Q and A
+
+137
+00:04:51,810 --> 00:04:54,150
+you'll get an answer once we
+get back to work the next day
+
+138
+00:04:54,150 --> 00:04:55,700
+and we can help you out.
+
+139
+00:04:55,700 --> 00:04:57,110
+Now the fourth and final tip
+
+140
+00:04:57,110 --> 00:04:59,810
+is that this course comes with
+a downloadable study guide
+
+141
+00:04:59,810 --> 00:05:01,640
+as a complete resource for you.
+
+142
+00:05:01,640 --> 00:05:04,640
+You can download this PDF and
+it's attached to this lesson.
+
+143
+00:05:04,640 --> 00:05:07,210
+To access it, simply download
+it from the resources
+
+144
+00:05:07,210 --> 00:05:09,300
+in this lesson and then
+you can print it out
+
+145
+00:05:09,300 --> 00:05:11,300
+and refer to it during
+your offline studies
+
+146
+00:05:11,300 --> 00:05:13,453
+and as you go through
+the rest of this course.
+

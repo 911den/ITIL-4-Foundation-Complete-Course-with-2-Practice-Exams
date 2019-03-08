@@ -1,0 +1,76 @@
+﻿1
+00:00:00,600 --> 00:00:02,650
+- Technical management practices.
+
+2
+00:00:02,650 --> 00:00:04,850
+This is our third and final category
+
+3
+00:00:04,850 --> 00:00:07,190
+of practices under ITIL 4.
+
+4
+00:00:07,190 --> 00:00:09,420
+Technical management
+practices have been adapted
+
+5
+00:00:09,420 --> 00:00:11,180
+from technology management domains
+
+6
+00:00:11,180 --> 00:00:14,260
+for service management purposes
+by expanding or shifting
+
+7
+00:00:14,260 --> 00:00:18,160
+their focus from a technology
+solution to an IT service.
+
+8
+00:00:18,160 --> 00:00:19,770
+Under ITIL 4, there are only
+
+9
+00:00:19,770 --> 00:00:22,500
+three technical management
+practices covered.
+
+10
+00:00:22,500 --> 00:00:24,400
+These are the deployment management,
+
+11
+00:00:24,400 --> 00:00:26,260
+infrastructure and platform management,
+
+12
+00:00:26,260 --> 00:00:29,050
+and software development
+and management practices.
+
+13
+00:00:29,050 --> 00:00:31,890
+For the exam, only the
+deployment management practice,
+
+14
+00:00:31,890 --> 00:00:34,670
+though, is testable,
+and it's only examinable
+
+15
+00:00:34,670 --> 00:00:36,230
+at the recall level.
+
+16
+00:00:36,230 --> 00:00:37,990
+For that reason, this is going to be
+
+17
+00:00:37,990 --> 00:00:40,623
+a very short and quick
+section of the course.
+

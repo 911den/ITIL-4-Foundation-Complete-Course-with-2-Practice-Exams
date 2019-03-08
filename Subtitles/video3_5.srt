@@ -1,0 +1,604 @@
+﻿1
+00:00:00,580 --> 00:00:02,260
+- Our fourth and final dimension
+
+2
+00:00:02,260 --> 00:00:04,790
+is Value Streams and Processes.
+
+3
+00:00:04,790 --> 00:00:07,080
+Value streams and processes
+are going to define
+
+4
+00:00:07,080 --> 00:00:09,650
+the activities, the
+workflows, the controls
+
+5
+00:00:09,650 --> 00:00:11,800
+and the procedures that
+are needed to achieve
+
+6
+00:00:11,800 --> 00:00:13,690
+the agreed-upon objectives.
+
+7
+00:00:13,690 --> 00:00:15,190
+These are things like the activities
+
+8
+00:00:15,190 --> 00:00:17,140
+that the organization
+is going to undertake,
+
+9
+00:00:17,140 --> 00:00:18,950
+how those activities are organized
+
+10
+00:00:18,950 --> 00:00:20,710
+and how value creation is ensured
+
+11
+00:00:20,710 --> 00:00:24,520
+for all of your stakeholders
+efficiently and effectively.
+
+12
+00:00:24,520 --> 00:00:27,540
+Now when we talk about this,
+let's start with Value Stream.
+
+13
+00:00:27,540 --> 00:00:29,650
+A value stream is a series of steps
+
+14
+00:00:29,650 --> 00:00:31,470
+that an organization undertakes
+
+15
+00:00:31,470 --> 00:00:33,780
+to create and deliver
+products and services
+
+16
+00:00:33,780 --> 00:00:35,590
+to its service consumers.
+
+17
+00:00:35,590 --> 00:00:37,730
+This is going to combine
+all of the organization's
+
+18
+00:00:37,730 --> 00:00:39,480
+value chain activities.
+
+19
+00:00:39,480 --> 00:00:41,000
+And we're going to spend
+a lot of time talking
+
+20
+00:00:41,000 --> 00:00:42,370
+about value chain activities.
+
+21
+00:00:42,370 --> 00:00:45,320
+In fact, we have an entire section on it.
+
+22
+00:00:45,320 --> 00:00:47,820
+So let me give you an
+example of a value stream.
+
+23
+00:00:47,820 --> 00:00:50,120
+A value stream is going to
+have a series of steps, right?
+
+24
+00:00:50,120 --> 00:00:51,870
+So let me give you three steps.
+
+25
+00:00:51,870 --> 00:00:53,270
+I want to go and have lunch today.
+
+26
+00:00:53,270 --> 00:00:55,870
+So I'm going to go drive
+to a fast-food restaurant.
+
+27
+00:00:55,870 --> 00:00:58,390
+I'm going to go walk inside and
+I'm going to go up to the front
+
+28
+00:00:58,390 --> 00:01:00,520
+and I'm going to order
+a hamburger and fries.
+
+29
+00:01:00,520 --> 00:01:03,110
+That's step one, the order process.
+
+30
+00:01:03,110 --> 00:01:05,470
+Then I get to step two
+which is I'm going to wait
+
+31
+00:01:05,470 --> 00:01:06,730
+while they cook my food.
+
+32
+00:01:06,730 --> 00:01:09,160
+And then step three they're
+going to deliver that food to me
+
+33
+00:01:09,160 --> 00:01:10,380
+and I can eat it.
+
+34
+00:01:10,380 --> 00:01:12,890
+That is a value where we're
+going to have a transformation
+
+35
+00:01:12,890 --> 00:01:15,430
+from the raw materials,
+we're going to get the order,
+
+36
+00:01:15,430 --> 00:01:17,660
+take the raw materials, make this burger
+
+37
+00:01:17,660 --> 00:01:19,290
+and then deliver it back to Jason
+
+38
+00:01:19,290 --> 00:01:20,850
+so Jason can have his lunch.
+
+39
+00:01:20,850 --> 00:01:22,640
+That's a value stream of three steps.
+
+40
+00:01:22,640 --> 00:01:24,530
+There's activities in
+there that are going to add
+
+41
+00:01:24,530 --> 00:01:27,150
+to the value of this such as
+when they cook the hamburger
+
+42
+00:01:27,150 --> 00:01:29,050
+and they put on the
+ketchup and the mustard
+
+43
+00:01:29,050 --> 00:01:31,070
+and then they deliver
+it to me at my table,
+
+44
+00:01:31,070 --> 00:01:32,250
+that's all value added.
+
+45
+00:01:32,250 --> 00:01:34,510
+It gives me value and that's
+why I'm paying for it.
+
+46
+00:01:34,510 --> 00:01:36,700
+But there are some things
+that are not value added.
+
+47
+00:01:36,700 --> 00:01:38,920
+For example, when
+they're cooking the fries
+
+48
+00:01:38,920 --> 00:01:40,720
+there is waste oil that happens.
+
+49
+00:01:40,720 --> 00:01:41,940
+That's actually considered waste,
+
+50
+00:01:41,940 --> 00:01:44,080
+they have to throw that away
+and pay to get rid of that.
+
+51
+00:01:44,080 --> 00:01:46,490
+That is a non value-adding activity.
+
+52
+00:01:46,490 --> 00:01:49,320
+There's also things like
+when they get the packaging
+
+53
+00:01:49,320 --> 00:01:51,240
+with all the hamburgers
+and they have to throw away
+
+54
+00:01:51,240 --> 00:01:53,290
+that package, that's waste as well.
+
+55
+00:01:53,290 --> 00:01:55,670
+When I leave the table and
+I leave my burger and fries
+
+56
+00:01:55,670 --> 00:01:58,240
+and make a mess, that's a
+non value-adding activity
+
+57
+00:01:58,240 --> 00:02:00,360
+for the organization 'cause
+they have to spend time
+
+58
+00:02:00,360 --> 00:02:02,490
+and money to go clean up that mess, right?
+
+59
+00:02:02,490 --> 00:02:04,110
+In everything we do, there's things
+
+60
+00:02:04,110 --> 00:02:06,230
+that add value and there's waste.
+
+61
+00:02:06,230 --> 00:02:08,950
+And in business, we always
+try to minimize the waste
+
+62
+00:02:08,950 --> 00:02:10,870
+and increase the value.
+
+63
+00:02:10,870 --> 00:02:12,230
+So that's a basic example
+
+64
+00:02:12,230 --> 00:02:14,050
+of some value stream activity, right.
+
+65
+00:02:14,050 --> 00:02:16,030
+We have these three steps,
+we're going to order it,
+
+66
+00:02:16,030 --> 00:02:18,030
+we're going to manufacture
+it, we're going to deliver it
+
+67
+00:02:18,030 --> 00:02:19,930
+and those are value-adding activities.
+
+68
+00:02:19,930 --> 00:02:21,720
+But there's also those waste activities,
+
+69
+00:02:21,720 --> 00:02:23,700
+those non-value adds as well.
+
+70
+00:02:23,700 --> 00:02:26,520
+What we want to do is we want
+to optimize the value stream
+
+71
+00:02:26,520 --> 00:02:29,810
+so we can minimize the amount
+of non value-adding activities
+
+72
+00:02:29,810 --> 00:02:32,870
+while increasing the amount
+of value-adding activities.
+
+73
+00:02:32,870 --> 00:02:34,600
+Once we do that and we get it right,
+
+74
+00:02:34,600 --> 00:02:37,340
+we then want to automate that
+process as much as possible.
+
+75
+00:02:37,340 --> 00:02:39,400
+So I was talking about
+ordering hamburgers for lunch.
+
+76
+00:02:39,400 --> 00:02:41,220
+Well, if you've gone into
+a McDonald's recently,
+
+77
+00:02:41,220 --> 00:02:43,370
+a lot of them are moving to automation.
+
+78
+00:02:43,370 --> 00:02:45,750
+They're eliminating the
+order-taking process
+
+79
+00:02:45,750 --> 00:02:47,310
+and getting rid of the cashiers.
+
+80
+00:02:47,310 --> 00:02:49,560
+And instead they have these giant tablets
+
+81
+00:02:49,560 --> 00:02:51,680
+that look like giant
+iPads and you go in there
+
+82
+00:02:51,680 --> 00:02:52,890
+and you order your food there
+
+83
+00:02:52,890 --> 00:02:54,370
+and you pay with your credit card.
+
+84
+00:02:54,370 --> 00:02:56,700
+It completely eliminated
+what they consider
+
+85
+00:02:56,700 --> 00:02:58,710
+to be non value-adding activity,
+
+86
+00:02:58,710 --> 00:03:00,590
+having a cashier take your order.
+
+87
+00:03:00,590 --> 00:03:02,950
+Now they're passing that
+work on to you as a consumer
+
+88
+00:03:02,950 --> 00:03:04,730
+and they're focusing on cooking the food
+
+89
+00:03:04,730 --> 00:03:06,200
+and handing it to you.
+
+90
+00:03:06,200 --> 00:03:09,270
+That's the idea here with
+optimization and automation.
+
+91
+00:03:09,270 --> 00:03:10,990
+Now we look at these processes,
+
+92
+00:03:10,990 --> 00:03:12,630
+what exactly is a process?
+
+93
+00:03:12,630 --> 00:03:14,700
+Well, it's simply a set of interrelated
+
+94
+00:03:14,700 --> 00:03:17,260
+or interacting activities that transforms
+
+95
+00:03:17,260 --> 00:03:19,500
+some input into an output.
+
+96
+00:03:19,500 --> 00:03:23,070
+Processes are designed to
+achieve a specific objective.
+
+97
+00:03:23,070 --> 00:03:25,190
+In my example, we had a value stream
+
+98
+00:03:25,190 --> 00:03:27,240
+that was made up of one process
+
+99
+00:03:27,240 --> 00:03:29,010
+with three different activities;
+
+100
+00:03:29,010 --> 00:03:31,950
+the ordering, the
+manufacturer and the delivery.
+
+101
+00:03:31,950 --> 00:03:34,120
+And they achieved a specific objective.
+
+102
+00:03:34,120 --> 00:03:37,030
+That objective, getting
+Jason his lunch, right?
+
+103
+00:03:37,030 --> 00:03:38,750
+And that's the idea of the process,
+
+104
+00:03:38,750 --> 00:03:41,900
+input some amount of
+activities and then an output.
+
+105
+00:03:41,900 --> 00:03:43,940
+And by well defining your processes,
+
+106
+00:03:43,940 --> 00:03:45,640
+you can improve your productivity
+
+107
+00:03:45,640 --> 00:03:47,520
+and then you can also get it optimized
+
+108
+00:03:47,520 --> 00:03:49,990
+so you can automate it
+as much as possible.
+
+109
+00:03:49,990 --> 00:03:51,930
+And this is why we have our value streams
+
+110
+00:03:51,930 --> 00:03:54,340
+and processes together in this dimension
+
+111
+00:03:54,340 --> 00:03:56,550
+because as we're looking at
+our products and services,
+
+112
+00:03:56,550 --> 00:03:58,370
+we're going to ask
+ourselves some questions.
+
+113
+00:03:58,370 --> 00:04:00,540
+we're going to say, what is
+the generic delivery model
+
+114
+00:04:00,540 --> 00:04:01,500
+for the service?
+
+115
+00:04:01,500 --> 00:04:03,070
+What are the steps that we need to do
+
+116
+00:04:03,070 --> 00:04:04,810
+to make this service work?
+
+117
+00:04:04,810 --> 00:04:08,300
+Basically, what's the processes
+and which set of processes,
+
+118
+00:04:08,300 --> 00:04:11,040
+when we put them together gives
+us the right value stream?
+
+119
+00:04:11,040 --> 00:04:12,930
+What are the value streams
+that are going to be involved
+
+120
+00:04:12,930 --> 00:04:15,580
+in delivering the agreed-upon
+outputs of the service?
+
+121
+00:04:15,580 --> 00:04:17,400
+So if I think about
+giving you video delivery
+
+122
+00:04:17,400 --> 00:04:19,390
+of this course, there's
+a lot of different things
+
+123
+00:04:19,390 --> 00:04:20,330
+that have to occur.
+
+124
+00:04:20,330 --> 00:04:22,920
+And we break those down into
+what the value stream is
+
+125
+00:04:22,920 --> 00:04:24,240
+and then each of those pieces,
+
+126
+00:04:24,240 --> 00:04:26,920
+those steps are the
+processes inside of it.
+
+127
+00:04:26,920 --> 00:04:29,620
+We have to think about who
+and what is going to perform
+
+128
+00:04:29,620 --> 00:04:31,620
+each of those required service actions?
+
+129
+00:04:31,620 --> 00:04:34,610
+Again, breaking it down into
+the individual processes
+
+130
+00:04:34,610 --> 00:04:35,960
+so we can figure that out.
+
+131
+00:04:35,960 --> 00:04:38,530
+And that's why this is
+considered our fourth dimension
+
+132
+00:04:38,530 --> 00:04:40,300
+as we're looking at this and figuring out
+
+133
+00:04:40,300 --> 00:04:42,210
+how are we going to give you that product
+
+134
+00:04:42,210 --> 00:04:45,080
+or that service by doing some processes
+
+135
+00:04:45,080 --> 00:04:46,723
+as part of a value stream.
+

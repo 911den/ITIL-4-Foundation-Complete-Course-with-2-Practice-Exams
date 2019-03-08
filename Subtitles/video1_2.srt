@@ -1,0 +1,801 @@
+﻿1
+00:00:00,750 --> 00:00:02,460
+- Let's discuss a few details
+
+2
+00:00:02,460 --> 00:00:04,670
+about the ITIL 4 Foundation exam.
+
+3
+00:00:04,670 --> 00:00:06,110
+If you're like most of my students,
+
+4
+00:00:06,110 --> 00:00:07,400
+you're probably taking this course
+
+5
+00:00:07,400 --> 00:00:10,380
+because you want to become
+ITIL 4 Foundation certified.
+
+6
+00:00:10,380 --> 00:00:12,240
+Maybe you're working
+towards a certification
+
+7
+00:00:12,240 --> 00:00:13,810
+to advancing your current career
+
+8
+00:00:13,810 --> 00:00:15,850
+or maybe it's because you're
+trying to get your first job
+
+9
+00:00:15,850 --> 00:00:17,900
+in the information technology field.
+
+10
+00:00:17,900 --> 00:00:20,330
+Either way, this course
+is designed to help teach
+
+11
+00:00:20,330 --> 00:00:23,520
+you everything you need to know
+in order to pass that exam.
+
+12
+00:00:23,520 --> 00:00:25,850
+To help you focus your studies
+throughout the course though
+
+13
+00:00:25,850 --> 00:00:27,190
+it's important for you to understand
+
+14
+00:00:27,190 --> 00:00:29,070
+how the exam is designed.
+
+15
+00:00:29,070 --> 00:00:31,370
+The questions on the
+ITIL 4 exam are focused
+
+16
+00:00:31,370 --> 00:00:33,960
+on you having the ability
+to recall or understand
+
+17
+00:00:33,960 --> 00:00:35,820
+the concepts from this course.
+
+18
+00:00:35,820 --> 00:00:38,560
+Now, the word recall and
+understand are the keywords here.
+
+19
+00:00:38,560 --> 00:00:40,320
+If a question is focused on your ability
+
+20
+00:00:40,320 --> 00:00:41,510
+to recall something,
+
+21
+00:00:41,510 --> 00:00:43,850
+this means you have to be
+able to identify a definition
+
+22
+00:00:43,850 --> 00:00:46,620
+or a term from the
+answer choices provided.
+
+23
+00:00:46,620 --> 00:00:49,450
+For example, if the exam
+provide you with a definition
+
+24
+00:00:49,450 --> 00:00:51,630
+for a particular term
+that we use in the course,
+
+25
+00:00:51,630 --> 00:00:54,400
+it's going to provide it to
+you word for word the same way
+
+26
+00:00:54,400 --> 00:00:56,350
+we presented it inside the course
+
+27
+00:00:56,350 --> 00:00:57,440
+and then you're going to be provided
+
+28
+00:00:57,440 --> 00:00:59,440
+with four different terms
+and you have to select
+
+29
+00:00:59,440 --> 00:01:02,610
+the appropriate term that
+matches the definition given.
+
+30
+00:01:02,610 --> 00:01:04,840
+Now, this is a great
+example of a question using
+
+31
+00:01:04,840 --> 00:01:06,850
+the recall level of difficulty.
+
+32
+00:01:06,850 --> 00:01:09,450
+On the exam, you're going
+to get nine questions
+
+33
+00:01:09,450 --> 00:01:11,640
+that are considered recall questions.
+
+34
+00:01:11,640 --> 00:01:14,220
+For that reason, it's really
+important to be familiar
+
+35
+00:01:14,220 --> 00:01:16,570
+with the definitions that
+we present in this course.
+
+36
+00:01:16,570 --> 00:01:18,580
+All of these definitions
+are provided to you
+
+37
+00:01:18,580 --> 00:01:20,390
+in the downloadable study guide
+
+38
+00:01:20,390 --> 00:01:22,240
+and they're going to be
+displayed on the screen
+
+39
+00:01:22,240 --> 00:01:24,230
+whenever I'm teaching them to you.
+
+40
+00:01:24,230 --> 00:01:26,190
+Now, if a question is
+focused on your ability
+
+41
+00:01:26,190 --> 00:01:28,780
+to understand something, this
+means you have to be able
+
+42
+00:01:28,780 --> 00:01:31,710
+to describe or explain
+the definition of term
+
+43
+00:01:31,710 --> 00:01:34,470
+or a concept based on
+the answers provided.
+
+44
+00:01:34,470 --> 00:01:35,520
+For these questions,
+
+45
+00:01:35,520 --> 00:01:38,220
+the exam isn't looking
+for an exact word match.
+
+46
+00:01:38,220 --> 00:01:40,500
+Instead, you might get
+an example of something
+
+47
+00:01:40,500 --> 00:01:42,790
+and you have to determine
+the correct ITIL practice
+
+48
+00:01:42,790 --> 00:01:44,720
+or term that relates to it.
+
+49
+00:01:44,720 --> 00:01:46,620
+If you pay close attention to this course,
+
+50
+00:01:46,620 --> 00:01:48,620
+you're going to learn
+the concepts of ITIL 4
+
+51
+00:01:48,620 --> 00:01:50,550
+and be able to answer
+those questions on the exam
+
+52
+00:01:50,550 --> 00:01:52,300
+without too much difficulty.
+
+53
+00:01:52,300 --> 00:01:54,710
+Now, how do you take the
+official certification exam
+
+54
+00:01:54,710 --> 00:01:57,380
+and become ITIL 4 Foundation certified?
+
+55
+00:01:57,380 --> 00:02:00,100
+Well, Acellus and PeopleCert
+make it quite easy
+
+56
+00:02:00,100 --> 00:02:02,240
+because you don't even have
+to get in your car and drive
+
+57
+00:02:02,240 --> 00:02:05,420
+to a testing center like many
+other certification exams.
+
+58
+00:02:05,420 --> 00:02:08,070
+Instead, you're able
+to take the exam online
+
+59
+00:02:08,070 --> 00:02:10,170
+from the comfort of
+your own home or office
+
+60
+00:02:10,170 --> 00:02:12,900
+using the PeopleCert
+web proctoring service.
+
+61
+00:02:12,900 --> 00:02:15,900
+To schedule your exam, you do
+need an exam voucher though
+
+62
+00:02:15,900 --> 00:02:17,220
+because this covers the cost
+
+63
+00:02:17,220 --> 00:02:19,390
+of the certification exam itself.
+
+64
+00:02:19,390 --> 00:02:21,760
+You can buy the exam voucher
+directly from PeopleCert
+
+65
+00:02:21,760 --> 00:02:25,700
+on their website at a
+cost of $349 or you can go
+
+66
+00:02:25,700 --> 00:02:28,270
+to diontraining.com and
+purchase your exam voucher
+
+67
+00:02:28,270 --> 00:02:32,190
+at a special discount rate
+of $299 that's available
+
+68
+00:02:32,190 --> 00:02:33,480
+just for my students.
+
+69
+00:02:33,480 --> 00:02:35,350
+Because we're an authorized
+training organization
+
+70
+00:02:35,350 --> 00:02:36,990
+for ITIL 4 Foundations,
+
+71
+00:02:36,990 --> 00:02:39,190
+we're able to buy these vouchers in bulk
+
+72
+00:02:39,190 --> 00:02:41,380
+and we pass the savings
+on to our students.
+
+73
+00:02:41,380 --> 00:02:43,890
+Now, once you order your vouchers
+is delivered to your email
+
+74
+00:02:43,890 --> 00:02:46,130
+within about 10 minutes
+and you can then schedule
+
+75
+00:02:46,130 --> 00:02:48,470
+your certification exam
+for the day and time
+
+76
+00:02:48,470 --> 00:02:49,970
+that's most convenient for you.
+
+77
+00:02:49,970 --> 00:02:52,410
+So, now that you know what
+to study in terms of recall
+
+78
+00:02:52,410 --> 00:02:54,810
+and understanding and you
+know where to buy your voucher
+
+79
+00:02:54,810 --> 00:02:57,200
+and how to schedule
+your exam, what's next?
+
+80
+00:02:57,200 --> 00:02:59,360
+Well, let's talk about the exam itself.
+
+81
+00:02:59,360 --> 00:03:02,080
+There's some key facts and
+figures that you need to know.
+
+82
+00:03:02,080 --> 00:03:03,860
+First, the exam is timed.
+
+83
+00:03:03,860 --> 00:03:06,490
+You're going to get 60
+minutes to take the exam.
+
+84
+00:03:06,490 --> 00:03:08,530
+Now, if you're not a
+native English speaker
+
+85
+00:03:08,530 --> 00:03:10,670
+but you're taking the exam in English,
+
+86
+00:03:10,670 --> 00:03:13,380
+you can go ahead and get
+an extra 15 minutes of time
+
+87
+00:03:13,380 --> 00:03:16,350
+on the exam if you request
+it during your scheduling.
+
+88
+00:03:16,350 --> 00:03:18,610
+This will bring your time up to 75 minutes
+
+89
+00:03:18,610 --> 00:03:21,230
+if you request a time
+extension from PeopleCert.
+
+90
+00:03:21,230 --> 00:03:23,310
+Now, for all of us
+English speakers though,
+
+91
+00:03:23,310 --> 00:03:25,200
+we only get 60 minutes.
+
+92
+00:03:25,200 --> 00:03:27,660
+Don't worry though, 60
+minutes is plenty of time
+
+93
+00:03:27,660 --> 00:03:28,850
+for this exam.
+
+94
+00:03:28,850 --> 00:03:31,920
+Most of my students finish
+in about 30 minutes.
+
+95
+00:03:31,920 --> 00:03:35,660
+Now, as for the questions,
+the exam only has 40 questions
+
+96
+00:03:35,660 --> 00:03:38,060
+and the exam contains only
+multiple choice questions
+
+97
+00:03:38,060 --> 00:03:39,270
+on the exam.
+
+98
+00:03:39,270 --> 00:03:42,610
+So, again, this exam is about
+recalling an understanding
+
+99
+00:03:42,610 --> 00:03:45,730
+not memorization and not
+comprehension in depth.
+
+100
+00:03:45,730 --> 00:03:48,400
+So, you won't have to write
+out a definition word for word
+
+101
+00:03:48,400 --> 00:03:50,330
+or pull up an answer out of thin air.
+
+102
+00:03:50,330 --> 00:03:54,390
+Instead, it's always an
+a, b, c, or d choice.
+
+103
+00:03:54,390 --> 00:03:55,770
+To pass the certification,
+
+104
+00:03:55,770 --> 00:03:57,880
+you have to answer at least 26 questions
+
+105
+00:03:57,880 --> 00:03:59,450
+out of 40 correctly.
+
+106
+00:03:59,450 --> 00:04:02,720
+This equates to a 65% or
+higher on the exam for you
+
+107
+00:04:02,720 --> 00:04:05,720
+to pass it and earn your
+ITIL 4 certification.
+
+108
+00:04:05,720 --> 00:04:07,310
+To best prepare for the exam,
+
+109
+00:04:07,310 --> 00:04:10,080
+I recommend you take a
+lot of practice exams.
+
+110
+00:04:10,080 --> 00:04:11,500
+We've included quiz questions
+
+111
+00:04:11,500 --> 00:04:14,560
+and two full length practice
+exams with this course.
+
+112
+00:04:14,560 --> 00:04:16,210
+When you're taking a practice exam,
+
+113
+00:04:16,210 --> 00:04:19,060
+I recommend aiming for 75%
+or higher to consider it
+
+114
+00:04:19,060 --> 00:04:22,290
+a pass because this will give
+you at least a 10% buffer
+
+115
+00:04:22,290 --> 00:04:24,280
+in case you ended up having a bad test day
+
+116
+00:04:24,280 --> 00:04:26,230
+or you get nervous when
+taking a timed test
+
+117
+00:04:26,230 --> 00:04:28,150
+or certification exam.
+
+118
+00:04:28,150 --> 00:04:30,600
+Now, this is because every
+time you take the exam
+
+119
+00:04:30,600 --> 00:04:31,990
+you have to buy a new voucher
+
+120
+00:04:31,990 --> 00:04:34,210
+and you only want to have to take it once.
+
+121
+00:04:34,210 --> 00:04:36,850
+Now, I've said you're going to
+get 40 questions on exam day
+
+122
+00:04:36,850 --> 00:04:38,520
+and they're all multiple choice,
+
+123
+00:04:38,520 --> 00:04:40,420
+but they are made up of
+three different types
+
+124
+00:04:40,420 --> 00:04:42,050
+of multiple choice questions.
+
+125
+00:04:42,050 --> 00:04:45,420
+We call these classic
+missing word and list.
+
+126
+00:04:45,420 --> 00:04:47,110
+Let's take a look at each of these.
+
+127
+00:04:47,110 --> 00:04:49,060
+First, we have a classic question.
+
+128
+00:04:49,060 --> 00:04:52,120
+For example, which character
+was created by Walt Disney?
+
+129
+00:04:52,120 --> 00:04:54,790
+A, Bart Simpson, b, Mickey Mouse,
+
+130
+00:04:54,790 --> 00:04:57,520
+c, Fred Flintstone or d, Garfield?
+
+131
+00:04:57,520 --> 00:04:58,810
+Well, if you know cartoons,
+
+132
+00:04:58,810 --> 00:05:01,530
+you probably know the
+answer is b, Mickey Mouse.
+
+133
+00:05:01,530 --> 00:05:04,050
+Now, you may see a few
+classic questions on the exam
+
+134
+00:05:04,050 --> 00:05:06,800
+that are shown is what we call
+a negative classic question.
+
+135
+00:05:06,800 --> 00:05:09,570
+This is symbolized by the
+word not in the question.
+
+136
+00:05:09,570 --> 00:05:11,470
+So, if you're asked
+something like which of these
+
+137
+00:05:11,470 --> 00:05:13,030
+is not a car brand?
+
+138
+00:05:13,030 --> 00:05:17,060
+A, Ford, b, Saturn, c, Cisco or d, Toyota.
+
+139
+00:05:17,060 --> 00:05:19,820
+You hopefully realize that
+Cisco is not a car brand
+
+140
+00:05:19,820 --> 00:05:21,650
+but instead is networking gear.
+
+141
+00:05:21,650 --> 00:05:23,740
+In fact, Cisco is a very popular brand
+
+142
+00:05:23,740 --> 00:05:27,030
+of networking equipment but
+the other three are car brands.
+
+143
+00:05:27,030 --> 00:05:30,520
+So, we would say Cisco is the
+right answer in this case.
+
+144
+00:05:30,520 --> 00:05:32,170
+The next type of question is what we call
+
+145
+00:05:32,170 --> 00:05:33,860
+a missing word question.
+
+146
+00:05:33,860 --> 00:05:36,350
+On the exam, this is
+shown by a question mark
+
+147
+00:05:36,350 --> 00:05:39,280
+that would represent a
+single word or a short phrase
+
+148
+00:05:39,280 --> 00:05:41,630
+of two, three or four words.
+
+149
+00:05:41,630 --> 00:05:45,200
+For example, a or and
+blank is a type of fruit.
+
+150
+00:05:45,200 --> 00:05:49,800
+Is it a, apple b, carrot,
+c, onion or d, celery?
+
+151
+00:05:49,800 --> 00:05:52,960
+Well, the answer is a,
+apple because b, c and d
+
+152
+00:05:52,960 --> 00:05:54,730
+are all types of vegetables.
+
+153
+00:05:54,730 --> 00:05:58,480
+This makes the sentence read
+as an apple is a type of fruit.
+
+154
+00:05:58,480 --> 00:06:00,450
+Our final type of question is what's known
+
+155
+00:06:00,450 --> 00:06:01,860
+as a list question.
+
+156
+00:06:01,860 --> 00:06:03,710
+You're probably going to
+only see one or two of these
+
+157
+00:06:03,710 --> 00:06:06,000
+on your ITIL 4 Foundation exam though.
+
+158
+00:06:06,000 --> 00:06:09,040
+These questions ask it so that
+more than one correct answer
+
+159
+00:06:09,040 --> 00:06:10,300
+can be provided.
+
+160
+00:06:10,300 --> 00:06:11,540
+So, you're going to get a numbered list
+
+161
+00:06:11,540 --> 00:06:12,880
+and you'll have to choose the right answer
+
+162
+00:06:12,880 --> 00:06:15,320
+that represents two of
+the correct list items.
+
+163
+00:06:15,320 --> 00:06:18,930
+For example, which ingredients
+are in a PB&J sandwich?
+
+164
+00:06:18,930 --> 00:06:22,230
+One, peanut butter, two,
+apples, three, bacon
+
+165
+00:06:22,230 --> 00:06:23,810
+or four, grape jelly.
+
+166
+00:06:23,810 --> 00:06:26,640
+Well, as a parent who made
+a lot of PB&J sandwiches
+
+167
+00:06:26,640 --> 00:06:27,473
+in my life,
+
+168
+00:06:27,473 --> 00:06:29,620
+I can tell you that the answer is one,
+
+169
+00:06:29,620 --> 00:06:31,560
+peanut butter and four, Jelly.
+
+170
+00:06:31,560 --> 00:06:33,810
+So we have to find the
+letter that corresponds
+
+171
+00:06:33,810 --> 00:06:35,470
+with answers, one and four in it,
+
+172
+00:06:35,470 --> 00:06:39,170
+which in this case is d, and
+that becomes our answer choice.
+
+173
+00:06:39,170 --> 00:06:41,330
+So, now that you know all about the exam,
+
+174
+00:06:41,330 --> 00:06:44,230
+I hope you're ready to start
+learning all about ITIL 4.
+
+175
+00:06:44,230 --> 00:06:45,363
+Let's get started.
+

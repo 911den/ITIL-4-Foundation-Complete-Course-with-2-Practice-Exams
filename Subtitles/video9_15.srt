@@ -1,0 +1,203 @@
+﻿1
+00:00:01,130 --> 00:00:03,270
+- Service Catalog Management.
+
+2
+00:00:03,270 --> 00:00:04,740
+This is another one that you don't need
+
+3
+00:00:04,740 --> 00:00:06,290
+to know for the foundation level,
+
+4
+00:00:06,290 --> 00:00:08,360
+but we're going to cover it briefly here.
+
+5
+00:00:08,360 --> 00:00:09,910
+The practice of providing a single source
+
+6
+00:00:09,910 --> 00:00:13,240
+of consistent information
+on all of your services
+
+7
+00:00:13,240 --> 00:00:14,910
+and all of your service offerings
+
+8
+00:00:14,910 --> 00:00:17,230
+and insuring that's available
+to the relevant audience,
+
+9
+00:00:17,230 --> 00:00:20,040
+is what's known as Service
+Catalog Management.
+
+10
+00:00:20,040 --> 00:00:22,260
+So, for example, if
+you come to my website,
+
+11
+00:00:22,260 --> 00:00:24,210
+you can see our service catalog.
+
+12
+00:00:24,210 --> 00:00:25,760
+You're a relevant audience.
+
+13
+00:00:25,760 --> 00:00:27,930
+You're going to see all of
+the different courses we have
+
+14
+00:00:27,930 --> 00:00:30,570
+and the different types
+of practice exams and labs
+
+15
+00:00:30,570 --> 00:00:32,350
+and the different types of video courses.
+
+16
+00:00:32,350 --> 00:00:34,940
+All of that is shown as
+part of our service catalog
+
+17
+00:00:34,940 --> 00:00:36,570
+and you can make a choice based on that,
+
+18
+00:00:36,570 --> 00:00:38,230
+of which offerings you want to use
+
+19
+00:00:38,230 --> 00:00:40,190
+and which ones are relevant for you.
+
+20
+00:00:40,190 --> 00:00:42,500
+Now, if I was running a
+large IT organization,
+
+21
+00:00:42,500 --> 00:00:45,020
+I would have a lot of different
+things in my service catalog
+
+22
+00:00:45,020 --> 00:00:46,630
+I might have a desk top component,
+
+23
+00:00:46,630 --> 00:00:48,340
+I might have a laptop component,
+
+24
+00:00:48,340 --> 00:00:50,430
+I might have the fact that
+I need a mobile component
+
+25
+00:00:50,430 --> 00:00:51,510
+like a smart phone.
+
+26
+00:00:51,510 --> 00:00:53,377
+You could go into the
+service catalog and say,
+
+27
+00:00:53,377 --> 00:00:56,190
+"I need one iPhone that gives
+me X amount of band width
+
+28
+00:00:56,190 --> 00:00:59,130
+and X amount of service
+so I can do these things."
+
+29
+00:00:59,130 --> 00:01:00,990
+You can order that from
+the Service Catalog
+
+30
+00:01:00,990 --> 00:01:03,540
+based on that particular service offering.
+
+31
+00:01:03,540 --> 00:01:06,110
+As you go and look at any
+IT company you deal with,
+
+32
+00:01:06,110 --> 00:01:07,930
+I want you to look at
+what offerings they have.
+
+33
+00:01:07,930 --> 00:01:10,080
+You're going to see that this
+Service Catalog Management
+
+34
+00:01:10,080 --> 00:01:11,610
+is what's at the heart of it.
+
+35
+00:01:11,610 --> 00:01:12,530
+This is where we're going to say,
+
+36
+00:01:12,530 --> 00:01:14,770
+we're bringing on a
+new product next month.
+
+37
+00:01:14,770 --> 00:01:17,630
+We'll list it in the catalog
+now, so you know it's coming
+
+38
+00:01:17,630 --> 00:01:20,300
+or we're going to retire
+this product next month.
+
+39
+00:01:20,300 --> 00:01:22,860
+We're going to list that now
+that this is ending soon.
+
+40
+00:01:22,860 --> 00:01:24,830
+So, if you want to order
+it, you better get it now
+
+41
+00:01:24,830 --> 00:01:26,840
+because it's going away in three months.
+
+42
+00:01:26,840 --> 00:01:28,440
+This is the idea here when you talk about
+
+43
+00:01:28,440 --> 00:01:29,740
+Service Catalog Management.
+
+44
+00:01:29,740 --> 00:01:32,740
+Telling people what is coming,
+what is being taken away
+
+45
+00:01:32,740 --> 00:01:34,340
+and what is currently available.
+

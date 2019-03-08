@@ -1,0 +1,378 @@
+﻿1
+00:00:00,740 --> 00:00:03,690
+- In this lesson, we're
+going to discuss costs.
+
+2
+00:00:03,690 --> 00:00:06,020
+Now, the cost of something
+is the amount of money
+
+3
+00:00:06,020 --> 00:00:08,030
+that spent on a particular activity or
+
+4
+00:00:08,030 --> 00:00:09,590
+a particular resource.
+
+5
+00:00:09,590 --> 00:00:12,040
+While cost is usually
+expressed financially,
+
+6
+00:00:12,040 --> 00:00:15,290
+it can also be expressed
+in nonfinancial ways too.
+
+7
+00:00:15,290 --> 00:00:17,740
+For example, when we
+create a new course here,
+
+8
+00:00:17,740 --> 00:00:19,710
+we actually measure the cost of the course
+
+9
+00:00:19,710 --> 00:00:21,840
+in the number of hours spent creating it.
+
+10
+00:00:21,840 --> 00:00:23,470
+A typical course, like this one,
+
+11
+00:00:23,470 --> 00:00:26,170
+might require 400 or 500
+hours worth of effort
+
+12
+00:00:26,170 --> 00:00:28,130
+across our entire staff.
+
+13
+00:00:28,130 --> 00:00:30,040
+This usually is described
+in either the measurement
+
+14
+00:00:30,040 --> 00:00:31,827
+of man hours, or FTE.
+
+15
+00:00:32,900 --> 00:00:35,610
+Man hours are also known as person hours,
+
+16
+00:00:35,610 --> 00:00:37,900
+because we want to be
+equal opportunist here.
+
+17
+00:00:37,900 --> 00:00:39,250
+FTEs, on the other hand,
+
+18
+00:00:39,250 --> 00:00:41,000
+stands for Full Time Equivalent.
+
+19
+00:00:41,000 --> 00:00:43,120
+And it's used to measure
+things based on a single
+
+20
+00:00:43,120 --> 00:00:45,440
+employee, who works 40 hours per week,
+
+21
+00:00:45,440 --> 00:00:46,850
+for an entire year.
+
+22
+00:00:46,850 --> 00:00:49,800
+This equates to roughly
+2,000 hours worth of work.
+
+23
+00:00:49,800 --> 00:00:51,310
+So, if we need to run a web server
+
+24
+00:00:51,310 --> 00:00:52,880
+to host all of our courses,
+
+25
+00:00:52,880 --> 00:00:55,550
+that might require half of an FTE.
+
+26
+00:00:55,550 --> 00:00:58,830
+Or one-half of a person's
+annual available work hours
+
+27
+00:00:58,830 --> 00:01:00,360
+for the entire year.
+
+28
+00:01:00,360 --> 00:01:02,440
+This describes the number of FTEs, or
+
+29
+00:01:02,440 --> 00:01:04,830
+Full Time Equivalent
+employees that are required
+
+30
+00:01:04,830 --> 00:01:07,410
+in order to undertake
+a particular activity.
+
+31
+00:01:07,410 --> 00:01:09,630
+Now, while I can measure
+things from a an hours
+
+32
+00:01:09,630 --> 00:01:10,970
+of effort perspective,
+
+33
+00:01:10,970 --> 00:01:14,190
+this does ultimately translate
+back to financial cost.
+
+34
+00:01:14,190 --> 00:01:16,580
+Each team member on my
+team earns a salary.
+
+35
+00:01:16,580 --> 00:01:19,330
+And if it takes somebody
+half of their entire year
+
+36
+00:01:19,330 --> 00:01:20,570
+to run that web server,
+
+37
+00:01:20,570 --> 00:01:22,238
+that means half of their salary is tied up
+
+38
+00:01:22,238 --> 00:01:24,640
+in keeping that web server up and running.
+
+39
+00:01:24,640 --> 00:01:26,890
+So, it does end up going
+back to cost eventually.
+
+40
+00:01:26,890 --> 00:01:28,220
+But, when we look at our reports,
+
+41
+00:01:28,220 --> 00:01:29,690
+we're actually more
+concerned with the amount
+
+42
+00:01:29,690 --> 00:01:31,770
+of time things take,
+than the amount of money
+
+43
+00:01:31,770 --> 00:01:32,890
+we spend on 'em.
+
+44
+00:01:32,890 --> 00:01:34,740
+Now, depending on your organization,
+
+45
+00:01:34,740 --> 00:01:36,170
+you may choose to measure things based
+
+46
+00:01:36,170 --> 00:01:39,130
+on the man hours, the
+person hours, the FTEs,
+
+47
+00:01:39,130 --> 00:01:42,380
+or using actual dollar and
+cents that are expended.
+
+48
+00:01:42,380 --> 00:01:44,270
+Either way, the service provider is aiming
+
+49
+00:01:44,270 --> 00:01:45,930
+to reduce or remove costs,
+
+50
+00:01:45,930 --> 00:01:47,580
+when they provide a service.
+
+51
+00:01:47,580 --> 00:01:49,920
+So, if a service provider
+can save you more money
+
+52
+00:01:49,920 --> 00:01:51,630
+than their service is going to cost you,
+
+53
+00:01:51,630 --> 00:01:52,810
+you're certainly going to look at using
+
+54
+00:01:52,810 --> 00:01:54,030
+that service, right?
+
+55
+00:01:54,030 --> 00:01:55,470
+I know I would.
+
+56
+00:01:55,470 --> 00:01:56,320
+For example,
+
+57
+00:01:56,320 --> 00:01:58,980
+my internet service provider
+has varying speeds available,
+
+58
+00:01:58,980 --> 00:02:01,150
+that we can choose to
+use here at our office.
+
+59
+00:02:01,150 --> 00:02:03,890
+We can choose to spend $50
+per month for 100 megabit
+
+60
+00:02:03,890 --> 00:02:04,910
+per second connection.
+
+61
+00:02:04,910 --> 00:02:07,500
+Or, $100 a month for a 1,000 megabit per
+
+62
+00:02:07,500 --> 00:02:08,570
+second connection.
+
+63
+00:02:08,570 --> 00:02:10,020
+Which one should we choose?
+
+64
+00:02:10,020 --> 00:02:13,100
+Well, in our case, we
+upload a lot of large files,
+
+65
+00:02:13,100 --> 00:02:14,990
+because of all the videos that we produce.
+
+66
+00:02:14,990 --> 00:02:16,220
+And when we looked at the speed that we
+
+67
+00:02:16,220 --> 00:02:17,100
+were going to purchase,
+
+68
+00:02:17,100 --> 00:02:19,780
+we decided that paying twice
+as much money per month,
+
+69
+00:02:19,780 --> 00:02:22,810
+for a ten-times increase in
+speed, was well worth it.
+
+70
+00:02:22,810 --> 00:02:24,920
+Because it saves our staff a lot of time
+
+71
+00:02:24,920 --> 00:02:26,320
+uploading those files.
+
+72
+00:02:26,320 --> 00:02:28,140
+So, it became an easy decision.
+
+73
+00:02:28,140 --> 00:02:30,160
+Because spending $50 more per month on the
+
+74
+00:02:30,160 --> 00:02:31,560
+faster internet connection,
+
+75
+00:02:31,560 --> 00:02:33,610
+made my staff much more productive.
+
+76
+00:02:33,610 --> 00:02:36,110
+And it saved us a lot
+of wasted labor hours.
+
+77
+00:02:36,110 --> 00:02:38,560
+And this more than made
+up for the additional cost
+
+78
+00:02:38,560 --> 00:02:40,690
+in the labor savings
+that we were able to get.
+
+79
+00:02:40,690 --> 00:02:42,460
+That's the idea when you look at costs.
+
+80
+00:02:42,460 --> 00:02:43,940
+If you're going to outsource a service,
+
+81
+00:02:43,940 --> 00:02:45,290
+or you're going to pay for something,
+
+82
+00:02:45,290 --> 00:02:47,180
+you want to make sure
+it's giving you more value
+
+83
+00:02:47,180 --> 00:02:48,580
+than what it's costing you.
+
+84
+00:02:48,580 --> 00:02:50,970
+In our case, spending
+twice as much on internet,
+
+85
+00:02:50,970 --> 00:02:52,600
+gave us 10 times more value.
+
+86
+00:02:52,600 --> 00:02:54,450
+And so it was definitely worth doing.
+

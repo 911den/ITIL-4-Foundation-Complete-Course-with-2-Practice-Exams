@@ -1,0 +1,259 @@
+﻿1
+00:00:00,910 --> 00:00:02,300
+- Knowledge Management.
+
+2
+00:00:02,300 --> 00:00:04,160
+This is another one that is not covered
+
+3
+00:00:04,160 --> 00:00:06,970
+by the ITIL 4 exam, but it's
+one that we're going to cover
+
+4
+00:00:06,970 --> 00:00:09,410
+briefly to give you a general awareness.
+
+5
+00:00:09,410 --> 00:00:11,630
+Knowledge management
+is focused on providing
+
+6
+00:00:11,630 --> 00:00:13,910
+and understanding of all
+of the different elements
+
+7
+00:00:13,910 --> 00:00:16,520
+that make up an organization
+and how those elements
+
+8
+00:00:16,520 --> 00:00:18,070
+relate to one another.
+
+9
+00:00:18,070 --> 00:00:20,010
+So when I think about
+knowledge management,
+
+10
+00:00:20,010 --> 00:00:22,000
+I'm thinking about
+collecting all of the data
+
+11
+00:00:22,000 --> 00:00:24,320
+and everything that's
+inside the organization.
+
+12
+00:00:24,320 --> 00:00:26,560
+In fact, when we talk
+about knowledge management,
+
+13
+00:00:26,560 --> 00:00:28,530
+there are four things that we look at.
+
+14
+00:00:28,530 --> 00:00:30,560
+We have the baseline of data,
+
+15
+00:00:30,560 --> 00:00:33,170
+and then built from
+data, we get information.
+
+16
+00:00:33,170 --> 00:00:35,190
+When we get more information,
+we can consolidate
+
+17
+00:00:35,190 --> 00:00:37,430
+it together in context to get knowledge,
+
+18
+00:00:37,430 --> 00:00:39,500
+and then from knowledge,
+we can get to the top thing
+
+19
+00:00:39,500 --> 00:00:43,030
+we want, which is wisdom, where
+we can make good decisions.
+
+20
+00:00:43,030 --> 00:00:45,100
+Now, let me give you a
+good example of this.
+
+21
+00:00:45,100 --> 00:00:48,030
+Let me give you a piece of data, 90.
+
+22
+00:00:48,030 --> 00:00:50,860
+By itself, 90 doesn't
+mean much to you, does it?
+
+23
+00:00:50,860 --> 00:00:53,500
+But if I give you that data
+with a little bit of context,
+
+24
+00:00:53,500 --> 00:00:54,980
+it can become information.
+
+25
+00:00:54,980 --> 00:00:57,960
+For example, I could say 90 degrees.
+
+26
+00:00:57,960 --> 00:01:00,010
+Now, you know that it's a temperature.
+
+27
+00:01:00,010 --> 00:01:02,600
+And maybe I told you that
+it's 90 degrees outside.
+
+28
+00:01:02,600 --> 00:01:04,360
+Now you know it's the weather temperature
+
+29
+00:01:04,360 --> 00:01:06,060
+for the outside area we're in.
+
+30
+00:01:06,060 --> 00:01:08,030
+Now if I take that
+information and I combine it
+
+31
+00:01:08,030 --> 00:01:10,410
+with some other information,
+I might be able to get
+
+32
+00:01:10,410 --> 00:01:11,590
+knowledge out of this.
+
+33
+00:01:11,590 --> 00:01:14,070
+90 degrees is a hot temperature outside.
+
+34
+00:01:14,070 --> 00:01:15,980
+I may decide now that
+I want to wear shorts
+
+35
+00:01:15,980 --> 00:01:18,520
+and a t-shirt instead of
+long pants and a jacket
+
+36
+00:01:18,520 --> 00:01:21,150
+because 90 degrees is pretty hot.
+
+37
+00:01:21,150 --> 00:01:23,520
+Now, if I take a bunch
+of knowledge together,
+
+38
+00:01:23,520 --> 00:01:26,170
+I can combine it to get
+wisdom, and this will allow me
+
+39
+00:01:26,170 --> 00:01:28,310
+to make forward looking decisions.
+
+40
+00:01:28,310 --> 00:01:31,340
+For example, because
+it's 90 degrees outside,
+
+41
+00:01:31,340 --> 00:01:33,550
+there may become a larger number of users
+
+42
+00:01:33,550 --> 00:01:36,660
+who decide to skip work
+today and go to the beach.
+
+43
+00:01:36,660 --> 00:01:38,310
+Knowing that we're a company who provides
+
+44
+00:01:38,310 --> 00:01:40,740
+wireless service around
+the beaches as well,
+
+45
+00:01:40,740 --> 00:01:42,200
+we better be prepared to increase
+
+46
+00:01:42,200 --> 00:01:44,050
+the available bandwidth and be prepared
+
+47
+00:01:44,050 --> 00:01:46,380
+for additional phone
+calls from mobile users
+
+48
+00:01:46,380 --> 00:01:48,070
+because they're going to
+be out on their phones
+
+49
+00:01:48,070 --> 00:01:50,180
+instead of on their desktops today.
+
+50
+00:01:50,180 --> 00:01:52,320
+You can see how we could
+take this information from
+
+51
+00:01:52,320 --> 00:01:55,520
+data into information,
+information into knowledge,
+
+52
+00:01:55,520 --> 00:01:57,370
+and knowledge into wisdom.
+
+53
+00:01:57,370 --> 00:01:59,540
+Knowledge management is a huge field.
+
+54
+00:01:59,540 --> 00:02:02,890
+In fact, there are entire
+people whose full time job it is
+
+55
+00:02:02,890 --> 00:02:04,990
+to figure out how we're going to take data
+
+56
+00:02:04,990 --> 00:02:08,420
+and turn it into information,
+information into knowledge,
+
+57
+00:02:08,420 --> 00:02:10,093
+and knowledge into wisdom.
+

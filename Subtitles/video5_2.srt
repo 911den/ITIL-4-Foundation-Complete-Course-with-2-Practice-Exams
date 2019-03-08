@@ -1,0 +1,490 @@
+﻿1
+00:00:00,250 --> 00:00:02,100
+- Focus on value.
+
+2
+00:00:02,100 --> 00:00:05,270
+Focus on value is our
+first guiding principle.
+
+3
+00:00:05,270 --> 00:00:07,730
+It states that everything
+the organization does
+
+4
+00:00:07,730 --> 00:00:10,170
+should link back, directly or indirectly,
+
+5
+00:00:10,170 --> 00:00:14,420
+to value for itself, its
+customers, and its stakeholders.
+
+6
+00:00:14,420 --> 00:00:17,330
+Now how do we apply this focus on value?
+
+7
+00:00:17,330 --> 00:00:19,810
+Well there's really a four
+step method that I like to use
+
+8
+00:00:19,810 --> 00:00:21,850
+when I think about focusing on value.
+
+9
+00:00:21,850 --> 00:00:25,440
+First, I want to understand and
+identify the service consumer.
+
+10
+00:00:25,440 --> 00:00:27,190
+Who is it that I'm trying to serve,
+
+11
+00:00:27,190 --> 00:00:28,620
+because if you remember from value,
+
+12
+00:00:28,620 --> 00:00:30,250
+we're trying to co-create value
+
+13
+00:00:30,250 --> 00:00:33,200
+between the service provider
+and the service consumer.
+
+14
+00:00:33,200 --> 00:00:35,950
+Now once I identify who
+that service consumer is
+
+15
+00:00:35,950 --> 00:00:38,010
+and how they plan on using my service,
+
+16
+00:00:38,010 --> 00:00:41,220
+I can then understand the
+consumer's perspective of value.
+
+17
+00:00:41,220 --> 00:00:43,920
+For example, if my service
+consumer is a student
+
+18
+00:00:43,920 --> 00:00:45,610
+who wants to be able to watch videos
+
+19
+00:00:45,610 --> 00:00:47,860
+to learn how to pass the ITIL four exam,
+
+20
+00:00:47,860 --> 00:00:50,780
+then I need to understand how
+you plan on consuming that.
+
+21
+00:00:50,780 --> 00:00:52,830
+Are you planning on sitting
+at your desktop all day,
+
+22
+00:00:52,830 --> 00:00:54,540
+or are you going to be on a mobile device?
+
+23
+00:00:54,540 --> 00:00:55,820
+And if you're on a mobile device,
+
+24
+00:00:55,820 --> 00:00:57,930
+do you have enough data to
+be able to stream the videos,
+
+25
+00:00:57,930 --> 00:00:59,680
+or do you want to be
+able to download the data
+
+26
+00:00:59,680 --> 00:01:01,960
+and be able to download all
+those videos ahead of time?
+
+27
+00:01:01,960 --> 00:01:03,490
+These are all things
+that we have to consider
+
+28
+00:01:03,490 --> 00:01:04,910
+as we're building out our service
+
+29
+00:01:04,910 --> 00:01:07,440
+and how we can best
+support and provide value
+
+30
+00:01:07,440 --> 00:01:09,350
+to our service consumers.
+
+31
+00:01:09,350 --> 00:01:12,580
+Then I want to map the value
+to the intended outcomes,
+
+32
+00:01:12,580 --> 00:01:15,320
+and those intended outcomes
+may change over time.
+
+33
+00:01:15,320 --> 00:01:17,800
+I used the example before of this exam.
+
+34
+00:01:17,800 --> 00:01:20,670
+You're taking this course
+so you can pass an exam.
+
+35
+00:01:20,670 --> 00:01:22,670
+Now once you've passed the exam,
+
+36
+00:01:22,670 --> 00:01:24,810
+you may go back and
+watch these videos again,
+
+37
+00:01:24,810 --> 00:01:27,170
+but now you have a completely
+different perspective
+
+38
+00:01:27,170 --> 00:01:28,390
+and desired outcome,
+
+39
+00:01:28,390 --> 00:01:30,090
+because you're not
+trying to pass the exam,
+
+40
+00:01:30,090 --> 00:01:31,300
+you've already done that.
+
+41
+00:01:31,300 --> 00:01:33,350
+Instead, you're trying
+to go back and review
+
+42
+00:01:33,350 --> 00:01:35,200
+and get smarter in certain areas
+
+43
+00:01:35,200 --> 00:01:36,250
+so you may be able to take that
+
+44
+00:01:36,250 --> 00:01:38,420
+and apply it inside your organization.
+
+45
+00:01:38,420 --> 00:01:40,750
+So those give us two
+distinctly different outcomes.
+
+46
+00:01:40,750 --> 00:01:42,730
+One is a set of students
+who are watching the videos
+
+47
+00:01:42,730 --> 00:01:44,140
+to pass the exam.
+
+48
+00:01:44,140 --> 00:01:46,630
+Another set is students
+who are watching the videos
+
+49
+00:01:46,630 --> 00:01:47,870
+to get better at their job
+
+50
+00:01:47,870 --> 00:01:51,450
+and be able to apply ITIL four
+inside their organizations.
+
+51
+00:01:51,450 --> 00:01:53,170
+And that brings us to our fourth step,
+
+52
+00:01:53,170 --> 00:01:54,480
+and the fourth thing I look at
+
+53
+00:01:54,480 --> 00:01:56,570
+is to understand the customer experience
+
+54
+00:01:56,570 --> 00:01:58,370
+and the user experience.
+
+55
+00:01:58,370 --> 00:01:59,670
+Now this goes back to again,
+
+56
+00:01:59,670 --> 00:02:02,130
+how does that customer use your service,
+
+57
+00:02:02,130 --> 00:02:03,810
+what are they trying to achieve in it,
+
+58
+00:02:03,810 --> 00:02:06,580
+and are you doing it the
+best way possible for them?
+
+59
+00:02:06,580 --> 00:02:09,650
+For example, we might
+decide to make a mobile app
+
+60
+00:02:09,650 --> 00:02:11,900
+that will allow you to take
+all of your videos on the go
+
+61
+00:02:11,900 --> 00:02:13,690
+on your iPhone or your Android.
+
+62
+00:02:13,690 --> 00:02:16,370
+That might work well if
+a lot of my customers
+
+63
+00:02:16,370 --> 00:02:18,760
+consume our content
+through a mobile device,
+
+64
+00:02:18,760 --> 00:02:21,140
+but if we find that most of our consumers
+
+65
+00:02:21,140 --> 00:02:22,570
+are consuming that content
+
+66
+00:02:22,570 --> 00:02:24,520
+by sitting at a desktop or a laptop,
+
+67
+00:02:24,520 --> 00:02:27,650
+then spending money to build
+an Android or an iPhone app
+
+68
+00:02:27,650 --> 00:02:29,230
+is not going to be worthwhile, right,
+
+69
+00:02:29,230 --> 00:02:31,240
+and so there's not a lot of value there.
+
+70
+00:02:31,240 --> 00:02:33,880
+So that's the idea as we go
+through those four steps.
+
+71
+00:02:33,880 --> 00:02:35,480
+Now when we look at application,
+
+72
+00:02:35,480 --> 00:02:36,930
+there's a couple of key factors.
+
+73
+00:02:36,930 --> 00:02:38,420
+You want to know how your customers
+
+74
+00:02:38,420 --> 00:02:40,370
+are going to use each service.
+
+75
+00:02:40,370 --> 00:02:42,190
+You also want to
+encourage a focus on value
+
+76
+00:02:42,190 --> 00:02:43,870
+among your entire staff,
+
+77
+00:02:43,870 --> 00:02:46,510
+because as your company
+and organization grows,
+
+78
+00:02:46,510 --> 00:02:49,360
+you're going to have different
+people servicing your consumers.
+
+79
+00:02:49,360 --> 00:02:50,840
+That might be tech support,
+
+80
+00:02:50,840 --> 00:02:52,390
+it might be customer service agents,
+
+81
+00:02:52,390 --> 00:02:53,970
+it might be sales agents,
+
+82
+00:02:53,970 --> 00:02:55,620
+it might be business managers,
+
+83
+00:02:55,620 --> 00:02:56,630
+whatever it is,
+
+84
+00:02:56,630 --> 00:02:58,020
+the entire staff needs to know
+
+85
+00:02:58,020 --> 00:03:00,620
+what that value is that we're
+trying to get to our consumers
+
+86
+00:03:00,620 --> 00:03:03,570
+and then we can push that
+across the entire staff
+
+87
+00:03:03,570 --> 00:03:05,170
+as our leading vision.
+
+88
+00:03:05,170 --> 00:03:06,990
+Also, when we focus on value,
+
+89
+00:03:06,990 --> 00:03:08,810
+we want to do this during
+operational activity
+
+90
+00:03:08,810 --> 00:03:11,120
+as well as during our
+improvement initiatives.
+
+91
+00:03:11,120 --> 00:03:13,820
+Focusing on value is done every single day
+
+92
+00:03:13,820 --> 00:03:15,410
+across the entire service,
+
+93
+00:03:15,410 --> 00:03:16,920
+whether it's to make it work today
+
+94
+00:03:16,920 --> 00:03:19,570
+or how we can improve it
+to make it better tomorrow.
+
+95
+00:03:19,570 --> 00:03:21,700
+And finally, I want to make
+sure that you're thinking
+
+96
+00:03:21,700 --> 00:03:23,230
+about creating a focus on value
+
+97
+00:03:23,230 --> 00:03:26,250
+in every step of any
+improvement initiative.
+
+98
+00:03:26,250 --> 00:03:28,730
+If I decide to go back
+and refilm this course,
+
+99
+00:03:28,730 --> 00:03:31,630
+I need to figure out what
+parts need to be improved upon,
+
+100
+00:03:31,630 --> 00:03:33,520
+and I do that by thinking about the value
+
+101
+00:03:33,520 --> 00:03:36,200
+it's going to create for
+my consumer, my students.
+
+102
+00:03:36,200 --> 00:03:38,300
+If I'm going to go back
+and rerecord this lecture,
+
+103
+00:03:38,300 --> 00:03:40,490
+I need to be adding something new to it
+
+104
+00:03:40,490 --> 00:03:41,530
+that makes it better,
+
+105
+00:03:41,530 --> 00:03:43,450
+and helps you understand
+the concepts better,
+
+106
+00:03:43,450 --> 00:03:46,000
+and allows you to get
+more value out of it.
+
+107
+00:03:46,000 --> 00:03:47,160
+That's the idea.
+
+108
+00:03:47,160 --> 00:03:49,810
+Everything we do is focused on value,
+
+109
+00:03:49,810 --> 00:03:52,010
+both for our consumer as well as for us,
+
+110
+00:03:52,010 --> 00:03:53,123
+the service provider.
+

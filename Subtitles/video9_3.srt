@@ -1,0 +1,1031 @@
+﻿1
+00:00:00,750 --> 00:00:03,320
+- Incident management,
+this is the next practice
+
+2
+00:00:03,320 --> 00:00:04,870
+we're going to talk about, and again,
+
+3
+00:00:04,870 --> 00:00:08,120
+it's one that you need to
+know in depth for the exam.
+
+4
+00:00:08,120 --> 00:00:09,680
+The purpose of incident management
+
+5
+00:00:09,680 --> 00:00:12,360
+is to minimize the negative
+impact of incidents
+
+6
+00:00:12,360 --> 00:00:14,170
+by restoring normal service operation
+
+7
+00:00:14,170 --> 00:00:15,990
+as quickly as possible.
+
+8
+00:00:15,990 --> 00:00:19,420
+Basically, what are you going
+to do when something goes wrong?
+
+9
+00:00:19,420 --> 00:00:20,790
+Now, I mentioned there's a couple of terms
+
+10
+00:00:20,790 --> 00:00:23,240
+you have to memorize, and
+here come our second term.
+
+11
+00:00:23,240 --> 00:00:24,820
+It's an incident.
+
+12
+00:00:24,820 --> 00:00:27,640
+An incident is an unplanned
+interruption to a service
+
+13
+00:00:27,640 --> 00:00:30,150
+or reduction in the quality of a service.
+
+14
+00:00:30,150 --> 00:00:32,110
+Every incident needs to be logged,
+
+15
+00:00:32,110 --> 00:00:34,810
+managed to the agreed-upon
+target resolution times,
+
+16
+00:00:34,810 --> 00:00:36,510
+and prioritized.
+
+17
+00:00:36,510 --> 00:00:38,620
+The way we design our
+incident management practice
+
+18
+00:00:38,620 --> 00:00:40,190
+appropriately, is going to make sure
+
+19
+00:00:40,190 --> 00:00:42,290
+that we think about it
+from different perspectives
+
+20
+00:00:42,290 --> 00:00:43,610
+with different incidents,
+
+21
+00:00:43,610 --> 00:00:46,560
+so I want to take my incidents
+and I want to categorize them
+
+22
+00:00:46,560 --> 00:00:48,460
+based on the different impacts they have.
+
+23
+00:00:48,460 --> 00:00:50,840
+Is it a major incident
+or a minor incident?
+
+24
+00:00:50,840 --> 00:00:52,820
+Is it an information security incident
+
+25
+00:00:52,820 --> 00:00:55,820
+or is it a management
+and operations incident?
+
+26
+00:00:55,820 --> 00:00:57,930
+All of these are things
+that we have to think about
+
+27
+00:00:57,930 --> 00:01:00,410
+as we're going through our
+incident management practice.
+
+28
+00:01:00,410 --> 00:01:02,750
+Now, when it comes to
+prioritizing our incidents,
+
+29
+00:01:02,750 --> 00:01:05,720
+I like to do it based on
+an agreed classification.
+
+30
+00:01:05,720 --> 00:01:08,210
+Everyone should know what
+that classification is.
+
+31
+00:01:08,210 --> 00:01:10,430
+Are we going to use high, medium and low?
+
+32
+00:01:10,430 --> 00:01:12,750
+Are we going to use a
+one through five system?
+
+33
+00:01:12,750 --> 00:01:14,720
+Whatever it is, you need to know it,
+
+34
+00:01:14,720 --> 00:01:15,940
+your customers need to know it,
+
+35
+00:01:15,940 --> 00:01:18,660
+and everyone who supports
+the systems needs to know it.
+
+36
+00:01:18,660 --> 00:01:20,730
+Also, we should have a way to say
+
+37
+00:01:20,730 --> 00:01:23,130
+what would categorize a high incident.
+
+38
+00:01:23,130 --> 00:01:25,190
+What would categorize a low incident?
+
+39
+00:01:25,190 --> 00:01:26,530
+Is it based on dollar time?
+
+40
+00:01:26,530 --> 00:01:28,980
+Is it based on the person's
+position in the company?
+
+41
+00:01:28,980 --> 00:01:31,140
+Is it going to be based on
+how much the thing costs?
+
+42
+00:01:31,140 --> 00:01:32,390
+Is it going to be based on how long
+
+43
+00:01:32,390 --> 00:01:33,850
+we think it's going to be down?
+
+44
+00:01:33,850 --> 00:01:35,860
+All of those are valid
+ways to classify it.
+
+45
+00:01:35,860 --> 00:01:39,070
+It really depends on how your
+organization decides to do it.
+
+46
+00:01:39,070 --> 00:01:40,950
+Also, when you're prioritizing incidents,
+
+47
+00:01:40,950 --> 00:01:42,410
+you need to ensure that your incidents
+
+48
+00:01:42,410 --> 00:01:45,850
+that have the highest business
+impact are resolved first.
+
+49
+00:01:45,850 --> 00:01:48,280
+That means if it's something
+that's affecting five users
+
+50
+00:01:48,280 --> 00:01:50,880
+or something that's
+affecting 10,000 users,
+
+51
+00:01:50,880 --> 00:01:52,110
+we probably want to fix the thing
+
+52
+00:01:52,110 --> 00:01:54,070
+affecting 10,000 users first.
+
+53
+00:01:54,070 --> 00:01:55,970
+It has a higher business impact.
+
+54
+00:01:55,970 --> 00:01:58,820
+Or, if it's something that
+may be a minor inconvenience
+
+55
+00:01:58,820 --> 00:02:00,690
+verus something that's costing you money,
+
+56
+00:02:00,690 --> 00:02:03,560
+you want to get the thing that
+costs you money fixed first.
+
+57
+00:02:03,560 --> 00:02:05,250
+Now, when it comes to incident management,
+
+58
+00:02:05,250 --> 00:02:08,400
+you want to use a tool to log
+and manage your incidents.
+
+59
+00:02:08,400 --> 00:02:10,150
+This is a way that you
+can end up linking them
+
+60
+00:02:10,150 --> 00:02:12,770
+to configuration items,
+to the different changes,
+
+61
+00:02:12,770 --> 00:02:16,070
+to the different problems,
+known errors, and other things.
+
+62
+00:02:16,070 --> 00:02:18,640
+By having a good system,
+it really does make
+
+63
+00:02:18,640 --> 00:02:20,920
+the knowledge management
+piece a lot easier,
+
+64
+00:02:20,920 --> 00:02:23,600
+and helps you resolve
+incidents much faster.
+
+65
+00:02:23,600 --> 00:02:24,850
+Another thing these can do for you
+
+66
+00:02:24,850 --> 00:02:27,960
+is they can provide incident
+matching to other incidents,
+
+67
+00:02:27,960 --> 00:02:29,950
+other problems, and other known errors,
+
+68
+00:02:29,950 --> 00:02:32,160
+so for example, if you
+call up and tell me,
+
+69
+00:02:32,160 --> 00:02:35,430
+hey, the wireless network
+in the warehouse is down,
+
+70
+00:02:35,430 --> 00:02:37,380
+I can log that and it can say, oh,
+
+71
+00:02:37,380 --> 00:02:39,560
+we've already had three
+other people call that in.
+
+72
+00:02:39,560 --> 00:02:41,600
+We know it's a problem
+affecting a lot of users.
+
+73
+00:02:41,600 --> 00:02:43,480
+We should probably
+raise the classification
+
+74
+00:02:43,480 --> 00:02:46,330
+from a low to a medium,
+or a medium to a high.
+
+75
+00:02:46,330 --> 00:02:47,910
+Again, this is the benefit of having
+
+76
+00:02:47,910 --> 00:02:50,100
+a good incident management tool.
+
+77
+00:02:50,100 --> 00:02:52,090
+Incidents can also be escalated
+
+78
+00:02:52,090 --> 00:02:53,970
+for higher levels of support.
+
+79
+00:02:53,970 --> 00:02:56,640
+Oftentimes, your service
+desk, who's your first person
+
+80
+00:02:56,640 --> 00:02:58,970
+who's taking in the incident,
+isn't going to be the person
+
+81
+00:02:58,970 --> 00:03:00,230
+who's going to resolve it.
+
+82
+00:03:00,230 --> 00:03:02,520
+Instead, if they can't
+solve it at their level,
+
+83
+00:03:02,520 --> 00:03:04,300
+they'll raise it to tier two support,
+
+84
+00:03:04,300 --> 00:03:06,910
+and if tier two can't do it,
+it'll go to tier three support,
+
+85
+00:03:06,910 --> 00:03:09,130
+and you'll keep going up until
+you get to the right level
+
+86
+00:03:09,130 --> 00:03:11,270
+of support to get that resolved.
+
+87
+00:03:11,270 --> 00:03:12,970
+This routing is typically
+going to be based
+
+88
+00:03:12,970 --> 00:03:14,720
+on the incident's category.
+
+89
+00:03:14,720 --> 00:03:17,260
+Anyone working on an incident
+should provide quality
+
+90
+00:03:17,260 --> 00:03:20,580
+and timely updates back into
+this incident management system
+
+91
+00:03:20,580 --> 00:03:22,730
+because as we're going to talk
+about in the service desk,
+
+92
+00:03:22,730 --> 00:03:25,010
+your service desk
+analyst is the frontline.
+
+93
+00:03:25,010 --> 00:03:26,860
+They're going to be the ones
+talking to the customer,
+
+94
+00:03:26,860 --> 00:03:29,810
+and when the customer says,
+hey, is my ticket resolved yet?
+
+95
+00:03:29,810 --> 00:03:30,810
+They need to know about it.
+
+96
+00:03:30,810 --> 00:03:33,050
+If you've been working it and
+you haven't been putting it
+
+97
+00:03:33,050 --> 00:03:34,480
+in the incident management system,
+
+98
+00:03:34,480 --> 00:03:35,950
+the analyst doesn't know the updates,
+
+99
+00:03:35,950 --> 00:03:38,480
+and the customer doesn't
+get the communication.
+
+100
+00:03:38,480 --> 00:03:40,080
+Now, when we talk about
+incident management,
+
+101
+00:03:40,080 --> 00:03:41,980
+I want you to remember
+that incident management
+
+102
+00:03:41,980 --> 00:03:44,360
+requires a high level of collaboration
+
+103
+00:03:44,360 --> 00:03:46,430
+within and between the teams.
+
+104
+00:03:46,430 --> 00:03:48,770
+Like I was saying, if
+you're solving the issue,
+
+105
+00:03:48,770 --> 00:03:50,730
+you need to tell that to the service desk.
+
+106
+00:03:50,730 --> 00:03:52,740
+You also need to work between your teams
+
+107
+00:03:52,740 --> 00:03:54,200
+and across your teams.
+
+108
+00:03:54,200 --> 00:03:56,680
+When we're working to diagnose
+and resolve an incident,
+
+109
+00:03:56,680 --> 00:03:59,400
+your user might end up
+using a self-help option.
+
+110
+00:03:59,400 --> 00:04:01,890
+They might use calling the
+service desk as an option.
+
+111
+00:04:01,890 --> 00:04:04,190
+The service desk might
+contact your support team,
+
+112
+00:04:04,190 --> 00:04:06,380
+your suppliers, or even your partners.
+
+113
+00:04:06,380 --> 00:04:09,130
+All of this is collaboration
+and communication,
+
+114
+00:04:09,130 --> 00:04:11,910
+so we have to think about all
+of this as we work through it.
+
+115
+00:04:11,910 --> 00:04:13,140
+And the other thing I want you to remember
+
+116
+00:04:13,140 --> 00:04:15,520
+is that some incidents can be very major
+
+117
+00:04:15,520 --> 00:04:16,850
+and some can be minor.
+
+118
+00:04:16,850 --> 00:04:18,287
+If you have a really major incident,
+
+119
+00:04:18,287 --> 00:04:19,710
+one of the things you might want to do
+
+120
+00:04:19,710 --> 00:04:22,020
+is create a temporary
+cross-functional team
+
+121
+00:04:22,020 --> 00:04:23,600
+to address that incident.
+
+122
+00:04:23,600 --> 00:04:26,140
+For example, maybe our website went down.
+
+123
+00:04:26,140 --> 00:04:28,480
+Well, I might want to get some
+people from finance in here
+
+124
+00:04:28,480 --> 00:04:29,670
+'cause it's going to affect them,
+
+125
+00:04:29,670 --> 00:04:31,860
+some people from marketing,
+'cause it affects them,
+
+126
+00:04:31,860 --> 00:04:33,820
+some people from sales,
+'cause it affects them,
+
+127
+00:04:33,820 --> 00:04:35,730
+and then of course all
+of our technical people,
+
+128
+00:04:35,730 --> 00:04:37,910
+so we can figure out how
+we can create a workaround
+
+129
+00:04:37,910 --> 00:04:40,700
+and get this incident resolved
+as quickly as possible.
+
+130
+00:04:40,700 --> 00:04:42,780
+In addition to all of
+that, you may be doing
+
+131
+00:04:42,780 --> 00:04:46,120
+an incident response based on
+a disaster recovery operation,
+
+132
+00:04:46,120 --> 00:04:47,120
+and if this is the case,
+
+133
+00:04:47,120 --> 00:04:49,760
+you want to bring in the
+disaster recovery team as well,
+
+134
+00:04:49,760 --> 00:04:51,380
+because they know the plans and policies
+
+135
+00:04:51,380 --> 00:04:53,870
+of what we're going to do
+to overcome that disaster.
+
+136
+00:04:53,870 --> 00:04:56,290
+All of this is going to depend
+on your particular scenario
+
+137
+00:04:56,290 --> 00:04:58,630
+that you're involved
+with in your incident.
+
+138
+00:04:58,630 --> 00:05:00,080
+Let me give you an example.
+
+139
+00:05:00,080 --> 00:05:01,810
+Maybe your organization is the victim
+
+140
+00:05:01,810 --> 00:05:04,630
+of a cyber attack or a
+data breach that's ongoing.
+
+141
+00:05:04,630 --> 00:05:06,820
+What's the best way to
+handle this scenario?
+
+142
+00:05:06,820 --> 00:05:08,830
+Well, if it was me and my company,
+
+143
+00:05:08,830 --> 00:05:11,240
+I might use a technique known as swarming.
+
+144
+00:05:11,240 --> 00:05:13,520
+This involves gathering
+up different stakeholders
+
+145
+00:05:13,520 --> 00:05:15,150
+who initially all work together
+
+146
+00:05:15,150 --> 00:05:17,640
+until it becomes clear
+which of them is best suited
+
+147
+00:05:17,640 --> 00:05:20,210
+to lead this effort
+and solve the incident.
+
+148
+00:05:20,210 --> 00:05:22,330
+Once that occurs, we can
+then release the others
+
+149
+00:05:22,330 --> 00:05:23,680
+back to their assigned tasks,
+
+150
+00:05:23,680 --> 00:05:25,930
+and the lead will take the charge of this.
+
+151
+00:05:25,930 --> 00:05:27,800
+Now, the reason we do this
+is because it gives us
+
+152
+00:05:27,800 --> 00:05:29,470
+all of the people right away,
+
+153
+00:05:29,470 --> 00:05:30,980
+and this is really important
+when you're dealing
+
+154
+00:05:30,980 --> 00:05:34,110
+with a major incident like a
+cyber attack or a data breach.
+
+155
+00:05:34,110 --> 00:05:36,190
+I might not know exactly
+where that person is
+
+156
+00:05:36,190 --> 00:05:37,440
+inside the network yet.
+
+157
+00:05:37,440 --> 00:05:38,890
+Are they dealing with the databases,
+
+158
+00:05:38,890 --> 00:05:40,850
+the file servers, the web servers?
+
+159
+00:05:40,850 --> 00:05:43,880
+I don't know, so I want people
+from all of those teams here
+
+160
+00:05:43,880 --> 00:05:46,200
+working with me, that's
+what we call swarming,
+
+161
+00:05:46,200 --> 00:05:48,830
+and then once we figure out,
+oh, it was a database breach,
+
+162
+00:05:48,830 --> 00:05:51,540
+then we can let the web guys
+go and the file server guys go,
+
+163
+00:05:51,540 --> 00:05:54,110
+and we'll still work
+with the database team.
+
+164
+00:05:54,110 --> 00:05:55,730
+That's the way we want
+to do this kind of stuff.
+
+165
+00:05:55,730 --> 00:05:56,710
+It's the way that we're trying
+
+166
+00:05:56,710 --> 00:05:59,103
+to figure out how we can
+best solve our incidents.
+
+167
+00:05:59,103 --> 00:06:00,810
+When we think about incidents,
+
+168
+00:06:00,810 --> 00:06:02,020
+I want you to think about the fact
+
+169
+00:06:02,020 --> 00:06:04,150
+that it heavily relies on collaboration
+
+170
+00:06:04,150 --> 00:06:06,560
+to facilitate information
+sharing and learning,
+
+171
+00:06:06,560 --> 00:06:08,140
+as well as helping to solve the incident
+
+172
+00:06:08,140 --> 00:06:10,340
+more efficiently and more effectively.
+
+173
+00:06:10,340 --> 00:06:11,920
+That's what we're trying to do.
+
+174
+00:06:11,920 --> 00:06:13,370
+So, when we think about this
+
+175
+00:06:13,370 --> 00:06:15,150
+through our value chain activity lens,
+
+176
+00:06:15,150 --> 00:06:16,660
+which ones are going to be affected?
+
+177
+00:06:16,660 --> 00:06:18,390
+Well, let's start with improve.
+
+178
+00:06:18,390 --> 00:06:19,510
+When we're talking about improve,
+
+179
+00:06:19,510 --> 00:06:21,100
+we're going to be thinking
+about the incident records
+
+180
+00:06:21,100 --> 00:06:22,730
+in our incident management system.
+
+181
+00:06:22,730 --> 00:06:25,410
+These are a key input to
+our improve activities.
+
+182
+00:06:25,410 --> 00:06:27,520
+If we can go in there
+and find the frequency
+
+183
+00:06:27,520 --> 00:06:29,100
+and severity of different incidents,
+
+184
+00:06:29,100 --> 00:06:31,750
+we can figure out where we
+need to put more resources,
+
+185
+00:06:31,750 --> 00:06:33,950
+time or money to improve ourselves.
+
+186
+00:06:33,950 --> 00:06:36,170
+Now, if we consider this
+from the engage activity,
+
+187
+00:06:36,170 --> 00:06:37,240
+we have to think about the fact
+
+188
+00:06:37,240 --> 00:06:39,750
+that incidents are visible to everyone.
+
+189
+00:06:39,750 --> 00:06:41,130
+Your users are going to know about it,
+
+190
+00:06:41,130 --> 00:06:42,820
+and your customers are
+going to know about it,
+
+191
+00:06:42,820 --> 00:06:44,160
+so we're going to have to engage with them
+
+192
+00:06:44,160 --> 00:06:45,480
+and let them know ahead of time
+
+193
+00:06:45,480 --> 00:06:47,110
+how we're solving these problems,
+
+194
+00:06:47,110 --> 00:06:48,750
+and the fact that we
+know that it's a problem
+
+195
+00:06:48,750 --> 00:06:50,530
+and that we're going to overcome it.
+
+196
+00:06:50,530 --> 00:06:52,350
+When we think about this
+from design and transition,
+
+197
+00:06:52,350 --> 00:06:54,070
+if we have an incident, it might occur
+
+198
+00:06:54,070 --> 00:06:56,710
+in a test environment,
+which happens during design.
+
+199
+00:06:56,710 --> 00:06:59,080
+It might also happen during
+the release and deployment,
+
+200
+00:06:59,080 --> 00:07:00,680
+which is part of transition.
+
+201
+00:07:00,680 --> 00:07:01,930
+Either way, we want to make sure
+
+202
+00:07:01,930 --> 00:07:03,910
+the incident management practice is there
+
+203
+00:07:03,910 --> 00:07:06,170
+to help us ensure the
+incidents are resolved
+
+204
+00:07:06,170 --> 00:07:08,340
+in a timely and controlled manner.
+
+205
+00:07:08,340 --> 00:07:10,730
+When we think about this from
+an obtain/build perspective,
+
+206
+00:07:10,730 --> 00:07:12,770
+we want to think about the
+fact that incidents occur
+
+207
+00:07:12,770 --> 00:07:14,500
+in development environments too, right?
+
+208
+00:07:14,500 --> 00:07:17,250
+And so as I'm obtaining and
+building things, things break.
+
+209
+00:07:17,250 --> 00:07:19,110
+How are we going to solve those problems?
+
+210
+00:07:19,110 --> 00:07:21,570
+The incident management
+practice has things in place
+
+211
+00:07:21,570 --> 00:07:23,810
+to help us with those as well,
+because we want to make sure
+
+212
+00:07:23,810 --> 00:07:25,760
+we're figuring those things out early
+
+213
+00:07:25,760 --> 00:07:27,430
+before we move it into transition,
+
+214
+00:07:27,430 --> 00:07:30,270
+and then from transition
+over to deliver and support,
+
+215
+00:07:30,270 --> 00:07:32,230
+which brings us to deliver and support.
+
+216
+00:07:32,230 --> 00:07:34,570
+Deliver and support is
+where we spend a lot of time
+
+217
+00:07:34,570 --> 00:07:36,160
+in incident management, because this is
+
+218
+00:07:36,160 --> 00:07:39,170
+a significant contributor
+to supporting our users.
+
+219
+00:07:39,170 --> 00:07:40,930
+Deliver and support's value chain activity
+
+220
+00:07:40,930 --> 00:07:43,600
+includes the resolving of
+incidents and problems,
+
+221
+00:07:43,600 --> 00:07:45,660
+identifying them, solving them,
+
+222
+00:07:45,660 --> 00:07:47,550
+and communicating that back to the user.
+
+223
+00:07:47,550 --> 00:07:49,800
+Again, that goes back
+into our engage again.
+
+224
+00:07:49,800 --> 00:07:52,960
+So, as we're talking, all
+of this is really important
+
+225
+00:07:52,960 --> 00:07:54,260
+inside incident management.
+
+226
+00:07:54,260 --> 00:07:57,940
+How do we identify, diagnose,
+and solve all these problems
+
+227
+00:07:57,940 --> 00:08:00,120
+as quickly and efficiently as possible?
+
+228
+00:08:00,120 --> 00:08:01,770
+That's what it all comes down to.
+

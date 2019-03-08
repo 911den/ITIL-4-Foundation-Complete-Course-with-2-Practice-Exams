@@ -1,0 +1,820 @@
+﻿1
+00:00:00,440 --> 00:00:02,730
+- Progress Iteratively and with Feedback.
+
+2
+00:00:02,730 --> 00:00:05,240
+This is our third guiding principle.
+
+3
+00:00:05,240 --> 00:00:08,091
+Now, what this tells us is
+that if we work in a time-box
+
+4
+00:00:08,091 --> 00:00:10,660
+iterative manner, getting feedback loops
+
+5
+00:00:10,660 --> 00:00:12,280
+embedded into this process,
+
+6
+00:00:12,280 --> 00:00:14,540
+it's going to allow us to
+have greater flexibility,
+
+7
+00:00:14,540 --> 00:00:17,260
+much faster responses
+to our current customer
+
+8
+00:00:17,260 --> 00:00:19,930
+and business needs, as well
+as the ability to discover
+
+9
+00:00:19,930 --> 00:00:21,800
+and respond to failures earlier
+
+10
+00:00:21,800 --> 00:00:23,960
+and improve our overall quality.
+
+11
+00:00:23,960 --> 00:00:25,870
+This is all about doing things in an
+
+12
+00:00:25,870 --> 00:00:27,400
+agile method of working.
+
+13
+00:00:27,400 --> 00:00:29,830
+When we go into project
+management, there's two basic ways
+
+14
+00:00:29,830 --> 00:00:31,020
+we can build something.
+
+15
+00:00:31,020 --> 00:00:33,550
+We can do it is a waterfall
+method which is more like
+
+16
+00:00:33,550 --> 00:00:35,490
+a standard Sprint 2 methodology.
+
+17
+00:00:35,490 --> 00:00:38,270
+Or we can do it in an agile
+way of working which is more
+
+18
+00:00:38,270 --> 00:00:40,520
+like a Sprint 2 agile methodology.
+
+19
+00:00:40,520 --> 00:00:43,580
+Now, with a waterfall I want to
+figure out the entire thing I
+
+20
+00:00:43,580 --> 00:00:46,609
+need, break it down into smaller
+chunks and then build each
+
+21
+00:00:46,609 --> 00:00:49,220
+of those chunks towards that final vision.
+
+22
+00:00:49,220 --> 00:00:51,970
+But nobody gets to use the
+thing until it's all done.
+
+23
+00:00:51,970 --> 00:00:54,080
+For example, if I was going
+to build a house for you,
+
+24
+00:00:54,080 --> 00:00:55,510
+that's the way I would do it.
+
+25
+00:00:55,510 --> 00:00:57,680
+I would figure out where
+the house is going to go,
+
+26
+00:00:57,680 --> 00:00:59,760
+we would say okay, there
+are lots of different things
+
+27
+00:00:59,760 --> 00:01:01,860
+that need to happen before
+I can give you that house,
+
+28
+00:01:01,860 --> 00:01:03,200
+and before you can move in.
+
+29
+00:01:03,200 --> 00:01:05,150
+I need to make sure the
+basement has been poured.
+
+30
+00:01:05,150 --> 00:01:06,840
+I need to make sure the
+walls has been put up.
+
+31
+00:01:06,840 --> 00:01:08,070
+The electrical has been installed.
+
+32
+00:01:08,070 --> 00:01:09,460
+The plumbing has been installed.
+
+33
+00:01:09,460 --> 00:01:12,060
+The dry wall, the
+painting, all the fixtures.
+
+34
+00:01:12,060 --> 00:01:14,660
+Everything has to be ready
+and then you can move in.
+
+35
+00:01:14,660 --> 00:01:18,070
+So, it might take me 12
+months or 18 months before
+
+36
+00:01:18,070 --> 00:01:20,370
+the house is ready to be delivered to you.
+
+37
+00:01:20,370 --> 00:01:23,070
+Now, on the other hand, if
+I did things in an agile
+
+38
+00:01:23,070 --> 00:01:25,860
+way of working, maybe I'll
+be able to make one room
+
+39
+00:01:25,860 --> 00:01:27,360
+of the house first and you can move in
+
+40
+00:01:27,360 --> 00:01:28,340
+and live in that room.
+
+41
+00:01:28,340 --> 00:01:29,700
+And then we can start building the rest
+
+42
+00:01:29,700 --> 00:01:31,000
+of the house around you.
+
+43
+00:01:31,000 --> 00:01:32,920
+That will be the way we
+can one room at a time
+
+44
+00:01:32,920 --> 00:01:35,610
+and keep giving you one room
+then two rooms and three rooms
+
+45
+00:01:35,610 --> 00:01:38,160
+and four rooms and eventually
+you'll have the whole house.
+
+46
+00:01:38,160 --> 00:01:39,720
+That doesn't work very well on a house
+
+47
+00:01:39,720 --> 00:01:43,090
+but in services and IT, you
+can do that often times.
+
+48
+00:01:43,090 --> 00:01:45,370
+So when you're building a
+service in IT you want to think
+
+49
+00:01:45,370 --> 00:01:47,030
+about that and how you can progress
+
+50
+00:01:47,030 --> 00:01:48,740
+iteratively with feedback.
+
+51
+00:01:48,740 --> 00:01:50,620
+This means we're going
+to organize the work into
+
+52
+00:01:50,620 --> 00:01:52,650
+smaller manageable sections.
+
+53
+00:01:52,650 --> 00:01:54,890
+If I'm going to make an
+iPhone app fore instance,
+
+54
+00:01:54,890 --> 00:01:57,850
+it may have just one
+function when I release it
+
+55
+00:01:57,850 --> 00:01:59,630
+and then I'll add the second function,
+
+56
+00:01:59,630 --> 00:02:01,110
+and then the third function.
+
+57
+00:02:01,110 --> 00:02:04,380
+I can do this sequentially
+or simultaneously.
+
+58
+00:02:04,380 --> 00:02:07,530
+I can make this in manageable
+smaller chunk of code
+
+59
+00:02:07,530 --> 00:02:09,200
+and as I put something out,
+
+60
+00:02:09,200 --> 00:02:11,070
+I can get feedback from my audience
+
+61
+00:02:11,070 --> 00:02:13,970
+that hey, "We don't like
+this, we want more of this."
+
+62
+00:02:13,970 --> 00:02:16,430
+And that gives me some
+tangible results to figure out
+
+63
+00:02:16,430 --> 00:02:17,840
+I'm I hitting the bulls eye?
+
+64
+00:02:17,840 --> 00:02:20,270
+Or do I need to pivot something else.
+
+65
+00:02:20,270 --> 00:02:23,410
+Also, it's better because
+I get timely feedback.
+
+66
+00:02:23,410 --> 00:02:26,190
+If I put out one feature it
+may have only taken me a month
+
+67
+00:02:26,190 --> 00:02:27,090
+or two to build.
+
+68
+00:02:27,090 --> 00:02:29,020
+And you can tell me, you
+know, I really don't like that
+
+69
+00:02:29,020 --> 00:02:31,400
+feature because it needs this other thing.
+
+70
+00:02:31,400 --> 00:02:33,810
+Whereas if I wait an entire
+year to deliver something
+
+71
+00:02:33,810 --> 00:02:35,980
+that had 20 features, you then look at it
+
+72
+00:02:35,980 --> 00:02:37,330
+and go, "No, I don't like it."
+
+73
+00:02:37,330 --> 00:02:39,350
+And we have another year's worth of work.
+
+74
+00:02:39,350 --> 00:02:41,155
+So the idea here is to use smaller pieces
+
+75
+00:02:41,155 --> 00:02:44,530
+and build upon them for
+future improvements.
+
+76
+00:02:44,530 --> 00:02:47,240
+Now, this feedback loop
+is critical inside of this
+
+77
+00:02:47,240 --> 00:02:50,540
+because as I'm delivering
+these small modular chunks,
+
+78
+00:02:50,540 --> 00:02:52,930
+I'm getting feedback from my end users
+
+79
+00:02:52,930 --> 00:02:54,310
+or from my stakeholders.
+
+80
+00:02:54,310 --> 00:02:57,180
+And this feedback loop is a
+situation where part of this
+
+81
+00:02:57,180 --> 00:03:00,693
+output is now activity that's
+going to be used for a new input.
+
+82
+00:03:00,693 --> 00:03:03,544
+So as I gave you a piece
+of software you can say,
+
+83
+00:03:03,544 --> 00:03:05,780
+I like the software but
+the fact that it has
+
+84
+00:03:05,780 --> 00:03:06,733
+a blue icon is bad.
+
+85
+00:03:06,733 --> 00:03:08,910
+I wanted it to have a red icon.
+
+86
+00:03:08,910 --> 00:03:11,190
+That now becomes input that goes back into
+
+87
+00:03:11,190 --> 00:03:15,100
+the second version that's
+going to come with a red icon.
+
+88
+00:03:15,100 --> 00:03:17,430
+A good example of this is
+feedback surveys that you get
+
+89
+00:03:17,430 --> 00:03:18,770
+from customer support.
+
+90
+00:03:18,770 --> 00:03:21,070
+If I'm running a help
+desk or a service desk,
+
+91
+00:03:21,070 --> 00:03:23,180
+after I'm done with the call
+I'm going to get feedback
+
+92
+00:03:23,180 --> 00:03:24,830
+from the user I helped that says,
+
+93
+00:03:24,830 --> 00:03:25,984
+were you satisfied or not?
+
+94
+00:03:25,984 --> 00:03:28,130
+And if not, why not?
+
+95
+00:03:28,130 --> 00:03:31,220
+I can then use that to build
+into the process other things
+
+96
+00:03:31,220 --> 00:03:33,810
+that are going to help
+improve those scores.
+
+97
+00:03:33,810 --> 00:03:36,380
+Now because we're doing
+things in iteratively manner
+
+98
+00:03:36,380 --> 00:03:38,420
+and we're doing things
+in these smaller chunks
+
+99
+00:03:38,420 --> 00:03:39,710
+and getting that feedback,
+
+100
+00:03:39,710 --> 00:03:41,210
+we're going to be able
+to have these initiatives
+
+101
+00:03:41,210 --> 00:03:43,030
+and all the components that make it up
+
+102
+00:03:43,030 --> 00:03:44,880
+broken down into these smaller chunks.
+
+103
+00:03:44,880 --> 00:03:47,180
+And these are going to be
+continually reevaluated
+
+104
+00:03:47,180 --> 00:03:49,870
+to reflect changes in our circumstances.
+
+105
+00:03:49,870 --> 00:03:51,830
+Maybe the requirements
+are going to change.
+
+106
+00:03:51,830 --> 00:03:54,070
+Maybe the market place has shifted.
+
+107
+00:03:54,070 --> 00:03:57,090
+If you went back five or 10
+years the Deal of the Day Sites
+
+108
+00:03:57,090 --> 00:03:58,750
+like Groupon were huge.
+
+109
+00:03:58,750 --> 00:04:00,050
+Everyone was making them.
+
+110
+00:04:00,050 --> 00:04:02,100
+And so, everyone would just
+put them out really quick
+
+111
+00:04:02,100 --> 00:04:03,210
+and see what happened.
+
+112
+00:04:03,210 --> 00:04:05,210
+But if you tried to make the
+Deal of the Day Sites today,
+
+113
+00:04:05,210 --> 00:04:06,950
+you're probably not going
+to do very well with it.
+
+114
+00:04:06,950 --> 00:04:10,010
+So instead if you put that out
+and saw there was no market
+
+115
+00:04:10,010 --> 00:04:12,380
+place intake of it, nobody
+wanted that service.
+
+116
+00:04:12,380 --> 00:04:14,563
+You could say, "Mm-mm,
+what out if this can I use
+
+117
+00:04:14,563 --> 00:04:16,760
+"and make into my next service?"
+
+118
+00:04:16,760 --> 00:04:19,620
+Now, because we are trying
+to progress iteratively,
+
+119
+00:04:19,620 --> 00:04:21,170
+we're going to have all
+these things broken down into
+
+120
+00:04:21,170 --> 00:04:23,630
+smaller chunks of code
+like we've talked about.
+
+121
+00:04:23,630 --> 00:04:27,320
+So this might be smaller systems
+or processes or services.
+
+122
+00:04:27,320 --> 00:04:29,110
+Now we're going to take
+our initiative and break it
+
+123
+00:04:29,110 --> 00:04:30,720
+down into these different components.
+
+124
+00:04:30,720 --> 00:04:33,150
+And throughout each of these
+iterations as we're building
+
+125
+00:04:33,150 --> 00:04:35,080
+them we're going to be getting feedback.
+
+126
+00:04:35,080 --> 00:04:37,540
+Now as we get that feedback,
+we're going to continually
+
+127
+00:04:37,540 --> 00:04:40,612
+reevaluate what we've put out
+and based on that feedback
+
+128
+00:04:40,612 --> 00:04:42,820
+we're going to reflect changes into
+
+129
+00:04:42,820 --> 00:04:44,590
+our next version of products.
+
+130
+00:04:44,590 --> 00:04:46,810
+Now as we're seeking out
+on that feedback we need
+
+131
+00:04:46,810 --> 00:04:49,340
+to make sure we don't just
+collect and do nothing with it.
+
+132
+00:04:49,340 --> 00:04:51,360
+We actually want to use that feedback.
+
+133
+00:04:51,360 --> 00:04:54,800
+We want to use it before,
+during and after building each
+
+134
+00:04:54,800 --> 00:04:56,830
+of these iterations of the service.
+
+135
+00:04:56,830 --> 00:04:59,370
+And so as we keep using
+these feedback loops between
+
+136
+00:04:59,370 --> 00:05:01,780
+all these participants,
+it helps us understand
+
+137
+00:05:01,780 --> 00:05:03,460
+where the work is coming from,
+
+138
+00:05:03,460 --> 00:05:05,420
+where the output from
+the service are going,
+
+139
+00:05:05,420 --> 00:05:07,630
+and how it affects the ultimate consumer,
+
+140
+00:05:07,630 --> 00:05:09,270
+and their affected outputs.
+
+141
+00:05:09,270 --> 00:05:11,930
+By understanding all of that
+we're getting more feedback
+
+142
+00:05:11,930 --> 00:05:13,760
+which allows us to build better.
+
+143
+00:05:13,760 --> 00:05:16,500
+This is all about doing
+things in an agile way
+
+144
+00:05:16,500 --> 00:05:18,230
+because it's quicker to market.
+
+145
+00:05:18,230 --> 00:05:20,020
+So, some of the key takeaways I want you
+
+146
+00:05:20,020 --> 00:05:21,100
+to have from this lesson on
+
+147
+00:05:21,100 --> 00:05:23,640
+Progressing Iteratively and with Feedback
+
+148
+00:05:23,640 --> 00:05:26,170
+is that as you're going through
+you're going to do things
+
+149
+00:05:26,170 --> 00:05:29,580
+by comprehending the whole
+but doing small pieces
+
+150
+00:05:29,580 --> 00:05:30,900
+towards that end goal.
+
+151
+00:05:30,900 --> 00:05:33,230
+So if I think about
+this again like a house,
+
+152
+00:05:33,230 --> 00:05:35,240
+I need to think about what
+the whole house will look like
+
+153
+00:05:35,240 --> 00:05:37,810
+but right now I'm focused
+into building one room, right?
+
+154
+00:05:37,810 --> 00:05:39,520
+And that will be the way
+we can build one room
+
+155
+00:05:39,520 --> 00:05:41,530
+and then the second room
+and then the third room.
+
+156
+00:05:41,530 --> 00:05:43,770
+If you do that in a
+software or a service realm,
+
+157
+00:05:43,770 --> 00:05:45,580
+we're building these components,
+putting them together
+
+158
+00:05:45,580 --> 00:05:47,530
+to give us the complete service.
+
+159
+00:05:47,530 --> 00:05:50,220
+When we think about this, also
+remember that your ecosystem
+
+160
+00:05:50,220 --> 00:05:53,880
+is constantly changing so
+feedback becomes essential.
+
+161
+00:05:53,880 --> 00:05:56,440
+As I'm putting something to
+the market I may find half of
+
+162
+00:05:56,440 --> 00:05:58,750
+my consumers they don't
+care about that feature,
+
+163
+00:05:58,750 --> 00:06:00,080
+they don't care about that service.
+
+164
+00:06:00,080 --> 00:06:02,460
+And so we need to pivot
+and so something different.
+
+165
+00:06:02,460 --> 00:06:04,950
+The other thing is I want
+you to remember that first
+
+166
+00:06:04,950 --> 00:06:06,860
+does not mean incomplete.
+
+167
+00:06:06,860 --> 00:06:10,440
+Even though I'm only giving
+you one chunk or one feature,
+
+168
+00:06:10,440 --> 00:06:12,400
+that feature should be complete.
+
+169
+00:06:12,400 --> 00:06:14,440
+And it can be do that all
+function that it needs to
+
+170
+00:06:14,440 --> 00:06:15,720
+in and of itself.
+
+171
+00:06:15,720 --> 00:06:18,590
+But then the next iteration
+might be able to add
+
+172
+00:06:18,590 --> 00:06:20,389
+a second feature or a third feature.
+
+173
+00:06:20,389 --> 00:06:23,170
+That doesn't mean that one
+feature was incomplete,
+
+174
+00:06:23,170 --> 00:06:26,281
+it was a complete and ready
+product for version one.
+
+175
+00:06:26,281 --> 00:06:28,860
+And now version two has two functions.
+
+176
+00:06:28,860 --> 00:06:30,890
+And version three has three function
+
+177
+00:06:30,890 --> 00:06:32,650
+and you keep adding as you go.
+
+178
+00:06:32,650 --> 00:06:35,160
+Remember, the whole concept
+here is that we can get things
+
+179
+00:06:35,160 --> 00:06:37,340
+out to market faster, we can get feedback
+
+180
+00:06:37,340 --> 00:06:40,253
+and then incorporate that
+into our future versions.
+

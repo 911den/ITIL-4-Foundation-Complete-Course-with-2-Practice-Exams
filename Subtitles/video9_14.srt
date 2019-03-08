@@ -1,0 +1,291 @@
+﻿1
+00:00:00,130 --> 00:00:02,720
+- Capacity and performance management.
+
+2
+00:00:02,720 --> 00:00:04,470
+This is another one that
+you don't need to know
+
+3
+00:00:04,470 --> 00:00:06,440
+for the foundation level exam.
+
+4
+00:00:06,440 --> 00:00:08,800
+But we're going to cover it so
+you have a good understanding,
+
+5
+00:00:08,800 --> 00:00:10,410
+because it is one you're
+going to run across
+
+6
+00:00:10,410 --> 00:00:12,270
+inside the real world.
+
+7
+00:00:12,270 --> 00:00:13,850
+So, the purpose of capacity
+
+8
+00:00:13,850 --> 00:00:15,560
+and performance management practice
+
+9
+00:00:15,560 --> 00:00:18,180
+is to ensure that services
+achieve the agreed-upon
+
+10
+00:00:18,180 --> 00:00:19,800
+and expected performance,
+
+11
+00:00:19,800 --> 00:00:22,020
+satisfies the current and future demand
+
+12
+00:00:22,020 --> 00:00:23,910
+in a cost-effective way.
+
+13
+00:00:23,910 --> 00:00:25,210
+When we talk about performance,
+
+14
+00:00:25,210 --> 00:00:28,440
+this is a measure of what's
+achieved by delivering a system,
+
+15
+00:00:28,440 --> 00:00:31,320
+a person, a team, a practice or a service
+
+16
+00:00:31,320 --> 00:00:33,310
+to do some sort of function.
+
+17
+00:00:33,310 --> 00:00:35,690
+So, if I'm talking about
+service performance,
+
+18
+00:00:35,690 --> 00:00:38,020
+this is associated with a
+number of service actions
+
+19
+00:00:38,020 --> 00:00:39,800
+performed in a given timeframe,
+
+20
+00:00:39,800 --> 00:00:42,290
+and the time to fill that service action
+
+21
+00:00:42,290 --> 00:00:44,120
+at a given level of demand.
+
+22
+00:00:44,120 --> 00:00:45,800
+Going back to my voucher example,
+
+23
+00:00:45,800 --> 00:00:47,250
+when you order a voucher,
+
+24
+00:00:47,250 --> 00:00:48,700
+our service performance metric
+
+25
+00:00:48,700 --> 00:00:51,290
+is that you have it in your
+hand within ten minutes.
+
+26
+00:00:51,290 --> 00:00:52,550
+That's really quick, right?
+
+27
+00:00:52,550 --> 00:00:55,100
+Generally you're going to get
+it in less than 30 seconds,
+
+28
+00:00:55,100 --> 00:00:56,870
+but sometimes it's a little longer.
+
+29
+00:00:56,870 --> 00:00:59,150
+Now, when we talk about
+capacity, on the other hand,
+
+30
+00:00:59,150 --> 00:01:00,650
+and we look at our service capacity,
+
+31
+00:01:00,650 --> 00:01:03,510
+this is the maximum throughput
+that a configuration item
+
+32
+00:01:03,510 --> 00:01:05,080
+or service can deliver.
+
+33
+00:01:05,080 --> 00:01:08,060
+So, if I'm talking about the
+capacity of your hard drive,
+
+34
+00:01:08,060 --> 00:01:09,950
+it's how much data you can store.
+
+35
+00:01:09,950 --> 00:01:11,040
+If I'm talking about the capacity
+
+36
+00:01:11,040 --> 00:01:12,310
+of your network connection,
+
+37
+00:01:12,310 --> 00:01:13,690
+it's how fast it is.
+
+38
+00:01:13,690 --> 00:01:15,510
+Is it 100 megabits per second?
+
+39
+00:01:15,510 --> 00:01:17,310
+Is it one gigabit per second?
+
+40
+00:01:17,310 --> 00:01:18,530
+Whatever it happens to be,
+
+41
+00:01:18,530 --> 00:01:20,310
+that would be your maximum throughput
+
+42
+00:01:20,310 --> 00:01:22,250
+for that configuration item.
+
+43
+00:01:22,250 --> 00:01:24,900
+Now, as we go through and
+we look at our capacity
+
+44
+00:01:24,900 --> 00:01:26,330
+and our performance management,
+
+45
+00:01:26,330 --> 00:01:29,060
+this is where a lot of the
+metrics come into place.
+
+46
+00:01:29,060 --> 00:01:30,760
+If you're working in a technical realm
+
+47
+00:01:30,760 --> 00:01:32,710
+and you're measuring server capacity
+
+48
+00:01:32,710 --> 00:01:34,010
+and server performance,
+
+49
+00:01:34,010 --> 00:01:36,620
+there's going to be lots of different
+metrics you're going to get.
+
+50
+00:01:36,620 --> 00:01:38,020
+I want to warn you again,
+
+51
+00:01:38,020 --> 00:01:39,740
+don't just measure the outputs,
+
+52
+00:01:39,740 --> 00:01:41,289
+measure the outcomes.
+
+53
+00:01:41,289 --> 00:01:44,220
+What is important of all these
+metrics and measurements?
+
+54
+00:01:44,220 --> 00:01:45,590
+Why are we measuring them?
+
+55
+00:01:45,590 --> 00:01:47,330
+What are we hoping to achieve?
+
+56
+00:01:47,330 --> 00:01:49,729
+Often times in capacity
+and performance management,
+
+57
+00:01:49,729 --> 00:01:52,330
+people lose sight of the bigger picture
+
+58
+00:01:52,330 --> 00:01:55,140
+and they focus so hard
+on the individual metrics
+
+59
+00:01:55,140 --> 00:01:58,370
+of capacity and performance
+that it becomes useless.
+
+60
+00:01:58,370 --> 00:01:59,890
+So, I want to warn you against that,
+
+61
+00:01:59,890 --> 00:02:01,930
+but in the real world
+you are going to run into
+
+62
+00:02:01,930 --> 00:02:04,200
+capacity and performance management a lot,
+
+63
+00:02:04,200 --> 00:02:06,230
+especially if you're
+a system administrator
+
+64
+00:02:06,230 --> 00:02:07,500
+or a network administrator.
+
+65
+00:02:07,500 --> 00:02:09,370
+Because those are things
+that, you're trying to meet
+
+66
+00:02:09,370 --> 00:02:12,214
+those particular standards
+inside capacity and performance
+
+67
+00:02:12,214 --> 00:02:13,883
+to meet the metrics you're given.
+

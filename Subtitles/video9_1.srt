@@ -1,0 +1,146 @@
+﻿1
+00:00:00,500 --> 00:00:02,940
+- Service management practices.
+
+2
+00:00:02,940 --> 00:00:05,110
+Service management practices
+have been developed
+
+3
+00:00:05,110 --> 00:00:06,150
+in the service management
+
+4
+00:00:06,150 --> 00:00:08,200
+and IT service management industries
+
+5
+00:00:08,200 --> 00:00:10,550
+over the last 20 to 30 years.
+
+6
+00:00:10,550 --> 00:00:13,450
+Under ITIL 4, there are 17 practices
+
+7
+00:00:13,450 --> 00:00:16,150
+that are going to be in the
+service management category.
+
+8
+00:00:16,150 --> 00:00:17,710
+We're going to briefly cover all of them
+
+9
+00:00:17,710 --> 00:00:19,640
+in this section of the course.
+
+10
+00:00:19,640 --> 00:00:21,610
+Now, of these 17 practices,
+
+11
+00:00:21,610 --> 00:00:23,620
+you need to know six of them in depth,
+
+12
+00:00:23,620 --> 00:00:24,860
+and you need to know four of them
+
+13
+00:00:24,860 --> 00:00:27,250
+at the recall level of the exam.
+
+14
+00:00:27,250 --> 00:00:30,070
+On the exam, you have to be
+able to understand and explain
+
+15
+00:00:30,070 --> 00:00:32,570
+how change control, incident management,
+
+16
+00:00:32,570 --> 00:00:35,950
+problem management, service
+desk, service level management,
+
+17
+00:00:35,950 --> 00:00:39,520
+and service request management
+practices work and function.
+
+18
+00:00:39,520 --> 00:00:42,050
+Also, you need to be able
+to recall the purposes
+
+19
+00:00:42,050 --> 00:00:43,670
+of IT asset management,
+
+20
+00:00:43,670 --> 00:00:46,380
+monitoring and event
+management, release management,
+
+21
+00:00:46,380 --> 00:00:49,150
+and service configuration
+management practices.
+
+22
+00:00:49,150 --> 00:00:51,010
+After we've covered those first 10,
+
+23
+00:00:51,010 --> 00:00:53,130
+then we're going to go and
+cover the rest of them.
+
+24
+00:00:53,130 --> 00:00:54,640
+And these are ones that
+we're going to cover
+
+25
+00:00:54,640 --> 00:00:56,110
+just for a general awareness,
+
+26
+00:00:56,110 --> 00:00:58,220
+not that you need to
+know them for the exam.
+
+27
+00:00:58,220 --> 00:01:01,470
+This includes availability
+management, business analysis,
+
+28
+00:01:01,470 --> 00:01:03,360
+capacity and performance management,
+
+29
+00:01:03,360 --> 00:01:04,900
+service catalog management,
+
+30
+00:01:04,900 --> 00:01:07,630
+service continuity
+management, service design,
+
+31
+00:01:07,630 --> 00:01:10,120
+and service validation
+and testing practices.
+
+32
+00:01:10,120 --> 00:01:12,050
+But again, these practices won't be
+
+33
+00:01:12,050 --> 00:01:13,400
+on your certification exam.
+

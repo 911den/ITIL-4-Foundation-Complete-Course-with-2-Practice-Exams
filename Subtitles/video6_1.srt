@@ -1,0 +1,691 @@
+﻿1
+00:00:00,890 --> 00:00:02,470
+- Welcome to this section of the course
+
+2
+00:00:02,470 --> 00:00:04,670
+on the Service Value Chain.
+
+3
+00:00:04,670 --> 00:00:06,110
+In this section of the course,
+
+4
+00:00:06,110 --> 00:00:07,170
+we're going to be focusing
+
+5
+00:00:07,170 --> 00:00:10,380
+on the fifth major objective for the exam.
+
+6
+00:00:10,380 --> 00:00:12,170
+This states that you have
+to be able to understand
+
+7
+00:00:12,170 --> 00:00:14,010
+the activities of the Service Value Chain,
+
+8
+00:00:14,010 --> 00:00:15,800
+and how they interconnect.
+
+9
+00:00:15,800 --> 00:00:16,950
+Underneath this objective,
+
+10
+00:00:16,950 --> 00:00:18,910
+there are two sub-objectives.
+
+11
+00:00:18,910 --> 00:00:20,840
+It's to describe the interconnected nature
+
+12
+00:00:20,840 --> 00:00:22,050
+of the Service Value Chain
+
+13
+00:00:22,050 --> 00:00:24,420
+and how this supports value streams,
+
+14
+00:00:24,420 --> 00:00:25,920
+and to describe the purpose
+
+15
+00:00:25,920 --> 00:00:28,100
+of each of the value stream activities.
+
+16
+00:00:28,100 --> 00:00:29,400
+That includes Plan,
+
+17
+00:00:29,400 --> 00:00:30,233
+Improve,
+
+18
+00:00:30,233 --> 00:00:31,090
+Engage,
+
+19
+00:00:31,090 --> 00:00:32,360
+Design and Transition,
+
+20
+00:00:32,360 --> 00:00:33,530
+Obtain and Build
+
+21
+00:00:33,530 --> 00:00:35,380
+and Delivery and Support.
+
+22
+00:00:35,380 --> 00:00:38,010
+So back when we talked about
+the Service Value System,
+
+23
+00:00:38,010 --> 00:00:40,200
+we had one inside block
+
+24
+00:00:40,200 --> 00:00:42,920
+that showed us the service value chain.
+
+25
+00:00:42,920 --> 00:00:44,670
+Well, in this section of the course,
+
+26
+00:00:44,670 --> 00:00:46,690
+we're going to break that block open,
+
+27
+00:00:46,690 --> 00:00:48,840
+and look at all of those different pieces.
+
+28
+00:00:48,840 --> 00:00:49,890
+As you can see here,
+
+29
+00:00:49,890 --> 00:00:50,723
+we have things
+
+30
+00:00:50,723 --> 00:00:51,670
+like Engage,
+
+31
+00:00:51,670 --> 00:00:52,503
+Plan,
+
+32
+00:00:52,503 --> 00:00:53,400
+Improve,
+
+33
+00:00:53,400 --> 00:00:54,650
+Design and Transition,
+
+34
+00:00:54,650 --> 00:00:55,680
+Obtain and Build,
+
+35
+00:00:55,680 --> 00:00:56,770
+Deliver and Support
+
+36
+00:00:56,770 --> 00:00:58,380
+and Products and Services.
+
+37
+00:00:58,380 --> 00:01:00,150
+And all of those are
+going to work together
+
+38
+00:01:00,150 --> 00:01:02,450
+as part of this service value chain.
+
+39
+00:01:02,450 --> 00:01:04,490
+Now, there's a couple of
+important things to know
+
+40
+00:01:04,490 --> 00:01:06,530
+when we look at a diagram like this.
+
+41
+00:01:06,530 --> 00:01:10,330
+This is not shown to introduce
+a linear sequence of events.
+
+42
+00:01:10,330 --> 00:01:12,570
+If you happen to be familiar
+with ITIL version three
+
+43
+00:01:12,570 --> 00:01:14,070
+or the older version of ITIL,
+
+44
+00:01:14,070 --> 00:01:16,640
+we had what we called
+the service lifecycle,
+
+45
+00:01:16,640 --> 00:01:19,890
+And it was a sequence of
+actions in a linear format.
+
+46
+00:01:19,890 --> 00:01:21,290
+So we would start with a strategy,
+
+47
+00:01:21,290 --> 00:01:22,390
+and then move to design,
+
+48
+00:01:22,390 --> 00:01:23,690
+and then move to transition,
+
+49
+00:01:23,690 --> 00:01:25,350
+and then move to operations,
+
+50
+00:01:25,350 --> 00:01:27,800
+and then we move to continual
+service improvement.
+
+51
+00:01:27,800 --> 00:01:30,140
+And we work through
+those five life cycles.
+
+52
+00:01:30,140 --> 00:01:32,710
+Here in ITIL 4 we don't do that anymore.
+
+53
+00:01:32,710 --> 00:01:34,620
+This is not a linear sequence.
+
+54
+00:01:34,620 --> 00:01:37,270
+Instead we normally are
+going to start with Engage,
+
+55
+00:01:37,270 --> 00:01:38,720
+but we don't always have to.
+
+56
+00:01:38,720 --> 00:01:40,840
+And based on that we're
+then going to touch
+
+57
+00:01:40,840 --> 00:01:43,800
+into other areas of that interior cube.
+
+58
+00:01:43,800 --> 00:01:45,430
+And as we look at that central cube
+
+59
+00:01:45,430 --> 00:01:46,890
+with the activities that are in there,
+
+60
+00:01:46,890 --> 00:01:48,770
+we have three major groups.
+
+61
+00:01:48,770 --> 00:01:50,440
+We have Design and Transition,
+
+62
+00:01:50,440 --> 00:01:51,360
+Obtain and Build,
+
+63
+00:01:51,360 --> 00:01:53,070
+and Deliver and Support.
+
+64
+00:01:53,070 --> 00:01:54,200
+These are what are referred to
+
+65
+00:01:54,200 --> 00:01:57,860
+as the central activities
+inside the service value chain.
+
+66
+00:01:57,860 --> 00:02:00,100
+And these can interact in any order
+
+67
+00:02:00,100 --> 00:02:03,600
+between each other and with
+the other activities as well.
+
+68
+00:02:03,600 --> 00:02:04,970
+Another important thing to know,
+
+69
+00:02:04,970 --> 00:02:07,215
+is this overlap that
+exists between Improve
+
+70
+00:02:07,215 --> 00:02:10,400
+and the other areas of
+the service value chain.
+
+71
+00:02:10,400 --> 00:02:11,453
+You'll notice that Improve is shown
+
+72
+00:02:11,453 --> 00:02:13,540
+in the lower half of this diagram.
+
+73
+00:02:13,540 --> 00:02:15,920
+And here's this overlap
+of this purple band
+
+74
+00:02:15,920 --> 00:02:18,560
+that goes from Improve
+to Improve and Engage.
+
+75
+00:02:18,560 --> 00:02:21,420
+You have Improve to the activities
+inside the central cube,
+
+76
+00:02:21,420 --> 00:02:23,120
+such as the Deliver and Support,
+
+77
+00:02:23,120 --> 00:02:25,490
+the Design and Transition
+or the Obtain and Build.
+
+78
+00:02:25,490 --> 00:02:28,210
+We have Improve in the
+Products and Services.
+
+79
+00:02:28,210 --> 00:02:30,910
+All of these are here to
+show us that feedback loop
+
+80
+00:02:30,910 --> 00:02:34,060
+that exists between each part
+of the service value chain
+
+81
+00:02:34,060 --> 00:02:36,060
+as it moves through the improvement cycle
+
+82
+00:02:36,060 --> 00:02:38,420
+and the continual service improvement.
+
+83
+00:02:38,420 --> 00:02:40,700
+Now you also need to understand and manage
+
+84
+00:02:40,700 --> 00:02:43,770
+the perceived value of
+this service value chain,
+
+85
+00:02:43,770 --> 00:02:46,590
+because it's going to drive
+the demand for the next order,
+
+86
+00:02:46,590 --> 00:02:47,520
+the next product,
+
+87
+00:02:47,520 --> 00:02:48,570
+the next service
+
+88
+00:02:48,570 --> 00:02:51,000
+or the next iteration of
+your service relationship.
+
+89
+00:02:51,000 --> 00:02:53,810
+Now the reason why we call
+this a service value chain,
+
+90
+00:02:53,810 --> 00:02:56,350
+is because all these
+actions are linked together.
+
+91
+00:02:56,350 --> 00:02:58,360
+So there's a lot of
+interactions that occur
+
+92
+00:02:58,360 --> 00:03:00,230
+between these different practices.
+
+93
+00:03:00,230 --> 00:03:02,700
+This service value chain
+activities are going to represent
+
+94
+00:03:02,700 --> 00:03:04,750
+all of the different steps
+that the organization
+
+95
+00:03:04,750 --> 00:03:08,160
+is going to take in the creation
+or co creation of value.
+
+96
+00:03:08,160 --> 00:03:10,850
+Each activity is going to
+contribute to the value chain
+
+97
+00:03:10,850 --> 00:03:14,650
+by transforming this specific
+inputs into desired outputs.
+
+98
+00:03:14,650 --> 00:03:17,230
+And so as we take things
+from demanding opportunity,
+
+99
+00:03:17,230 --> 00:03:19,320
+it goes through that service value chain,
+
+100
+00:03:19,320 --> 00:03:21,150
+getting additional value added
+
+101
+00:03:21,150 --> 00:03:22,690
+in coming out the other side
+
+102
+00:03:22,690 --> 00:03:25,100
+as the value and the desired outcome
+
+103
+00:03:25,100 --> 00:03:27,140
+that we want for our services.
+
+104
+00:03:27,140 --> 00:03:29,060
+That's the way that we're going
+to be looking at all of this.
+
+105
+00:03:29,060 --> 00:03:31,470
+And so to convert these
+inputs into outputs,
+
+106
+00:03:31,470 --> 00:03:32,860
+these value chain activities
+
+107
+00:03:32,860 --> 00:03:34,670
+are going to use different combinations
+
+108
+00:03:34,670 --> 00:03:37,640
+of the 34 ITIL practices that
+we're going to to discuss
+
+109
+00:03:37,640 --> 00:03:39,730
+throughout the remainder of this course.
+
+110
+00:03:39,730 --> 00:03:42,140
+Each activity can draw upon internal
+
+111
+00:03:42,140 --> 00:03:43,790
+or third party resources.
+
+112
+00:03:43,790 --> 00:03:45,450
+They can look at different processes,
+
+113
+00:03:45,450 --> 00:03:47,270
+different skills and competencies,
+
+114
+00:03:47,270 --> 00:03:50,330
+from one or more of these 34 practices.
+
+115
+00:03:50,330 --> 00:03:51,870
+They don't have to be done individually.
+
+116
+00:03:51,870 --> 00:03:53,720
+They can be combined together too.
+
+117
+00:03:53,720 --> 00:03:55,010
+And that's the whole idea here.
+
+118
+00:03:55,010 --> 00:03:57,000
+As we start getting
+these inner relationships
+
+119
+00:03:57,000 --> 00:03:59,650
+through the service
+value chain activities.
+
+120
+00:03:59,650 --> 00:04:02,130
+All of the incoming and
+outgoing interactions
+
+121
+00:04:02,130 --> 00:04:03,530
+with all of the different parties
+
+122
+00:04:03,530 --> 00:04:05,420
+that are external to
+your service provider,
+
+123
+00:04:05,420 --> 00:04:08,880
+are all performed through the
+Engage value chain activity.
+
+124
+00:04:08,880 --> 00:04:10,870
+That's why it's one of those first ones
+
+125
+00:04:10,870 --> 00:04:12,560
+that normally occurs.
+
+126
+00:04:12,560 --> 00:04:14,160
+Anytime you want to new resource,
+
+127
+00:04:14,160 --> 00:04:15,210
+that's going to be obtained
+
+128
+00:04:15,210 --> 00:04:17,680
+through the Obtain and Build activity.
+
+129
+00:04:17,680 --> 00:04:19,180
+Anytime you want to plan something.
+
+130
+00:04:19,180 --> 00:04:22,040
+Any planning is going to occur
+through the Plan activity.
+
+131
+00:04:22,040 --> 00:04:23,300
+When you try to improve things,
+
+132
+00:04:23,300 --> 00:04:25,470
+that's going to happen
+through the Improve activity.
+
+133
+00:04:25,470 --> 00:04:27,480
+You're kind of getting
+the idea here, right?
+
+134
+00:04:27,480 --> 00:04:29,310
+All of the different things that we do,
+
+135
+00:04:29,310 --> 00:04:31,290
+are going to be bend into one or more
+
+136
+00:04:31,290 --> 00:04:32,720
+of these different buckets.
+
+137
+00:04:32,720 --> 00:04:34,270
+As we create and modify,
+
+138
+00:04:34,270 --> 00:04:35,570
+and deliver and maintain,
+
+139
+00:04:35,570 --> 00:04:36,890
+and support a component,
+
+140
+00:04:36,890 --> 00:04:38,420
+a product or a service,
+
+141
+00:04:38,420 --> 00:04:40,990
+all that's going to happen
+inside that central cube.
+
+142
+00:04:40,990 --> 00:04:42,610
+Between Design and Transition,
+
+143
+00:04:42,610 --> 00:04:45,410
+Obtain and Build and Delivery and Support.
+
+144
+00:04:45,410 --> 00:04:47,020
+As we look at our products and services,
+
+145
+00:04:47,020 --> 00:04:48,660
+our demand and our value,
+
+146
+00:04:48,660 --> 00:04:51,550
+these are not considered
+value chain activities, right?
+
+147
+00:04:51,550 --> 00:04:54,100
+Those go back to our service value system.
+
+148
+00:04:54,100 --> 00:04:56,260
+Those are our inputs and our outputs.
+
+149
+00:04:56,260 --> 00:04:58,670
+So the inside is what we're
+really looking at here.
+
+150
+00:04:58,670 --> 00:04:59,840
+That's Engage,
+
+151
+00:04:59,840 --> 00:05:00,750
+Plan,
+
+152
+00:05:00,750 --> 00:05:01,720
+Improve,
+
+153
+00:05:01,720 --> 00:05:02,770
+Obtain/build,
+
+154
+00:05:02,770 --> 00:05:04,040
+Delivery and Support
+
+155
+00:05:04,040 --> 00:05:05,640
+and Design and Transition.
+
+156
+00:05:05,640 --> 00:05:06,810
+As we look at those,
+
+157
+00:05:06,810 --> 00:05:08,530
+that is what we're going to be focusing on
+
+158
+00:05:08,530 --> 00:05:10,650
+in this section of the course
+and we're going to dive
+
+159
+00:05:10,650 --> 00:05:13,280
+into each one of those in
+their own separate lecture,
+
+160
+00:05:13,280 --> 00:05:14,363
+as we move forward.
+

@@ -1,0 +1,173 @@
+﻿1
+00:00:00,410 --> 00:00:01,840
+- In this section of the course,
+
+2
+00:00:01,840 --> 00:00:03,970
+we're going to discuss the four dimensions
+
+3
+00:00:03,970 --> 00:00:05,440
+of service management.
+
+4
+00:00:05,440 --> 00:00:06,540
+Now as we do this,
+
+5
+00:00:06,540 --> 00:00:09,110
+this is going to relate to the
+describe the four dimensions
+
+6
+00:00:09,110 --> 00:00:12,030
+of IT Service Management
+objective from the exam.
+
+7
+00:00:12,030 --> 00:00:14,530
+This is considered a
+Bloom's level two objective,
+
+8
+00:00:14,530 --> 00:00:16,660
+which means that we're going
+to have to describe it.
+
+9
+00:00:16,660 --> 00:00:19,420
+We're not going to be memorizing
+definitions specifically.
+
+10
+00:00:19,420 --> 00:00:21,470
+But we need to understand
+how this model works,
+
+11
+00:00:21,470 --> 00:00:23,610
+and how it applies in ITIL.
+
+12
+00:00:23,610 --> 00:00:25,580
+Now when we talk about the four dimensions
+
+13
+00:00:25,580 --> 00:00:26,940
+of IT Service Management,
+
+14
+00:00:26,940 --> 00:00:28,120
+what we're really talking about
+
+15
+00:00:28,120 --> 00:00:30,080
+is four different perspectives.
+
+16
+00:00:30,080 --> 00:00:31,470
+So if I have in the center,
+
+17
+00:00:31,470 --> 00:00:33,460
+the value that I'm trying to co-create,
+
+18
+00:00:33,460 --> 00:00:35,340
+I do that by using different products
+
+19
+00:00:35,340 --> 00:00:37,830
+and services that I deliver
+as a service provider
+
+20
+00:00:37,830 --> 00:00:39,860
+to my consumer or my customer.
+
+21
+00:00:39,860 --> 00:00:42,960
+Now, the consumer and
+customer has this product
+
+22
+00:00:42,960 --> 00:00:44,600
+that they want to get value from right?
+
+23
+00:00:44,600 --> 00:00:45,433
+And that means
+
+24
+00:00:45,433 --> 00:00:47,860
+we have to deliver that
+product or that service.
+
+25
+00:00:47,860 --> 00:00:49,790
+Now when I go to create
+a product or service,
+
+26
+00:00:49,790 --> 00:00:52,200
+I look at it from four
+different perspectives.
+
+27
+00:00:52,200 --> 00:00:53,450
+And these four perspectives
+
+28
+00:00:53,450 --> 00:00:55,250
+are what we call the four dimensions
+
+29
+00:00:55,250 --> 00:00:56,840
+of IT Service Management.
+
+30
+00:00:56,840 --> 00:00:59,660
+The first one is the
+organizations and people.
+
+31
+00:00:59,660 --> 00:01:02,120
+The second is information and technology.
+
+32
+00:01:02,120 --> 00:01:04,270
+The third is the partners and suppliers.
+
+33
+00:01:04,270 --> 00:01:07,150
+And the fourth is the value
+streams and processes.
+
+34
+00:01:07,150 --> 00:01:09,940
+And all around that they
+have these external factors
+
+35
+00:01:09,940 --> 00:01:12,370
+you can see around the side
+that are going to impact
+
+36
+00:01:12,370 --> 00:01:14,720
+the service and products
+that we're creating as well.
+
+37
+00:01:14,720 --> 00:01:17,020
+Now we're going to talk about
+each of these four areas,
+
+38
+00:01:17,020 --> 00:01:18,620
+and those external factors
+
+39
+00:01:18,620 --> 00:01:20,420
+throughout the rest of this section.
+

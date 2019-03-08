@@ -1,0 +1,496 @@
+﻿1
+00:00:00,670 --> 00:00:02,200
+- What is value?
+
+2
+00:00:02,200 --> 00:00:05,440
+Well in ITL 4, value is
+the perceived benefits,
+
+3
+00:00:05,440 --> 00:00:07,700
+usefulness, and importance of something.
+
+4
+00:00:07,700 --> 00:00:09,360
+Now I know this is very generic.
+
+5
+00:00:09,360 --> 00:00:12,540
+But let's dig into the short
+definition and explore it a bit
+
+6
+00:00:12,540 --> 00:00:14,970
+because value is an
+extremely important concept
+
+7
+00:00:14,970 --> 00:00:18,110
+inside of ITIL and service
+management in general.
+
+8
+00:00:18,110 --> 00:00:21,530
+First, notice in the definition
+that value is perceived.
+
+9
+00:00:21,530 --> 00:00:23,180
+This means that the amount of value
+
+10
+00:00:23,180 --> 00:00:25,890
+something has is always subjective.
+
+11
+00:00:25,890 --> 00:00:28,720
+Who gets to determine this
+perceived amount of value?
+
+12
+00:00:28,720 --> 00:00:30,310
+Well the privilege is reserved
+
+13
+00:00:30,310 --> 00:00:32,030
+for the recipient of the value.
+
+14
+00:00:32,030 --> 00:00:34,570
+So let me give you an
+example to help clarify it.
+
+15
+00:00:34,570 --> 00:00:37,150
+There's two roommates, Julia and John.
+
+16
+00:00:37,150 --> 00:00:38,800
+One afternoon, they both decide
+
+17
+00:00:38,800 --> 00:00:40,580
+they want to go get an orange.
+
+18
+00:00:40,580 --> 00:00:42,170
+They walk over to the refrigerator
+
+19
+00:00:42,170 --> 00:00:43,500
+to each get themself an orange
+
+20
+00:00:43,500 --> 00:00:46,560
+and find that there's only
+one left in the fruit drawer.
+
+21
+00:00:46,560 --> 00:00:47,780
+They begin to fight with each other
+
+22
+00:00:47,780 --> 00:00:51,000
+because each person really wants
+that orange for themselves.
+
+23
+00:00:51,000 --> 00:00:53,330
+Julia says she values the orange more
+
+24
+00:00:53,330 --> 00:00:54,600
+and she should have it.
+
+25
+00:00:54,600 --> 00:00:57,500
+But John quickly retorts that
+he values the orange more
+
+26
+00:00:57,500 --> 00:00:59,090
+and that he should have it.
+
+27
+00:00:59,090 --> 00:01:00,500
+Neither person explains to the other
+
+28
+00:01:00,500 --> 00:01:01,780
+why they want the orange.
+
+29
+00:01:01,780 --> 00:01:03,680
+Instead they don't tell
+them about the value
+
+30
+00:01:03,680 --> 00:01:05,380
+they perceive that it has.
+
+31
+00:01:05,380 --> 00:01:08,190
+But being omniscient as the
+narrator in this example,
+
+32
+00:01:08,190 --> 00:01:09,590
+I know exactly what each of them
+
+33
+00:01:09,590 --> 00:01:11,140
+wants to do with that orange.
+
+34
+00:01:11,140 --> 00:01:13,140
+Julia's hungry and she desired to have
+
+35
+00:01:13,140 --> 00:01:15,080
+a sweet and healthy afternoon snack.
+
+36
+00:01:15,080 --> 00:01:17,980
+So if she gets the orange,
+she plans to cut it apart,
+
+37
+00:01:17,980 --> 00:01:20,040
+eat the sweet, juicy flesh inside of it,
+
+38
+00:01:20,040 --> 00:01:21,560
+and throw away the peel.
+
+39
+00:01:21,560 --> 00:01:23,440
+Now in her perceived value of this orange,
+
+40
+00:01:23,440 --> 00:01:26,070
+the inside of the orange
+holds 100% of the value
+
+41
+00:01:26,070 --> 00:01:28,930
+and the peel is garbage, it's worthless.
+
+42
+00:01:28,930 --> 00:01:31,190
+John on the other hand, he's a baker,
+
+43
+00:01:31,190 --> 00:01:34,090
+and this afternoon he wanted
+to make some orange cupcakes.
+
+44
+00:01:34,090 --> 00:01:35,720
+So he needed the orange peel
+
+45
+00:01:35,720 --> 00:01:37,440
+to be able to zest it into the batter.
+
+46
+00:01:37,440 --> 00:01:40,380
+If he gets the orange, he
+intends to simply use the peel
+
+47
+00:01:40,380 --> 00:01:43,540
+and throw away the orange and
+sweet inside into the trash.
+
+48
+00:01:43,540 --> 00:01:46,490
+Unlike Julia who places
+100% of the orange's value
+
+49
+00:01:46,490 --> 00:01:49,040
+on it's ability to be eaten
+as an afternoon snack,
+
+50
+00:01:49,040 --> 00:01:50,850
+John believes that that part of the orange
+
+51
+00:01:50,850 --> 00:01:52,400
+is completely worthless.
+
+52
+00:01:52,400 --> 00:01:56,330
+Instead, he places 100% of the
+value into the orange peel.
+
+53
+00:01:56,330 --> 00:01:57,770
+Now I'm sure you can see the
+
+54
+00:01:57,770 --> 00:01:59,610
+interesting thing here about value.
+
+55
+00:01:59,610 --> 00:02:02,570
+This one orange could
+serve 100% of the needs
+
+56
+00:02:02,570 --> 00:02:04,840
+for each person involved
+in this transaction.
+
+57
+00:02:04,840 --> 00:02:06,220
+If only they could communicate
+
+58
+00:02:06,220 --> 00:02:08,400
+their true desires for that orange.
+
+59
+00:02:08,400 --> 00:02:10,200
+They could both have 100% of the value
+
+60
+00:02:10,200 --> 00:02:12,670
+because the value is perceived
+by the end recipient.
+
+61
+00:02:12,670 --> 00:02:14,620
+And in this case, our two roommates
+
+62
+00:02:14,620 --> 00:02:16,110
+each view it differently.
+
+63
+00:02:16,110 --> 00:02:17,300
+Now to the grocer who was
+
+64
+00:02:17,300 --> 00:02:18,900
+the original supplier of this orange,
+
+65
+00:02:18,900 --> 00:02:21,410
+he sold that orange for a single dollar.
+
+66
+00:02:21,410 --> 00:02:23,760
+Had he'd known that they
+both value that $1 orange
+
+67
+00:02:23,760 --> 00:02:25,560
+for different reasons, maybe he would have
+
+68
+00:02:25,560 --> 00:02:27,900
+cut the orange apart, separate the insides
+
+69
+00:02:27,900 --> 00:02:31,180
+away from the peel and sold
+each portion for a dollar each.
+
+70
+00:02:31,180 --> 00:02:32,690
+And if he done that to
+each of the roommates,
+
+71
+00:02:32,690 --> 00:02:35,090
+he would have doubled the
+orange's value for himself.
+
+72
+00:02:35,090 --> 00:02:36,730
+Now I know that sounds a little crazy,
+
+73
+00:02:36,730 --> 00:02:38,500
+but I bet on exam day you're going to
+
+74
+00:02:38,500 --> 00:02:40,700
+remember about this orange and value.
+
+75
+00:02:40,700 --> 00:02:42,670
+You're going to remember
+that the amount of value
+
+76
+00:02:42,670 --> 00:02:44,140
+that something has is based on
+
+77
+00:02:44,140 --> 00:02:47,100
+the recipient's perception
+of that value right?
+
+78
+00:02:47,100 --> 00:02:48,460
+It's the recipient that actually is
+
+79
+00:02:48,460 --> 00:02:50,680
+expected to get the
+value from the products,
+
+80
+00:02:50,680 --> 00:02:52,860
+from those relationships,
+from those services,
+
+81
+00:02:52,860 --> 00:02:54,910
+from whatever it is we're
+expecting to deliver,
+
+82
+00:02:54,910 --> 00:02:57,030
+or to facilitate the value for them.
+
+83
+00:02:57,030 --> 00:02:59,870
+Because of this, value is
+always considered subjective.
+
+84
+00:02:59,870 --> 00:03:01,070
+And it can be quite different
+
+85
+00:03:01,070 --> 00:03:03,170
+from what the original
+supplier planned for.
+
+86
+00:03:03,170 --> 00:03:04,570
+It may be different from what they
+
+87
+00:03:04,570 --> 00:03:05,930
+had described the product as
+
+88
+00:03:05,930 --> 00:03:07,540
+or what service it was going to fulfill,
+
+89
+00:03:07,540 --> 00:03:09,890
+and from what we originally agreed to.
+
+90
+00:03:09,890 --> 00:03:12,300
+This subjectivity should be captured,
+
+91
+00:03:12,300 --> 00:03:14,090
+measured, and evaluated because
+
+92
+00:03:14,090 --> 00:03:16,450
+this is what we have to
+work with as an organization
+
+93
+00:03:16,450 --> 00:03:18,430
+that performs service management.
+
+94
+00:03:18,430 --> 00:03:21,320
+Now let's get back to our
+definition of value once more.
+
+95
+00:03:21,320 --> 00:03:23,600
+Value is the perceived benefits,
+
+96
+00:03:23,600 --> 00:03:26,030
+usefulness, and importance of something.
+
+97
+00:03:26,030 --> 00:03:29,810
+As I said before this definition
+is a bit generic right.
+
+98
+00:03:29,810 --> 00:03:33,120
+This is because it uses this
+vague term of something.
+
+99
+00:03:33,120 --> 00:03:36,120
+This word was specifically
+chosen by the creator's of ITIL
+
+100
+00:03:36,120 --> 00:03:37,670
+because service management goes beyond
+
+101
+00:03:37,670 --> 00:03:39,410
+just services these days.
+
+102
+00:03:39,410 --> 00:03:42,270
+Because the perceived benefits
+and usefulness of something
+
+103
+00:03:42,270 --> 00:03:44,100
+really do depend on the context
+
+104
+00:03:44,100 --> 00:03:45,550
+that it's being talked about.
+
+105
+00:03:45,550 --> 00:03:48,740
+In each given context, we
+know what that something is.
+
+106
+00:03:48,740 --> 00:03:51,090
+And we know what it means
+in the value definition.
+
+107
+00:03:51,090 --> 00:03:52,940
+But in a generic definition like this,
+
+108
+00:03:52,940 --> 00:03:56,330
+we can't simply list all of
+the things something could be.
+
+109
+00:03:56,330 --> 00:03:58,400
+So something becomes that placeholder.
+
+110
+00:03:58,400 --> 00:03:59,920
+Because when we talk about value,
+
+111
+00:03:59,920 --> 00:04:02,620
+value is really based on
+these relationships as well.
+
+112
+00:04:02,620 --> 00:04:03,660
+And we're going to discuss those
+
+113
+00:04:03,660 --> 00:04:05,883
+service relationships in a future lesson.
+

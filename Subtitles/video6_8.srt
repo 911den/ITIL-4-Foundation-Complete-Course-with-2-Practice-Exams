@@ -1,0 +1,226 @@
+﻿1
+00:00:00,240 --> 00:00:02,200
+- Value streams.
+
+2
+00:00:02,200 --> 00:00:04,650
+We've talked a lot about
+the different activities
+
+3
+00:00:04,650 --> 00:00:06,920
+inside the service value chain
+
+4
+00:00:06,920 --> 00:00:08,960
+and you saw where there
+was a lot of overlap
+
+5
+00:00:08,960 --> 00:00:12,280
+and coordination where one
+activity fed into another
+
+6
+00:00:12,280 --> 00:00:14,000
+and then it took that input and created
+
+7
+00:00:14,000 --> 00:00:15,040
+another output that went to
+
+8
+00:00:15,040 --> 00:00:16,840
+a different value chain activity.
+
+9
+00:00:16,840 --> 00:00:19,130
+So there's a lot of interconnections here.
+
+10
+00:00:19,130 --> 00:00:21,300
+Whenever we're trying to
+carry out a certain task
+
+11
+00:00:21,300 --> 00:00:23,460
+or respond to a particular situation,
+
+12
+00:00:23,460 --> 00:00:26,750
+we create what's known as
+a service value stream.
+
+13
+00:00:26,750 --> 00:00:29,430
+This service value stream
+is a specific combination
+
+14
+00:00:29,430 --> 00:00:31,840
+of activities and practices and each one
+
+15
+00:00:31,840 --> 00:00:34,350
+is designed for a particular scenario.
+
+16
+00:00:34,350 --> 00:00:38,020
+So I might have something that
+takes five steps to complete.
+
+17
+00:00:38,020 --> 00:00:39,820
+It might start in the engage activity
+
+18
+00:00:39,820 --> 00:00:42,770
+and do three steps there, and then move on
+
+19
+00:00:42,770 --> 00:00:44,440
+to the deliver and support activity,
+
+20
+00:00:44,440 --> 00:00:46,460
+where two more steps are conducted.
+
+21
+00:00:46,460 --> 00:00:48,210
+Now, there may be a different scenario
+
+22
+00:00:48,210 --> 00:00:50,820
+and a different activity when
+we get it from the engage
+
+23
+00:00:50,820 --> 00:00:53,120
+and there's only two steps
+in the engage activity.
+
+24
+00:00:53,120 --> 00:00:55,340
+And then it passes it over
+to deliver and support,
+
+25
+00:00:55,340 --> 00:00:56,950
+where there's two other steps.
+
+26
+00:00:56,950 --> 00:00:58,840
+As you can see, we can
+break these things up
+
+27
+00:00:58,840 --> 00:01:01,109
+in any way we want, and
+we can pass information
+
+28
+00:01:01,109 --> 00:01:02,910
+from one to the other.
+
+29
+00:01:02,910 --> 00:01:06,110
+As each value stream is made
+up of different combinations
+
+30
+00:01:06,110 --> 00:01:08,730
+of value chain activities and practices,
+
+31
+00:01:08,730 --> 00:01:10,260
+we're going to make sure
+that we understand what
+
+32
+00:01:10,260 --> 00:01:12,400
+the input and the output is,
+
+33
+00:01:12,400 --> 00:01:14,760
+because understanding what
+the input and output is,
+
+34
+00:01:14,760 --> 00:01:17,670
+is specific to each
+particular value stream.
+
+35
+00:01:17,670 --> 00:01:19,420
+For the two streams I show here,
+
+36
+00:01:19,420 --> 00:01:21,460
+where you have stream A and stream B,
+
+37
+00:01:21,460 --> 00:01:24,190
+they're going to go through
+a different set of processes
+
+38
+00:01:24,190 --> 00:01:27,280
+and steps internal to
+each of those activities.
+
+39
+00:01:27,280 --> 00:01:30,000
+And, that's going to create
+a different output based on
+
+40
+00:01:30,000 --> 00:01:31,540
+the input it gets.
+
+41
+00:01:31,540 --> 00:01:34,409
+This is the idea of how we put
+all of these things together
+
+42
+00:01:34,409 --> 00:01:37,470
+and create all of these
+different value streams,
+
+43
+00:01:37,470 --> 00:01:39,540
+which are basically going
+to be different procedures
+
+44
+00:01:39,540 --> 00:01:42,530
+or processes as they take
+whatever the input is,
+
+45
+00:01:42,530 --> 00:01:44,540
+do a bunch of things to add value,
+
+46
+00:01:44,540 --> 00:01:47,080
+and output value on the other side.
+
+47
+00:01:47,080 --> 00:01:48,690
+That's the whole idea here.
+
+48
+00:01:48,690 --> 00:01:52,030
+And that's why the service
+value chain is so important.
+
+49
+00:01:52,030 --> 00:01:55,010
+It's because of all of these
+interrelations that occur
+
+50
+00:01:55,010 --> 00:01:57,703
+as we move through the
+process and add more value.
+

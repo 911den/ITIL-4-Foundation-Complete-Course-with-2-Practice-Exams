@@ -1,0 +1,1028 @@
+﻿1
+00:00:00,380 --> 00:00:02,600
+- The next value chain
+activity we're going to cover
+
+2
+00:00:02,600 --> 00:00:05,210
+is the engage value chain activity.
+
+3
+00:00:05,210 --> 00:00:07,800
+The purpose of the engage
+value chain activity
+
+4
+00:00:07,800 --> 00:00:09,380
+is to provide a good understanding
+
+5
+00:00:09,380 --> 00:00:12,410
+of the stakeholder needs, to
+ensure continual engagement
+
+6
+00:00:12,410 --> 00:00:14,640
+with all of the stakeholders is occurring,
+
+7
+00:00:14,640 --> 00:00:17,790
+and to promote good transparency
+and good relationships
+
+8
+00:00:17,790 --> 00:00:19,740
+with all of our stakeholders.
+
+9
+00:00:19,740 --> 00:00:21,530
+Really, when we talk about engage,
+
+10
+00:00:21,530 --> 00:00:24,550
+think about going out and
+talking to other people.
+
+11
+00:00:24,550 --> 00:00:25,930
+That's what we're really doing
+
+12
+00:00:25,930 --> 00:00:27,960
+at the heart of this engage process.
+
+13
+00:00:27,960 --> 00:00:29,740
+This is going to be going
+out to our stakeholders
+
+14
+00:00:29,740 --> 00:00:33,140
+both internally and externally
+to our organization.
+
+15
+00:00:33,140 --> 00:00:34,780
+So when I think about the different inputs
+
+16
+00:00:34,780 --> 00:00:36,420
+to the engage activity here,
+
+17
+00:00:36,420 --> 00:00:38,690
+I'm thinking about the
+product and service portfolio
+
+18
+00:00:38,690 --> 00:00:40,350
+that I'm going to get from plans.
+
+19
+00:00:40,350 --> 00:00:42,590
+When I get the product
+and service portfolio,
+
+20
+00:00:42,590 --> 00:00:44,690
+I then can think about, who do I need
+
+21
+00:00:44,690 --> 00:00:45,880
+to start engaging with?
+
+22
+00:00:45,880 --> 00:00:48,170
+Who needs to know about this new roadmap?
+
+23
+00:00:48,170 --> 00:00:50,880
+Who needs to know that there's
+a new product coming online?
+
+24
+00:00:50,880 --> 00:00:53,790
+Who needs to know what they
+can provide into that service
+
+25
+00:00:53,790 --> 00:00:55,740
+or to that part of that service portfolio?
+
+26
+00:00:55,740 --> 00:00:58,270
+That's the whole idea
+there, is communicating that
+
+27
+00:00:58,270 --> 00:01:00,850
+inward and outward across the organization
+
+28
+00:01:00,850 --> 00:01:02,480
+and out to your partners.
+
+29
+00:01:02,480 --> 00:01:04,430
+Also, we're going to be looking for inputs
+
+30
+00:01:04,430 --> 00:01:07,250
+for high-level demand for
+services and products.
+
+31
+00:01:07,250 --> 00:01:08,470
+This is something we're going to see
+
+32
+00:01:08,470 --> 00:01:11,690
+usually from our customers,
+and so as part of engage,
+
+33
+00:01:11,690 --> 00:01:14,760
+we're going to listen to our
+customers and what they want.
+
+34
+00:01:14,760 --> 00:01:16,970
+For example, if I have a hundred students
+
+35
+00:01:16,970 --> 00:01:19,160
+who reach out to me and
+tell me, hey, Jason,
+
+36
+00:01:19,160 --> 00:01:22,530
+I want you to start offering
+X certification product,
+
+37
+00:01:22,530 --> 00:01:23,820
+we might start listening to that
+
+38
+00:01:23,820 --> 00:01:26,970
+and go build that certification,
+and put that into our plans
+
+39
+00:01:26,970 --> 00:01:29,280
+and move that throughout
+our whole lifecycle, right?
+
+40
+00:01:29,280 --> 00:01:31,140
+It all depends on what the demand is
+
+41
+00:01:31,140 --> 00:01:32,710
+for our services and our products,
+
+42
+00:01:32,710 --> 00:01:34,800
+and we listen to our customers on that.
+
+43
+00:01:34,800 --> 00:01:37,460
+One of the reasons why we
+offer the PRINCE2 certification
+
+44
+00:01:37,460 --> 00:01:39,930
+is because a lot of my
+IDOL students had said,
+
+45
+00:01:39,930 --> 00:01:42,670
+hey, I want to get a project
+management certification.
+
+46
+00:01:42,670 --> 00:01:43,670
+Will you offer PRINCE2?
+
+47
+00:01:43,670 --> 00:01:46,500
+And so we went out, because
+we had a large enough demand,
+
+48
+00:01:46,500 --> 00:01:47,920
+and we did that.
+
+49
+00:01:47,920 --> 00:01:50,500
+Another input is the
+request and feedback you get
+
+50
+00:01:50,500 --> 00:01:51,650
+from your customers.
+
+51
+00:01:51,650 --> 00:01:52,830
+As you go through this course,
+
+52
+00:01:52,830 --> 00:01:55,030
+we ask for reviews and feedback from you.
+
+53
+00:01:55,030 --> 00:01:56,420
+If you tell us that you don't like it
+
+54
+00:01:56,420 --> 00:01:58,830
+because Jason talks too
+long in his examples,
+
+55
+00:01:58,830 --> 00:02:02,120
+then next time we build a
+course, we'll use less examples.
+
+56
+00:02:02,120 --> 00:02:04,230
+We've gotten a lot of that type
+of feedback over the years,
+
+57
+00:02:04,230 --> 00:02:06,110
+of things we can change and make better,
+
+58
+00:02:06,110 --> 00:02:08,230
+and we implement that each and every time.
+
+59
+00:02:08,230 --> 00:02:10,600
+You want to do the same
+thing with your IT services.
+
+60
+00:02:10,600 --> 00:02:12,830
+You're always wanting to get
+feedback from your customers
+
+61
+00:02:12,830 --> 00:02:16,010
+and then using that feedback,
+you can make a better product.
+
+62
+00:02:16,010 --> 00:02:18,310
+Next, we also want to
+think about the incidents,
+
+63
+00:02:18,310 --> 00:02:21,410
+the service requests, and
+feedback from your end users.
+
+64
+00:02:21,410 --> 00:02:23,760
+This may be different from
+your customers, right?
+
+65
+00:02:23,760 --> 00:02:26,420
+In my case, my customers are my users,
+
+66
+00:02:26,420 --> 00:02:29,230
+but if we look at this
+from a large IT stance,
+
+67
+00:02:29,230 --> 00:02:31,980
+I might have a customer who buys a service
+
+68
+00:02:31,980 --> 00:02:34,400
+for hundreds of users underneath them.
+
+69
+00:02:34,400 --> 00:02:37,040
+In that case, I need to think
+about the feedback differently
+
+70
+00:02:37,040 --> 00:02:39,750
+from the customer level
+and from the user level.
+
+71
+00:02:39,750 --> 00:02:41,210
+When you take all that input in,
+
+72
+00:02:41,210 --> 00:02:42,690
+it helps you in your engagement
+
+73
+00:02:42,690 --> 00:02:44,320
+to figure out what you're doing right,
+
+74
+00:02:44,320 --> 00:02:45,890
+and then you can pass that information
+
+75
+00:02:45,890 --> 00:02:47,630
+over to the improve process,
+
+76
+00:02:47,630 --> 00:02:50,340
+so they can then work it
+into improvement plans.
+
+77
+00:02:50,340 --> 00:02:52,610
+Also, another input we have is information
+
+78
+00:02:52,610 --> 00:02:54,880
+on the completion of user support tasks,
+
+79
+00:02:54,880 --> 00:02:56,360
+from delivery and support.
+
+80
+00:02:56,360 --> 00:02:58,140
+One of the big things that your engage
+
+81
+00:02:58,140 --> 00:03:01,470
+is going to be working closely
+with, is delivery and support,
+
+82
+00:03:01,470 --> 00:03:03,200
+because in deliver and support,
+
+83
+00:03:03,200 --> 00:03:05,140
+that's where your service
+desk comes into play.
+
+84
+00:03:05,140 --> 00:03:07,170
+That's where your
+operations comes into play.
+
+85
+00:03:07,170 --> 00:03:08,520
+That's where you're
+going to be reaching out
+
+86
+00:03:08,520 --> 00:03:10,050
+and touching your end users,
+
+87
+00:03:10,050 --> 00:03:11,810
+and getting their feedback directly,
+
+88
+00:03:11,810 --> 00:03:13,110
+so being able to look at that
+
+89
+00:03:13,110 --> 00:03:14,710
+and feeding that information back
+
+90
+00:03:14,710 --> 00:03:17,660
+through deliver and support,
+into the engage process,
+
+91
+00:03:17,660 --> 00:03:19,520
+and from engage, out to the other parts
+
+92
+00:03:19,520 --> 00:03:22,710
+of the service value
+chain, is really important.
+
+93
+00:03:22,710 --> 00:03:24,680
+Next, we also want to consider on input
+
+94
+00:03:24,680 --> 00:03:26,350
+of our market opportunities.
+
+95
+00:03:26,350 --> 00:03:27,720
+As we look at the market,
+
+96
+00:03:27,720 --> 00:03:30,860
+and we see what the demand looks
+like and the opportunities,
+
+97
+00:03:30,860 --> 00:03:32,610
+we can then figure out what our current
+
+98
+00:03:32,610 --> 00:03:35,530
+and potential customers
+and users might want,
+
+99
+00:03:35,530 --> 00:03:37,380
+and based on that and seeing that
+
+100
+00:03:37,380 --> 00:03:39,220
+and engaging with the marketplace,
+
+101
+00:03:39,220 --> 00:03:41,900
+we can determine and
+feed that back into plans
+
+102
+00:03:41,900 --> 00:03:44,580
+to put it into the overall
+strategy for the company.
+
+103
+00:03:44,580 --> 00:03:46,170
+Another input is making sure
+
+104
+00:03:46,170 --> 00:03:47,980
+we have cooperation opportunities
+
+105
+00:03:47,980 --> 00:03:49,570
+and feedback being provided
+
+106
+00:03:49,570 --> 00:03:51,500
+by not just our customers and our users,
+
+107
+00:03:51,500 --> 00:03:54,260
+but also from our partners
+and our suppliers.
+
+108
+00:03:54,260 --> 00:03:58,150
+For example, we rely on
+AWS, or Amazon Web Services,
+
+109
+00:03:58,150 --> 00:04:00,030
+to host our website currently.
+
+110
+00:04:00,030 --> 00:04:02,680
+We want to make sure we have
+a good partnership with them,
+
+111
+00:04:02,680 --> 00:04:04,720
+or at least a good supplier relationship,
+
+112
+00:04:04,720 --> 00:04:07,450
+where we can talk to them and
+figure out what other services
+
+113
+00:04:07,450 --> 00:04:09,690
+do you offer that might
+be able to help us?
+
+114
+00:04:09,690 --> 00:04:11,600
+What type of opportunities exist?
+
+115
+00:04:11,600 --> 00:04:13,800
+And understanding those
+opportunities for cooperation
+
+116
+00:04:13,800 --> 00:04:15,850
+and feedback from our
+partners and suppliers
+
+117
+00:04:15,850 --> 00:04:19,420
+can help us to better supply
+a service to our end user.
+
+118
+00:04:19,420 --> 00:04:21,420
+Another input we have is our contracts
+
+119
+00:04:21,420 --> 00:04:22,800
+and our agreement requirements.
+
+120
+00:04:22,800 --> 00:04:23,980
+As we look at all of those
+
+121
+00:04:23,980 --> 00:04:26,140
+from across the entire value chain,
+
+122
+00:04:26,140 --> 00:04:28,420
+we also are going to be
+doing all of the engagement.
+
+123
+00:04:28,420 --> 00:04:30,900
+Any time we're talking about
+contracts and agreements,
+
+124
+00:04:30,900 --> 00:04:33,960
+you can be assured we're talking
+about the engage activity,
+
+125
+00:04:33,960 --> 00:04:36,370
+because we're reaching
+outside of our organization
+
+126
+00:04:36,370 --> 00:04:38,400
+to make that contract happen.
+
+127
+00:04:38,400 --> 00:04:40,060
+Another thing we're
+going to get as an input
+
+128
+00:04:40,060 --> 00:04:42,630
+to our engage activity is
+the knowledge and information
+
+129
+00:04:42,630 --> 00:04:44,870
+about new and changed
+products and services,
+
+130
+00:04:44,870 --> 00:04:47,630
+both from design and transition
+and obtain and build.
+
+131
+00:04:47,630 --> 00:04:49,410
+You'll notice some of
+these things have happened
+
+132
+00:04:49,410 --> 00:04:51,930
+in multiple different activities, why?
+
+133
+00:04:51,930 --> 00:04:55,320
+Because this is a coordinated
+and interlinked effort.
+
+134
+00:04:55,320 --> 00:04:57,270
+Next, we have our
+knowledge and information
+
+135
+00:04:57,270 --> 00:04:59,130
+about our third party service components,
+
+136
+00:04:59,130 --> 00:05:00,830
+from suppliers and partners.
+
+137
+00:05:00,830 --> 00:05:03,300
+Just like we did before,
+we have that again here
+
+138
+00:05:03,300 --> 00:05:05,100
+inside the engage activity.
+
+139
+00:05:05,100 --> 00:05:06,720
+We also want to make sure
+we're getting product
+
+140
+00:05:06,720 --> 00:05:09,630
+and service information
+from across the lifecycle
+
+141
+00:05:09,630 --> 00:05:11,700
+and from the deliver and support team.
+
+142
+00:05:11,700 --> 00:05:14,390
+As they feed that into us,
+we can then coordinate it,
+
+143
+00:05:14,390 --> 00:05:17,340
+and push it out across all
+of the different pieces
+
+144
+00:05:17,340 --> 00:05:20,560
+and the different activities
+in our service value chain.
+
+145
+00:05:20,560 --> 00:05:22,940
+Next, we also have our
+improvement initiatives and plans.
+
+146
+00:05:22,940 --> 00:05:24,260
+We're going to get those from improve,
+
+147
+00:05:24,260 --> 00:05:26,070
+and as the engagement folks,
+
+148
+00:05:26,070 --> 00:05:27,450
+what are we going to do with those?
+
+149
+00:05:27,450 --> 00:05:29,730
+Well, we're going to
+tell people about them.
+
+150
+00:05:29,730 --> 00:05:31,810
+Hey, students, we're improving the course
+
+151
+00:05:31,810 --> 00:05:34,150
+and releasing a new course on X day.
+
+152
+00:05:34,150 --> 00:05:36,480
+We get that from the plans,
+and then we pass it out
+
+153
+00:05:36,480 --> 00:05:39,700
+to our customers, our
+users, and our consumers.
+
+154
+00:05:39,700 --> 00:05:42,600
+And finally, we also want to
+get improvement status reports
+
+155
+00:05:42,600 --> 00:05:44,450
+from improve, and then again,
+
+156
+00:05:44,450 --> 00:05:47,840
+we can share that information
+out as part of engage.
+
+157
+00:05:47,840 --> 00:05:50,050
+When I think about engage,
+I always like to think
+
+158
+00:05:50,050 --> 00:05:51,670
+about telling people something.
+
+159
+00:05:51,670 --> 00:05:54,000
+I'm communicating with somebody, right?
+
+160
+00:05:54,000 --> 00:05:55,660
+So what are some of the outputs we have
+
+161
+00:05:55,660 --> 00:05:57,320
+when we talk about engage?
+
+162
+00:05:57,320 --> 00:06:00,080
+Well, we have consolidated
+demands and opportunities.
+
+163
+00:06:00,080 --> 00:06:02,600
+As we collected all that
+information from the marketplace
+
+164
+00:06:02,600 --> 00:06:05,060
+and our customers, we're
+now going to turn around,
+
+165
+00:06:05,060 --> 00:06:07,460
+consolidate it, and pass it over to plans
+
+166
+00:06:07,460 --> 00:06:10,250
+so they can put that into
+our overarching plans.
+
+167
+00:06:10,250 --> 00:06:11,450
+We're also going to look at our product
+
+168
+00:06:11,450 --> 00:06:13,320
+and service requirements that we got
+
+169
+00:06:13,320 --> 00:06:15,460
+and we're going to give those
+to design and transition
+
+170
+00:06:15,460 --> 00:06:17,400
+so they can build better services.
+
+171
+00:06:17,400 --> 00:06:19,480
+We're also going to take
+the user support tasks
+
+172
+00:06:19,480 --> 00:06:22,200
+and requirements and give those
+over to delivery and support
+
+173
+00:06:22,200 --> 00:06:24,940
+so they can actually provide
+the end users what they need,
+
+174
+00:06:24,940 --> 00:06:27,440
+so if you as a student
+come to the engage part
+
+175
+00:06:27,440 --> 00:06:30,770
+of our company, and say,
+I need more study guides,
+
+176
+00:06:30,770 --> 00:06:32,130
+then we can then pass that
+
+177
+00:06:32,130 --> 00:06:35,320
+over to design and
+transition, who can design it,
+
+178
+00:06:35,320 --> 00:06:37,600
+then we can give it to obtain
+and build, who will build it,
+
+179
+00:06:37,600 --> 00:06:39,070
+and then we give it to
+deliver and support,
+
+180
+00:06:39,070 --> 00:06:41,000
+who will deliver it to you as a student,
+
+181
+00:06:41,000 --> 00:06:41,850
+and it works that way
+
+182
+00:06:41,850 --> 00:06:43,980
+where these processes are interrelated.
+
+183
+00:06:43,980 --> 00:06:46,590
+We're also going to have an output
+of improvement opportunities
+
+184
+00:06:46,590 --> 00:06:49,000
+and stakeholder feedback
+as we collect all of that,
+
+185
+00:06:49,000 --> 00:06:50,720
+because we're the ones interacting
+
+186
+00:06:50,720 --> 00:06:52,630
+with all of those external organizations.
+
+187
+00:06:52,630 --> 00:06:54,130
+We're going to take that and pass it
+
+188
+00:06:54,130 --> 00:06:56,250
+over to the improve process or activity,
+
+189
+00:06:56,250 --> 00:06:57,860
+so they can work with it.
+
+190
+00:06:57,860 --> 00:06:59,670
+We're also going to get things like change
+
+191
+00:06:59,670 --> 00:07:01,170
+or project initiative requests,
+
+192
+00:07:01,170 --> 00:07:03,660
+and we're going to get all
+of those, consolidate them,
+
+193
+00:07:03,660 --> 00:07:05,960
+and pass them over to the obtain/build.
+
+194
+00:07:05,960 --> 00:07:07,890
+Again, we're dealing
+with contracts, right?
+
+195
+00:07:07,890 --> 00:07:10,330
+And agreements, and if we get
+those contracts and agreements
+
+196
+00:07:10,330 --> 00:07:12,410
+from the external and internal suppliers,
+
+197
+00:07:12,410 --> 00:07:14,990
+we're then going to pass those
+over to obtain and build,
+
+198
+00:07:14,990 --> 00:07:17,980
+and design and transition, so
+that they can get the services
+
+199
+00:07:17,980 --> 00:07:20,500
+and products that those
+contracts rely upon.
+
+200
+00:07:20,500 --> 00:07:21,960
+We're also going to be
+looking at the output
+
+201
+00:07:21,960 --> 00:07:23,090
+of knowledge and information
+
+202
+00:07:23,090 --> 00:07:25,210
+about our third-party service components,
+
+203
+00:07:25,210 --> 00:07:27,220
+because we collected all that information,
+
+204
+00:07:27,220 --> 00:07:29,390
+but we as engage aren't
+going to do much with it.
+
+205
+00:07:29,390 --> 00:07:32,240
+Instead, we want to pass
+it to the plans folks,
+
+206
+00:07:32,240 --> 00:07:34,490
+the design folks, the transition folks,
+
+207
+00:07:34,490 --> 00:07:37,580
+the obtain and build folks,
+the deliver and support folks.
+
+208
+00:07:37,580 --> 00:07:39,360
+All of them need this information,
+
+209
+00:07:39,360 --> 00:07:40,730
+and we're the people who collect it,
+
+210
+00:07:40,730 --> 00:07:42,970
+so we're responsible
+for passing it back out.
+
+211
+00:07:42,970 --> 00:07:45,150
+And finally, one of
+the things we collected
+
+212
+00:07:45,150 --> 00:07:47,170
+was service performance reports, right?
+
+213
+00:07:47,170 --> 00:07:48,400
+We got all of that information
+
+214
+00:07:48,400 --> 00:07:50,860
+from all of the different
+parts of the service,
+
+215
+00:07:50,860 --> 00:07:54,230
+and now we want to communicate
+that back out to our customers.
+
+216
+00:07:54,230 --> 00:07:57,890
+Hey, our availability is 99.999%
+
+217
+00:07:57,890 --> 00:07:59,710
+as measured by X, Y and Z.
+
+218
+00:07:59,710 --> 00:08:01,310
+Let me give that report to the customers
+
+219
+00:08:01,310 --> 00:08:02,980
+so they know what they're getting.
+
+220
+00:08:02,980 --> 00:08:04,700
+That's the idea in engage.
+
+221
+00:08:04,700 --> 00:08:07,950
+Engage is the glue that makes
+all of this service work.
+
+222
+00:08:07,950 --> 00:08:10,130
+It's all of the communication that occurs.
+
+223
+00:08:10,130 --> 00:08:12,320
+Things come in, things get processed,
+
+224
+00:08:12,320 --> 00:08:13,590
+and things get pushed out,
+
+225
+00:08:13,590 --> 00:08:17,040
+to and from all the different
+activities, processes,
+
+226
+00:08:17,040 --> 00:08:19,570
+customers, stakeholders, consumers,
+
+227
+00:08:19,570 --> 00:08:21,240
+and suppliers and partners.
+
+228
+00:08:21,240 --> 00:08:24,170
+All of that works because
+engage is at the center of it.
+
+229
+00:08:24,170 --> 00:08:27,263
+It's all the people who make
+the communication happen.
+

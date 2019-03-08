@@ -1,0 +1,414 @@
+﻿1
+00:00:00,580 --> 00:00:02,310
+- Back when you attended
+school as a child,
+
+2
+00:00:02,310 --> 00:00:04,764
+you may have learned about
+the industrial revolution.
+
+3
+00:00:04,764 --> 00:00:07,160
+The first industrial
+revolution occurred in the
+
+4
+00:00:07,160 --> 00:00:11,030
+18th and 19th centuries, all
+across Europe and America.
+
+5
+00:00:11,030 --> 00:00:13,120
+During this period, humanity moved from
+
+6
+00:00:13,120 --> 00:00:15,297
+an agrarian-based rural society of farmers
+
+7
+00:00:15,297 --> 00:00:17,960
+into an urbanized, industrial area,
+
+8
+00:00:17,960 --> 00:00:18,960
+that later developed into
+
+9
+00:00:18,960 --> 00:00:21,100
+some of our country's largest cities.
+
+10
+00:00:21,100 --> 00:00:23,120
+This movement was brought
+about by the development
+
+11
+00:00:23,120 --> 00:00:26,710
+of mechanization in the form
+of iron and textile industries,
+
+12
+00:00:26,710 --> 00:00:28,220
+as well a the power of the steam engine
+
+13
+00:00:28,220 --> 00:00:30,130
+for our transportation needs.
+
+14
+00:00:30,130 --> 00:00:32,980
+The industrial revolution was
+only the first one though,
+
+15
+00:00:32,980 --> 00:00:34,610
+by the end of the 19th century,
+
+16
+00:00:34,610 --> 00:00:36,440
+and continuing until World War I,
+
+17
+00:00:36,440 --> 00:00:37,923
+or the Great War, as it's known in Europe,
+
+18
+00:00:37,923 --> 00:00:41,239
+humanity moved into the
+second industrial revolution.
+
+19
+00:00:41,239 --> 00:00:43,570
+During this time, our industries expanded
+
+20
+00:00:43,570 --> 00:00:46,360
+to include steel, oil, electricity,
+
+21
+00:00:46,360 --> 00:00:48,270
+and electrically-powered equipment to aid
+
+22
+00:00:48,270 --> 00:00:50,070
+in the mass production of goods.
+
+23
+00:00:50,070 --> 00:00:52,270
+During this time period,
+cars were developed
+
+24
+00:00:52,270 --> 00:00:53,910
+with their internal combustion engines,
+
+25
+00:00:53,910 --> 00:00:57,120
+that made transportation even
+more convenient and efficient.
+
+26
+00:00:57,120 --> 00:00:58,840
+At the same time, the light bulb
+
+27
+00:00:58,840 --> 00:01:00,220
+began to replace candlelight,
+
+28
+00:01:00,220 --> 00:01:02,510
+allowing us to work longer into the night.
+
+29
+00:01:02,510 --> 00:01:05,290
+And of course, communication
+across great distances,
+
+30
+00:01:05,290 --> 00:01:08,250
+became possible through
+the use of our telephones.
+
+31
+00:01:08,250 --> 00:01:10,800
+Life was better than it
+had ever been before,
+
+32
+00:01:10,800 --> 00:01:14,050
+but humanity wasn't done
+exploring and inventing yet.
+
+33
+00:01:14,050 --> 00:01:16,350
+Technology continued to expand in its use,
+
+34
+00:01:16,350 --> 00:01:18,250
+but there weren't any
+real major breakthroughs
+
+35
+00:01:18,250 --> 00:01:20,490
+until the end of the 20th century.
+
+36
+00:01:20,490 --> 00:01:22,780
+It was around 1980 and technology
+
+37
+00:01:22,780 --> 00:01:24,720
+had jumped to yet another level.
+
+38
+00:01:24,720 --> 00:01:26,055
+This was way beyond what existed in the
+
+39
+00:01:26,055 --> 00:01:28,020
+second industrial revolution.
+
+40
+00:01:28,020 --> 00:01:30,990
+It was at this time that the
+third industrial revolution,
+
+41
+00:01:30,990 --> 00:01:34,010
+known as the digital
+revolution, truly began.
+
+42
+00:01:34,010 --> 00:01:36,590
+With the advancement of analog
+and digital electronics,
+
+43
+00:01:36,590 --> 00:01:39,160
+humanity began to utilize
+life-changing technologies
+
+44
+00:01:39,160 --> 00:01:42,100
+on a daily basis, including
+the personal computer,
+
+45
+00:01:42,100 --> 00:01:44,050
+the internet, and the entire spectrum
+
+46
+00:01:44,050 --> 00:01:46,510
+of information and
+communication technologies.
+
+47
+00:01:46,510 --> 00:01:47,880
+Many of these things are the things
+
+48
+00:01:47,880 --> 00:01:50,070
+you're responsible for
+within your organization,
+
+49
+00:01:50,070 --> 00:01:52,360
+and it was during this
+third industrial revolution
+
+50
+00:01:52,360 --> 00:01:53,986
+that ITIL was first created.
+
+51
+00:01:53,986 --> 00:01:56,290
+ITIL was first developed as a series of
+
+52
+00:01:56,290 --> 00:01:57,362
+best practices and guidance
+
+53
+00:01:57,362 --> 00:02:00,950
+on how to run an information
+technology organization.
+
+54
+00:02:00,950 --> 00:02:03,520
+In fact, ITIL, as it was
+originally developed,
+
+55
+00:02:03,520 --> 00:02:04,840
+was an acronym that stood for
+
+56
+00:02:04,840 --> 00:02:07,600
+Information Technology
+Infrastructure Library.
+
+57
+00:02:07,600 --> 00:02:10,390
+ITIL began in the 1980s
+as a way for organizations
+
+58
+00:02:10,390 --> 00:02:12,050
+to create processes and procedures
+
+59
+00:02:12,050 --> 00:02:14,110
+to better run their IT systems.
+
+60
+00:02:14,110 --> 00:02:15,463
+Throughout the last three decades,
+
+61
+00:02:15,463 --> 00:02:17,580
+ITIL became the defacto standard
+
+62
+00:02:17,580 --> 00:02:20,350
+around the world for
+IT service management.
+
+63
+00:02:20,350 --> 00:02:21,970
+As we moved as a society from the
+
+64
+00:02:21,970 --> 00:02:24,010
+first industrial
+revolution, to the second,
+
+65
+00:02:24,010 --> 00:02:25,380
+and then onto the third,
+
+66
+00:02:25,380 --> 00:02:27,550
+we're now at a crossroads again.
+
+67
+00:02:27,550 --> 00:02:30,410
+Now, we're moving into the
+fourth industrial revolution,
+
+68
+00:02:30,410 --> 00:02:32,690
+and it is happening right now.
+
+69
+00:02:32,690 --> 00:02:34,520
+The fourth industrial revolution is marked
+
+70
+00:02:34,520 --> 00:02:36,770
+by the creation of cyber-physical systems,
+
+71
+00:02:36,770 --> 00:02:39,070
+where a fusion of technologies
+has blurred the lines
+
+72
+00:02:39,070 --> 00:02:41,360
+between physical and digital realms.
+
+73
+00:02:41,360 --> 00:02:42,980
+This includes the use of technologies like
+
+74
+00:02:42,980 --> 00:02:44,960
+robotics, nanotechnology,
+
+75
+00:02:44,960 --> 00:02:47,290
+artificial intelligence,
+the internet of things,
+
+76
+00:02:47,290 --> 00:02:49,548
+autonomous cars, and so much more.
+
+77
+00:02:49,548 --> 00:02:51,480
+This explosive growth in technology
+
+78
+00:02:51,480 --> 00:02:53,930
+in the early 21st century has transformed
+
+79
+00:02:53,930 --> 00:02:56,460
+our world economies, as well as ourselves.
+
+80
+00:02:56,460 --> 00:02:58,120
+So, you may be wondering right now,
+
+81
+00:02:58,120 --> 00:03:00,860
+'Why are we spending time
+talking about the history
+
+82
+00:03:00,860 --> 00:03:03,000
+of various industrial
+revolutions that occurred
+
+83
+00:03:03,000 --> 00:03:04,930
+over the past few hundred years?'
+
+84
+00:03:04,930 --> 00:03:06,810
+Well, it's to make this point:
+
+85
+00:03:06,810 --> 00:03:10,180
+ITIL 4 is not considered ITIL version 4,
+
+86
+00:03:10,180 --> 00:03:14,240
+instead it's ITIL for the
+fourth industrial revolution.
+
+87
+00:03:14,240 --> 00:03:16,531
+ITIL is no longer considered an acronym.
+
+88
+00:03:16,531 --> 00:03:18,370
+ITIL is a brand name.
+
+89
+00:03:18,370 --> 00:03:20,460
+It simply means ITIL, it doesn't mean
+
+90
+00:03:20,460 --> 00:03:23,270
+Information Technology
+Infrastructure Library anymore,
+
+91
+00:03:23,270 --> 00:03:25,650
+because ITIL is more
+than just infrastructure.
+
+92
+00:03:25,650 --> 00:03:28,080
+This is a major shift in
+the way ITIL approaches
+
+93
+00:03:28,080 --> 00:03:30,090
+the challenges of IT service management
+
+94
+00:03:30,090 --> 00:03:31,370
+based on this as well.
+

@@ -1,0 +1,297 @@
+﻿1
+00:00:00,700 --> 00:00:03,250
+- As I stated in the last
+section of this course,
+
+2
+00:00:03,250 --> 00:00:05,720
+ITIL is a framework for
+information technology
+
+3
+00:00:05,720 --> 00:00:08,840
+service management, known as ITSM.
+
+4
+00:00:08,840 --> 00:00:11,630
+According to ITIL Four,
+service management is defined
+
+5
+00:00:11,630 --> 00:00:14,630
+as a set of specialized
+organizational capabilities
+
+6
+00:00:14,630 --> 00:00:17,920
+for enabling value to customers
+in the form of services.
+
+7
+00:00:17,920 --> 00:00:20,550
+Whenever we speak about
+organizational capability,
+
+8
+00:00:20,550 --> 00:00:22,840
+such as in this definition
+of service management,
+
+9
+00:00:22,840 --> 00:00:24,700
+this is referring to an organization
+
+10
+00:00:24,700 --> 00:00:27,240
+having both the capacity and the ability,
+
+11
+00:00:27,240 --> 00:00:29,460
+to perform the functions required.
+
+12
+00:00:29,460 --> 00:00:31,600
+Service management, whether
+you're performing it
+
+13
+00:00:31,600 --> 00:00:33,140
+using ITIL Four as it's framework,
+
+14
+00:00:33,140 --> 00:00:34,960
+or another ITSM framework,
+
+15
+00:00:34,960 --> 00:00:36,960
+is focused on how to best create value
+
+16
+00:00:36,960 --> 00:00:38,480
+within an organization,
+
+17
+00:00:38,480 --> 00:00:41,590
+to provide the desired
+benefits to your consumers.
+
+18
+00:00:41,590 --> 00:00:45,110
+Now, to do that, an organization
+must organize it's people
+
+19
+00:00:45,110 --> 00:00:47,384
+to best support the
+organization's activities,
+
+20
+00:00:47,384 --> 00:00:49,660
+practices and processes.
+
+21
+00:00:49,660 --> 00:00:52,160
+These activities, practices and processes,
+
+22
+00:00:52,160 --> 00:00:53,970
+are the engine that drive the creation
+
+23
+00:00:53,970 --> 00:00:57,070
+of the organization's
+products and their services.
+
+24
+00:00:57,070 --> 00:01:00,400
+But, none of these activities,
+practices and processes,
+
+25
+00:01:00,400 --> 00:01:02,110
+could be done in isolation.
+
+26
+00:01:02,110 --> 00:01:04,990
+Instead, we have to consider
+the service relationships
+
+27
+00:01:04,990 --> 00:01:07,270
+that are built, created and nurtured
+
+28
+00:01:07,270 --> 00:01:09,650
+throughout the service management process.
+
+29
+00:01:09,650 --> 00:01:10,970
+In this section of the course,
+
+30
+00:01:10,970 --> 00:01:13,210
+we're going to discuss
+these generalized concepts
+
+31
+00:01:13,210 --> 00:01:15,820
+of service management, that
+apply to both ITIL Four
+
+32
+00:01:15,820 --> 00:01:17,290
+and other frameworks.
+
+33
+00:01:17,290 --> 00:01:19,010
+Then, we're going to spend a bit of time
+
+34
+00:01:19,010 --> 00:01:20,980
+going over the concepts of outcomes,
+
+35
+00:01:20,980 --> 00:01:23,250
+risks, utility and warranty,
+
+36
+00:01:23,250 --> 00:01:25,160
+to help build a solid foundation,
+
+37
+00:01:25,160 --> 00:01:27,850
+before we move in to the
+specific ITIL Four concepts,
+
+38
+00:01:27,850 --> 00:01:30,170
+that are covered throughout
+the rest of this course.
+
+39
+00:01:30,170 --> 00:01:32,670
+Now remember, even though
+the concepts in this section
+
+40
+00:01:32,670 --> 00:01:34,690
+are generalized for IT service management,
+
+41
+00:01:34,690 --> 00:01:37,760
+it doesn't mean they won't
+be on the ITIL Four exam.
+
+42
+00:01:37,760 --> 00:01:39,120
+In fact, we're going to cover
+
+43
+00:01:39,120 --> 00:01:41,450
+all three parts of Learning Objective One,
+
+44
+00:01:41,450 --> 00:01:43,250
+in this section of the course.
+
+45
+00:01:43,250 --> 00:01:45,550
+This includes Learning
+Objective one point one,
+
+46
+00:01:45,550 --> 00:01:46,890
+which states that you're
+going to have to be able to
+
+47
+00:01:46,890 --> 00:01:50,430
+recall the definition of
+service, utility, warranty,
+
+48
+00:01:50,430 --> 00:01:54,010
+customer, user, service
+management and sponsor.
+
+49
+00:01:54,010 --> 00:01:55,750
+You can also expect to get two questions
+
+50
+00:01:55,750 --> 00:01:58,740
+from this learning objective,
+on your certification exam.
+
+51
+00:01:58,740 --> 00:02:00,600
+Under Learning Objective one point two,
+
+52
+00:02:00,600 --> 00:02:02,500
+you're going to be required
+to describe the concepts of
+
+53
+00:02:02,500 --> 00:02:05,900
+cost, value, organization, outcome,
+
+54
+00:02:05,900 --> 00:02:08,110
+risk, utility and warranty.
+
+55
+00:02:08,110 --> 00:02:10,240
+On your exam, two questions will come from
+
+56
+00:02:10,240 --> 00:02:12,550
+this particular learning
+objective as well.
+
+57
+00:02:12,550 --> 00:02:13,830
+Finally, we're going to cover
+
+58
+00:02:13,830 --> 00:02:15,540
+Learning Objective one point three,
+
+59
+00:02:15,540 --> 00:02:18,210
+which requires you to be able
+to describe the key concepts
+
+60
+00:02:18,210 --> 00:02:21,070
+of service relationships,
+including service offerings,
+
+61
+00:02:21,070 --> 00:02:22,720
+service relationship management,
+
+62
+00:02:22,720 --> 00:02:25,260
+service provision, and
+service consumption.
+
+63
+00:02:25,260 --> 00:02:27,810
+On the certification exam,
+you can expect to receive
+
+64
+00:02:27,810 --> 00:02:30,560
+one question from this
+particular learning objective.
+
+65
+00:02:30,560 --> 00:02:33,050
+So let's get started learning
+about service management
+
+66
+00:02:33,050 --> 00:02:34,363
+and it's key concepts.
+

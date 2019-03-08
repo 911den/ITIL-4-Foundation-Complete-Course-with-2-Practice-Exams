@@ -1,0 +1,173 @@
+﻿1
+00:00:00,570 --> 00:00:02,690
+- Service Continuity Management.
+
+2
+00:00:02,690 --> 00:00:05,464
+Again, this isn't on the exam,
+but it's a good one to know.
+
+3
+00:00:05,464 --> 00:00:08,230
+The purpose of Service
+Continuity Management
+
+4
+00:00:08,230 --> 00:00:10,440
+is to ensure that the
+availability and performance
+
+5
+00:00:10,440 --> 00:00:13,340
+of a service is maintained
+at a sufficient level
+
+6
+00:00:13,340 --> 00:00:15,280
+in the event of a disaster.
+
+7
+00:00:15,280 --> 00:00:17,410
+Now, what exactly is the disaster?
+
+8
+00:00:17,410 --> 00:00:20,100
+Well, it's a sudden,
+unplanned event that causes
+
+9
+00:00:20,100 --> 00:00:22,800
+great damage or serious
+loss to an organization.
+
+10
+00:00:22,800 --> 00:00:24,210
+This might be a natural disaster
+
+11
+00:00:24,210 --> 00:00:26,000
+like a hurricane or an earthquake.
+
+12
+00:00:26,000 --> 00:00:27,830
+Or it could be a disaster of a more
+
+13
+00:00:27,830 --> 00:00:31,400
+modern technological flavor
+like a hacker or a data breach.
+
+14
+00:00:31,400 --> 00:00:34,080
+Either way, if it causes
+a sudden, unplanned event
+
+15
+00:00:34,080 --> 00:00:36,400
+that causes great damage or serious loss,
+
+16
+00:00:36,400 --> 00:00:39,200
+this would go under your
+service continuity management.
+
+17
+00:00:39,200 --> 00:00:41,350
+This practice is going to
+provide you with a framework
+
+18
+00:00:41,350 --> 00:00:43,820
+for building your
+organization's resiliency
+
+19
+00:00:43,820 --> 00:00:46,030
+and ensure that you have
+the capability of producing
+
+20
+00:00:46,030 --> 00:00:48,590
+the effective responses
+needed to safeguard
+
+21
+00:00:48,590 --> 00:00:50,660
+the interests of your key stakeholders
+
+22
+00:00:50,660 --> 00:00:52,690
+and your organizations reputation,
+
+23
+00:00:52,690 --> 00:00:55,330
+your brand and your value
+creating activities.
+
+24
+00:00:55,330 --> 00:00:57,310
+So, my website, for instance,
+
+25
+00:00:57,310 --> 00:00:59,820
+we have multiple copies of that server.
+
+26
+00:00:59,820 --> 00:01:02,390
+We have em backed up, online and offline.
+
+27
+00:01:02,390 --> 00:01:04,920
+We have redundant servers
+and load balancers
+
+28
+00:01:04,920 --> 00:01:07,610
+so that hopefully, even
+if one server goes down,
+
+29
+00:01:07,610 --> 00:01:09,180
+the other ones can carry the load
+
+30
+00:01:09,180 --> 00:01:11,170
+and get us through the
+disaster until we can
+
+31
+00:01:11,170 --> 00:01:12,560
+recover the server.
+
+32
+00:01:12,560 --> 00:01:14,220
+That's the idea when
+you're talking about this
+
+33
+00:01:14,220 --> 00:01:15,510
+service continuity management.
+
+34
+00:01:15,510 --> 00:01:17,710
+What things are you
+doing to make sure your
+
+35
+00:01:17,710 --> 00:01:20,200
+availability and your
+performance remain up
+
+36
+00:01:20,200 --> 00:01:22,979
+at a sufficient level so
+you're not going to lose time,
+
+37
+00:01:22,979 --> 00:01:25,280
+money, or value for your customers
+
+38
+00:01:25,280 --> 00:01:26,743
+whenever there's a disaster.
+

@@ -1,0 +1,254 @@
+﻿1
+00:00:00,960 --> 00:00:02,740
+- Architecture Management.
+
+2
+00:00:02,740 --> 00:00:04,290
+This is another one that you don't need
+
+3
+00:00:04,290 --> 00:00:06,290
+to know for the foundation level exam,
+
+4
+00:00:06,290 --> 00:00:07,170
+but we're going to cover it
+
+5
+00:00:07,170 --> 00:00:09,440
+to give you a good general
+understanding of it.
+
+6
+00:00:09,440 --> 00:00:11,260
+The practice of architecture management
+
+7
+00:00:11,260 --> 00:00:14,010
+is one that's focused on
+providing an understanding of
+
+8
+00:00:14,010 --> 00:00:16,780
+all of the different elements
+that make up an organization
+
+9
+00:00:16,780 --> 00:00:18,910
+and how those elements interrelate,
+
+10
+00:00:18,910 --> 00:00:21,980
+enabling the organization to
+effectively achieve its current
+
+11
+00:00:21,980 --> 00:00:23,720
+and future objectives.
+
+12
+00:00:23,720 --> 00:00:26,200
+Now, this provides your
+organization with the principles,
+
+13
+00:00:26,200 --> 00:00:27,860
+the standards, and the tools
+
+14
+00:00:27,860 --> 00:00:30,630
+that will enable us to
+manage complex changes
+
+15
+00:00:30,630 --> 00:00:33,420
+in a much more structured and agile way.
+
+16
+00:00:33,420 --> 00:00:35,430
+There are five different
+types of architectures
+
+17
+00:00:35,430 --> 00:00:37,710
+that you should consider
+inside your business.
+
+18
+00:00:37,710 --> 00:00:39,280
+These are business architecture,
+
+19
+00:00:39,280 --> 00:00:42,460
+service architecture,
+information systems architecture,
+
+20
+00:00:42,460 --> 00:00:45,890
+technology architecture, and
+environmental architecture.
+
+21
+00:00:45,890 --> 00:00:48,010
+Business architecture
+allows an organization to
+
+22
+00:00:48,010 --> 00:00:49,320
+look at its capabilities
+
+23
+00:00:49,320 --> 00:00:51,710
+to determine how they align
+with the different activities
+
+24
+00:00:51,710 --> 00:00:53,460
+that are required for that business
+
+25
+00:00:53,460 --> 00:00:56,260
+to co-create value for its customers.
+
+26
+00:00:56,260 --> 00:00:58,850
+Now, service architecture is
+going to give the organization
+
+27
+00:00:58,850 --> 00:01:00,040
+a view of its services
+
+28
+00:01:00,040 --> 00:01:02,550
+and their interactions to
+better understand how they are
+
+29
+00:01:02,550 --> 00:01:05,030
+all going to interrelate and tie together.
+
+30
+00:01:05,030 --> 00:01:07,550
+This usually results in a
+service model being created
+
+31
+00:01:07,550 --> 00:01:08,970
+and this can act as a template
+
+32
+00:01:08,970 --> 00:01:11,110
+or a blueprint for multiple services
+
+33
+00:01:11,110 --> 00:01:12,710
+across the organization.
+
+34
+00:01:12,710 --> 00:01:15,090
+When we look at information
+systems architecture,
+
+35
+00:01:15,090 --> 00:01:16,580
+we're focused on the logical
+
+36
+00:01:16,580 --> 00:01:19,060
+and physical data assets
+of the organization,
+
+37
+00:01:19,060 --> 00:01:20,240
+and how they are managed
+
+38
+00:01:20,240 --> 00:01:23,230
+and shared to benefit our overall goals.
+
+39
+00:01:23,230 --> 00:01:25,980
+The technology architecture
+is going to find the software
+
+40
+00:01:25,980 --> 00:01:27,540
+and the hardware infrastructure
+
+41
+00:01:27,540 --> 00:01:29,820
+that's needed to support
+the portfolio of services
+
+42
+00:01:29,820 --> 00:01:32,080
+and the products the organization offers.
+
+43
+00:01:32,080 --> 00:01:33,920
+For example, to answer the question
+
+44
+00:01:33,920 --> 00:01:36,090
+of whether we should use a
+self-hosted configuration
+
+45
+00:01:36,090 --> 00:01:37,950
+for our web servers or if we should rely
+
+46
+00:01:37,950 --> 00:01:39,530
+on a cloud-based architecture,
+
+47
+00:01:39,530 --> 00:01:42,680
+would fall under this technology
+architecture umbrella.
+
+48
+00:01:42,680 --> 00:01:45,150
+And finally, environmental architecture.
+
+49
+00:01:45,150 --> 00:01:48,010
+This is used to describe the
+external factors that affect
+
+50
+00:01:48,010 --> 00:01:50,040
+and impact our organization.
+
+51
+00:01:50,040 --> 00:01:52,640
+If you remember our
+discussion of PESTLE early on,
+
+52
+00:01:52,640 --> 00:01:55,620
+this model would fall under
+the environmental architecture,
+
+53
+00:01:55,620 --> 00:01:59,590
+things like political,
+environmental, social, technological.
+
+54
+00:01:59,590 --> 00:02:00,690
+You get the idea.
+
+55
+00:02:00,690 --> 00:02:03,130
+All of those things are
+external to our organization,
+
+56
+00:02:03,130 --> 00:02:05,827
+so they are considered environmental.
+
+57
+00:02:05,827 --> 00:02:07,983
+(upbeat chiming)
+

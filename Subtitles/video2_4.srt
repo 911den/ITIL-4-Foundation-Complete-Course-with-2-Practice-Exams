@@ -1,0 +1,677 @@
+﻿1
+00:00:00,129 --> 00:00:02,750
+- ITIL was first created around the idea
+
+2
+00:00:02,750 --> 00:00:05,780
+how to conduct service management
+within our organizations.
+
+3
+00:00:05,780 --> 00:00:07,200
+So, it should be no surprise
+
+4
+00:00:07,200 --> 00:00:08,620
+that we have a specific definition
+
+5
+00:00:08,620 --> 00:00:10,950
+of what is considered a service.
+
+6
+00:00:10,950 --> 00:00:12,200
+The definition of a service
+
+7
+00:00:12,200 --> 00:00:14,520
+is something you should be
+able to recall for the exam,
+
+8
+00:00:14,520 --> 00:00:16,130
+as well as understand it.
+
+9
+00:00:16,130 --> 00:00:17,520
+According to ITIL four,
+
+10
+00:00:17,520 --> 00:00:20,490
+a service is a means of
+enabling value co-creation
+
+11
+00:00:20,490 --> 00:00:23,217
+by facilitating outcomes that
+the customer wants to achieve,
+
+12
+00:00:23,217 --> 00:00:25,400
+without that customer having to manage
+
+13
+00:00:25,400 --> 00:00:27,820
+the specific costs and risks.
+
+14
+00:00:27,820 --> 00:00:30,870
+Now, let's dig into this
+definition one piece at a time.
+
+15
+00:00:30,870 --> 00:00:35,170
+First, service is a means of
+enabling value co-creation.
+
+16
+00:00:35,170 --> 00:00:36,480
+This portion of the definition
+
+17
+00:00:36,480 --> 00:00:38,880
+is a reference back to
+how value is determined
+
+18
+00:00:38,880 --> 00:00:40,400
+as a result of the relationship
+
+19
+00:00:40,400 --> 00:00:42,040
+between the provider of the service
+
+20
+00:00:42,040 --> 00:00:43,650
+and the customer of the service.
+
+21
+00:00:43,650 --> 00:00:46,210
+Next, the second portion
+of the definition says
+
+22
+00:00:46,210 --> 00:00:48,740
+that this is done by facilitating outcomes
+
+23
+00:00:48,740 --> 00:00:50,620
+that customers want to achieve.
+
+24
+00:00:50,620 --> 00:00:53,250
+Again, this goes back
+to the concept of value.
+
+25
+00:00:53,250 --> 00:00:55,380
+If I'm giving you something
+as a service provider
+
+26
+00:00:55,380 --> 00:00:57,200
+that doesn't help you as the customer,
+
+27
+00:00:57,200 --> 00:00:58,820
+to achieve your objectives,
+
+28
+00:00:58,820 --> 00:01:00,820
+well, then it doesn't have any value.
+
+29
+00:01:00,820 --> 00:01:03,140
+So, going back to the earlier
+example of this course,
+
+30
+00:01:03,140 --> 00:01:05,510
+if it doesn't help you pass
+your certification exam,
+
+31
+00:01:05,510 --> 00:01:07,710
+then the value hasn't been co-created.
+
+32
+00:01:07,710 --> 00:01:09,430
+After all, the service provider
+
+33
+00:01:09,430 --> 00:01:11,350
+can't achieve your objectives for you.
+
+34
+00:01:11,350 --> 00:01:13,410
+You have to achieve them yourself.
+
+35
+00:01:13,410 --> 00:01:15,800
+The service provider is
+only able to facilitate
+
+36
+00:01:15,800 --> 00:01:18,410
+the achievement of
+those customer outcomes.
+
+37
+00:01:18,410 --> 00:01:20,810
+After all, you have to pass the exam.
+
+38
+00:01:20,810 --> 00:01:22,251
+I can only provide you with the tools
+
+39
+00:01:22,251 --> 00:01:23,900
+and the resources you need,
+
+40
+00:01:23,900 --> 00:01:25,200
+to be successful.
+
+41
+00:01:25,200 --> 00:01:27,340
+The same holds true with I-T services.
+
+42
+00:01:27,340 --> 00:01:30,270
+I can ensure your computer is
+up and able to run a program.
+
+43
+00:01:30,270 --> 00:01:31,140
+But if you don't provide
+
+44
+00:01:31,140 --> 00:01:32,686
+the necessary inputs to that program,
+
+45
+00:01:32,686 --> 00:01:35,432
+you're going to be unable
+to get the necessary outputs
+
+46
+00:01:35,432 --> 00:01:37,900
+and eventually the outcomes you desire.
+
+47
+00:01:37,900 --> 00:01:40,300
+Now, the final portion of
+this service definition
+
+48
+00:01:40,300 --> 00:01:42,179
+states that this
+co-created value is created
+
+49
+00:01:42,179 --> 00:01:44,069
+without the customer having to manage
+
+50
+00:01:44,069 --> 00:01:45,950
+specific costs and risks.
+
+51
+00:01:45,950 --> 00:01:48,810
+This refers to the whole
+reason why a customer hires
+
+52
+00:01:48,810 --> 00:01:51,030
+a service provider in the first place.
+
+53
+00:01:51,030 --> 00:01:54,050
+For example, I'm a customer
+of a web-hosting company
+
+54
+00:01:54,050 --> 00:01:55,750
+that hosts all of my training videos.
+
+55
+00:01:55,750 --> 00:01:58,390
+So, my organization pays
+this web-hosting company
+
+56
+00:01:58,390 --> 00:02:01,709
+a monthly fee for hosting
+terabytes of video files for us.
+
+57
+00:02:01,709 --> 00:02:03,193
+And in exchange for that service,
+
+58
+00:02:03,193 --> 00:02:05,347
+we pay them a nominal monthly fee.
+
+59
+00:02:05,347 --> 00:02:07,431
+It's their job as the service provider
+
+60
+00:02:07,431 --> 00:02:09,100
+to manage all the specific
+
+61
+00:02:09,100 --> 00:02:11,437
+costs and risks associated
+with that service.
+
+62
+00:02:11,437 --> 00:02:14,520
+For example, our contract
+allows for unlimited
+
+63
+00:02:14,520 --> 00:02:16,090
+data storage on their servers
+
+64
+00:02:16,090 --> 00:02:17,940
+and unlimited bandwidth to be used,
+
+65
+00:02:17,940 --> 00:02:18,915
+without incurring any additional
+
+66
+00:02:18,915 --> 00:02:21,420
+cost to us under our contract.
+
+67
+00:02:21,420 --> 00:02:23,850
+Because we negotiate a fixed-fee contract.
+
+68
+00:02:23,850 --> 00:02:26,840
+Now, my company employs a
+lot of very technical folks.
+
+69
+00:02:26,840 --> 00:02:28,170
+I personally have been responsible
+
+70
+00:02:28,170 --> 00:02:29,900
+for running hundreds of web servers,
+
+71
+00:02:29,900 --> 00:02:32,340
+domain controllers, mail
+servers and file servers
+
+72
+00:02:32,340 --> 00:02:33,340
+throughout my career.
+
+73
+00:02:33,340 --> 00:02:35,393
+So, why doesn't Dion Training maintain
+
+74
+00:02:35,393 --> 00:02:37,230
+and host our own web servers
+
+75
+00:02:37,230 --> 00:02:39,067
+to host all of our video training courses?
+
+76
+00:02:39,067 --> 00:02:40,560
+Well, simply put,
+
+77
+00:02:40,560 --> 00:02:41,960
+we don't want to have
+to deal with the cost
+
+78
+00:02:41,960 --> 00:02:44,260
+and the risk of providing
+that particular service.
+
+79
+00:02:44,260 --> 00:02:46,460
+It just isn't the business
+that we're in anymore, right?
+
+80
+00:02:46,460 --> 00:02:48,340
+Instead, we're focused on training.
+
+81
+00:02:48,340 --> 00:02:50,140
+Our business is all about training,
+
+82
+00:02:50,140 --> 00:02:52,170
+not running these large server farms.
+
+83
+00:02:52,170 --> 00:02:53,580
+So, we don't want to have to deal
+
+84
+00:02:53,580 --> 00:02:55,717
+with the patching, the
+updating, the back-ups,
+
+85
+00:02:55,717 --> 00:02:57,550
+scaling up and scaling down
+
+86
+00:02:57,550 --> 00:02:59,710
+based on low demands and all of that.
+
+87
+00:02:59,710 --> 00:03:02,857
+Instead, for negotiating flat-fee
+with our service provider,
+
+88
+00:03:02,857 --> 00:03:05,890
+we can take all of those
+costs and risks from us,
+
+89
+00:03:05,890 --> 00:03:08,180
+and we can simply pay our contracted rate.
+
+90
+00:03:08,180 --> 00:03:10,120
+And the service provider
+gets to deal with it.
+
+91
+00:03:10,120 --> 00:03:12,646
+This is exactly what the service
+definition is referring to.
+
+92
+00:03:12,646 --> 00:03:14,240
+So, let's take a look
+
+93
+00:03:14,240 --> 00:03:16,810
+at that service definition one more time.
+
+94
+00:03:16,810 --> 00:03:20,010
+A service is a means of
+enabling value co-creation
+
+95
+00:03:20,010 --> 00:03:22,820
+by facilitating outcomes that
+customers want to achieve,
+
+96
+00:03:22,820 --> 00:03:24,400
+without the customer having to manage
+
+97
+00:03:24,400 --> 00:03:26,490
+specific costs and risks.
+
+98
+00:03:26,490 --> 00:03:28,250
+So, in addition to services,
+
+99
+00:03:28,250 --> 00:03:30,743
+a service organization can
+actually provide services
+
+100
+00:03:30,743 --> 00:03:33,310
+based on products that they have as well.
+
+101
+00:03:33,310 --> 00:03:35,190
+Now, a product is a configuration
+
+102
+00:03:35,190 --> 00:03:36,960
+of an organization's resources
+
+103
+00:03:36,960 --> 00:03:39,470
+that's designed to offer
+value for a consumer.
+
+104
+00:03:39,470 --> 00:03:41,910
+I like to think of this as
+the collection of services
+
+105
+00:03:41,910 --> 00:03:44,070
+that were put together to give more value
+
+106
+00:03:44,070 --> 00:03:45,670
+than they could individually.
+
+107
+00:03:45,670 --> 00:03:48,990
+Now, every organization works
+with a set of resources.
+
+108
+00:03:48,990 --> 00:03:51,570
+These resources are either
+owned by the organizations,
+
+109
+00:03:51,570 --> 00:03:52,870
+belong to the organization,
+
+110
+00:03:52,870 --> 00:03:54,870
+or, are managed by the organization.
+
+111
+00:03:54,870 --> 00:03:57,420
+These resources may even
+be supporting services
+
+112
+00:03:57,420 --> 00:04:00,680
+provided by the organization
+suppliers and their partners.
+
+113
+00:04:00,680 --> 00:04:03,270
+These resources can be leased or rented.
+
+114
+00:04:03,270 --> 00:04:05,230
+These resources could even be the people
+
+115
+00:04:05,230 --> 00:04:08,320
+who work in an organization
+under a contractual agreement.
+
+116
+00:04:08,320 --> 00:04:10,020
+Because these people are a resource
+
+117
+00:04:10,020 --> 00:04:11,780
+to the organization, too.
+
+118
+00:04:11,780 --> 00:04:13,780
+Now, the way an organization configures
+
+119
+00:04:13,780 --> 00:04:15,737
+all those resources into a set offering
+
+120
+00:04:15,737 --> 00:04:18,220
+is the essence of a product.
+
+121
+00:04:18,220 --> 00:04:21,420
+For example, Amazon Web Services or A-W-S,
+
+122
+00:04:21,420 --> 00:04:23,390
+has a lot of different service offerings.
+
+123
+00:04:23,390 --> 00:04:26,130
+Including server-hosting,
+under their E-C-two brand.
+
+124
+00:04:26,130 --> 00:04:27,610
+File storage, under S-three.
+
+125
+00:04:27,610 --> 00:04:31,180
+Domain name server
+systems, under Route 53.
+
+126
+00:04:31,180 --> 00:04:32,390
+And many others.
+
+127
+00:04:32,390 --> 00:04:33,334
+But, these services,
+
+128
+00:04:33,334 --> 00:04:36,130
+they aren't necessarily
+considered products.
+
+129
+00:04:36,130 --> 00:04:38,328
+Now, if you compare
+these individual services
+
+130
+00:04:38,328 --> 00:04:40,870
+with the Amazon Lightsail product,
+
+131
+00:04:40,870 --> 00:04:43,970
+you can see how Amazon has
+combined their E-C-two,
+
+132
+00:04:43,970 --> 00:04:46,068
+their S-three and their Route 53 services
+
+133
+00:04:46,068 --> 00:04:48,460
+into a single product that can be sold
+
+134
+00:04:48,460 --> 00:04:51,610
+directly to a customer in
+a defined configuration.
+
+135
+00:04:51,610 --> 00:04:53,080
+Everything that makes up Lightsail
+
+136
+00:04:53,080 --> 00:04:56,070
+is available as a service
+individually from A-W-S.
+
+137
+00:04:56,070 --> 00:04:58,720
+But when combined under
+the Lightsail product,
+
+138
+00:04:58,720 --> 00:05:01,530
+Amazon removed a lot of the
+complexity and confusion
+
+139
+00:05:01,530 --> 00:05:04,250
+associated with that typical
+new-customers' journey,
+
+140
+00:05:04,250 --> 00:05:06,887
+into the A-W-S and into cloud computing.
+
+141
+00:05:06,887 --> 00:05:09,380
+So, I know, we covered
+a lot in this lesson.
+
+142
+00:05:09,380 --> 00:05:10,970
+But there's two key definitions
+
+143
+00:05:10,970 --> 00:05:12,760
+that we covered that you need to know.
+
+144
+00:05:12,760 --> 00:05:14,320
+First, is service.
+
+145
+00:05:14,320 --> 00:05:17,200
+A service is a means of
+enabling value co-creation
+
+146
+00:05:17,200 --> 00:05:20,010
+by facilitating outcomes that
+the customer wants to achieve,
+
+147
+00:05:20,010 --> 00:05:21,640
+without the customer having to manage
+
+148
+00:05:21,640 --> 00:05:23,890
+those specific costs and risks.
+
+149
+00:05:23,890 --> 00:05:25,830
+And the second one, is a product.
+
+150
+00:05:25,830 --> 00:05:27,720
+A product is simply a configuration
+
+151
+00:05:27,720 --> 00:05:29,540
+of an organization's resources
+
+152
+00:05:29,540 --> 00:05:31,986
+designed to offer value for a consumer.
+
+153
+00:05:31,986 --> 00:05:34,230
+Keep those two definitions in your head
+
+154
+00:05:34,230 --> 00:05:35,130
+because you're going to need 'em,
+
+155
+00:05:35,130 --> 00:05:35,963
+come test day.
+

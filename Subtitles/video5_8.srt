@@ -1,0 +1,685 @@
+﻿1
+00:00:00,830 --> 00:00:04,450
+- Optimize and automate,
+this is our 7th and final
+
+2
+00:00:04,450 --> 00:00:07,240
+guiding principal and we
+have this one as our 7th one,
+
+3
+00:00:07,240 --> 00:00:09,980
+because it is really one of
+the ones you want to do last,
+
+4
+00:00:09,980 --> 00:00:11,560
+cuz you're going to
+implement a lot of the other
+
+5
+00:00:11,560 --> 00:00:15,030
+guiding principals and
+then optimize and automate.
+
+6
+00:00:15,030 --> 00:00:17,010
+But, what is optimize mean?
+
+7
+00:00:17,010 --> 00:00:19,340
+Well, it means to make
+something as effective
+
+8
+00:00:19,340 --> 00:00:21,830
+and useful as it makes sense to do.
+
+9
+00:00:21,830 --> 00:00:24,400
+Before an activity can
+be effectively automated,
+
+10
+00:00:24,400 --> 00:00:26,580
+you first want to make
+sure you're optimizing it
+
+11
+00:00:26,580 --> 00:00:29,710
+to whatever degree is
+possible and reasonable.
+
+12
+00:00:29,710 --> 00:00:31,660
+By doing this, you're going
+to make sure that you're
+
+13
+00:00:31,660 --> 00:00:35,200
+not just doing things
+automatically and quicker,
+
+14
+00:00:35,200 --> 00:00:37,970
+but you're doing them the
+best way and then you can
+
+15
+00:00:37,970 --> 00:00:39,970
+make them automated and quicker.
+
+16
+00:00:39,970 --> 00:00:42,270
+And so to do this we really
+want to understand and
+
+17
+00:00:42,270 --> 00:00:45,010
+agree to the context
+before the optimization,
+
+18
+00:00:45,010 --> 00:00:46,970
+by figuring out what that process is,
+
+19
+00:00:46,970 --> 00:00:49,860
+by keeping it simple
+using our 6th principle.
+
+20
+00:00:49,860 --> 00:00:52,560
+We then can go through and
+assess the current state
+
+21
+00:00:52,560 --> 00:00:54,770
+to understand where it can be improved.
+
+22
+00:00:54,770 --> 00:00:56,880
+That sounds familiar, that
+was one of our earlier
+
+23
+00:00:56,880 --> 00:00:59,320
+guiding principles right,
+starting where you are.
+
+24
+00:00:59,320 --> 00:01:02,510
+And then we want to focus
+on simplification, again,
+
+25
+00:01:02,510 --> 00:01:05,380
+keeping it simple, and get
+a value that's involved to
+
+26
+00:01:05,380 --> 00:01:07,000
+agree to our future state.
+
+27
+00:01:07,000 --> 00:01:09,700
+That might be something
+like focusing on value
+
+28
+00:01:09,700 --> 00:01:12,250
+then we want to insure
+that we optimize it for the
+
+29
+00:01:12,250 --> 00:01:15,090
+appropriate level of stakeholder
+engagement and commitment.
+
+30
+00:01:15,090 --> 00:01:17,930
+So that goes back to
+collaborating with other people.
+
+31
+00:01:17,930 --> 00:01:20,160
+Then once we do that, we're
+going to execute all of those
+
+32
+00:01:20,160 --> 00:01:22,801
+improvements in an iterative
+way, progressing iteratively,
+
+33
+00:01:22,801 --> 00:01:26,320
+using metrics and other
+feedback to check our progress
+
+34
+00:01:26,320 --> 00:01:28,630
+and stay on track to adjust as needed.
+
+35
+00:01:28,630 --> 00:01:30,810
+And once all of that's done,
+we're going to continually
+
+36
+00:01:30,810 --> 00:01:33,180
+monitor it to identify any opportunities
+
+37
+00:01:33,180 --> 00:01:35,210
+to improve our work methods.
+
+38
+00:01:35,210 --> 00:01:38,460
+You can see that by optimizing
+things, we really are pulling
+
+39
+00:01:38,460 --> 00:01:41,460
+in areas from all of the
+other guiding principles.
+
+40
+00:01:41,460 --> 00:01:45,100
+Now, once we've optimized it
+and we have the best process
+
+41
+00:01:45,100 --> 00:01:48,270
+in the least amount of steps
+that's ready to be automated,
+
+42
+00:01:48,270 --> 00:01:50,300
+we're going to move into automation.
+
+43
+00:01:50,300 --> 00:01:53,790
+Now, automation is the use of
+technology to perform a step
+
+44
+00:01:53,790 --> 00:01:56,820
+or series of steps
+correctly and consistently
+
+45
+00:01:56,820 --> 00:01:59,600
+with limited or no human intervention.
+
+46
+00:01:59,600 --> 00:02:03,040
+By automating, we can automate
+frequent and repetitive tasks
+
+47
+00:02:03,040 --> 00:02:06,100
+to help our organizations
+scale up and free up those
+
+48
+00:02:06,100 --> 00:02:09,580
+human resources to be used for
+more complex decision making.
+
+49
+00:02:09,580 --> 00:02:11,380
+In the last lesson I was talking about the
+
+50
+00:02:11,380 --> 00:02:12,710
+incident management desk.
+
+51
+00:02:12,710 --> 00:02:15,310
+You may automate the
+first three categories
+
+52
+00:02:15,310 --> 00:02:17,140
+or something like password resets.
+
+53
+00:02:17,140 --> 00:02:20,450
+That frees up people to be
+able to do more of the harder
+
+54
+00:02:20,450 --> 00:02:23,850
+complex decision making and
+problems solving techniques.
+
+55
+00:02:23,850 --> 00:02:26,630
+In my company we did this
+exact same thing with our
+
+56
+00:02:26,630 --> 00:02:28,250
+voucher for filming system.
+
+57
+00:02:28,250 --> 00:02:30,520
+At first, it was a manual method.
+
+58
+00:02:30,520 --> 00:02:32,860
+You would order a voucher,
+I would then order it from
+
+59
+00:02:32,860 --> 00:02:35,580
+the company, I would turn
+around take that, package it up
+
+60
+00:02:35,580 --> 00:02:37,710
+in an email and send it back to you.
+
+61
+00:02:37,710 --> 00:02:40,340
+Over time, we started getting
+a lot of people who were
+
+62
+00:02:40,340 --> 00:02:43,090
+buying vouchers, and so it
+was eating up a lot of my time
+
+63
+00:02:43,090 --> 00:02:45,270
+as a person, and then it
+started eating up a lot of
+
+64
+00:02:45,270 --> 00:02:47,340
+my assistants time when
+she started doing it.
+
+65
+00:02:47,340 --> 00:02:48,650
+And so what we ended up doing was
+
+66
+00:02:48,650 --> 00:02:50,810
+we ended up automating that system.
+
+67
+00:02:50,810 --> 00:02:53,440
+Now when you go to our
+website and you buy a voucher,
+
+68
+00:02:53,440 --> 00:02:55,100
+there is no human involvement.
+
+69
+00:02:55,100 --> 00:02:57,390
+Its going to go through, pull
+the next available voucher
+
+70
+00:02:57,390 --> 00:02:59,480
+for our inventory, put it in an email,
+
+71
+00:02:59,480 --> 00:03:01,760
+give you the directions,
+email it back to you,
+
+72
+00:03:01,760 --> 00:03:05,240
+and all of that happens in a
+matter of seconds or minutes.
+
+73
+00:03:05,240 --> 00:03:08,150
+The simplest form of automation
+is always going to involve
+
+74
+00:03:08,150 --> 00:03:11,098
+standardizing and streamlining
+all of these manual tasks
+
+75
+00:03:11,098 --> 00:03:13,950
+to allow decisions to
+be made automatically.
+
+76
+00:03:13,950 --> 00:03:16,380
+In our case, that's exactly what happened.
+
+77
+00:03:16,380 --> 00:03:18,810
+The all the decision it
+needs to do is figure out did
+
+78
+00:03:18,810 --> 00:03:22,070
+you order an idle 4
+voucher, an idle 3 voucher,
+
+79
+00:03:22,070 --> 00:03:23,390
+a prince 2 voucher.
+
+80
+00:03:23,390 --> 00:03:25,910
+Based on that it pulls the
+right one and sends it back
+
+81
+00:03:25,910 --> 00:03:28,030
+to you, its all automated.
+
+82
+00:03:28,030 --> 00:03:31,140
+That's the beauty of it, because
+now I was able to free up
+
+83
+00:03:31,140 --> 00:03:33,740
+those powers of human labor to go do other
+
+84
+00:03:33,740 --> 00:03:36,330
+more important things like
+make study guides for you,
+
+85
+00:03:36,330 --> 00:03:39,650
+or make new slides, or new
+videos, or do video editing,
+
+86
+00:03:39,650 --> 00:03:41,350
+or answer student questions.
+
+87
+00:03:41,350 --> 00:03:42,820
+All of that is being able to be done,
+
+88
+00:03:42,820 --> 00:03:45,175
+because we automated simple process.
+
+89
+00:03:45,175 --> 00:03:47,490
+So when you think about this,
+
+90
+00:03:47,490 --> 00:03:49,260
+how are you going to apply this principle.
+
+91
+00:03:49,260 --> 00:03:52,120
+Well first you're going
+to simplify and optimize
+
+92
+00:03:52,120 --> 00:03:53,820
+before you ever automate.
+
+93
+00:03:53,820 --> 00:03:56,200
+You don't want to take
+something that has 1000 steps
+
+94
+00:03:56,200 --> 00:03:58,640
+and automate it, because
+now its just doing that
+
+95
+00:03:58,640 --> 00:04:00,550
+bad process faster.
+
+96
+00:04:00,550 --> 00:04:01,760
+That's still costing you time,
+
+97
+00:04:01,760 --> 00:04:03,230
+and its still costing you money.
+
+98
+00:04:03,230 --> 00:04:05,350
+Instead, we want to take that process,
+
+99
+00:04:05,350 --> 00:04:08,770
+get it down to the simplest
+steps, and then automate it.
+
+100
+00:04:08,770 --> 00:04:10,590
+Because that's going to
+save you the most time
+
+101
+00:04:10,590 --> 00:04:11,930
+and the most money.
+
+102
+00:04:11,930 --> 00:04:13,260
+Next, I also want you to look for
+
+103
+00:04:13,260 --> 00:04:16,240
+anything that's done
+manually and repetitively.
+
+104
+00:04:16,240 --> 00:04:18,230
+If you for instance get an email every day
+
+105
+00:04:18,230 --> 00:04:20,970
+for an email newsletter and
+you always have to take it
+
+106
+00:04:20,970 --> 00:04:22,820
+and drag it to your trash can.
+
+107
+00:04:22,820 --> 00:04:25,520
+That takes up maybe 2 or
+3 seconds of your time,
+
+108
+00:04:25,520 --> 00:04:27,503
+but you could apply an
+automated filter that
+
+109
+00:04:27,503 --> 00:04:28,960
+any time that email comes in
+
+110
+00:04:28,960 --> 00:04:30,980
+it automatically moves
+it to your trash can
+
+111
+00:04:30,980 --> 00:04:32,770
+or you can go and unsubscribe right.
+
+112
+00:04:32,770 --> 00:04:34,380
+But you get the idea,
+anything that you see
+
+113
+00:04:34,380 --> 00:04:36,230
+yourself doing day in and day out,
+
+114
+00:04:36,230 --> 00:04:38,820
+there's probably a computer
+program that can be done to
+
+115
+00:04:38,820 --> 00:04:42,070
+optimize it and automate it
+so you don't have to do it.
+
+116
+00:04:42,070 --> 00:04:44,480
+Second, I want you to
+always define your metrics.
+
+117
+00:04:44,480 --> 00:04:46,380
+What does good look like?
+
+118
+00:04:46,380 --> 00:04:48,660
+If were talking about my
+voucher for filming system,
+
+119
+00:04:48,660 --> 00:04:51,070
+our metric is that you're going
+to get your voucher within
+
+120
+00:04:51,070 --> 00:04:53,600
+5 minutes of ordering, and
+that's pretty generous,
+
+121
+00:04:53,600 --> 00:04:56,000
+usually it takes about 60 seconds.
+
+122
+00:04:56,000 --> 00:04:58,300
+Again, define your metrics
+so you can then look
+
+123
+00:04:58,300 --> 00:05:00,650
+at your systems and see
+if they've been optimized
+
+124
+00:05:00,650 --> 00:05:03,690
+and automated properly to
+meet the metrics you have.
+
+125
+00:05:03,690 --> 00:05:05,740
+Also, you want to make
+sure you're using the other
+
+126
+00:05:05,740 --> 00:05:07,920
+guiding principles when
+you apply this one.
+
+127
+00:05:07,920 --> 00:05:10,490
+As I said, we're going to use a
+lot of these other principles.
+
+128
+00:05:10,490 --> 00:05:12,400
+We're going to think
+and work holistically,
+
+129
+00:05:12,400 --> 00:05:14,320
+cuz we look at the whole
+system as a whole we
+
+130
+00:05:14,320 --> 00:05:17,080
+can figure out where the
+optimizations can best be taken.
+
+131
+00:05:17,080 --> 00:05:19,050
+We're also going to look
+at starting where you are,
+
+132
+00:05:19,050 --> 00:05:20,490
+because we need to know where we are
+
+133
+00:05:20,490 --> 00:05:22,830
+to figure out how we can
+get to the next level.
+
+134
+00:05:22,830 --> 00:05:24,870
+We also want to keep it
+simple and practical,
+
+135
+00:05:24,870 --> 00:05:26,950
+because we want to eliminate
+steps that aren't needed
+
+136
+00:05:26,950 --> 00:05:28,270
+or aren't practical.
+
+137
+00:05:28,270 --> 00:05:31,240
+Then, we want to build on that
+by progressing iteratively
+
+138
+00:05:31,240 --> 00:05:34,450
+and with feedback, and
+finally we always have a focus
+
+139
+00:05:34,450 --> 00:05:36,730
+on value, we always want to
+make sure that what we're
+
+140
+00:05:36,730 --> 00:05:38,550
+doing is for a reason.
+
+141
+00:05:38,550 --> 00:05:41,510
+Were doing this process to give
+more value to our consumers,
+
+142
+00:05:41,510 --> 00:05:43,550
+or to our organization or to both.
+
+143
+00:05:43,550 --> 00:05:46,700
+So that was our 7 guiding
+principals, and they all get
+
+144
+00:05:46,700 --> 00:05:48,650
+kind of get summed up here at the end with
+
+145
+00:05:48,650 --> 00:05:50,910
+Optimize and Automate,
+because we really do
+
+146
+00:05:50,910 --> 00:05:52,970
+dig into all those principles as
+
+147
+00:05:52,970 --> 00:05:55,953
+we work through optimizing
+and automating our systems.
+

@@ -1,0 +1,263 @@
+﻿1
+00:00:00,870 --> 00:00:02,900
+- Monitoring and event management.
+
+2
+00:00:02,900 --> 00:00:05,750
+This is another one you have
+to recall the purpose of
+
+3
+00:00:05,750 --> 00:00:08,000
+and there's a term that were
+going to have to define.
+
+4
+00:00:08,000 --> 00:00:09,610
+Let's start with the purpose.
+
+5
+00:00:09,610 --> 00:00:12,330
+The purpose of monitoring
+an event management practice
+
+6
+00:00:12,330 --> 00:00:13,940
+is to systematically observe
+
+7
+00:00:13,940 --> 00:00:15,950
+a service or a service component,
+
+8
+00:00:15,950 --> 00:00:19,000
+and record and report
+selected changes of state
+
+9
+00:00:19,000 --> 00:00:20,890
+identified as events.
+
+10
+00:00:20,890 --> 00:00:23,330
+And events is the word that
+we're going to have to define.
+
+11
+00:00:23,330 --> 00:00:26,910
+Now this practice identifies
+and prioritizes infrastructure,
+
+12
+00:00:26,910 --> 00:00:30,600
+services, business processes,
+information security events,
+
+13
+00:00:30,600 --> 00:00:31,740
+and then it establishes
+
+14
+00:00:31,740 --> 00:00:33,750
+the appropriate response to those events,
+
+15
+00:00:33,750 --> 00:00:35,380
+including responding to the conditions
+
+16
+00:00:35,380 --> 00:00:38,280
+that could lead to potential
+faults or incidents.
+
+17
+00:00:38,280 --> 00:00:40,820
+Event management is
+really important for us.
+
+18
+00:00:40,820 --> 00:00:43,490
+And this brings us to the
+term that we need to memorize.
+
+19
+00:00:43,490 --> 00:00:45,570
+This one is called an event.
+
+20
+00:00:45,570 --> 00:00:48,340
+An event is any change of
+state that has significance
+
+21
+00:00:48,340 --> 00:00:50,470
+for the management of a configuration item
+
+22
+00:00:50,470 --> 00:00:53,470
+or a CI or an IT service.
+
+23
+00:00:53,470 --> 00:00:56,550
+For example, an event might be
+when you log in successfully,
+
+24
+00:00:56,550 --> 00:00:59,110
+or when you fail to log in successfully.
+
+25
+00:00:59,110 --> 00:01:00,920
+It might be that the bandwidth is exceeded
+
+26
+00:01:00,920 --> 00:01:02,170
+for a certain threshold.
+
+27
+00:01:02,170 --> 00:01:04,180
+It might be that the
+free space on a server
+
+28
+00:01:04,180 --> 00:01:06,000
+gets below a certain threshold.
+
+29
+00:01:06,000 --> 00:01:08,090
+These are all things that could be events.
+
+30
+00:01:08,090 --> 00:01:09,960
+We want to make sure
+that we take some action
+
+31
+00:01:09,960 --> 00:01:10,900
+based on these events.
+
+32
+00:01:10,900 --> 00:01:12,690
+And depending on what the event is,
+
+33
+00:01:12,690 --> 00:01:14,690
+that's going to tell
+us what we need to do.
+
+34
+00:01:14,690 --> 00:01:17,180
+The event might be something
+that's informational,
+
+35
+00:01:17,180 --> 00:01:20,120
+or it might be a warning,
+or it might be an alert,
+
+36
+00:01:20,120 --> 00:01:21,600
+depending on the severity.
+
+37
+00:01:21,600 --> 00:01:22,860
+If it's something informational,
+
+38
+00:01:22,860 --> 00:01:25,290
+like we had a successful
+login, that's fine,
+
+39
+00:01:25,290 --> 00:01:28,040
+we don't have to take any
+action, we might just log it.
+
+40
+00:01:28,040 --> 00:01:29,930
+But if we have something
+like a login failure
+
+41
+00:01:29,930 --> 00:01:32,580
+that happened three times,
+that might become a warning
+
+42
+00:01:32,580 --> 00:01:34,480
+and we want to figure
+out why did that account
+
+43
+00:01:34,480 --> 00:01:36,590
+try to log in three times incorrectly.
+
+44
+00:01:36,590 --> 00:01:38,710
+If we have something like
+the free space on a server
+
+45
+00:01:38,710 --> 00:01:41,500
+gets below 10 gigabytes,
+that might be an alert
+
+46
+00:01:41,500 --> 00:01:43,130
+because it might cause a server to crash
+
+47
+00:01:43,130 --> 00:01:44,740
+if we run out of disk space.
+
+48
+00:01:44,740 --> 00:01:47,350
+That's the idea here with
+the event and monitoring.
+
+49
+00:01:47,350 --> 00:01:49,520
+We want to make sure we
+understand what events there are,
+
+50
+00:01:49,520 --> 00:01:52,860
+and we monitor them to decide
+what actions need to be taken.
+
+51
+00:01:52,860 --> 00:01:54,620
+Some of those actions need to go out
+
+52
+00:01:54,620 --> 00:01:56,950
+and get into the problem
+management perspective,
+
+53
+00:01:56,950 --> 00:01:58,840
+or the incident management perspective.
+
+54
+00:01:58,840 --> 00:02:01,480
+But again, here inside
+of the event monitoring,
+
+55
+00:02:01,480 --> 00:02:03,100
+we're really focused on the event,
+
+56
+00:02:03,100 --> 00:02:05,410
+which is any change in
+state that has significance
+
+57
+00:02:05,410 --> 00:02:07,280
+for the management of
+a configuration item,
+
+58
+00:02:07,280 --> 00:02:08,243
+a CI, or an IT service.
+

@@ -1,0 +1,109 @@
+﻿1
+00:00:00,890 --> 00:00:02,430
+- Deployment Management.
+
+2
+00:00:02,430 --> 00:00:05,800
+This is a recall level of
+difficulty for the exam.
+
+3
+00:00:05,800 --> 00:00:08,060
+The purpose of the Deployment
+Management practice
+
+4
+00:00:08,060 --> 00:00:11,130
+is to move new or changed
+hardware, software,
+
+5
+00:00:11,130 --> 00:00:14,180
+documentation, processes,
+or other components
+
+6
+00:00:14,180 --> 00:00:15,820
+to the live environment.
+
+7
+00:00:15,820 --> 00:00:17,830
+It may also be involved
+with deploying components
+
+8
+00:00:17,830 --> 00:00:20,590
+to other environments
+for testing or staging.
+
+9
+00:00:20,590 --> 00:00:23,540
+Basically, we used to have
+release and deployment
+
+10
+00:00:23,540 --> 00:00:26,430
+as one practice but in ITIL 4,
+
+11
+00:00:26,430 --> 00:00:29,170
+release and deployment are
+now two different things.
+
+12
+00:00:29,170 --> 00:00:32,160
+Release is more focused
+on the approval process,
+
+13
+00:00:32,160 --> 00:00:35,100
+where deployment is more
+about moving the change over
+
+14
+00:00:35,100 --> 00:00:36,640
+into the live environment.
+
+15
+00:00:36,640 --> 00:00:38,060
+And so that's what we're going to focus on
+
+16
+00:00:38,060 --> 00:00:39,800
+inside deployment management.
+
+17
+00:00:39,800 --> 00:00:42,680
+As I build a new server or
+I build a new capability,
+
+18
+00:00:42,680 --> 00:00:44,410
+it's going to go through
+the change process,
+
+19
+00:00:44,410 --> 00:00:45,620
+it's going to get approval,
+
+20
+00:00:45,620 --> 00:00:47,680
+it'll go through the
+release management process,
+
+21
+00:00:47,680 --> 00:00:49,560
+and eventually, it will get deployed
+
+22
+00:00:49,560 --> 00:00:50,720
+through deployment management
+
+23
+00:00:50,720 --> 00:00:53,150
+and move itself from transition into
+
+24
+00:00:53,150 --> 00:00:54,993
+the deliver and support perspective.
+

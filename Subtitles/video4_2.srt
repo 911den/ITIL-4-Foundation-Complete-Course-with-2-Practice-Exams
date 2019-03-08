@@ -1,0 +1,661 @@
+﻿1
+00:00:00,330 --> 00:00:03,040
+- Opportunities, demand, and value.
+
+2
+00:00:03,040 --> 00:00:05,301
+When we consider the service value system,
+
+3
+00:00:05,301 --> 00:00:07,500
+it's going to take some inputs,
+
+4
+00:00:07,500 --> 00:00:09,650
+which come from opportunities and demands,
+
+5
+00:00:09,650 --> 00:00:11,930
+do a bunch of processes, activities,
+
+6
+00:00:11,930 --> 00:00:13,930
+using the guiding
+principles, the governance,
+
+7
+00:00:13,930 --> 00:00:16,970
+and continual improvement to
+eventually give us an output,
+
+8
+00:00:16,970 --> 00:00:18,540
+which we hope is value
+
+9
+00:00:18,540 --> 00:00:21,460
+that we can share with our
+consumers and our customers.
+
+10
+00:00:21,460 --> 00:00:22,830
+Now, when we look at those inputs,
+
+11
+00:00:22,830 --> 00:00:25,080
+the first one we have is opportunities.
+
+12
+00:00:25,080 --> 00:00:27,830
+Opportunities represent
+options or possibilities
+
+13
+00:00:27,830 --> 00:00:29,730
+to add value for stakeholders
+
+14
+00:00:29,730 --> 00:00:32,590
+or otherwise improve the organization.
+
+15
+00:00:32,590 --> 00:00:35,300
+Some examples of this, is if
+we're going to find new markets,
+
+16
+00:00:35,300 --> 00:00:36,820
+or find new customers.
+
+17
+00:00:36,820 --> 00:00:39,270
+We might create a new service,
+or create a new product.
+
+18
+00:00:39,270 --> 00:00:40,860
+There's lots of different ways for us
+
+19
+00:00:40,860 --> 00:00:43,320
+to figure out what
+those opportunities are,
+
+20
+00:00:43,320 --> 00:00:46,940
+and then bring those to market
+so we can help add value.
+
+21
+00:00:46,940 --> 00:00:49,750
+For example, when I first
+started teaching ITIL,
+
+22
+00:00:49,750 --> 00:00:52,060
+I didn't have the ability, as a partner,
+
+23
+00:00:52,060 --> 00:00:54,180
+to be able to sell
+vouchers to my students.
+
+24
+00:00:54,180 --> 00:00:56,320
+And so, my students, when they
+finished taking my course,
+
+25
+00:00:56,320 --> 00:00:58,770
+would go to PeopleCert or
+they would to to Pearson View,
+
+26
+00:00:58,770 --> 00:01:00,060
+and they would order their voucher,
+
+27
+00:01:00,060 --> 00:01:01,870
+and pay for their exam directly there,
+
+28
+00:01:01,870 --> 00:01:03,410
+and then take the exam.
+
+29
+00:01:03,410 --> 00:01:04,540
+The problem with that
+
+30
+00:01:04,540 --> 00:01:07,650
+is that made them have
+to pay full retail price.
+
+31
+00:01:07,650 --> 00:01:08,910
+Now, one of the things we've done,
+
+32
+00:01:08,910 --> 00:01:11,310
+is we've been able to
+partner with PeopleCert
+
+33
+00:01:11,310 --> 00:01:13,960
+and partner with Axelos so
+we can get those vouchers
+
+34
+00:01:13,960 --> 00:01:16,690
+and buy them in bulk, so
+we can buy a lot of them,
+
+35
+00:01:16,690 --> 00:01:18,140
+and pay a much lower price,
+
+36
+00:01:18,140 --> 00:01:20,200
+and pass the savings on to our students.
+
+37
+00:01:20,200 --> 00:01:22,360
+So now our students can
+come to our website,
+
+38
+00:01:22,360 --> 00:01:26,070
+buy those vouchers, and save
+about $50 off the retail price,
+
+39
+00:01:26,070 --> 00:01:27,630
+because they're buying it through us.
+
+40
+00:01:27,630 --> 00:01:28,780
+It was a way that we were able
+
+41
+00:01:28,780 --> 00:01:32,840
+to give our customers more
+value by offering a product.
+
+42
+00:01:32,840 --> 00:01:34,700
+It wasn't necessarily a service,
+
+43
+00:01:34,700 --> 00:01:36,160
+because it's not something
+that we were doing,
+
+44
+00:01:36,160 --> 00:01:37,790
+we're just buying them in bulk,
+
+45
+00:01:37,790 --> 00:01:39,210
+and then reselling them to you,
+
+46
+00:01:39,210 --> 00:01:41,190
+and passing those savings on to you.
+
+47
+00:01:41,190 --> 00:01:42,630
+But it added value for our students,
+
+48
+00:01:42,630 --> 00:01:43,520
+because now they can buy
+
+49
+00:01:43,520 --> 00:01:46,580
+their training and their
+certification exams
+
+50
+00:01:46,580 --> 00:01:48,720
+through us at a much cheaper rate.
+
+51
+00:01:48,720 --> 00:01:51,470
+That was an opportunity we
+saw, and we decided to take it,
+
+52
+00:01:51,470 --> 00:01:53,550
+and so we built different
+processes in place
+
+53
+00:01:53,550 --> 00:01:55,600
+and practices to make that a reality,
+
+54
+00:01:55,600 --> 00:01:57,640
+so you can get your vouchers that way.
+
+55
+00:01:57,640 --> 00:02:00,360
+Now, the other input we have is demand,
+
+56
+00:02:00,360 --> 00:02:03,090
+and demand is when there is need or desire
+
+57
+00:02:03,090 --> 00:02:04,510
+for products and services
+
+58
+00:02:04,510 --> 00:02:07,000
+among your internal or external consumers.
+
+59
+00:02:07,000 --> 00:02:08,840
+What does this look like?
+
+60
+00:02:08,840 --> 00:02:11,540
+Well, I get this on a
+daily basis in our company.
+
+61
+00:02:11,540 --> 00:02:13,300
+I have students who finish an exam
+
+62
+00:02:13,300 --> 00:02:16,380
+and they send me an email and
+say hey I passed this exam,
+
+63
+00:02:16,380 --> 00:02:18,870
+do you offer this new other certification?
+
+64
+00:02:18,870 --> 00:02:21,690
+Or I would love it if you
+offered this certification.
+
+65
+00:02:21,690 --> 00:02:24,370
+And so they have a demand,
+an external consumer,
+
+66
+00:02:24,370 --> 00:02:26,320
+who wants something from our company,
+
+67
+00:02:26,320 --> 00:02:27,750
+and they're telling us about it.
+
+68
+00:02:27,750 --> 00:02:30,590
+Hey, I passed ITIL and
+I want to take Prince2,
+
+69
+00:02:30,590 --> 00:02:31,780
+do you offer that?
+
+70
+00:02:31,780 --> 00:02:33,740
+Well, because enough students asked us to,
+
+71
+00:02:33,740 --> 00:02:36,979
+we went and did a Prince2
+course, and we offer that now.
+
+72
+00:02:36,979 --> 00:02:39,060
+So, we do take input from our students,
+
+73
+00:02:39,060 --> 00:02:40,360
+and that helps us shape
+
+74
+00:02:40,360 --> 00:02:42,360
+what products and services
+we're going to do.
+
+75
+00:02:42,360 --> 00:02:44,010
+One of the things students
+have asked a lot for,
+
+76
+00:02:44,010 --> 00:02:45,780
+is they want more hands on practice
+
+77
+00:02:45,780 --> 00:02:47,710
+in our IT certification courses,
+
+78
+00:02:47,710 --> 00:02:50,500
+so we're building labs
+where students can login
+
+79
+00:02:50,500 --> 00:02:54,200
+and do actual actions instead
+of just watching it on video.
+
+80
+00:02:54,200 --> 00:02:56,950
+Those are the kind of
+things that demand has fed
+
+81
+00:02:56,950 --> 00:03:00,030
+and now we have put that through
+our service value system,
+
+82
+00:03:00,030 --> 00:03:01,470
+and through our service value chain
+
+83
+00:03:01,470 --> 00:03:03,140
+to create products and services
+
+84
+00:03:03,140 --> 00:03:04,900
+that can come out the other side
+
+85
+00:03:04,900 --> 00:03:06,800
+and give value to our students.
+
+86
+00:03:06,800 --> 00:03:09,450
+Which brings us to the outcome
+of the service value system,
+
+87
+00:03:09,450 --> 00:03:11,880
+which is the value,
+that's the output, right?
+
+88
+00:03:11,880 --> 00:03:13,470
+The output or the outcome.
+
+89
+00:03:13,470 --> 00:03:14,410
+And when we look at that,
+
+90
+00:03:14,410 --> 00:03:17,160
+the service value system is
+going to enable the creation
+
+91
+00:03:17,160 --> 00:03:19,070
+of many different types of value
+
+92
+00:03:19,070 --> 00:03:21,180
+for a wide group of stakeholders.
+
+93
+00:03:21,180 --> 00:03:22,970
+So, when I think about value,
+
+94
+00:03:22,970 --> 00:03:25,223
+and I look at it from
+a service perspective,
+
+95
+00:03:25,223 --> 00:03:28,692
+there is a value that we,
+as an organization, get.
+
+96
+00:03:28,692 --> 00:03:31,400
+For example, when we talk
+about the exam vouchers,
+
+97
+00:03:31,400 --> 00:03:33,610
+well, there's a value that
+we get from doing that.
+
+98
+00:03:33,610 --> 00:03:36,100
+By buying those all and
+doing all the processing,
+
+99
+00:03:36,100 --> 00:03:37,480
+we do keep a little bit of money,
+
+100
+00:03:37,480 --> 00:03:39,320
+and we make a little bit
+of profit off of that.
+
+101
+00:03:39,320 --> 00:03:41,430
+So there's value for my
+company in doing that.
+
+102
+00:03:41,430 --> 00:03:42,780
+Because again, we have
+to pay our employees
+
+103
+00:03:42,780 --> 00:03:44,760
+and we have to make some
+overhead to do that.
+
+104
+00:03:44,760 --> 00:03:45,770
+There's also value
+
+105
+00:03:45,770 --> 00:03:47,790
+for our other stakeholders, our students.
+
+106
+00:03:47,790 --> 00:03:50,800
+Instead of paying full retail
+price, you get $50 off,
+
+107
+00:03:50,800 --> 00:03:52,400
+and so that saves you money
+
+108
+00:03:52,400 --> 00:03:54,310
+and it gives you the
+thing you need, right?
+
+109
+00:03:54,310 --> 00:03:55,900
+We're giving you value there.
+
+110
+00:03:55,900 --> 00:03:58,260
+We might have value from
+other organizations.
+
+111
+00:03:58,260 --> 00:04:00,050
+I actually have some
+deals with some colleges,
+
+112
+00:04:00,050 --> 00:04:03,150
+and when they go through and
+they teach their students IDIL4
+
+113
+00:04:03,150 --> 00:04:05,450
+they want to be able to
+buy those vouchers as well.
+
+114
+00:04:05,450 --> 00:04:07,710
+But they don't buy it
+in the same bulk we do,
+
+115
+00:04:07,710 --> 00:04:10,350
+because we buy thousands
+and tens of thousands
+
+116
+00:04:10,350 --> 00:04:11,590
+of these vouchers a year,
+
+117
+00:04:11,590 --> 00:04:13,370
+and so we get a much lower price.
+
+118
+00:04:13,370 --> 00:04:15,880
+So we actually sell those
+vouchers, some of those,
+
+119
+00:04:15,880 --> 00:04:17,640
+to these colleges for their students
+
+120
+00:04:17,640 --> 00:04:19,380
+in groups of 20 or 50,
+
+121
+00:04:19,380 --> 00:04:20,970
+and they get a little bit of a lower price
+
+122
+00:04:20,970 --> 00:04:22,750
+than you as an individual student do,
+
+123
+00:04:22,750 --> 00:04:25,150
+because they are buying
+so many of them, right?
+
+124
+00:04:25,150 --> 00:04:25,983
+And so, again,
+
+125
+00:04:25,983 --> 00:04:28,170
+we have value for a bunch of
+different stakeholders here,
+
+126
+00:04:28,170 --> 00:04:30,750
+with the same exact product or service.
+
+127
+00:04:30,750 --> 00:04:32,930
+Because of the way that
+service value system works,
+
+128
+00:04:32,930 --> 00:04:34,640
+that can happen, right?
+
+129
+00:04:34,640 --> 00:04:38,310
+Amazon built an entire server
+farm to house their website,
+
+130
+00:04:38,310 --> 00:04:40,790
+and then they go, hmm,
+I bet we can sell this
+
+131
+00:04:40,790 --> 00:04:42,640
+to other companies too, and they do.
+
+132
+00:04:42,640 --> 00:04:44,670
+It's called amazon web services,
+
+133
+00:04:44,670 --> 00:04:46,070
+and that means they can take that,
+
+134
+00:04:46,070 --> 00:04:48,830
+and give different value
+to different stakeholders,
+
+135
+00:04:48,830 --> 00:04:49,900
+that's the idea.
+
+136
+00:04:49,900 --> 00:04:52,950
+So, we look at this service
+value system from left to right.
+
+137
+00:04:52,950 --> 00:04:55,330
+We're looking at inputs of opportunities,
+
+138
+00:04:55,330 --> 00:04:57,970
+what new markets, new
+customers, new services,
+
+139
+00:04:57,970 --> 00:04:59,320
+and new products can you have?
+
+140
+00:04:59,320 --> 00:05:00,540
+As well as demand,
+
+141
+00:05:00,540 --> 00:05:02,880
+what things do these people want to buy,
+
+142
+00:05:02,880 --> 00:05:04,530
+internally or externally?
+
+143
+00:05:04,530 --> 00:05:07,110
+And then on the output
+side, we have value,
+
+144
+00:05:07,110 --> 00:05:09,430
+for those internal and
+those external consumers,
+
+145
+00:05:09,430 --> 00:05:12,030
+for the business, for the organization,
+
+146
+00:05:12,030 --> 00:05:14,400
+for all of your customers
+and all of your consumers.
+
+147
+00:05:14,400 --> 00:05:16,790
+That's the idea of the
+service value system.
+
+148
+00:05:16,790 --> 00:05:20,253
+Take something in, add value,
+and put it out the other side.
+

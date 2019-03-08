@@ -1,0 +1,1129 @@
+﻿1
+00:00:00,000 --> 00:00:02,180
+- Change Control.
+
+2
+00:00:02,180 --> 00:00:03,910
+In this lesson, we're going to talk about
+
+3
+00:00:03,910 --> 00:00:05,610
+the Change Control practice.
+
+4
+00:00:05,610 --> 00:00:07,250
+Now, for the exam, this is one
+
+5
+00:00:07,250 --> 00:00:09,150
+of the ones you need to know in depth.
+
+6
+00:00:09,150 --> 00:00:10,250
+You need to be able to recall it's
+
+7
+00:00:10,250 --> 00:00:12,060
+definition and purpose, as well as
+
+8
+00:00:12,060 --> 00:00:14,780
+terms associated with
+it, and how it operates.
+
+9
+00:00:14,780 --> 00:00:16,520
+So, let's get started.
+
+10
+00:00:16,520 --> 00:00:18,700
+The purpose of the Change Control practice
+
+11
+00:00:18,700 --> 00:00:20,634
+is to maximize the number of successful
+
+12
+00:00:20,634 --> 00:00:23,050
+IT changes by ensuring that the risks
+
+13
+00:00:23,050 --> 00:00:24,485
+have been properly assessed, authorizing
+
+14
+00:00:24,485 --> 00:00:28,365
+changes to proceed, and
+managing the change schedule.
+
+15
+00:00:28,365 --> 00:00:31,020
+Basically, Change Control is what
+
+16
+00:00:31,020 --> 00:00:32,740
+we used to call Change Management.
+
+17
+00:00:32,740 --> 00:00:34,530
+It's all about making sure that
+
+18
+00:00:34,530 --> 00:00:36,980
+before we make a change,
+we understand the risk,
+
+19
+00:00:36,980 --> 00:00:38,730
+we know who's approved it, and
+
+20
+00:00:38,730 --> 00:00:40,640
+we manage it on the schedule.
+
+21
+00:00:40,640 --> 00:00:43,360
+So, when we do this, this
+is all a balancing act.
+
+22
+00:00:43,360 --> 00:00:46,220
+We want to balance the
+beneficial effect of changes
+
+23
+00:00:46,220 --> 00:00:47,810
+against protecting ourself from
+
+24
+00:00:47,810 --> 00:00:49,770
+adverse effects of changes.
+
+25
+00:00:49,770 --> 00:00:51,350
+Just think about it this way,
+
+26
+00:00:51,350 --> 00:00:52,870
+every time you change something,
+
+27
+00:00:52,870 --> 00:00:54,920
+you're introducing a risk of failure,
+
+28
+00:00:54,920 --> 00:00:56,769
+and so the change has to be worth while.
+
+29
+00:00:56,769 --> 00:01:00,030
+We like thing that are
+stable and working properly,
+
+30
+00:01:00,030 --> 00:01:02,380
+but we also like new features and value.
+
+31
+00:01:02,380 --> 00:01:05,020
+And so, a lot of times
+we have to make changes,
+
+32
+00:01:05,020 --> 00:01:07,370
+but that's going to effect
+the stability of the system.
+
+33
+00:01:07,370 --> 00:01:09,730
+And so, we want to be
+able to manage that risk
+
+34
+00:01:09,730 --> 00:01:13,000
+using risk management, as
+well as this Change Control.
+
+35
+00:01:13,000 --> 00:01:14,530
+Now, the scope of Change Control
+
+36
+00:01:14,530 --> 00:01:16,560
+is defined by each organization.
+
+37
+00:01:16,560 --> 00:01:18,030
+This is something that
+is going to be decided
+
+38
+00:01:18,030 --> 00:01:19,780
+by your governance, your policies,
+
+39
+00:01:19,780 --> 00:01:22,630
+and your procedures within
+your particular company.
+
+40
+00:01:22,630 --> 00:01:25,180
+It's going to include all
+of the IT infrastructure,
+
+41
+00:01:25,180 --> 00:01:27,430
+the applications, the documentation,
+
+42
+00:01:27,430 --> 00:01:29,950
+the processes, the supplier relationships,
+
+43
+00:01:29,950 --> 00:01:31,670
+and anything else that might directly
+
+44
+00:01:31,670 --> 00:01:34,160
+or indirectly impact a product or service
+
+45
+00:01:34,160 --> 00:01:35,770
+that we're going to change.
+
+46
+00:01:35,770 --> 00:01:37,560
+Now, I mentioned there were seven terms
+
+47
+00:01:37,560 --> 00:01:39,200
+that you had to learn definitions of
+
+48
+00:01:39,200 --> 00:01:40,970
+during the study of our practices.
+
+49
+00:01:40,970 --> 00:01:42,640
+Well, here's the first one.
+
+50
+00:01:42,640 --> 00:01:44,470
+It's called a change.
+
+51
+00:01:44,470 --> 00:01:47,160
+Now, a change is the
+addition, modification,
+
+52
+00:01:47,160 --> 00:01:49,260
+or removal of anything that could have
+
+53
+00:01:49,260 --> 00:01:52,650
+a direct or indirect
+effect on IT services.
+
+54
+00:01:52,650 --> 00:01:54,483
+There's actually three
+different types of changes.
+
+55
+00:01:54,483 --> 00:01:58,127
+There's standard, normal,
+and emergency changes.
+
+56
+00:01:58,127 --> 00:02:01,040
+A standard change is something
+that is preauthorized.
+
+57
+00:02:01,040 --> 00:02:02,240
+It's something that we can implement
+
+58
+00:02:02,240 --> 00:02:04,150
+without additional authorization.
+
+59
+00:02:04,150 --> 00:02:06,600
+This is because it's something
+we do all of the time,
+
+60
+00:02:06,600 --> 00:02:08,170
+the risks are well understood, and
+
+61
+00:02:08,170 --> 00:02:10,220
+therefore it's going to be low risk.
+
+62
+00:02:10,220 --> 00:02:11,510
+A good example of this would be
+
+63
+00:02:11,510 --> 00:02:14,270
+if somebody calls up and
+asks to reset their password.
+
+64
+00:02:14,270 --> 00:02:16,110
+That is something that
+a service desk analyst
+
+65
+00:02:16,110 --> 00:02:17,670
+can do on their own, they don't need
+
+66
+00:02:17,670 --> 00:02:18,900
+any kind of approval, because
+
+67
+00:02:18,900 --> 00:02:20,810
+it's already been preauthorized.
+
+68
+00:02:20,810 --> 00:02:22,543
+This is a simple, well understood change,
+
+69
+00:02:22,543 --> 00:02:25,145
+but it is still a change to the system.
+
+70
+00:02:25,145 --> 00:02:28,710
+Our second type of change is
+what we call a normal change.
+
+71
+00:02:28,710 --> 00:02:30,470
+These are changes where authorization
+
+72
+00:02:30,470 --> 00:02:32,090
+is going to have to be gained, but
+
+73
+00:02:32,090 --> 00:02:33,530
+that level of authorization is
+
+74
+00:02:33,530 --> 00:02:34,750
+going to be based on the different
+
+75
+00:02:34,750 --> 00:02:37,050
+types of change and how risky it is.
+
+76
+00:02:37,050 --> 00:02:39,430
+So, if this was a low
+or a medium risk thing,
+
+77
+00:02:39,430 --> 00:02:41,240
+but we don't consider
+it a standard change,
+
+78
+00:02:41,240 --> 00:02:43,270
+it's going to go through
+the normal process,
+
+79
+00:02:43,270 --> 00:02:44,700
+and the person who approves it
+
+80
+00:02:44,700 --> 00:02:46,870
+is called a Change Authority.
+
+81
+00:02:46,870 --> 00:02:47,810
+If it's going to be something that is
+
+82
+00:02:47,810 --> 00:02:49,950
+low or medium risk, that Change Authority
+
+83
+00:02:49,950 --> 00:02:52,360
+might be your supervisor or their boss.
+
+84
+00:02:52,360 --> 00:02:53,638
+But if you have a major change,
+
+85
+00:02:53,638 --> 00:02:56,340
+this might be something
+that is really complex,
+
+86
+00:02:56,340 --> 00:02:58,270
+it's going to need a
+higher level of approval,
+
+87
+00:02:58,270 --> 00:02:59,820
+and it's going to go all the way up
+
+88
+00:02:59,820 --> 00:03:02,140
+until we get a very
+senior Change Authority.
+
+89
+00:03:02,140 --> 00:03:03,680
+Again, this is going to depend on
+
+90
+00:03:03,680 --> 00:03:05,260
+how your organization does it,
+
+91
+00:03:05,260 --> 00:03:06,940
+how much tolerance they have to risk,
+
+92
+00:03:06,940 --> 00:03:08,820
+and how they want to set it up.
+
+93
+00:03:08,820 --> 00:03:10,920
+Let me give you an example
+of a normal change.
+
+94
+00:03:10,920 --> 00:03:12,720
+Let's just say, you wanted
+to upgrade your server
+
+95
+00:03:12,720 --> 00:03:15,672
+from Windows 2012 to Windows 2019.
+
+96
+00:03:15,672 --> 00:03:18,800
+This is a major change,
+so we want to make sure
+
+97
+00:03:18,800 --> 00:03:20,470
+we properly plan for that change.
+
+98
+00:03:20,470 --> 00:03:21,650
+We want to make sure we get the necessary
+
+99
+00:03:21,650 --> 00:03:23,260
+coordination done ahead of time,
+
+100
+00:03:23,260 --> 00:03:24,490
+and we want to make sure all the
+
+101
+00:03:24,490 --> 00:03:25,710
+right approvals have been done
+
+102
+00:03:25,710 --> 00:03:27,100
+before we ever attempt to install
+
+103
+00:03:27,100 --> 00:03:28,710
+that new server software.
+
+104
+00:03:28,710 --> 00:03:30,950
+That's the idea here with a normal change.
+
+105
+00:03:30,950 --> 00:03:32,780
+We're going to schedule it, and plan it,
+
+106
+00:03:32,780 --> 00:03:34,960
+we're going to go and
+get a down time for it,
+
+107
+00:03:34,960 --> 00:03:36,130
+and we're going to do that change
+
+108
+00:03:36,130 --> 00:03:37,720
+and make sure it all worked properly.
+
+109
+00:03:37,720 --> 00:03:40,080
+We've got time, we're not in a rush.
+
+110
+00:03:40,080 --> 00:03:42,360
+Now, sometimes though, we are in a rush,
+
+111
+00:03:42,360 --> 00:03:44,850
+and this is when things
+come up like an emergency.
+
+112
+00:03:44,850 --> 00:03:46,940
+And so, we have emergency changes.
+
+113
+00:03:46,940 --> 00:03:48,800
+These are going to be expedited,
+and their going to have
+
+114
+00:03:48,800 --> 00:03:51,620
+an expedited assessment
+and authority process.
+
+115
+00:03:51,620 --> 00:03:53,870
+It may be that there's a
+separate change authority
+
+116
+00:03:53,870 --> 00:03:56,010
+for something that is an emergency.
+
+117
+00:03:56,010 --> 00:03:58,550
+For example, I used to
+work as an IT Director,
+
+118
+00:03:58,550 --> 00:04:00,100
+and normally for a big change,
+
+119
+00:04:00,100 --> 00:04:02,853
+I had to go up to my boss who is the CIO,
+
+120
+00:04:02,853 --> 00:04:06,360
+but if it was an emergency,
+I was the Change Authority
+
+121
+00:04:06,360 --> 00:04:08,470
+and I had permission
+to make those changes.
+
+122
+00:04:08,470 --> 00:04:10,250
+So, I might get a call
+at 2:30 in the morning
+
+123
+00:04:10,250 --> 00:04:11,670
+on a Saturday, and they'd say
+
+124
+00:04:11,670 --> 00:04:13,410
+that our file server just crashed.
+
+125
+00:04:13,410 --> 00:04:15,150
+The hard drives in it are completely dead
+
+126
+00:04:15,150 --> 00:04:16,210
+and they need to be replaced with
+
+127
+00:04:16,210 --> 00:04:18,160
+spares from a backup server, and
+
+128
+00:04:18,160 --> 00:04:19,410
+while we're doing that we need to
+
+129
+00:04:19,410 --> 00:04:21,180
+change some of the configurations.
+
+130
+00:04:21,180 --> 00:04:23,300
+Well, this is going to
+constitute a change,
+
+131
+00:04:23,300 --> 00:04:24,660
+but we don't have time to go through
+
+132
+00:04:24,660 --> 00:04:27,870
+all the necessary paperwork of
+a normal change requirement.
+
+133
+00:04:27,870 --> 00:04:29,330
+So, instead, we're going to go through
+
+134
+00:04:29,330 --> 00:04:31,550
+an Emergency Change Advisory Board.
+
+135
+00:04:31,550 --> 00:04:33,080
+We're going to get people together,
+
+136
+00:04:33,080 --> 00:04:35,100
+quickly decide on how risky it is,
+
+137
+00:04:35,100 --> 00:04:37,130
+do our assessment, and either approve
+
+138
+00:04:37,130 --> 00:04:39,440
+or disapprove this
+because it's an emergency.
+
+139
+00:04:39,440 --> 00:04:41,370
+We need to get this server back up.
+
+140
+00:04:41,370 --> 00:04:43,480
+Then, when we come back
+in on Monday morning,
+
+141
+00:04:43,480 --> 00:04:44,850
+we can worry about going back and
+
+142
+00:04:44,850 --> 00:04:47,130
+doing all the normal change
+requirement paperwork,
+
+143
+00:04:47,130 --> 00:04:48,860
+and going through the regular processes
+
+144
+00:04:48,860 --> 00:04:51,460
+to make sure everything has
+gotten updated in the system.
+
+145
+00:04:51,460 --> 00:04:52,620
+That's the difference.
+
+146
+00:04:52,620 --> 00:04:54,020
+An emergency is when you're really
+
+147
+00:04:54,020 --> 00:04:55,740
+trying to get something
+back online quickly,
+
+148
+00:04:55,740 --> 00:04:57,220
+because something is broke and
+
+149
+00:04:57,220 --> 00:04:59,560
+it needs to be gotten up right now.
+
+150
+00:04:59,560 --> 00:05:01,546
+A lot of organizations
+will use their emergency
+
+151
+00:05:01,546 --> 00:05:04,370
+as something as a normal way of business.
+
+152
+00:05:04,370 --> 00:05:05,530
+You don't want to do this.
+
+153
+00:05:05,530 --> 00:05:07,410
+And what I mean by this is, just because
+
+154
+00:05:07,410 --> 00:05:09,360
+somebody wants the change done today,
+
+155
+00:05:09,360 --> 00:05:11,680
+doesn't mean that it's
+necessarily an emergency.
+
+156
+00:05:11,680 --> 00:05:13,515
+It may be they just forgot to plan.
+
+157
+00:05:13,515 --> 00:05:15,080
+So, you have to think about what
+
+158
+00:05:15,080 --> 00:05:17,870
+really is an emergency
+versus what is normal
+
+159
+00:05:17,870 --> 00:05:19,700
+and should go through the normal process.
+
+160
+00:05:19,700 --> 00:05:20,920
+If something is broken and you need
+
+161
+00:05:20,920 --> 00:05:22,310
+to get the server back online,
+
+162
+00:05:22,310 --> 00:05:24,196
+that's usually going to be an emergency.
+
+163
+00:05:24,196 --> 00:05:26,650
+Now, as I said, the person or group who
+
+164
+00:05:26,650 --> 00:05:29,960
+authorizes the change is what
+we call a Change Authority.
+
+165
+00:05:29,960 --> 00:05:31,980
+In very fast moving organizations,
+
+166
+00:05:31,980 --> 00:05:34,000
+it's common to have this decentralized,
+
+167
+00:05:34,000 --> 00:05:36,270
+and we might have many
+different Change Authorities
+
+168
+00:05:36,270 --> 00:05:37,810
+depending on what's going on.
+
+169
+00:05:37,810 --> 00:05:39,950
+In fact, if you're doing
+software development,
+
+170
+00:05:39,950 --> 00:05:41,220
+your Change Authority might be
+
+171
+00:05:41,220 --> 00:05:42,540
+the person sitting next to you.
+
+172
+00:05:42,540 --> 00:05:44,060
+It might be that you review their code
+
+173
+00:05:44,060 --> 00:05:46,330
+and approve it and they approve your code.
+
+174
+00:05:46,330 --> 00:05:48,890
+But in big organizations, a lot of times
+
+175
+00:05:48,890 --> 00:05:50,660
+we want to do things much more formally,
+
+176
+00:05:50,660 --> 00:05:52,560
+and we'll go through this
+normal change process,
+
+177
+00:05:52,560 --> 00:05:55,220
+and have a formalized Change Authority.
+
+178
+00:05:55,220 --> 00:05:57,090
+Now, once something has been approved from
+
+179
+00:05:57,090 --> 00:05:59,920
+the Change Authority, it goes
+on to the Change Schedule.
+
+180
+00:05:59,920 --> 00:06:01,440
+The Change Schedule is used to help us
+
+181
+00:06:01,440 --> 00:06:04,260
+plan those changes, assist
+in communicating that,
+
+182
+00:06:04,260 --> 00:06:05,468
+and helping to avoid conflicts
+
+183
+00:06:05,468 --> 00:06:07,950
+and assign proper resources to it.
+
+184
+00:06:07,950 --> 00:06:09,560
+Let me give you a good example of this.
+
+185
+00:06:09,560 --> 00:06:11,690
+This weekend, I want to upgrade my website
+
+186
+00:06:11,690 --> 00:06:13,400
+and we're going to be down for an hour
+
+187
+00:06:13,400 --> 00:06:14,970
+while we change servers.
+
+188
+00:06:14,970 --> 00:06:15,970
+That's something that I'm going to
+
+189
+00:06:15,970 --> 00:06:18,360
+email out ahead of time
+to all of my students,
+
+190
+00:06:18,360 --> 00:06:20,812
+so they know this Friday
+if they try to log on,
+
+191
+00:06:20,812 --> 00:06:23,200
+they're not going to be
+able to for that hour.
+
+192
+00:06:23,200 --> 00:06:25,220
+That's the idea of having
+a Change Schedule in place.
+
+193
+00:06:25,220 --> 00:06:26,570
+We already know what's going to happen,
+
+194
+00:06:26,570 --> 00:06:28,360
+we can tell you weeks in advance,
+
+195
+00:06:28,360 --> 00:06:29,950
+and that way everybody knows.
+
+196
+00:06:29,950 --> 00:06:33,560
+It's well coordinated, well
+planned, and well communicated.
+
+197
+00:06:33,560 --> 00:06:35,330
+And by doing that, I can make sure
+
+198
+00:06:35,330 --> 00:06:37,770
+I have my top level guys sitting there,
+
+199
+00:06:37,770 --> 00:06:39,610
+ready to go when we make this change.
+
+200
+00:06:39,610 --> 00:06:41,410
+So, if anything goes wrong, we have
+
+201
+00:06:41,410 --> 00:06:44,750
+the A list people there who
+can fix it and make it right.
+
+202
+00:06:44,750 --> 00:06:47,120
+So, when we talk about
+all of this change stuff,
+
+203
+00:06:47,120 --> 00:06:48,980
+it does effect different parts of
+
+204
+00:06:48,980 --> 00:06:50,580
+our Value Change activities.
+
+205
+00:06:50,580 --> 00:06:53,120
+For example, we have a part in Plan.
+
+206
+00:06:53,120 --> 00:06:56,040
+Changes for our products
+and service portfolio,
+
+207
+00:06:56,040 --> 00:06:58,158
+our policies, and practices all require
+
+208
+00:06:58,158 --> 00:07:00,171
+some ammount of control and planning.
+
+209
+00:07:00,171 --> 00:07:02,730
+And so, Plan is going
+to help us with that.
+
+210
+00:07:02,730 --> 00:07:04,840
+We also have a lot of
+improvement initiatives, right.
+
+211
+00:07:04,840 --> 00:07:06,530
+And when we go through
+improvement initiatives,
+
+212
+00:07:06,530 --> 00:07:09,030
+those are going to have to
+have to be changes made.
+
+213
+00:07:09,030 --> 00:07:10,340
+For example, if I want to move from
+
+214
+00:07:10,340 --> 00:07:13,050
+an older server to a new
+server, that's a change.
+
+215
+00:07:13,050 --> 00:07:14,960
+And so, we're going to
+use the Change Control
+
+216
+00:07:14,960 --> 00:07:17,083
+as part of the Improve activity, as well.
+
+217
+00:07:17,083 --> 00:07:19,490
+When we talk about Engage, our customers
+
+218
+00:07:19,490 --> 00:07:22,550
+and our users need to know what
+kind of changes are coming,
+
+219
+00:07:22,550 --> 00:07:24,380
+when down times are, and they should
+
+220
+00:07:24,380 --> 00:07:26,790
+be able to expect the
+nature of that change.
+
+221
+00:07:26,790 --> 00:07:29,290
+Again, by communicating
+this, we're engaging
+
+222
+00:07:29,290 --> 00:07:30,560
+with our customers, so we're going to
+
+223
+00:07:30,560 --> 00:07:32,620
+use that Engage activity.
+
+224
+00:07:32,620 --> 00:07:34,680
+Then, if we look in our
+Design and Transition,
+
+225
+00:07:34,680 --> 00:07:36,080
+these changes are all designed
+
+226
+00:07:36,080 --> 00:07:37,870
+and initiated somewhere, right?
+
+227
+00:07:37,870 --> 00:07:40,920
+Usually in Design, and then Transition.
+
+228
+00:07:40,920 --> 00:07:42,510
+Once we approve a change it goes
+
+229
+00:07:42,510 --> 00:07:45,260
+into transition to be made into a reality
+
+230
+00:07:45,260 --> 00:07:47,150
+and put into our real network.
+
+231
+00:07:47,150 --> 00:07:49,320
+Now, this is where the
+Change Control activity
+
+232
+00:07:49,320 --> 00:07:53,010
+is a major contributor
+into the transition phase.
+
+233
+00:07:53,010 --> 00:07:55,280
+Then, we're going to obtain
+and build things, right?
+
+234
+00:07:55,280 --> 00:07:56,550
+Anytime I want to change something,
+
+235
+00:07:56,550 --> 00:07:58,400
+it means I'm probably
+buying something new,
+
+236
+00:07:58,400 --> 00:08:00,670
+whether it's software, or it's hardware,
+
+237
+00:08:00,670 --> 00:08:03,070
+or I'm building some kind
+of custom software in house,
+
+238
+00:08:03,070 --> 00:08:05,410
+all of that goes on in the Obtain/Build.
+
+239
+00:08:05,410 --> 00:08:07,510
+Once it's ready, it's going to be an input
+
+240
+00:08:07,510 --> 00:08:09,480
+into this Change Control practice,
+
+241
+00:08:09,480 --> 00:08:10,660
+so that we can get it approved
+
+242
+00:08:10,660 --> 00:08:13,170
+and transitioned onto the real servers.
+
+243
+00:08:13,170 --> 00:08:15,480
+And then, finally, Deliver and Support.
+
+244
+00:08:15,480 --> 00:08:17,740
+Changes can have an impact
+on Deliver and Support.
+
+245
+00:08:17,740 --> 00:08:19,470
+They can have a huge impact there,
+
+246
+00:08:19,470 --> 00:08:21,160
+because if I put a new server on
+
+247
+00:08:21,160 --> 00:08:23,640
+that changes the way they
+have to do their processes,
+
+248
+00:08:23,640 --> 00:08:25,540
+that changes the way
+they do their procedures.
+
+249
+00:08:25,540 --> 00:08:27,490
+All that stuff is going to be changed.
+
+250
+00:08:27,490 --> 00:08:28,870
+We also want to make
+sure we are communicating
+
+251
+00:08:28,870 --> 00:08:31,180
+the changes both to our users, but also
+
+252
+00:08:31,180 --> 00:08:33,690
+to the personnel who have
+to support those users.
+
+253
+00:08:33,690 --> 00:08:35,070
+If I don't tell the Service Agents
+
+254
+00:08:35,070 --> 00:08:38,600
+that we went from server
+2012 to server 2019,
+
+255
+00:08:38,600 --> 00:08:40,330
+and they now have to support 2019
+
+256
+00:08:40,330 --> 00:08:42,700
+without any training,
+that's not going to be good.
+
+257
+00:08:42,700 --> 00:08:44,040
+So, change is going to make sure that
+
+258
+00:08:44,040 --> 00:08:46,060
+we're thinking about those
+type of things, as well.
+
+259
+00:08:46,060 --> 00:08:48,630
+We want to make sure everybody
+knows what change is coming,
+
+260
+00:08:48,630 --> 00:08:51,393
+and we communicate that
+well so everyone is ready.
+

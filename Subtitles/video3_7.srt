@@ -1,0 +1,670 @@
+﻿1
+00:00:00,000 --> 00:00:02,660
+- So now that we've
+covered all four dimensions
+
+2
+00:00:02,660 --> 00:00:05,440
+and the external factors
+throughout this section,
+
+3
+00:00:05,440 --> 00:00:08,010
+I want to put it all together
+in a real world example,
+
+4
+00:00:08,010 --> 00:00:09,370
+to really drive the point home
+
+5
+00:00:09,370 --> 00:00:10,992
+of how these all work together.
+
+6
+00:00:10,992 --> 00:00:13,180
+So we talked about our four dimensions,
+
+7
+00:00:13,180 --> 00:00:14,233
+organizations and people,
+
+8
+00:00:14,233 --> 00:00:16,180
+information and technology,
+
+9
+00:00:16,180 --> 00:00:17,240
+partners and suppliers,
+
+10
+00:00:17,240 --> 00:00:18,990
+and value streams and processes.
+
+11
+00:00:18,990 --> 00:00:22,850
+As well as those six external
+factors that all are focused
+
+12
+00:00:22,850 --> 00:00:25,130
+in how we look at our
+products and services.
+
+13
+00:00:25,130 --> 00:00:27,820
+To co create value with our consumers.
+
+14
+00:00:27,820 --> 00:00:31,480
+Well let's consider the
+process of incident management.
+
+15
+00:00:31,480 --> 00:00:33,780
+How are we going to deal
+with incident management
+
+16
+00:00:35,348 --> 00:00:36,430
+when something happens to
+our service or our product?
+
+17
+00:00:36,430 --> 00:00:38,320
+Well, if we look at it
+through the organizations
+
+18
+00:00:38,320 --> 00:00:40,480
+and people lens or that dimension,
+
+19
+00:00:40,480 --> 00:00:41,510
+we're going to ask the question of
+
+20
+00:00:41,510 --> 00:00:43,270
+how we're going to organize our teams?
+
+21
+00:00:43,270 --> 00:00:45,310
+Is this something the service
+desk is going to handle?
+
+22
+00:00:45,310 --> 00:00:46,850
+Are we going to have different tiers?
+
+23
+00:00:46,850 --> 00:00:49,490
+Like Tier 1, Tier 2, Tier 3 support?
+
+24
+00:00:49,490 --> 00:00:51,215
+Or are we going to have
+a flat organization?
+
+25
+00:00:51,215 --> 00:00:52,527
+These are all things
+we have to figure out.
+
+26
+00:00:52,527 --> 00:00:55,630
+How're we going to organize
+our communications?
+
+27
+00:00:55,630 --> 00:00:58,230
+How is that Tier 1
+representative going to transfer
+
+28
+00:00:58,230 --> 00:01:00,809
+the information they collected
+to the Tier 2 representative
+
+29
+00:01:00,809 --> 00:01:03,627
+if you're going to use a tiered
+or vertical organization?
+
+30
+00:01:03,627 --> 00:01:05,860
+How're you going to escalate
+it up to the next level?
+
+31
+00:01:05,860 --> 00:01:07,108
+At which trip points?
+
+32
+00:01:07,108 --> 00:01:08,600
+How about the people you need?
+
+33
+00:01:08,600 --> 00:01:11,110
+How're you going to decide how
+many people you need to run
+
+34
+00:01:11,110 --> 00:01:13,440
+the incident management
+for a particular service?
+
+35
+00:01:13,440 --> 00:01:14,764
+What competencies do they need?
+
+36
+00:01:14,764 --> 00:01:17,530
+Is this service going to
+be something that uses AWS,
+
+37
+00:01:17,530 --> 00:01:20,460
+do you need Amazon Web
+Service certified people?
+
+38
+00:01:20,460 --> 00:01:21,630
+Or is this going to be something
+
+39
+00:01:21,630 --> 00:01:23,840
+that we're goin to use local services?
+
+40
+00:01:23,840 --> 00:01:25,140
+How about the qualifications?
+
+41
+00:01:25,140 --> 00:01:26,349
+How about the way they're
+going to interact?
+
+42
+00:01:26,349 --> 00:01:28,170
+How are you going to motivate the people?
+
+43
+00:01:28,170 --> 00:01:29,370
+How are you goin to hire the right people?
+
+44
+00:01:29,370 --> 00:01:30,870
+How are you goin to keep the right people?
+
+45
+00:01:30,870 --> 00:01:32,280
+How are you goin to pay them?
+
+46
+00:01:32,280 --> 00:01:34,080
+And how are you going to make
+sure that they're capable
+
+47
+00:01:34,080 --> 00:01:36,660
+of doing the incident management
+that you want them to do?
+
+48
+00:01:36,660 --> 00:01:38,240
+All of these are things you
+have to think about from
+
+49
+00:01:38,240 --> 00:01:40,080
+the organizations and people lens
+
+50
+00:01:40,080 --> 00:01:41,643
+or perspective or dimension.
+
+51
+00:01:41,643 --> 00:01:44,800
+Now when I look at from the
+information and technology side,
+
+52
+00:01:44,800 --> 00:01:47,130
+let's think about it from
+the process stand point.
+
+53
+00:01:47,130 --> 00:01:48,970
+How am I going to register the incident?
+
+54
+00:01:48,970 --> 00:01:50,363
+Am I writing it down on a piece of paper?
+
+55
+00:01:50,363 --> 00:01:52,315
+Am I putting it in a internet portal?
+
+56
+00:01:52,315 --> 00:01:55,000
+Am I using a certain piece of software
+
+57
+00:01:55,000 --> 00:01:56,520
+or hardware to do that?
+
+58
+00:01:56,520 --> 00:01:58,490
+How about the relationship
+between incidents.
+
+59
+00:01:58,490 --> 00:02:00,790
+How do I know that this
+incident with this printer,
+
+60
+00:02:00,790 --> 00:02:01,623
+that happened today,
+
+61
+00:02:01,623 --> 00:02:03,740
+is related or not related to the one
+
+62
+00:02:03,740 --> 00:02:05,037
+that happened three weeks ago?
+
+63
+00:02:05,037 --> 00:02:07,160
+Well maybe I have some kind of technology
+
+64
+00:02:07,160 --> 00:02:09,590
+or information management
+software that does that for me.
+
+65
+00:02:09,590 --> 00:02:11,750
+That contract the
+incidents in the problems.
+
+66
+00:02:11,750 --> 00:02:14,130
+Or the incidents and the
+particular configuration item,
+
+67
+00:02:14,130 --> 00:02:15,410
+meaning that printer.
+
+68
+00:02:15,410 --> 00:02:17,250
+Or the incidents and the different users
+
+69
+00:02:17,250 --> 00:02:18,360
+who were being affected.
+
+70
+00:02:18,360 --> 00:02:19,520
+Maybe when we get all of these calls
+
+71
+00:02:19,520 --> 00:02:20,480
+and we put them together,
+
+72
+00:02:20,480 --> 00:02:22,210
+we find that all of the users affected,
+
+73
+00:02:22,210 --> 00:02:25,370
+always added Building 1
+and not in Building 2.
+
+74
+00:02:25,370 --> 00:02:27,470
+So maybe it's a problems with Building 1.
+
+75
+00:02:27,470 --> 00:02:29,270
+And so we can look into that, right?
+
+76
+00:02:29,270 --> 00:02:31,710
+How about incident management
+tools for information flow.
+
+77
+00:02:31,710 --> 00:02:33,470
+How're we going to do work flow?
+
+78
+00:02:33,470 --> 00:02:35,240
+How're we going to use knowledge bases?
+
+79
+00:02:35,240 --> 00:02:36,620
+How about diagnostic tools.
+
+80
+00:02:36,620 --> 00:02:38,120
+How're we going to detect these events,
+
+81
+00:02:38,120 --> 00:02:39,147
+and process these events?
+
+82
+00:02:39,147 --> 00:02:41,150
+How're we going to
+communicate with each other?
+
+83
+00:02:41,150 --> 00:02:43,038
+How're we going to
+organize and share data?
+
+84
+00:02:43,038 --> 00:02:45,000
+All of this is stuff that goes under
+
+85
+00:02:45,000 --> 00:02:47,290
+that information part of the information
+
+86
+00:02:47,290 --> 00:02:49,882
+and technology portion of this dimension.
+
+87
+00:02:49,882 --> 00:02:51,527
+Then we get to our third dimension.
+
+88
+00:02:51,527 --> 00:02:54,664
+And we start looking at our
+partners and suppliers, right?
+
+89
+00:02:54,664 --> 00:02:56,690
+Because nobody is self sufficient,
+
+90
+00:02:56,690 --> 00:02:58,170
+we talked about this before.
+
+91
+00:02:58,170 --> 00:03:01,700
+Maybe this printer is broken
+because it ran out of supplies,
+
+92
+00:03:01,700 --> 00:03:04,220
+there's no more paper,
+there's no more toner, right?
+
+93
+00:03:04,220 --> 00:03:06,260
+So those are things that
+we have to think about.
+
+94
+00:03:06,260 --> 00:03:07,603
+We think about partners and suppliers,
+
+95
+00:03:07,603 --> 00:03:09,660
+we have to think about the external teams
+
+96
+00:03:09,660 --> 00:03:12,670
+that are going to contribute
+to the success of our service.
+
+97
+00:03:12,670 --> 00:03:15,173
+Maybe in this case, we
+have outsourced completely
+
+98
+00:03:15,173 --> 00:03:16,950
+the management of the printers,
+
+99
+00:03:16,950 --> 00:03:18,570
+and that company isn't doing a good job.
+
+100
+00:03:18,570 --> 00:03:20,770
+And so we need to evaluate their contract.
+
+101
+00:03:20,770 --> 00:03:21,887
+If we outsource a service,
+
+102
+00:03:21,887 --> 00:03:24,380
+how're we going to
+escalate incidents to them
+
+103
+00:03:24,380 --> 00:03:25,830
+once something is broken?
+
+104
+00:03:25,830 --> 00:03:28,510
+Or maybe we escalate top tier service.
+
+105
+00:03:28,510 --> 00:03:30,972
+So we handle minor incidents in house,
+
+106
+00:03:30,972 --> 00:03:34,020
+but we're going to outsource
+those major incidents
+
+107
+00:03:34,020 --> 00:03:35,880
+and so we have to escalate it to them.
+
+108
+00:03:35,880 --> 00:03:37,530
+How do we get information back from them
+
+109
+00:03:37,530 --> 00:03:38,840
+when they fix something, right?
+
+110
+00:03:38,840 --> 00:03:41,470
+Two way street between
+partners and suppliers and us.
+
+111
+00:03:41,470 --> 00:03:43,487
+All of this is things
+we have to think about
+
+112
+00:03:43,487 --> 00:03:45,400
+and we start considering
+how're we going to operate
+
+113
+00:03:45,400 --> 00:03:47,070
+with our partners and suppliers, right?
+
+114
+00:03:47,070 --> 00:03:49,470
+And then we have our final
+dimension to look at.
+
+115
+00:03:49,470 --> 00:03:52,040
+Which is going to be our value
+streams and our processes.
+
+116
+00:03:52,040 --> 00:03:53,760
+Maybe we look at that value stream
+
+117
+00:03:53,760 --> 00:03:56,270
+and see that this whole
+process of printing,
+
+118
+00:03:56,270 --> 00:03:57,850
+actually has issues with it,
+
+119
+00:03:57,850 --> 00:03:59,860
+because it's not optimized properly.
+
+120
+00:03:59,860 --> 00:04:01,470
+There's too much waste in it.
+
+121
+00:04:01,470 --> 00:04:03,690
+Maybe we've looked at it
+and we said " Y'know what,
+
+122
+00:04:03,690 --> 00:04:05,580
+we can take out step number two
+
+123
+00:04:05,580 --> 00:04:07,820
+and just make it step
+one and three and four
+
+124
+00:04:07,820 --> 00:04:09,430
+and that will solve the problem."
+
+125
+00:04:09,430 --> 00:04:11,100
+All of those things are things
+that we would've evaluate
+
+126
+00:04:11,100 --> 00:04:13,600
+as we look at it from the four dimensions.
+
+127
+00:04:13,600 --> 00:04:15,340
+And then finally, we
+might want to look at it
+
+128
+00:04:15,340 --> 00:04:17,290
+from those external perspectives.
+
+129
+00:04:17,290 --> 00:04:18,123
+One of those,
+
+130
+00:04:18,123 --> 00:04:18,956
+the E,
+
+131
+00:04:18,956 --> 00:04:20,430
+stood for environmental.
+
+132
+00:04:20,430 --> 00:04:22,620
+Maybe we have somebody
+who doesn't like the fact
+
+133
+00:04:22,620 --> 00:04:24,790
+that we're printing and
+wasting a bunch of trees
+
+134
+00:04:24,790 --> 00:04:26,490
+by printing out a lot of stuff.
+
+135
+00:04:26,490 --> 00:04:28,490
+And so somebody might've
+jammed the printer on purpose
+
+136
+00:04:28,490 --> 00:04:31,168
+to break it, because they are
+an environmentalist, right?
+
+137
+00:04:31,168 --> 00:04:33,840
+That's kind of crazy, but
+you kind of get the idea
+
+138
+00:04:33,840 --> 00:04:34,800
+of what I'm talking about.
+
+139
+00:04:34,800 --> 00:04:37,450
+We can start thinking about
+all of these four dimensions
+
+140
+00:04:37,450 --> 00:04:39,980
+and these external factors and
+how they're going to effect
+
+141
+00:04:39,980 --> 00:04:41,370
+a simple service,
+
+142
+00:04:41,370 --> 00:04:42,900
+something like printing or something like
+
+143
+00:04:42,900 --> 00:04:44,020
+an incident management.
+
+144
+00:04:44,020 --> 00:04:45,230
+And as we look at this,
+
+145
+00:04:45,230 --> 00:04:47,650
+that's how all of this
+ends up tying together.
+
+146
+00:04:47,650 --> 00:04:50,300
+And that's the whole idea of
+using these four dimensions.
+
+147
+00:04:50,300 --> 00:04:52,530
+When you're thinking about your processes,
+
+148
+00:04:52,530 --> 00:04:55,100
+your people, your
+organization, your technology,
+
+149
+00:04:55,100 --> 00:04:57,400
+your information, all of that stuff,
+
+150
+00:04:57,400 --> 00:04:59,850
+so you can make sure that
+your products and services
+
+151
+00:04:59,850 --> 00:05:02,263
+are delivering the value
+that they are suppose to.
+

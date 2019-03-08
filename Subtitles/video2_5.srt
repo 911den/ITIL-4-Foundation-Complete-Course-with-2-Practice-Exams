@@ -1,0 +1,906 @@
+﻿1
+00:00:00,600 --> 00:00:03,110
+- So at this point, we've
+discussed service management,
+
+2
+00:00:03,110 --> 00:00:07,090
+value, organizations and people,
+and services and products.
+
+3
+00:00:07,090 --> 00:00:09,040
+In this lesson, I want to briefly consider
+
+4
+00:00:09,040 --> 00:00:11,350
+the concept of a service offering.
+
+5
+00:00:11,350 --> 00:00:13,950
+The reason I'm spending this
+lesson on service offerings
+
+6
+00:00:13,950 --> 00:00:15,690
+is because it's a concept
+that you need to be able
+
+7
+00:00:15,690 --> 00:00:18,490
+to describe and discuss on the exam.
+
+8
+00:00:18,490 --> 00:00:21,230
+This concept falls under the
+understand level of knowledge
+
+9
+00:00:21,230 --> 00:00:23,250
+for the certification exam.
+
+10
+00:00:23,250 --> 00:00:25,970
+Now, first, what is a service offering?
+
+11
+00:00:25,970 --> 00:00:27,960
+Well, a service offering is a description
+
+12
+00:00:27,960 --> 00:00:30,000
+of one or more services designed
+
+13
+00:00:30,000 --> 00:00:32,690
+to address the needs of
+a target consumer group.
+
+14
+00:00:32,690 --> 00:00:34,490
+In essence, a service provider
+
+15
+00:00:34,490 --> 00:00:36,242
+is going to present their
+services to customers
+
+16
+00:00:36,242 --> 00:00:39,660
+or consumers in the form
+of service offerings.
+
+17
+00:00:39,660 --> 00:00:41,860
+Which describes one or
+more of their services
+
+18
+00:00:41,860 --> 00:00:44,310
+that are based on one or
+more of their products.
+
+19
+00:00:44,310 --> 00:00:46,670
+Now, service offerings can include goods,
+
+20
+00:00:46,670 --> 00:00:48,980
+access to resources, and service actions
+
+21
+00:00:48,980 --> 00:00:51,250
+as part of that service offering.
+
+22
+00:00:51,250 --> 00:00:52,380
+Let's take my own company
+
+23
+00:00:52,380 --> 00:00:54,230
+as an example of a service provider.
+
+24
+00:00:54,230 --> 00:00:56,200
+We have many different
+products that can help you
+
+25
+00:00:56,200 --> 00:00:58,620
+when you're studying for
+your certification exams.
+
+26
+00:00:58,620 --> 00:01:00,620
+We have courses on ITIL, PRINCE2,
+
+27
+00:01:00,620 --> 00:01:03,090
+and numerous CompTIA certifications.
+
+28
+00:01:03,090 --> 00:01:05,918
+Each course contains a set of
+videos, that's one product,
+
+29
+00:01:05,918 --> 00:01:08,960
+a practice exam or two,
+that's another product,
+
+30
+00:01:08,960 --> 00:01:10,870
+and some amount of
+access to the instructor
+
+31
+00:01:10,870 --> 00:01:13,520
+to ask questions, that would be a service.
+
+32
+00:01:13,520 --> 00:01:15,890
+Now, for example, when
+you look at all of this,
+
+33
+00:01:15,890 --> 00:01:17,290
+you may be watching this video
+
+34
+00:01:17,290 --> 00:01:20,590
+as part of a single service
+offering that you've paid for.
+
+35
+00:01:20,590 --> 00:01:22,910
+Maybe you're watching it as a
+part of a subscription service
+
+36
+00:01:22,910 --> 00:01:25,309
+where you pay every month for
+access to videos like ours
+
+37
+00:01:25,309 --> 00:01:28,480
+and maybe you've paid for
+this as a single course.
+
+38
+00:01:28,480 --> 00:01:30,910
+It really depends on where
+you're accessing it from.
+
+39
+00:01:30,910 --> 00:01:32,750
+You likely got a
+different service offering
+
+40
+00:01:32,750 --> 00:01:35,620
+depending on where you end
+up getting our course from.
+
+41
+00:01:35,620 --> 00:01:37,740
+For example, on our own website,
+
+42
+00:01:37,740 --> 00:01:39,580
+we don't offer one time purchases
+
+43
+00:01:39,580 --> 00:01:41,830
+that give you unlimited access for life,
+
+44
+00:01:41,830 --> 00:01:44,400
+instead, we run a
+subscription based service,
+
+45
+00:01:44,400 --> 00:01:45,410
+where members get access
+
+46
+00:01:45,410 --> 00:01:47,139
+to every single
+certification course we offer
+
+47
+00:01:47,139 --> 00:01:49,570
+for a low monthly fee.
+
+48
+00:01:49,570 --> 00:01:51,290
+Because of this, we have our video courses
+
+49
+00:01:51,290 --> 00:01:53,110
+and our practice exam courses
+
+50
+00:01:53,110 --> 00:01:54,680
+and students get access to hundreds
+
+51
+00:01:54,680 --> 00:01:56,000
+of practice exam questions
+
+52
+00:01:56,000 --> 00:01:58,330
+as part of that particular
+service offering.
+
+53
+00:01:58,330 --> 00:02:00,820
+Now, other places where we
+distribute this course though,
+
+54
+00:02:00,820 --> 00:02:02,980
+they may not offer a
+monthly fee based service
+
+55
+00:02:02,980 --> 00:02:05,298
+where you can have as much as you want
+
+56
+00:02:05,298 --> 00:02:06,131
+for as long as you want.
+
+57
+00:02:06,131 --> 00:02:07,440
+Instead, they may treat the course
+
+58
+00:02:07,440 --> 00:02:09,470
+as a single product to be sold.
+
+59
+00:02:09,470 --> 00:02:12,300
+For a one time payment, you're
+going to get all of the videos,
+
+60
+00:02:12,300 --> 00:02:15,200
+the study guide, and maybe
+one or two practice exams.
+
+61
+00:02:15,200 --> 00:02:16,730
+And if you want more practice exams,
+
+62
+00:02:16,730 --> 00:02:19,210
+well, they're going to treat
+that as a separate course
+
+63
+00:02:19,210 --> 00:02:20,710
+and you're going to have to
+pay an additional payment
+
+64
+00:02:20,710 --> 00:02:21,950
+to get those.
+
+65
+00:02:21,950 --> 00:02:23,190
+I think you're getting the idea here
+
+66
+00:02:23,190 --> 00:02:25,960
+as I'm talking about this of
+what a service offering is.
+
+67
+00:02:25,960 --> 00:02:27,180
+It shows you how we can group
+
+68
+00:02:27,180 --> 00:02:29,280
+and sell those different
+products and services
+
+69
+00:02:29,280 --> 00:02:31,500
+multiple times in multiple different ways,
+
+70
+00:02:31,500 --> 00:02:33,870
+depending on the consumer
+we're trying to reach.
+
+71
+00:02:33,870 --> 00:02:35,280
+You may have seen this with companies
+
+72
+00:02:35,280 --> 00:02:36,920
+that offer things as a monthly service
+
+73
+00:02:36,920 --> 00:02:38,700
+where different service offerings happen
+
+74
+00:02:38,700 --> 00:02:40,130
+based on the different functionalities
+
+75
+00:02:40,130 --> 00:02:41,720
+at the different price points.
+
+76
+00:02:41,720 --> 00:02:43,710
+For example, I use Hulu at my home,
+
+77
+00:02:43,710 --> 00:02:45,670
+which is a video on demand service.
+
+78
+00:02:45,670 --> 00:02:47,830
+Hulu has a few different pricing tiers.
+
+79
+00:02:47,830 --> 00:02:50,250
+The cheapest option is about $8 per month
+
+80
+00:02:50,250 --> 00:02:52,320
+and it gives you all of
+the TV shows you want
+
+81
+00:02:52,320 --> 00:02:54,009
+but you have to watch commercials.
+
+82
+00:02:54,009 --> 00:02:56,970
+Instead, we decided to opt
+for the next higher price
+
+83
+00:02:56,970 --> 00:02:58,860
+which is going to allow
+us to pay $12 per month
+
+84
+00:02:58,860 --> 00:03:01,230
+but it eliminates all
+of those commercials.
+
+85
+00:03:01,230 --> 00:03:03,040
+Now Hulu has even added a third tier.
+
+86
+00:03:03,040 --> 00:03:05,735
+They have a $40 per month
+offering and this gives you access
+
+87
+00:03:05,735 --> 00:03:08,040
+to all of the TV without commercials,
+
+88
+00:03:08,040 --> 00:03:10,480
+but it also gives you
+access to live news, sports,
+
+89
+00:03:10,480 --> 00:03:13,540
+and other things in a
+cloud-based DVR service.
+
+90
+00:03:13,540 --> 00:03:15,430
+So as you moved up the pricing tier,
+
+91
+00:03:15,430 --> 00:03:16,870
+you got additional services
+
+92
+00:03:16,870 --> 00:03:19,260
+as part of that service offering.
+
+93
+00:03:19,260 --> 00:03:20,730
+Now, let's go back one more time
+
+94
+00:03:20,730 --> 00:03:23,040
+to the definition of a service offering.
+
+95
+00:03:23,040 --> 00:03:24,700
+If you remember, a service offering
+
+96
+00:03:24,700 --> 00:03:26,810
+is a description of one or more services
+
+97
+00:03:26,810 --> 00:03:29,920
+designed to address the needs
+of a target consumer group.
+
+98
+00:03:29,920 --> 00:03:32,359
+Now remember, service
+offerings can include goods,
+
+99
+00:03:32,359 --> 00:03:34,827
+access to resources and service actions
+
+100
+00:03:34,827 --> 00:03:37,450
+as part of that service offering too.
+
+101
+00:03:37,450 --> 00:03:38,747
+So before we close out this lesson,
+
+102
+00:03:38,747 --> 00:03:41,480
+we're going to quickly
+define these three items.
+
+103
+00:03:41,480 --> 00:03:42,980
+First, we have goods.
+
+104
+00:03:42,980 --> 00:03:45,410
+Goods are things that are
+supplied to the consumer.
+
+105
+00:03:45,410 --> 00:03:46,700
+These are things that are transferred
+
+106
+00:03:46,700 --> 00:03:48,479
+from the service provider to the consumer
+
+107
+00:03:48,479 --> 00:03:49,950
+and once that occurs,
+
+108
+00:03:49,950 --> 00:03:52,880
+the consumer is now responsible
+for that future use.
+
+109
+00:03:52,880 --> 00:03:54,210
+For example, if you went
+
+110
+00:03:54,210 --> 00:03:55,830
+and signed up for a new service offering
+
+111
+00:03:55,830 --> 00:03:57,560
+from your local cellphone provider,
+
+112
+00:03:57,560 --> 00:03:59,580
+they're going to give you
+a phone that you can use,
+
+113
+00:03:59,580 --> 00:04:01,574
+but you're now responsible for that phone.
+
+114
+00:04:01,574 --> 00:04:04,680
+If you break it, you're going
+to have to pay to get a new one.
+
+115
+00:04:04,680 --> 00:04:06,730
+If you lose it, and somebody
+makes a thousand dollars
+
+116
+00:04:06,730 --> 00:04:07,980
+in long distance calls,
+
+117
+00:04:07,980 --> 00:04:10,290
+well, you're going to be
+the one getting the bill.
+
+118
+00:04:10,290 --> 00:04:12,260
+The goods, meaning the cellphone here,
+
+119
+00:04:12,260 --> 00:04:14,456
+were transferred from the
+service provider to you,
+
+120
+00:04:14,456 --> 00:04:16,687
+and now, you as consumer
+are responsible for it.
+
+121
+00:04:16,687 --> 00:04:19,880
+The second thing the service might offer
+
+122
+00:04:19,880 --> 00:04:22,360
+is to provide access to resources.
+
+123
+00:04:22,360 --> 00:04:24,120
+This means, that access to resources
+
+124
+00:04:24,120 --> 00:04:26,013
+is granted or a license
+is given to a consumer
+
+125
+00:04:26,013 --> 00:04:29,210
+under some agreed terms and conditions.
+
+126
+00:04:29,210 --> 00:04:31,710
+My website is a great example of this.
+
+127
+00:04:31,710 --> 00:04:33,840
+When you purchase a
+membership at my website,
+
+128
+00:04:33,840 --> 00:04:35,500
+you're given access to the videos,
+
+129
+00:04:35,500 --> 00:04:37,720
+the practice exams, hands-on labs,
+
+130
+00:04:37,720 --> 00:04:39,670
+and all of the other
+stuff that we have there.
+
+131
+00:04:39,670 --> 00:04:41,170
+You're given a license to use them
+
+132
+00:04:41,170 --> 00:04:42,410
+under the terms and conditions
+
+133
+00:04:42,410 --> 00:04:44,470
+that you agreed to when you signed up.
+
+134
+00:04:44,470 --> 00:04:45,850
+These resources all remain
+
+135
+00:04:45,850 --> 00:04:47,510
+under the service providers control
+
+136
+00:04:47,510 --> 00:04:49,570
+and the service provider
+is responsible for ensuring
+
+137
+00:04:49,570 --> 00:04:52,030
+that you can use them in
+the way it was promised.
+
+138
+00:04:52,030 --> 00:04:54,020
+Now, here is where
+things get a little messy
+
+139
+00:04:54,020 --> 00:04:55,770
+for consumers sometimes though.
+
+140
+00:04:55,770 --> 00:04:58,390
+Sometimes you may not like
+the way the service provider
+
+141
+00:04:58,390 --> 00:05:00,480
+is willing to let you use their service.
+
+142
+00:05:00,480 --> 00:05:02,736
+For example, our website
+doesn't allow videos
+
+143
+00:05:02,736 --> 00:05:05,874
+to be downloaded because we're
+a subscription based service.
+
+144
+00:05:05,874 --> 00:05:08,990
+So if you stop paying your
+monthly subscription fee,
+
+145
+00:05:08,990 --> 00:05:11,500
+you stop having access to those videos.
+
+146
+00:05:11,500 --> 00:05:13,280
+Therefore, we don't want you
+to have them all downloaded
+
+147
+00:05:13,280 --> 00:05:14,800
+on your hard drive where you could sign up
+
+148
+00:05:14,800 --> 00:05:15,810
+for our service one day,
+
+149
+00:05:15,810 --> 00:05:17,300
+download all 20 of our courses
+
+150
+00:05:17,300 --> 00:05:19,330
+and cancel service the next day.
+
+151
+00:05:19,330 --> 00:05:21,460
+This is because we didn't
+transfer the ownership
+
+152
+00:05:21,460 --> 00:05:22,550
+of that video to you,
+
+153
+00:05:22,550 --> 00:05:25,850
+instead we're just giving you
+the access or a license to it
+
+154
+00:05:25,850 --> 00:05:28,140
+to use it and watch it as much as you want
+
+155
+00:05:28,140 --> 00:05:30,560
+as long as your
+subscription remains active.
+
+156
+00:05:30,560 --> 00:05:32,224
+Now, if you don't like
+those terms and conditions,
+
+157
+00:05:32,224 --> 00:05:34,160
+you're going to have to
+find a different course
+
+158
+00:05:34,160 --> 00:05:35,970
+or a different way to purchase that course
+
+159
+00:05:35,970 --> 00:05:38,350
+that does allow you to
+have that one time payment
+
+160
+00:05:38,350 --> 00:05:40,980
+where you can download it and
+use it as much as you want.
+
+161
+00:05:40,980 --> 00:05:42,750
+But again, that's up to the relationship
+
+162
+00:05:42,750 --> 00:05:44,870
+between you and your service provider.
+
+163
+00:05:44,870 --> 00:05:45,810
+As a service provider,
+
+164
+00:05:45,810 --> 00:05:48,393
+we control the resource and
+we're giving you access to it
+
+165
+00:05:48,393 --> 00:05:51,110
+under this service offering.
+
+166
+00:05:51,110 --> 00:05:52,530
+Now, the third thing that might be a part
+
+167
+00:05:52,530 --> 00:05:55,720
+of a service offering is a service action.
+
+168
+00:05:55,720 --> 00:05:56,553
+This is an action
+
+169
+00:05:56,553 --> 00:05:59,100
+that's performed to
+address a consumer's need.
+
+170
+00:05:59,100 --> 00:06:01,530
+Let's use the example of a
+piece of software you might have
+
+171
+00:06:01,530 --> 00:06:03,940
+a license for when you're
+building a website.
+
+172
+00:06:03,940 --> 00:06:06,660
+For example, our website
+uses a piece of software
+
+173
+00:06:06,660 --> 00:06:09,170
+as the basis of our
+learning management system.
+
+174
+00:06:09,170 --> 00:06:11,193
+We paid for the software
+with a one-time fee,
+
+175
+00:06:11,193 --> 00:06:13,760
+and we were given rights
+to use it indefinitely,
+
+176
+00:06:13,760 --> 00:06:17,150
+as much as we want without
+having to pay any recurring fees.
+
+177
+00:06:17,150 --> 00:06:19,459
+Now, this falls under that
+goods category, right?
+
+178
+00:06:19,459 --> 00:06:22,709
+Well that part of it does
+but for that one time fee,
+
+179
+00:06:22,709 --> 00:06:24,830
+we're not going to get any support
+
+180
+00:06:24,830 --> 00:06:26,910
+and we're not going to get
+any updates or patches.
+
+181
+00:06:26,910 --> 00:06:28,460
+And if we want that technical support
+
+182
+00:06:28,460 --> 00:06:29,890
+for the software including the patches
+
+183
+00:06:29,890 --> 00:06:31,120
+and the security updates,
+
+184
+00:06:31,120 --> 00:06:31,953
+then we're going to have to pay
+
+185
+00:06:31,953 --> 00:06:33,800
+for that part of the service offering
+
+186
+00:06:33,800 --> 00:06:36,340
+which is considered a service action.
+
+187
+00:06:36,340 --> 00:06:38,470
+Because of this, we have
+opted to pay an annual fee
+
+188
+00:06:38,470 --> 00:06:40,410
+to the company and in return for that,
+
+189
+00:06:40,410 --> 00:06:43,270
+we have 24 hour a day, seven
+day a week technical support,
+
+190
+00:06:43,270 --> 00:06:46,350
+access to their staff, and we
+can ask any questions we want,
+
+191
+00:06:46,350 --> 00:06:49,320
+and we also get access to
+all the security updates
+
+192
+00:06:49,320 --> 00:06:50,720
+and patches as they're
+going to be released.
+
+193
+00:06:50,720 --> 00:06:51,553
+So that's the difference
+
+194
+00:06:51,553 --> 00:06:54,760
+between goods, access to
+resources, and service actions.
+
+195
+00:06:54,760 --> 00:06:57,670
+Goods are going to be
+transferred over to the consumer.
+
+196
+00:06:57,670 --> 00:06:59,046
+Access to the resources is going to let
+
+197
+00:06:59,046 --> 00:07:02,410
+the consumer access them
+on the terms and conditions
+
+198
+00:07:02,410 --> 00:07:03,640
+in the license that's been granted
+
+199
+00:07:03,640 --> 00:07:04,940
+from the service provider.
+
+200
+00:07:05,826 --> 00:07:06,659
+And service actions are
+going to be covering
+
+201
+00:07:06,659 --> 00:07:09,212
+things that are going to be ongoing things
+
+202
+00:07:09,212 --> 00:07:10,960
+like technical support
+and customer service fees.
+
+203
+00:07:10,960 --> 00:07:13,560
+That's the way you need to
+remember it for the exam.
+

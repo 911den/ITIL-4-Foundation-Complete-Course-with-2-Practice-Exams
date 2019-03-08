@@ -1,0 +1,147 @@
+﻿1
+00:00:00,970 --> 00:00:02,360
+- In this section of the course,
+
+2
+00:00:02,360 --> 00:00:05,210
+we're going to cover the
+general management practices.
+
+3
+00:00:05,210 --> 00:00:09,060
+This is the first of three
+categories of ITIL practices.
+
+4
+00:00:09,060 --> 00:00:11,780
+Inside this category,
+we're going to cover 14
+
+5
+00:00:11,780 --> 00:00:14,080
+of the 34 ITIL practices.
+
+6
+00:00:14,080 --> 00:00:16,520
+First, we're going to talk
+about continual improvement,
+
+7
+00:00:16,520 --> 00:00:19,330
+and this is one that you
+have to know in-depth, then,
+
+8
+00:00:19,330 --> 00:00:21,630
+we're going to talk about
+information security management,
+
+9
+00:00:21,630 --> 00:00:24,140
+relationship management,
+and supplier management.
+
+10
+00:00:24,140 --> 00:00:26,630
+These three are at the
+recall level of knowledge,
+
+11
+00:00:26,630 --> 00:00:28,730
+so you need to memorize their definition.
+
+12
+00:00:28,730 --> 00:00:31,280
+And then, we're going to
+cover all of the other 10
+
+13
+00:00:31,280 --> 00:00:33,740
+inside this category, and
+these are just going to be
+
+14
+00:00:33,740 --> 00:00:34,940
+for a general awareness.
+
+15
+00:00:34,940 --> 00:00:36,980
+You don't need to know them for the exam.
+
+16
+00:00:36,980 --> 00:00:38,910
+This includes architecture management,
+
+17
+00:00:38,910 --> 00:00:41,540
+knowledge management,
+measurement and reporting,
+
+18
+00:00:41,540 --> 00:00:43,240
+organizational change management,
+
+19
+00:00:43,240 --> 00:00:45,840
+portfolio management, project management,
+
+20
+00:00:45,840 --> 00:00:48,620
+risk management, service
+financial management,
+
+21
+00:00:48,620 --> 00:00:52,090
+strategy management, and
+workforce and talent management.
+
+22
+00:00:52,090 --> 00:00:54,130
+Now, all of these general
+management principles
+
+23
+00:00:54,130 --> 00:00:56,810
+have been adopted and adapted
+for service management
+
+24
+00:00:56,810 --> 00:00:59,210
+for more general business
+management domains.
+
+25
+00:00:59,210 --> 00:01:01,100
+For example, project management
+
+26
+00:01:01,100 --> 00:01:03,040
+and portfolio management are not something
+
+27
+00:01:03,040 --> 00:01:05,200
+that only occur inside the IT world.
+
+28
+00:01:05,200 --> 00:01:07,920
+We use these across all
+business organizations.
+
+29
+00:01:07,920 --> 00:01:09,430
+And that's why these are considered
+
+30
+00:01:09,430 --> 00:01:11,410
+general business management domains.
+
+31
+00:01:11,410 --> 00:01:13,080
+And that's why we're
+going to cover them here
+
+32
+00:01:13,080 --> 00:01:15,723
+in the category of general
+management practices.
+

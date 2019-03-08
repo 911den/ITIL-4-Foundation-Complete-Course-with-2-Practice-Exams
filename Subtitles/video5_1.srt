@@ -1,0 +1,442 @@
+﻿1
+00:00:01,320 --> 00:00:02,840
+- The Guiding Principles.
+
+2
+00:00:02,840 --> 00:00:04,210
+In this section of the course,
+
+3
+00:00:04,210 --> 00:00:06,940
+we're going to take a look at
+the seven guiding principles
+
+4
+00:00:06,940 --> 00:00:08,260
+in ITIL 4.
+
+5
+00:00:08,260 --> 00:00:10,220
+Now this is important because on the exam
+
+6
+00:00:10,220 --> 00:00:13,040
+there are two exam objectives
+that are going to cover
+
+7
+00:00:13,040 --> 00:00:14,830
+these seven guiding principles.
+
+8
+00:00:14,830 --> 00:00:16,660
+The first is to describe the nature,
+
+9
+00:00:16,660 --> 00:00:19,630
+use, and interaction of these
+seven guiding principles.
+
+10
+00:00:19,630 --> 00:00:22,160
+And the second objective
+is to explain the use
+
+11
+00:00:22,160 --> 00:00:24,400
+of these seven different
+guiding principles.
+
+12
+00:00:24,400 --> 00:00:25,990
+And this is important
+because we're not going to
+
+13
+00:00:25,990 --> 00:00:28,630
+have to memorize those guiding
+principles necessarily,
+
+14
+00:00:28,630 --> 00:00:30,390
+or figure out what their definition is.
+
+15
+00:00:30,390 --> 00:00:32,070
+But we're actually
+going to have to explain
+
+16
+00:00:32,070 --> 00:00:35,330
+and describe, which is a
+level two level of effort
+
+17
+00:00:35,330 --> 00:00:36,560
+inside the exam.
+
+18
+00:00:36,560 --> 00:00:38,980
+So if I give you a scenario and I explain
+
+19
+00:00:38,980 --> 00:00:40,680
+what one of these guiding principles is,
+
+20
+00:00:40,680 --> 00:00:42,320
+you should be able to pick out and say
+
+21
+00:00:42,320 --> 00:00:45,500
+this guiding principle
+relates to that scenario.
+
+22
+00:00:45,500 --> 00:00:47,410
+Now, before we go and dig into all of that
+
+23
+00:00:47,410 --> 00:00:48,700
+we have to go and think about
+
+24
+00:00:48,700 --> 00:00:50,630
+what is a guiding principle?
+
+25
+00:00:50,630 --> 00:00:53,350
+Well, a guiding principle
+is a a recommendation
+
+26
+00:00:53,350 --> 00:00:55,030
+that's going to guide an organization
+
+27
+00:00:55,030 --> 00:00:56,880
+in all circumstances.
+
+28
+00:00:56,880 --> 00:00:58,700
+That's right, guiding
+principles can be used
+
+29
+00:00:58,700 --> 00:01:00,740
+to guide an organization in their work
+
+30
+00:01:00,740 --> 00:01:02,830
+as they adopt a service
+management approach
+
+31
+00:01:02,830 --> 00:01:06,120
+and adapt ITIL guidance to
+their own specific needs
+
+32
+00:01:06,120 --> 00:01:07,650
+and circumstances.
+
+33
+00:01:07,650 --> 00:01:10,180
+This means that all organizations
+are going to integrate
+
+34
+00:01:10,180 --> 00:01:12,120
+the use of multiple different methods
+
+35
+00:01:12,120 --> 00:01:14,600
+into their overall approach
+to service management.
+
+36
+00:01:14,600 --> 00:01:15,960
+The way you do service management
+
+37
+00:01:15,960 --> 00:01:18,710
+and the way I do service
+management might be different.
+
+38
+00:01:18,710 --> 00:01:21,930
+But, we both should be based
+on the same guiding principles.
+
+39
+00:01:21,930 --> 00:01:25,240
+Because these guiding principles
+are applied universally
+
+40
+00:01:25,240 --> 00:01:27,290
+to every initiative out there.
+
+41
+00:01:27,290 --> 00:01:29,740
+Now when we talk about applying
+those guiding principles,
+
+42
+00:01:29,740 --> 00:01:31,300
+these guiding principles
+are going to help us
+
+43
+00:01:31,300 --> 00:01:33,600
+to encourage and support our organizations
+
+44
+00:01:33,600 --> 00:01:36,130
+in their continual
+improvement across all levels
+
+45
+00:01:36,130 --> 00:01:37,580
+of the organization.
+
+46
+00:01:37,580 --> 00:01:40,420
+These, as I said, are applied universally
+
+47
+00:01:40,420 --> 00:01:42,206
+to all of the initiatives, but also
+
+48
+00:01:42,206 --> 00:01:44,410
+to all of the relationships
+with your different
+
+49
+00:01:44,410 --> 00:01:45,640
+stake holder groups.
+
+50
+00:01:45,640 --> 00:01:47,520
+So as we talk about the consumers
+
+51
+00:01:47,520 --> 00:01:49,720
+and the customers and the stake holders
+
+52
+00:01:49,720 --> 00:01:52,490
+across the organization,
+all of these people
+
+53
+00:01:52,490 --> 00:01:54,210
+need to be considered when you're thinking
+
+54
+00:01:54,210 --> 00:01:56,070
+about these guiding principles.
+
+55
+00:01:56,070 --> 00:01:58,060
+For example, the first guiding principle
+
+56
+00:01:58,060 --> 00:02:00,230
+is known as focus on value.
+
+57
+00:02:00,230 --> 00:02:03,034
+Now with focus on value it
+can, and should be applied,
+
+58
+00:02:03,034 --> 00:02:05,060
+to all of your relevant stake holders
+
+59
+00:02:05,060 --> 00:02:07,090
+and respective definitions of value.
+
+60
+00:02:07,090 --> 00:02:08,870
+We're not going to just consider the value
+
+61
+00:02:08,870 --> 00:02:11,300
+for the consumer, but we
+also want to look at it
+
+62
+00:02:11,300 --> 00:02:13,400
+from the value for the customer.
+
+63
+00:02:13,400 --> 00:02:15,190
+We want to look at it for the value
+
+64
+00:02:15,190 --> 00:02:16,455
+for the service provider.
+
+65
+00:02:16,455 --> 00:02:17,990
+All of those different people
+
+66
+00:02:17,990 --> 00:02:19,648
+and stake holders need to be getting value
+
+67
+00:02:19,648 --> 00:02:21,700
+from whatever the service is we're doing.
+
+68
+00:02:21,700 --> 00:02:23,950
+And so that's a way that
+we look at this stuff,
+
+69
+00:02:23,950 --> 00:02:25,590
+for example as we're looking at the focus
+
+70
+00:02:25,590 --> 00:02:27,340
+on value principle.
+
+71
+00:02:27,340 --> 00:02:29,860
+Now, as an organization
+I'm not going to use
+
+72
+00:02:29,860 --> 00:02:31,730
+just one or two of these principles.
+
+73
+00:02:31,730 --> 00:02:33,800
+But I should consider all seven of them,
+
+74
+00:02:33,800 --> 00:02:35,600
+and determine which ones are relevant
+
+75
+00:02:35,600 --> 00:02:38,690
+for each situation and
+how I should apply them.
+
+76
+00:02:38,690 --> 00:02:40,520
+Not all of the principles
+are going to be critical
+
+77
+00:02:40,520 --> 00:02:41,880
+in every situation.
+
+78
+00:02:41,880 --> 00:02:43,640
+But you're probably
+going to find that five
+
+79
+00:02:43,640 --> 00:02:45,450
+or six, or even seven of them,
+
+80
+00:02:45,450 --> 00:02:47,220
+may apply to your initiative.
+
+81
+00:02:47,220 --> 00:02:49,150
+And so you want to think
+through each of them,
+
+82
+00:02:49,150 --> 00:02:51,420
+kind of like a check list,
+to make sure you're thinking
+
+83
+00:02:51,420 --> 00:02:54,090
+about your service in a holistic way.
+
+84
+00:02:54,090 --> 00:02:56,240
+As you do this and you
+review each of them,
+
+85
+00:02:56,240 --> 00:02:58,280
+you have a way to determine whether or not
+
+86
+00:02:58,280 --> 00:02:59,980
+they're appropriate for your service
+
+87
+00:02:59,980 --> 00:03:01,610
+and should it be applied.
+
+88
+00:03:01,610 --> 00:03:03,650
+Now, I mentioned a lot about
+these guiding principles
+
+89
+00:03:03,650 --> 00:03:06,440
+so far but I haven't even
+told you what they are.
+
+90
+00:03:06,440 --> 00:03:08,070
+Well, throughout the rest of this section
+
+91
+00:03:08,070 --> 00:03:10,720
+we're going to focus on the
+seven guiding principles.
+
+92
+00:03:10,720 --> 00:03:12,800
+The first is focus on value.
+
+93
+00:03:12,800 --> 00:03:14,910
+The second is start where you are.
+
+94
+00:03:14,910 --> 00:03:17,930
+The third is progress
+iteratively and with feedback.
+
+95
+00:03:17,930 --> 00:03:20,438
+The fourth is to collaborate
+and promote visibility.
+
+96
+00:03:20,438 --> 00:03:23,386
+The fifth is to think
+and work holistically.
+
+97
+00:03:23,386 --> 00:03:26,096
+The sixth is to keep it
+simple and practical.
+
+98
+00:03:26,096 --> 00:03:29,900
+And finally our seventh one
+is to optimize and automate.
+
+99
+00:03:29,900 --> 00:03:31,880
+So, let's get started looking
+
+100
+00:03:31,880 --> 00:03:33,503
+at our seven guiding principles.
+

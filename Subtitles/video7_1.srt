@@ -1,0 +1,262 @@
+﻿1
+00:00:00,730 --> 00:00:03,020
+- Continual improvement.
+
+2
+00:00:03,020 --> 00:00:04,210
+So we've spent a lot of time
+
+3
+00:00:04,210 --> 00:00:05,580
+going through each of the pieces
+
+4
+00:00:05,580 --> 00:00:07,560
+of the service value system.
+
+5
+00:00:07,560 --> 00:00:10,190
+In the last section we
+covered the middle block
+
+6
+00:00:10,190 --> 00:00:12,260
+which was the service value chain.
+
+7
+00:00:12,260 --> 00:00:14,500
+Now we're going to move
+to the lowest block
+
+8
+00:00:14,500 --> 00:00:16,500
+which is continual improvement.
+
+9
+00:00:16,500 --> 00:00:18,470
+You'll notice here that it is called out
+
+10
+00:00:18,470 --> 00:00:20,120
+in this purple block.
+
+11
+00:00:20,120 --> 00:00:22,160
+Now right above continual improvement
+
+12
+00:00:22,160 --> 00:00:24,110
+there's a block called practices.
+
+13
+00:00:24,110 --> 00:00:27,820
+And practices are going to be
+the 34 distinct idle practices
+
+14
+00:00:27,820 --> 00:00:29,630
+that we're going to cover
+throughout the course.
+
+15
+00:00:29,630 --> 00:00:33,570
+And oddly enough, continual
+improvement is one of those 34.
+
+16
+00:00:33,570 --> 00:00:36,980
+So why is continual improvement
+pulled out in the diagram
+
+17
+00:00:36,980 --> 00:00:39,580
+as its own activity shown here
+
+18
+00:00:39,580 --> 00:00:41,890
+in addition to the fact
+that it's a practice?
+
+19
+00:00:41,890 --> 00:00:45,280
+Well, it's because continual
+improvement is that important.
+
+20
+00:00:45,280 --> 00:00:48,830
+In everything we do we should
+always be trying to improve.
+
+21
+00:00:48,830 --> 00:00:51,550
+And when we look at this
+from the exam perspective,
+
+22
+00:00:51,550 --> 00:00:53,890
+continual improvement comes up twice.
+
+23
+00:00:53,890 --> 00:00:55,590
+First, you have to be able to recall
+
+24
+00:00:55,590 --> 00:00:58,370
+the purpose of the continual
+improvement practice.
+
+25
+00:00:58,370 --> 00:01:00,660
+Notice the key word there is recall.
+
+26
+00:01:00,660 --> 00:01:03,940
+That means you have to be
+able to know it word for word
+
+27
+00:01:03,940 --> 00:01:07,540
+and be able to identify
+that definition on the exam.
+
+28
+00:01:07,540 --> 00:01:10,830
+Second, you also need to be
+able to explain or discuss
+
+29
+00:01:10,830 --> 00:01:12,110
+how continual improvement
+
+30
+00:01:12,110 --> 00:01:13,790
+and the continual improvement model
+
+31
+00:01:13,790 --> 00:01:15,900
+fits within the service value chain
+
+32
+00:01:15,900 --> 00:01:17,740
+and the service value system.
+
+33
+00:01:17,740 --> 00:01:20,480
+So we're going to spend
+this section of the course
+
+34
+00:01:20,480 --> 00:01:23,800
+talking specifically about
+continual improvement.
+
+35
+00:01:23,800 --> 00:01:26,580
+Now, I said you have to be
+able to recall the definition.
+
+36
+00:01:26,580 --> 00:01:28,720
+So, what is that definition?
+
+37
+00:01:28,720 --> 00:01:31,850
+Well, the purpose of the
+continual improvement practice
+
+38
+00:01:31,850 --> 00:01:35,180
+is to align the organization's
+practices and services
+
+39
+00:01:35,180 --> 00:01:36,700
+with changing business needs
+
+40
+00:01:36,700 --> 00:01:38,350
+through the ongoing identification
+
+41
+00:01:38,350 --> 00:01:42,330
+and improvement of services,
+service components, practices,
+
+42
+00:01:42,330 --> 00:01:44,370
+or elements that are
+involved in the efficient
+
+43
+00:01:44,370 --> 00:01:47,410
+and effective management
+of products and services.
+
+44
+00:01:47,410 --> 00:01:49,840
+So, this is a very long definition.
+
+45
+00:01:49,840 --> 00:01:51,340
+But you need to be able to know it
+
+46
+00:01:51,340 --> 00:01:52,731
+because if they give you something
+
+47
+00:01:52,731 --> 00:01:54,570
+where there's a fill in the blank
+
+48
+00:01:54,570 --> 00:01:56,110
+you have to pull in the right word.
+
+49
+00:01:56,110 --> 00:01:57,720
+If they give you this definition,
+
+50
+00:01:57,720 --> 00:01:58,910
+you need to be able to identify
+
+51
+00:01:58,910 --> 00:02:01,550
+that it is the continual
+improvement practice.
+
+52
+00:02:01,550 --> 00:02:03,150
+That's the level of knowledge you need
+
+53
+00:02:03,150 --> 00:02:05,680
+for the recall part of the exam.
+
+54
+00:02:05,680 --> 00:02:08,500
+Now, as we go through
+the rest of this section
+
+55
+00:02:08,500 --> 00:02:11,490
+I'm going to present to you the
+continual improvement model,
+
+56
+00:02:11,490 --> 00:02:13,540
+how it fits into the service value chain,
+
+57
+00:02:13,540 --> 00:02:15,180
+and walk you through each step
+
+58
+00:02:15,180 --> 00:02:16,930
+of that continual improvement model
+
+59
+00:02:16,930 --> 00:02:20,133
+so you can understand it
+and explain it on the exam.
+

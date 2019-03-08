@@ -1,0 +1,121 @@
+﻿1
+00:00:00,420 --> 00:00:02,620
+- Our third technical
+management practice is
+
+2
+00:00:02,620 --> 00:00:04,600
+Software Development and Management.
+
+3
+00:00:04,600 --> 00:00:07,379
+Again, this one is not
+covered by the exam.
+
+4
+00:00:07,379 --> 00:00:09,950
+The software development
+and management practice
+
+5
+00:00:09,950 --> 00:00:12,120
+is responsible for
+ensuring that applications
+
+6
+00:00:12,120 --> 00:00:15,140
+meet stakeholder needs in
+terms of their functionality,
+
+7
+00:00:15,140 --> 00:00:18,230
+their reliability, their
+maintainability, their compliance,
+
+8
+00:00:18,230 --> 00:00:19,940
+and their auditability.
+
+9
+00:00:19,940 --> 00:00:22,430
+So, whether we're developing it in-house
+
+10
+00:00:22,430 --> 00:00:25,200
+or we're going to be deploying
+other people's software
+
+11
+00:00:25,200 --> 00:00:26,430
+into our environment,
+
+12
+00:00:26,430 --> 00:00:28,440
+it's going to be handled
+through this practice.
+
+13
+00:00:28,440 --> 00:00:32,640
+So if I'm going to go ahead and
+install Windows Server 2019,
+
+14
+00:00:32,640 --> 00:00:35,870
+that is going to be done
+and managed through software
+
+15
+00:00:35,870 --> 00:00:37,400
+development and management.
+
+16
+00:00:37,400 --> 00:00:40,439
+We're going to make sure
+that that software meets our
+
+17
+00:00:40,439 --> 00:00:41,720
+functionality needs,
+our reliability needs,
+
+18
+00:00:41,720 --> 00:00:44,070
+our maintainability needs,
+our compliance needs,
+
+19
+00:00:44,070 --> 00:00:45,640
+and our auditability needs.
+
+20
+00:00:45,640 --> 00:00:47,480
+Now, we're not going to be
+the ones who are going to push
+
+21
+00:00:47,480 --> 00:00:48,900
+that out into the environment.
+
+22
+00:00:48,900 --> 00:00:51,205
+That's going to happen through release
+
+23
+00:00:51,205 --> 00:00:52,038
+and deployment management.
+
+24
+00:00:52,038 --> 00:00:53,880
+But we're going to make
+sure we're tracking it
+
+25
+00:00:53,880 --> 00:00:56,060
+all along the way and we
+know what applications
+
+26
+00:00:56,060 --> 00:00:58,760
+are out there that are meeting
+our stakeholders needs.
+

@@ -1,0 +1,281 @@
+﻿1
+00:00:00,840 --> 00:00:03,940
+- The next practice we're going
+to discuss is risk management,
+
+2
+00:00:03,940 --> 00:00:06,260
+and again this is just for
+your general awareness,
+
+3
+00:00:06,260 --> 00:00:07,900
+but it one we've talked about earlier
+
+4
+00:00:07,900 --> 00:00:10,000
+on in our course, because we did talk
+
+5
+00:00:10,000 --> 00:00:12,440
+about those four things
+you can do with risk.
+
+6
+00:00:12,440 --> 00:00:13,840
+When we talk about risk management,
+
+7
+00:00:13,840 --> 00:00:15,760
+this practice is focused on ensuring
+
+8
+00:00:15,760 --> 00:00:17,770
+that an organization understands
+
+9
+00:00:17,770 --> 00:00:20,080
+and handles its risk effectively.
+
+10
+00:00:20,080 --> 00:00:22,460
+Now, when we look at risk,
+there are four things
+
+11
+00:00:22,460 --> 00:00:23,450
+you can do with it.
+
+12
+00:00:23,450 --> 00:00:26,150
+You can avoid risk, you can mitigate risk,
+
+13
+00:00:26,150 --> 00:00:28,930
+you can transfer risk,
+or you can accept risk.
+
+14
+00:00:28,930 --> 00:00:31,720
+When you avoid risk, you're
+going to change the situation
+
+15
+00:00:31,720 --> 00:00:34,090
+so that risk doesn't exist anymore.
+
+16
+00:00:34,090 --> 00:00:36,130
+I like to use the example
+of if your company
+
+17
+00:00:36,130 --> 00:00:38,360
+has a computer that's running Windows XP,
+
+18
+00:00:38,360 --> 00:00:40,190
+that's a highly risky event.
+
+19
+00:00:40,190 --> 00:00:42,340
+Well, you can avoid that risk completely
+
+20
+00:00:42,340 --> 00:00:45,330
+by turning off that computer,
+upgrading it to Windows 10,
+
+21
+00:00:45,330 --> 00:00:48,220
+and now you have that
+risk completely avoided,
+
+22
+00:00:48,220 --> 00:00:49,990
+because you're no longer having the risk
+
+23
+00:00:49,990 --> 00:00:52,150
+of having this old, outdated system.
+
+24
+00:00:52,150 --> 00:00:53,870
+Now, mitigation on the other hand,
+
+25
+00:00:53,870 --> 00:00:55,820
+is where we're going to
+put some things in place
+
+26
+00:00:55,820 --> 00:00:57,760
+to help lower the amount of risk.
+
+27
+00:00:57,760 --> 00:00:59,070
+For example, if I wanted to drive
+
+28
+00:00:59,070 --> 00:01:00,740
+my car from here to the store,
+
+29
+00:01:00,740 --> 00:01:02,830
+I'm not going to drive
+it 60 miles an hour.
+
+30
+00:01:02,830 --> 00:01:05,110
+I decided I'm going to
+drive it 30 miles an hour.
+
+31
+00:01:05,110 --> 00:01:06,250
+That lowers my risk
+
+32
+00:01:06,250 --> 00:01:08,820
+because it gives me more
+time to react to issues.
+
+33
+00:01:08,820 --> 00:01:10,680
+That's a risk mitigation.
+
+34
+00:01:10,680 --> 00:01:12,320
+When I talk about risk transference,
+
+35
+00:01:12,320 --> 00:01:15,210
+that's when I'm going to transfer
+the risk to somebody else.
+
+36
+00:01:15,210 --> 00:01:16,730
+In the example of my car,
+
+37
+00:01:16,730 --> 00:01:18,760
+I have an insurance policy on my car.
+
+38
+00:01:18,760 --> 00:01:20,330
+If I get into an accident,
+
+39
+00:01:20,330 --> 00:01:21,970
+I'm not the one who assumes that risk.
+
+40
+00:01:21,970 --> 00:01:23,200
+The insurance company is.
+
+41
+00:01:23,200 --> 00:01:24,760
+They're going to pay for the damages,
+
+42
+00:01:24,760 --> 00:01:27,210
+because I paid them a
+premium and that transferred
+
+43
+00:01:27,210 --> 00:01:30,630
+the risk from me to them
+for that financial issue.
+
+44
+00:01:30,630 --> 00:01:32,820
+And finally, we have risk acceptance.
+
+45
+00:01:32,820 --> 00:01:34,680
+If you have a risk that's small enough,
+
+46
+00:01:34,680 --> 00:01:37,000
+you might just decided
+you're going to accept it.
+
+47
+00:01:37,000 --> 00:01:39,850
+For example, there are risk
+every day that you deal with,
+
+48
+00:01:39,850 --> 00:01:41,700
+and you just simply accept them.
+
+49
+00:01:41,700 --> 00:01:43,210
+When you get in the car to drive to work,
+
+50
+00:01:43,210 --> 00:01:45,560
+there's a risk you could
+get into an accident.
+
+51
+00:01:45,560 --> 00:01:47,780
+Yes, you've transferred
+the financial risk,
+
+52
+00:01:47,780 --> 00:01:49,060
+but if you get into an accident
+
+53
+00:01:49,060 --> 00:01:50,710
+you're still going to get hurt, right?
+
+54
+00:01:50,710 --> 00:01:53,300
+Well, you figured that
+that risk is small enough
+
+55
+00:01:53,300 --> 00:01:54,830
+that you have accepted that risk,
+
+56
+00:01:54,830 --> 00:01:56,600
+whether willing or unwillingly,
+
+57
+00:01:56,600 --> 00:01:58,650
+so that you can drive your car to work.
+
+58
+00:01:58,650 --> 00:02:00,470
+That's the idea when you
+deal with risk management.
+
+59
+00:02:00,470 --> 00:02:03,310
+It's identifying all the
+risks that are going to exist
+
+60
+00:02:03,310 --> 00:02:04,810
+for our product and services,
+
+61
+00:02:04,810 --> 00:02:06,750
+as well as our projects
+as we're deploying them.
+
+62
+00:02:06,750 --> 00:02:08,580
+And then we try to mitigate them,
+
+63
+00:02:08,580 --> 00:02:10,750
+transfer them, avoid them, or accept them,
+
+64
+00:02:10,750 --> 00:02:13,053
+and that way we know
+what we're dealing with.
+

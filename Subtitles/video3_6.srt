@@ -1,0 +1,375 @@
+﻿1
+00:00:00,000 --> 00:00:03,460
+- In this lesson, we're going
+to discuss the PESTLE model.
+
+2
+00:00:03,460 --> 00:00:05,930
+Now before we do, I want
+to point out that this part
+
+3
+00:00:05,930 --> 00:00:07,511
+is not going to be on the exam.
+
+4
+00:00:07,511 --> 00:00:09,820
+The only reason I'm
+bringing it up is because
+
+5
+00:00:09,820 --> 00:00:11,690
+you may have been asking
+yourself back in the
+
+6
+00:00:11,690 --> 00:00:14,270
+introduction to this
+section why do we have these
+
+7
+00:00:14,270 --> 00:00:17,461
+external factors around the
+outside of our four dimensions.
+
+8
+00:00:17,461 --> 00:00:20,470
+We have a value in the
+center and then around that
+
+9
+00:00:20,470 --> 00:00:22,130
+we had the products and services.
+
+10
+00:00:22,130 --> 00:00:24,860
+We had our four dimensions
+that are the four perspectives
+
+11
+00:00:24,860 --> 00:00:27,120
+we look at our services,
+but there are these
+
+12
+00:00:27,120 --> 00:00:29,872
+external factors circling
+around the outside.
+
+13
+00:00:29,872 --> 00:00:31,581
+And that's why I wanted to discuss here.
+
+14
+00:00:31,581 --> 00:00:33,890
+These are known as the PESTEL model,
+
+15
+00:00:33,890 --> 00:00:35,579
+which is a generic open-source model
+
+16
+00:00:35,579 --> 00:00:39,840
+that stands for the acronym
+of PESTLE P for political,
+
+17
+00:00:39,840 --> 00:00:43,029
+E for economic, S for
+Social, T for technological
+
+18
+00:00:43,029 --> 00:00:45,643
+L for legal and E for environmental.
+
+19
+00:00:45,643 --> 00:00:48,760
+Now, these are six things
+that are outside of your
+
+20
+00:00:48,760 --> 00:00:51,080
+organization that you can't control.
+
+21
+00:00:51,080 --> 00:00:52,403
+There are going to happen to you.
+
+22
+00:00:52,403 --> 00:00:55,030
+But they are external factors
+that you have to think about
+
+23
+00:00:55,030 --> 00:00:56,994
+when you are designing
+a service or a product.
+
+24
+00:00:56,994 --> 00:00:59,150
+Now these are the things that are
+
+25
+00:00:59,150 --> 00:01:00,520
+outside your control, right?
+
+26
+00:01:00,520 --> 00:01:02,631
+So let's think about
+one of a great example.
+
+27
+00:01:02,631 --> 00:01:05,120
+I've used this example a
+lot throughout this course,
+
+28
+00:01:05,120 --> 00:01:07,120
+but the example of Uber or Lyft,
+
+29
+00:01:07,120 --> 00:01:08,683
+those ride-sharing services.
+
+30
+00:01:08,683 --> 00:01:11,380
+When they first came out,
+they were a completely
+
+31
+00:01:11,380 --> 00:01:14,290
+different model and so there
+was a social component of it.
+
+32
+00:01:14,290 --> 00:01:17,156
+Would people be willing
+to embrace this idea
+
+33
+00:01:17,156 --> 00:01:19,800
+that they can get into a stranger's car
+
+34
+00:01:19,800 --> 00:01:22,480
+by summoning them with their
+app, they could come up
+
+35
+00:01:22,480 --> 00:01:23,900
+and you get in their car
+and they drive you to your
+
+36
+00:01:23,900 --> 00:01:26,770
+destination as opposed to
+using a traditional taxi.
+
+37
+00:01:26,770 --> 00:01:29,220
+That's a different sociodynamic
+than we are used to.
+
+38
+00:01:29,220 --> 00:01:31,620
+And so that was something that
+people were worried about.
+
+39
+00:01:31,620 --> 00:01:33,570
+They couldn't really control that as Uber.
+
+40
+00:01:33,570 --> 00:01:36,130
+They had to just hopefully
+get enough people to change
+
+41
+00:01:36,130 --> 00:01:38,570
+their minds in society
+that it became commonplace
+
+42
+00:01:38,570 --> 00:01:40,340
+and now most of us don't think twice
+
+43
+00:01:40,340 --> 00:01:42,050
+about taking an Uber, do we?
+
+44
+00:01:42,050 --> 00:01:43,950
+Another one might be technological.
+
+45
+00:01:43,950 --> 00:01:45,970
+Maybe you're facing some
+challenges as you are trying
+
+46
+00:01:45,970 --> 00:01:47,660
+to figure out how to build your service
+
+47
+00:01:47,660 --> 00:01:49,530
+that you don't have the
+right technology to do it
+
+48
+00:01:49,530 --> 00:01:51,613
+because that technology doesn't exist yet.
+
+49
+00:01:51,613 --> 00:01:54,480
+For example, maybe you want
+to make sure you have this
+
+50
+00:01:54,480 --> 00:01:57,088
+ultra safe encryption and
+so you want to design it
+
+51
+00:01:57,088 --> 00:02:00,680
+with quantum resistant
+technology but quantum computers
+
+52
+00:02:00,680 --> 00:02:03,060
+don't exist yet, so you
+can't quite do that.
+
+53
+00:02:03,060 --> 00:02:05,326
+And when quantum computers do come out,
+
+54
+00:02:05,326 --> 00:02:07,814
+all of the existing technology
+and encryption we're using
+
+55
+00:02:07,814 --> 00:02:09,950
+is going to be consider obsolete.
+
+56
+00:02:09,950 --> 00:02:11,754
+And so that's a technological impact
+
+57
+00:02:11,754 --> 00:02:14,715
+external to our environment
+that we really can't control.
+
+58
+00:02:14,715 --> 00:02:16,705
+There's also legal impacts.
+
+59
+00:02:16,705 --> 00:02:18,630
+I'll go back to the Uber example.
+
+60
+00:02:18,630 --> 00:02:21,310
+There are cities and there are
+countries that have actually
+
+61
+00:02:21,310 --> 00:02:23,730
+made it illegal for Uber to operate there.
+
+62
+00:02:23,730 --> 00:02:26,122
+They said that you have
+to have a taxi license
+
+63
+00:02:26,122 --> 00:02:28,780
+to be able to run a taxi type service
+
+64
+00:02:28,780 --> 00:02:31,100
+and therefore, Uber cannot
+be run there and they have
+
+65
+00:02:31,100 --> 00:02:32,930
+pushed Uber out of those communities.
+
+66
+00:02:32,930 --> 00:02:35,240
+That's a legal restriction
+that they can't get through
+
+67
+00:02:35,240 --> 00:02:37,550
+until they can get that law changed.
+
+68
+00:02:37,550 --> 00:02:38,850
+How do you get a law changed?
+
+69
+00:02:38,850 --> 00:02:41,520
+Well, you try to get some
+political pressure, right?
+
+70
+00:02:41,520 --> 00:02:43,150
+And so maybe you are going
+to have to put effort
+
+71
+00:02:43,150 --> 00:02:45,650
+in lobbying into changing
+the minds of the political
+
+72
+00:02:45,650 --> 00:02:48,370
+culture so they can change
+the law and make it so it's
+
+73
+00:02:48,370 --> 00:02:51,160
+acceptable for you to run
+your service into those areas.
+
+74
+00:02:51,160 --> 00:02:53,690
+All of these things are things
+that are going to affect us.
+
+75
+00:02:53,690 --> 00:02:56,840
+That's the PESTLE, the political,
+the economic, the social,
+
+76
+00:02:56,840 --> 00:02:59,490
+the technological, the
+legal and the environmental.
+
+77
+00:02:59,490 --> 00:03:02,590
+Again, for the exam, you don't
+have to memorize these six.
+
+78
+00:03:02,590 --> 00:03:04,900
+It's just something for
+you think about as you're
+
+79
+00:03:04,900 --> 00:03:07,200
+considering your services
+and you're building them
+
+80
+00:03:07,200 --> 00:03:09,360
+because it is something
+that may impact you
+
+81
+00:03:09,360 --> 00:03:11,060
+depending on the choices you make.
+

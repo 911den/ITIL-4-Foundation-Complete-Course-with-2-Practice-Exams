@@ -1,0 +1,760 @@
+﻿1
+00:00:01,120 --> 00:00:03,450
+- Service relationships, this is what
+
+2
+00:00:03,450 --> 00:00:05,780
+being a service provider is all about.
+
+3
+00:00:05,780 --> 00:00:08,660
+To create value, an
+organization has to provide more
+
+4
+00:00:08,660 --> 00:00:09,830
+than just a service.
+
+5
+00:00:09,830 --> 00:00:12,310
+They have to work with their
+consumers and their customers
+
+6
+00:00:12,310 --> 00:00:14,660
+to build an ongoing relationship.
+
+7
+00:00:14,660 --> 00:00:17,470
+Now, in the business world,
+just as in our love life,
+
+8
+00:00:17,470 --> 00:00:20,780
+relationships are challenging
+and sometimes difficult.
+
+9
+00:00:20,780 --> 00:00:22,830
+In this lesson, we're going
+to take a look at what
+
+10
+00:00:22,830 --> 00:00:26,660
+a service relationship is and
+why it can be so complicated.
+
+11
+00:00:26,660 --> 00:00:30,360
+First, let's cover the definition
+of a service relationship.
+
+12
+00:00:30,360 --> 00:00:32,700
+A service relationship is a cooperation
+
+13
+00:00:32,700 --> 00:00:35,210
+between the service provider
+and a service consumer
+
+14
+00:00:35,210 --> 00:00:37,830
+that includes service
+provision, service consumption
+
+15
+00:00:37,830 --> 00:00:40,200
+and service relationship management.
+
+16
+00:00:40,200 --> 00:00:42,530
+This is a fairly straight forward concept.
+
+17
+00:00:42,530 --> 00:00:45,520
+Basically, it's when two
+organizations want to work together,
+
+18
+00:00:45,520 --> 00:00:47,610
+they have a relationship that's formed.
+
+19
+00:00:47,610 --> 00:00:50,210
+During this relationship,
+one of these organizations
+
+20
+00:00:50,210 --> 00:00:52,240
+might assume the role
+of the service provider
+
+21
+00:00:52,240 --> 00:00:54,360
+and the other becomes the consumer.
+
+22
+00:00:54,360 --> 00:00:57,210
+Right now, you and I have
+a service relationship.
+
+23
+00:00:57,210 --> 00:00:59,480
+I'm the service provider
+and you're the consumer
+
+24
+00:00:59,480 --> 00:01:01,630
+of the training service
+that we're offering.
+
+25
+00:01:01,630 --> 00:01:04,530
+But like I said, it can be
+much, much more complicated
+
+26
+00:01:04,530 --> 00:01:05,363
+than that.
+
+27
+00:01:05,363 --> 00:01:07,440
+But I'm getting a little
+ahead of myself here.
+
+28
+00:01:07,440 --> 00:01:09,810
+Let's first talk about service provision.
+
+29
+00:01:09,810 --> 00:01:11,640
+What is service provision?
+
+30
+00:01:11,640 --> 00:01:14,410
+Well, service provision is the
+activities that are performed
+
+31
+00:01:14,410 --> 00:01:17,310
+by an organization to
+provide the services.
+
+32
+00:01:17,310 --> 00:01:19,550
+This includes things like
+managing the service provider's
+
+33
+00:01:19,550 --> 00:01:22,480
+resources, configuring them
+to deliver the service,
+
+34
+00:01:22,480 --> 00:01:25,000
+providing access to the
+resources to the users
+
+35
+00:01:25,000 --> 00:01:27,420
+and fulfilling the agreed
+upon service actions,
+
+36
+00:01:27,420 --> 00:01:29,430
+as well as conducting
+service level management
+
+37
+00:01:29,430 --> 00:01:33,000
+and even performing continual
+improvement to their services.
+
+38
+00:01:33,000 --> 00:01:35,350
+Service provision can even
+include supplying goods
+
+39
+00:01:35,350 --> 00:01:37,080
+to the consumer as well.
+
+40
+00:01:37,080 --> 00:01:39,440
+Now, let's consider when you
+go and buy a new cell phone
+
+41
+00:01:39,440 --> 00:01:41,500
+from your cell phone service provider.
+
+42
+00:01:41,500 --> 00:01:43,720
+You walk into the store
+and they give you a phone,
+
+43
+00:01:43,720 --> 00:01:45,940
+which is good, and they
+activate your phone
+
+44
+00:01:45,940 --> 00:01:47,630
+by giving you a brand new phone number
+
+45
+00:01:47,630 --> 00:01:50,130
+and this is actually called
+account provisioning.
+
+46
+00:01:50,130 --> 00:01:52,070
+This establishes your new user account,
+
+47
+00:01:52,070 --> 00:01:53,540
+your new phone number in this case.
+
+48
+00:01:53,540 --> 00:01:55,960
+And they assign different
+features, such as voicemail
+
+49
+00:01:55,960 --> 00:01:58,550
+and text messages and a
+data plan and other things
+
+50
+00:01:58,550 --> 00:01:59,710
+to your account.
+
+51
+00:01:59,710 --> 00:02:01,810
+By the time they're done,
+you can walk out of the store
+
+52
+00:02:01,810 --> 00:02:03,860
+with your new phone, your new phone number
+
+53
+00:02:03,860 --> 00:02:05,750
+and working cellular service.
+
+54
+00:02:05,750 --> 00:02:08,980
+That is all service provisioning
+by your service provider.
+
+55
+00:02:08,980 --> 00:02:11,550
+Now, when you walk out the
+door, you're going to use
+
+56
+00:02:11,550 --> 00:02:14,670
+your new cell phone and now,
+you're going to become a consumer
+
+57
+00:02:14,670 --> 00:02:17,720
+who's beginning to do what is
+known as service consumption.
+
+58
+00:02:17,720 --> 00:02:20,240
+Service consumption includes
+all the activities performed
+
+59
+00:02:20,240 --> 00:02:22,180
+by an organization or a single person
+
+60
+00:02:22,180 --> 00:02:23,460
+in the case of your new cell phone,
+
+61
+00:02:23,460 --> 00:02:26,670
+and this is going to allow you
+to consume those new services.
+
+62
+00:02:26,670 --> 00:02:29,040
+Service consumption includes
+things like the management
+
+63
+00:02:29,040 --> 00:02:30,630
+of the consumer's
+resources that are needed
+
+64
+00:02:30,630 --> 00:02:33,620
+to use the service, such as you
+paying your bill every month
+
+65
+00:02:33,620 --> 00:02:35,850
+to make sure the service
+stays working, as well as
+
+66
+00:02:35,850 --> 00:02:38,250
+all the other actions
+you perform to utilize
+
+67
+00:02:38,250 --> 00:02:40,900
+the provider's resources,
+such as checking your email
+
+68
+00:02:40,900 --> 00:02:43,110
+or making phone calls
+on your new smartphone.
+
+69
+00:02:43,110 --> 00:02:45,540
+Or it can even be requesting
+new service actions
+
+70
+00:02:45,540 --> 00:02:46,620
+to be fulfilled.
+
+71
+00:02:46,620 --> 00:02:48,570
+For example, you might
+be getting ready to fly
+
+72
+00:02:48,570 --> 00:02:49,910
+from one country to another
+
+73
+00:02:49,910 --> 00:02:51,220
+and you need your service provider
+
+74
+00:02:51,220 --> 00:02:53,430
+to enable data roaming on your phone.
+
+75
+00:02:53,430 --> 00:02:55,860
+This, again, is one of
+those things that can happen
+
+76
+00:02:55,860 --> 00:02:57,810
+inside of service consumption.
+
+77
+00:02:57,810 --> 00:02:59,500
+When the consumer is doing something,
+
+78
+00:02:59,500 --> 00:03:01,640
+this is called service consumption.
+
+79
+00:03:01,640 --> 00:03:03,500
+Now, in addition to service provisioning
+
+80
+00:03:03,500 --> 00:03:05,840
+and service consumption,
+there are some activities
+
+81
+00:03:05,840 --> 00:03:07,810
+that are done by both the service provider
+
+82
+00:03:07,810 --> 00:03:09,270
+and the service consumer
+
+83
+00:03:09,270 --> 00:03:11,330
+and when they do these things
+together, they're trying
+
+84
+00:03:11,330 --> 00:03:14,560
+to enable value co-creation
+to occur based upon the agreed
+
+85
+00:03:14,560 --> 00:03:16,370
+and available service offerings.
+
+86
+00:03:16,370 --> 00:03:19,640
+This is known as service
+relationship management.
+
+87
+00:03:19,640 --> 00:03:22,040
+The most basic of the things
+here are things like having
+
+88
+00:03:22,040 --> 00:03:23,880
+the consumer paying their bill on time,
+
+89
+00:03:23,880 --> 00:03:26,270
+so their monthly subscription
+doesn't get canceled
+
+90
+00:03:26,270 --> 00:03:28,040
+and the service doesn't get turned off.
+
+91
+00:03:28,040 --> 00:03:30,610
+Or it may be that the service
+provider needs to ensure
+
+92
+00:03:30,610 --> 00:03:32,190
+they're communicating with the consumer
+
+93
+00:03:32,190 --> 00:03:34,500
+about a possible network
+outage that's going to occur
+
+94
+00:03:34,500 --> 00:03:37,160
+because this weekend there's
+going to be a server upgrade.
+
+95
+00:03:37,160 --> 00:03:38,840
+This back and forth communication
+
+96
+00:03:38,840 --> 00:03:41,670
+is what we call service
+relationship management.
+
+97
+00:03:41,670 --> 00:03:43,160
+So, now that we know a little bit
+
+98
+00:03:43,160 --> 00:03:46,000
+about service relationships,
+including service provisioning,
+
+99
+00:03:46,000 --> 00:03:48,690
+service consumption and service
+relationship management,
+
+100
+00:03:48,690 --> 00:03:51,500
+let's dig in to the complicated
+portion of this topic,
+
+101
+00:03:51,500 --> 00:03:53,650
+the service relationship model.
+
+102
+00:03:53,650 --> 00:03:56,960
+As I said, business can be
+complicated and because of this,
+
+103
+00:03:56,960 --> 00:03:58,810
+we have to consider the
+different relationships
+
+104
+00:03:58,810 --> 00:04:01,350
+that are involved in any single service.
+
+105
+00:04:01,350 --> 00:04:04,900
+For example, let's consider
+my website, diontraining.com.
+
+106
+00:04:04,900 --> 00:04:07,740
+We offer training services
+over video to our students,
+
+107
+00:04:07,740 --> 00:04:09,360
+students just like you.
+
+108
+00:04:09,360 --> 00:04:12,190
+Now, if you're watching this
+video on diontraining.com,
+
+109
+00:04:12,190 --> 00:04:13,480
+that means there are a lot
+
+110
+00:04:13,480 --> 00:04:15,100
+of different service relationships
+
+111
+00:04:15,100 --> 00:04:16,930
+that have already
+occurred behind the scenes
+
+112
+00:04:16,930 --> 00:04:18,480
+to enable that to happen.
+
+113
+00:04:18,480 --> 00:04:20,500
+Let's place you in the Organization D spot
+
+114
+00:04:20,500 --> 00:04:21,940
+here on the far right.
+
+115
+00:04:21,940 --> 00:04:24,800
+Now, you want to watch this
+video, but for that to happen,
+
+116
+00:04:24,800 --> 00:04:26,390
+the video has to get to you.
+
+117
+00:04:26,390 --> 00:04:28,720
+Well, that happens because you
+have a service relationship
+
+118
+00:04:28,720 --> 00:04:30,390
+in place with our company.
+
+119
+00:04:30,390 --> 00:04:32,730
+In this relationship, you are the consumer
+
+120
+00:04:32,730 --> 00:04:34,080
+and we are the service provider.
+
+121
+00:04:34,080 --> 00:04:37,420
+Well, to make this work, we
+rely on service providers
+
+122
+00:04:37,420 --> 00:04:38,490
+as well.
+
+123
+00:04:38,490 --> 00:04:41,020
+We don't host our own videos,
+for example, but instead
+
+124
+00:04:41,020 --> 00:04:43,840
+we outsource that to a very
+large video streaming company
+
+125
+00:04:43,840 --> 00:04:45,800
+with cloud servers all over the world
+
+126
+00:04:45,800 --> 00:04:47,510
+to ensure that you get the best quality
+
+127
+00:04:47,510 --> 00:04:49,150
+with the lowest latency.
+
+128
+00:04:49,150 --> 00:04:51,890
+Let's put them up here as Organization B.
+
+129
+00:04:51,890 --> 00:04:54,240
+Now, in the relationship
+between Dion Training
+
+130
+00:04:54,240 --> 00:04:57,010
+and the video streaming
+company, we are the consumer
+
+131
+00:04:57,010 --> 00:04:59,990
+and the video streaming company
+is the service provider,
+
+132
+00:04:59,990 --> 00:05:02,200
+but that video streaming service we used,
+
+133
+00:05:02,200 --> 00:05:03,870
+they don't even own their own servers.
+
+134
+00:05:03,870 --> 00:05:06,450
+No, instead they rely on Google Cloud.
+
+135
+00:05:06,450 --> 00:05:08,360
+And that means the video streaming service
+
+136
+00:05:08,360 --> 00:05:10,060
+is actually a consumer, too.
+
+137
+00:05:10,060 --> 00:05:12,630
+Well, Google is going to
+be their service provider,
+
+138
+00:05:12,630 --> 00:05:15,680
+but to make it even more
+complicated, there are departments
+
+139
+00:05:15,680 --> 00:05:18,410
+inside of Google that work on IT systems.
+
+140
+00:05:18,410 --> 00:05:20,410
+Well, some of those people
+are actually members
+
+141
+00:05:20,410 --> 00:05:22,960
+of my website and they take
+this very same training
+
+142
+00:05:22,960 --> 00:05:24,110
+that you're in right now.
+
+143
+00:05:24,110 --> 00:05:25,910
+And so, when you're logged into my website
+
+144
+00:05:25,910 --> 00:05:27,160
+to watch those videos,
+
+145
+00:05:27,160 --> 00:05:28,750
+they're now going to be the consumers
+
+146
+00:05:28,750 --> 00:05:30,920
+and I'm the service provider once more.
+
+147
+00:05:30,920 --> 00:05:33,520
+You can see how this
+interrelationship can get really messy
+
+148
+00:05:33,520 --> 00:05:34,880
+and really complicated.
+
+149
+00:05:34,880 --> 00:05:36,920
+The bottom line here is
+I want you to realize
+
+150
+00:05:36,920 --> 00:05:39,460
+that in most cases,
+organizations are going to be
+
+151
+00:05:39,460 --> 00:05:41,230
+both a service provider to someone
+
+152
+00:05:41,230 --> 00:05:43,360
+and as service consumer themselves.
+
+153
+00:05:43,360 --> 00:05:45,160
+This is what this diagram is showing
+
+154
+00:05:45,160 --> 00:05:47,940
+with just these four companies
+we discussed in this example.
+
+155
+00:05:47,940 --> 00:05:49,770
+If I was going to draw
+out every relationship
+
+156
+00:05:49,770 --> 00:05:52,130
+for every service offering
+within my company,
+
+157
+00:05:52,130 --> 00:05:54,550
+I would have to fill 100
+or more of these screens
+
+158
+00:05:54,550 --> 00:05:56,740
+because of all of the different
+relationships we have,
+
+159
+00:05:56,740 --> 00:05:58,650
+and we're just a small company.
+
+160
+00:05:58,650 --> 00:06:00,490
+If you think about how messy
+this would be for somebody
+
+161
+00:06:00,490 --> 00:06:03,770
+like Facebook or LinkedIn
+or Microsoft or Google.
+
+162
+00:06:03,770 --> 00:06:05,670
+It can just blow your mind.
+
+163
+00:06:05,670 --> 00:06:08,370
+So, for the exam, I want you to remember,
+
+164
+00:06:08,370 --> 00:06:10,430
+your organization may
+be a service provider
+
+165
+00:06:10,430 --> 00:06:13,300
+or a service consumer or it can be both.
+
+166
+00:06:13,300 --> 00:06:16,080
+It all depends on the scenario
+and the service relationships
+
+167
+00:06:16,080 --> 00:06:16,980
+that are involved.
+

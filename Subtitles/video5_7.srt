@@ -1,0 +1,435 @@
+﻿1
+00:00:01,130 --> 00:00:03,070
+- Keep it simple and practical.
+
+2
+00:00:03,070 --> 00:00:05,640
+This is our sixth guiding principle.
+
+3
+00:00:05,640 --> 00:00:08,110
+You may have heard the acronym K I S S,
+
+4
+00:00:08,110 --> 00:00:10,650
+or KISS, Keep it Simple Stupid.
+
+5
+00:00:10,650 --> 00:00:13,210
+Well, that's really what
+we're talking about here.
+
+6
+00:00:13,210 --> 00:00:15,150
+When we're talking
+about keeping it simple,
+
+7
+00:00:15,150 --> 00:00:17,180
+I want you to think with the end in mind.
+
+8
+00:00:17,180 --> 00:00:19,420
+We call this outcome-based thinking.
+
+9
+00:00:19,420 --> 00:00:21,430
+By starting with what the outcome is
+
+10
+00:00:21,430 --> 00:00:23,050
+and then back your way into
+
+11
+00:00:23,050 --> 00:00:25,400
+all the different steps you're
+going to need to achieve,
+
+12
+00:00:25,400 --> 00:00:28,680
+to be able to get from the
+input to the outcome you desire.
+
+13
+00:00:28,680 --> 00:00:30,640
+So we want to use outcome-based thinking
+
+14
+00:00:30,640 --> 00:00:32,340
+to produce practical solutions
+
+15
+00:00:32,340 --> 00:00:34,450
+which are going to
+deliver valuable outcomes
+
+16
+00:00:34,450 --> 00:00:36,970
+while using the minimum number of steps.
+
+17
+00:00:36,970 --> 00:00:38,700
+Now to do this, we have to go back,
+
+18
+00:00:38,700 --> 00:00:40,300
+to our fifth guiding principle though,
+
+19
+00:00:40,300 --> 00:00:42,430
+and think of things with a holistic view
+
+20
+00:00:42,430 --> 00:00:44,370
+of the organization's work in mind.
+
+21
+00:00:44,370 --> 00:00:45,990
+If I don't understand end to end
+
+22
+00:00:45,990 --> 00:00:47,780
+how the organization functions,
+
+23
+00:00:47,780 --> 00:00:50,720
+I can't get a simple and practical process
+
+24
+00:00:50,720 --> 00:00:52,990
+that's going to be
+working for our services.
+
+25
+00:00:52,990 --> 00:00:55,720
+Now when I first start creating
+a process or a service,
+
+26
+00:00:55,720 --> 00:00:58,210
+I want to start with an
+uncomplicated approach.
+
+27
+00:00:58,210 --> 00:01:00,150
+We can always add more to it later.
+
+28
+00:01:00,150 --> 00:01:02,730
+But we want to start out with
+the fewest amount of steps,
+
+29
+00:01:02,730 --> 00:01:05,729
+because that means that's
+less steps that can break,
+
+30
+00:01:05,729 --> 00:01:07,020
+and it's less development
+that we have to put
+
+31
+00:01:07,020 --> 00:01:08,520
+on the left side of it to see
+
+32
+00:01:08,520 --> 00:01:10,460
+if it's actually going to work for us.
+
+33
+00:01:10,460 --> 00:01:12,542
+Now as we go through and
+develop our approach,
+
+34
+00:01:12,542 --> 00:01:16,560
+I want you to build it for the
+most common scenarios first.
+
+35
+00:01:16,560 --> 00:01:18,120
+You don't want to try
+to produce a solution
+
+36
+00:01:18,120 --> 00:01:20,000
+for every single exception.
+
+37
+00:01:20,000 --> 00:01:21,600
+For example, let's say that you're running
+
+38
+00:01:21,600 --> 00:01:23,630
+the service desk at your organization.
+
+39
+00:01:23,630 --> 00:01:26,260
+You are running the entire
+incident-management front end
+
+40
+00:01:26,260 --> 00:01:27,530
+for that company.
+
+41
+00:01:27,530 --> 00:01:28,970
+As people make a phone call in
+
+42
+00:01:28,970 --> 00:01:30,750
+and tell you about their problems,
+
+43
+00:01:30,750 --> 00:01:33,860
+you're going to see if it
+matches one of three categories:
+
+44
+00:01:33,860 --> 00:01:36,660
+The first category might be
+something like a password reset.
+
+45
+00:01:36,660 --> 00:01:39,170
+The second one might be that
+their computer doesn't boot up.
+
+46
+00:01:39,170 --> 00:01:40,850
+And the third one might
+be that their computer
+
+47
+00:01:40,850 --> 00:01:42,630
+doesn't have network access.
+
+48
+00:01:42,630 --> 00:01:45,110
+You might create procedures
+for each of those three
+
+49
+00:01:45,110 --> 00:01:46,880
+most common situations.
+
+50
+00:01:46,880 --> 00:01:50,190
+But, not every call is going
+to be one of those three.
+
+51
+00:01:50,190 --> 00:01:52,520
+You might have some that fall
+into the fourth category,
+
+52
+00:01:52,520 --> 00:01:54,117
+meaning, something else.
+
+53
+00:01:54,117 --> 00:01:56,080
+Well, I don't want you
+to produce a solution
+
+54
+00:01:56,080 --> 00:01:58,150
+to every single something else.
+
+55
+00:01:58,150 --> 00:02:00,260
+Instead, just create this fourth bucket
+
+56
+00:02:01,237 --> 00:02:02,450
+that says, if somebody is
+calling for one of these
+
+57
+00:02:02,450 --> 00:02:05,740
+other things, then it goes
+into the manual process.
+
+58
+00:02:05,740 --> 00:02:07,610
+And that's where we're
+going to have a human
+
+59
+00:02:07,610 --> 00:02:09,630
+take control and do something about it.
+
+60
+00:02:09,630 --> 00:02:12,730
+There's those first three, we
+might end up getting it simple
+
+61
+00:02:12,730 --> 00:02:13,950
+making sure it's practical,
+
+62
+00:02:13,950 --> 00:02:16,060
+and then automating that solution.
+
+63
+00:02:16,060 --> 00:02:16,980
+Now by doing this,
+
+64
+00:02:16,980 --> 00:02:19,250
+we can be mindful of how we're
+going to complete the objectives
+
+65
+00:02:19,250 --> 00:02:20,950
+and the outcomes that we desire.
+
+66
+00:02:20,950 --> 00:02:23,370
+This is the whole benefit
+of keeping it simple.
+
+67
+00:02:23,370 --> 00:02:26,070
+By starting it easy,
+you can get quick wins,
+
+68
+00:02:26,070 --> 00:02:27,530
+you can ensure value,
+
+69
+00:02:27,530 --> 00:02:28,410
+and the simplicity
+
+70
+00:02:28,410 --> 00:02:30,970
+is really the ultimate sophistication.
+
+71
+00:02:30,970 --> 00:02:33,690
+By doing fewer things, you
+can do them really well
+
+72
+00:02:33,690 --> 00:02:34,940
+and really fast.
+
+73
+00:02:34,940 --> 00:02:37,160
+And for that small amount
+of things that doesn't fit
+
+74
+00:02:37,160 --> 00:02:39,170
+into the major three categories,
+
+75
+00:02:39,170 --> 00:02:42,520
+you can then focus your
+team's dedicated time to those
+
+76
+00:02:42,520 --> 00:02:44,650
+by using skilled labor.
+
+77
+00:02:44,650 --> 00:02:47,490
+This is going to respect the
+time of the people involved.
+
+78
+00:02:47,490 --> 00:02:49,750
+For example, going back
+to password resets,
+
+79
+00:02:49,750 --> 00:02:51,570
+when I was running a large service desk
+
+80
+00:02:51,570 --> 00:02:54,530
+for an organization of 10 to 15,000 users,
+
+81
+00:02:54,530 --> 00:02:56,795
+about 90% of our phone calls was because
+
+82
+00:02:56,795 --> 00:02:59,130
+people needed to reset their password.
+
+83
+00:02:59,130 --> 00:03:01,670
+So we created an automated way to do that,
+
+84
+00:03:01,670 --> 00:03:03,430
+and we simplified that process.
+
+85
+00:03:03,430 --> 00:03:04,590
+It was better for them.
+
+86
+00:03:04,590 --> 00:03:05,750
+It gave them more value.
+
+87
+00:03:05,750 --> 00:03:07,380
+It got them back to work quicker.
+
+88
+00:03:07,380 --> 00:03:10,750
+And more importantly, it
+freed up 90% of my labor
+
+89
+00:03:10,750 --> 00:03:12,810
+because they weren't
+taking calls from people
+
+90
+00:03:12,810 --> 00:03:14,330
+trying to reset their password.
+
+91
+00:03:14,330 --> 00:03:16,080
+Instead, I could take those people,
+
+92
+00:03:16,080 --> 00:03:18,140
+and dedicate them to the other problems,
+
+93
+00:03:18,140 --> 00:03:20,910
+the hard problems that
+needed their assistance.
+
+94
+00:03:20,910 --> 00:03:22,770
+So, by keeping it simple,
+
+95
+00:03:22,770 --> 00:03:24,630
+it makes things easier to understand,
+
+96
+00:03:24,630 --> 00:03:26,170
+more likely to be adopted,
+
+97
+00:03:26,170 --> 00:03:27,950
+and it really is the best route
+
+98
+00:03:27,950 --> 00:03:29,420
+to achieving those quick wins
+
+99
+00:03:29,420 --> 00:03:31,720
+and getting people to
+adopt what you're doing.
+

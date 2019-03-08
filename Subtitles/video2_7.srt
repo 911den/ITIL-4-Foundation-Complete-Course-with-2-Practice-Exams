@@ -1,0 +1,1291 @@
+﻿1
+00:00:00,870 --> 00:00:02,270
+- Outcomes.
+
+2
+00:00:02,270 --> 00:00:04,700
+Back when we discussed the
+definition of a service,
+
+3
+00:00:04,700 --> 00:00:06,560
+we said that a service was a means
+
+4
+00:00:06,560 --> 00:00:09,900
+of enabling value co-creation
+by facilitating outcomes
+
+5
+00:00:09,900 --> 00:00:12,790
+that a customer wants to achieve
+without the customer having
+
+6
+00:00:12,790 --> 00:00:15,600
+to manage the specific costs and risks.
+
+7
+00:00:15,600 --> 00:00:18,690
+Now in this lesson, we're
+going to dig into a single word
+
+8
+00:00:18,690 --> 00:00:21,670
+from that definition, the word outcome.
+
+9
+00:00:21,670 --> 00:00:24,270
+An outcome is a result
+for a stakeholder enabled
+
+10
+00:00:24,270 --> 00:00:26,260
+by one or more outputs.
+
+11
+00:00:26,260 --> 00:00:28,970
+This is focused on the
+customer's desired outcome,
+
+12
+00:00:28,970 --> 00:00:30,470
+not the service provider's though,
+
+13
+00:00:30,470 --> 00:00:32,460
+and this is important to understand.
+
+14
+00:00:32,460 --> 00:00:34,780
+Now, outcomes are important
+to consider as part
+
+15
+00:00:34,780 --> 00:00:37,460
+of the balancing act between
+the supported outcomes,
+
+16
+00:00:37,460 --> 00:00:39,980
+the removal of costs,
+and the removal of risks
+
+17
+00:00:39,980 --> 00:00:42,600
+against unwanted or undesirable outcomes,
+
+18
+00:00:42,600 --> 00:00:45,070
+the cost, and the risk
+that could be introduced
+
+19
+00:00:45,070 --> 00:00:47,870
+by the customer if they
+decide to instead set up
+
+20
+00:00:47,870 --> 00:00:49,960
+and manage their own resources.
+
+21
+00:00:49,960 --> 00:00:51,360
+Now, let's consider an example
+
+22
+00:00:51,360 --> 00:00:53,240
+of what we're really discussing here.
+
+23
+00:00:53,240 --> 00:00:56,300
+In my local area, we have two
+major ride-sharing companies
+
+24
+00:00:56,300 --> 00:00:58,850
+that operate, we have
+Uber and we have Lyft.
+
+25
+00:00:58,850 --> 00:01:01,240
+Now, whichever you prefer
+here really doesn't matter,
+
+26
+00:01:01,240 --> 00:01:03,980
+but I tend to take Uber
+more often than Lyft myself.
+
+27
+00:01:03,980 --> 00:01:06,150
+Now, I really like these
+ride-sharing services,
+
+28
+00:01:06,150 --> 00:01:08,750
+especially when I'm traveling
+to a large downtown area
+
+29
+00:01:08,750 --> 00:01:10,890
+for a conference or a
+convention or when I need
+
+30
+00:01:10,890 --> 00:01:14,170
+to get from the airport to my
+house or something like that.
+
+31
+00:01:14,170 --> 00:01:16,910
+Now, as a customer, I
+have a desired outcome.
+
+32
+00:01:16,910 --> 00:01:19,720
+I want to get from point A to
+point B in the least amount
+
+33
+00:01:19,720 --> 00:01:22,020
+of time with a fair amount of cost.
+
+34
+00:01:22,020 --> 00:01:24,850
+For example, the last trip
+I took to San Francisco,
+
+35
+00:01:24,850 --> 00:01:27,730
+I didn't even need to rent a
+car because I simply used Uber
+
+36
+00:01:27,730 --> 00:01:30,040
+and Lyft to get from
+the airport to my hotel
+
+37
+00:01:30,040 --> 00:01:32,870
+and from my hotel to various
+locations around the city
+
+38
+00:01:32,870 --> 00:01:34,900
+that I needed to go to for my work.
+
+39
+00:01:34,900 --> 00:01:37,390
+Now, this allowed me to get
+the outcome that I desired,
+
+40
+00:01:37,390 --> 00:01:39,560
+which was getting from point A to point B
+
+41
+00:01:39,560 --> 00:01:41,940
+in less time and with less hassle.
+
+42
+00:01:41,940 --> 00:01:44,620
+Now, because I used the Uber
+app, I was able to reduce
+
+43
+00:01:44,620 --> 00:01:47,520
+my overall costs because I
+didn't need to have a rental car.
+
+44
+00:01:47,520 --> 00:01:49,840
+I didn't need to spend
+$75 per night to park
+
+45
+00:01:49,840 --> 00:01:52,360
+that rental car at my
+hotel and I didn't need
+
+46
+00:01:52,360 --> 00:01:53,880
+to buy gas for that rental car.
+
+47
+00:01:53,880 --> 00:01:55,940
+I didn't need to purchase
+insurance for the rental car.
+
+48
+00:01:55,940 --> 00:01:57,200
+You're getting the idea here.
+
+49
+00:01:57,200 --> 00:01:59,680
+I was able to remove a lot
+of the costs because as
+
+50
+00:01:59,680 --> 00:02:02,120
+a customer, I simply paid
+for the service every time
+
+51
+00:02:02,120 --> 00:02:04,950
+I needed it and I was able to
+achieve my desired outcome,
+
+52
+00:02:04,950 --> 00:02:07,160
+getting from point A to point B.
+
+53
+00:02:07,160 --> 00:02:09,280
+Now, if we consider the risks involved,
+
+54
+00:02:09,280 --> 00:02:11,640
+I was able to reduce
+some of my risk as well.
+
+55
+00:02:11,640 --> 00:02:14,040
+For example, I tend to
+find it very difficult
+
+56
+00:02:14,040 --> 00:02:16,550
+to park in large cities,
+especially near the areas
+
+57
+00:02:16,550 --> 00:02:18,640
+of town that I need to
+visit for a work trip.
+
+58
+00:02:18,640 --> 00:02:21,260
+So when I used Uber, I
+could eliminate the risk
+
+59
+00:02:21,260 --> 00:02:23,380
+of not finding adequate parking when I got
+
+60
+00:02:23,380 --> 00:02:24,910
+to my desired location.
+
+61
+00:02:24,910 --> 00:02:27,780
+Instead, I just get out
+of the car and I'm there.
+
+62
+00:02:27,780 --> 00:02:29,680
+I also eliminated the
+risk of somebody stealing
+
+63
+00:02:29,680 --> 00:02:31,910
+my rental car while it's
+parked or breaking into it
+
+64
+00:02:31,910 --> 00:02:33,130
+and stealing my luggage.
+
+65
+00:02:33,130 --> 00:02:34,870
+All those type of things are eliminated
+
+66
+00:02:34,870 --> 00:02:36,800
+and it's no longer a risk for me.
+
+67
+00:02:36,800 --> 00:02:38,450
+Now, I think you're starting
+to get the idea here.
+
+68
+00:02:38,450 --> 00:02:40,710
+There's lots of different costs
+and lots of different risks
+
+69
+00:02:40,710 --> 00:02:43,160
+that can be reduced if
+you're using a service
+
+70
+00:02:43,160 --> 00:02:46,110
+and I can gain the benefits
+of the service as a customer
+
+71
+00:02:46,110 --> 00:02:48,370
+by using this ride-sharing
+app instead of renting
+
+72
+00:02:48,370 --> 00:02:51,160
+my own car whenever I
+travel to a big city.
+
+73
+00:02:51,160 --> 00:02:53,450
+Now conversely though, I
+need to balance this with
+
+74
+00:02:53,450 --> 00:02:54,980
+the other side of the equation.
+
+75
+00:02:54,980 --> 00:02:57,150
+There's certain costs and
+risks that I'm assuming
+
+76
+00:02:57,150 --> 00:02:59,230
+by choosing to use Uber or Lyft instead
+
+77
+00:02:59,230 --> 00:03:00,560
+of renting my own car.
+
+78
+00:03:00,560 --> 00:03:04,310
+First, there's cost imposed
+upon me by the service provider.
+
+79
+00:03:04,310 --> 00:03:06,470
+Beyond the actual service
+cost to get from point A
+
+80
+00:03:06,470 --> 00:03:08,910
+to point B, there's also a
+requirement that I maintain
+
+81
+00:03:08,910 --> 00:03:11,370
+a smartphone to run the
+app and I have to ensure
+
+82
+00:03:11,370 --> 00:03:12,990
+that I have a data plan on that smartphone
+
+83
+00:03:12,990 --> 00:03:14,880
+and I have to make sure that my smartphone
+
+84
+00:03:14,880 --> 00:03:16,350
+has enough battery power.
+
+85
+00:03:16,350 --> 00:03:18,400
+All of this are things that have to happen
+
+86
+00:03:18,400 --> 00:03:20,320
+so that I can connect
+the app from my phone
+
+87
+00:03:20,320 --> 00:03:22,970
+to their central server in
+order to order that Uber
+
+88
+00:03:22,970 --> 00:03:25,330
+to my location and have them pick me up.
+
+89
+00:03:25,330 --> 00:03:26,950
+Now, this goes back to our original point
+
+90
+00:03:26,950 --> 00:03:28,440
+about value, right?
+
+91
+00:03:28,440 --> 00:03:31,780
+Value is co-created and a
+service is all about co-creating
+
+92
+00:03:31,780 --> 00:03:34,490
+value by facilitating those
+outcomes that the customer wants
+
+93
+00:03:34,490 --> 00:03:36,760
+to achieve without the
+customer having to manage
+
+94
+00:03:36,760 --> 00:03:39,860
+the specific costs and
+risks of that service.
+
+95
+00:03:39,860 --> 00:03:42,250
+So, as a customer of this
+ride-sharing service,
+
+96
+00:03:42,250 --> 00:03:44,330
+I need to co-create the
+value of the service
+
+97
+00:03:44,330 --> 00:03:46,860
+by having a smartphone
+and an active data plan
+
+98
+00:03:46,860 --> 00:03:48,650
+and enough battery power to run it.
+
+99
+00:03:48,650 --> 00:03:50,570
+Now, Uber on the other
+hand, needs to ensure
+
+100
+00:03:50,570 --> 00:03:52,900
+that all the other technical
+details of the service
+
+101
+00:03:52,900 --> 00:03:54,070
+are taken care of.
+
+102
+00:03:54,070 --> 00:03:56,300
+They're going to provide the
+servers that enable the service,
+
+103
+00:03:56,300 --> 00:03:58,750
+they're going to enable the
+technology and the software coding,
+
+104
+00:03:58,750 --> 00:04:00,380
+all of that other stuff.
+
+105
+00:04:00,380 --> 00:04:02,730
+Now, I mentioned that the
+customer doesn't want to manage
+
+106
+00:04:02,730 --> 00:04:04,690
+the specific costs and risks.
+
+107
+00:04:04,690 --> 00:04:07,070
+What risk might there be
+with using an Uber instead
+
+108
+00:04:07,070 --> 00:04:08,790
+of having your own rental car?
+
+109
+00:04:08,790 --> 00:04:11,280
+Well, I've had an occasion
+or two where I've had to wait
+
+110
+00:04:11,280 --> 00:04:13,800
+for my Uber to arrive because
+there's none in the area,
+
+111
+00:04:13,800 --> 00:04:16,490
+and sometimes this'll
+take me 10 or 15 minutes.
+
+112
+00:04:16,490 --> 00:04:18,450
+Now, if I'm running a
+really tight schedule,
+
+113
+00:04:18,450 --> 00:04:20,430
+there's a risk that I can miss my meeting.
+
+114
+00:04:20,430 --> 00:04:22,110
+There's also a risk
+that a driver just isn't
+
+115
+00:04:22,110 --> 00:04:23,850
+in the area when I need one.
+
+116
+00:04:23,850 --> 00:04:26,170
+And so if you happen to go to
+a city center where there's
+
+117
+00:04:26,170 --> 00:04:28,400
+a lot of Ubers and you
+travel to a location
+
+118
+00:04:28,400 --> 00:04:30,590
+in the suburbs where
+there's not a lot of Ubers,
+
+119
+00:04:30,590 --> 00:04:32,360
+well this can become a
+problem when you're trying
+
+120
+00:04:32,360 --> 00:04:34,180
+to get a ride back to the city.
+
+121
+00:04:34,180 --> 00:04:36,170
+This is a risk that
+you're going to assume.
+
+122
+00:04:36,170 --> 00:04:38,430
+If you had a rental car,
+you wouldn't have this risk,
+
+123
+00:04:38,430 --> 00:04:39,920
+because you could simply jump in the car,
+
+124
+00:04:39,920 --> 00:04:42,000
+turn the key, and start driving.
+
+125
+00:04:42,000 --> 00:04:44,360
+Now as we have these costs
+and risks that the service
+
+126
+00:04:44,360 --> 00:04:47,060
+has now imposed upon
+me, as their customer,
+
+127
+00:04:47,060 --> 00:04:49,500
+I now have to decide whether
+I should ultimately use
+
+128
+00:04:49,500 --> 00:04:52,090
+their service or say
+it's not worth the effort
+
+129
+00:04:52,090 --> 00:04:54,890
+and I'll simply rent a car
+and drive myself around.
+
+130
+00:04:54,890 --> 00:04:57,430
+Now, this is the idea that we're
+all going to be thinking about
+
+131
+00:04:57,430 --> 00:04:58,920
+when we think about a service,
+
+132
+00:04:58,920 --> 00:05:00,540
+whether we're the one using the service
+
+133
+00:05:00,540 --> 00:05:02,400
+or the one providing the service.
+
+134
+00:05:02,400 --> 00:05:05,030
+That decision is going
+to be based on value.
+
+135
+00:05:05,030 --> 00:05:06,550
+All of this comes back to value.
+
+136
+00:05:06,550 --> 00:05:08,500
+If the value's being co-created to achieve
+
+137
+00:05:08,500 --> 00:05:11,100
+the supported outcomes, then
+the removal of the costs
+
+138
+00:05:11,100 --> 00:05:13,260
+and the removal of risk has to be greater
+
+139
+00:05:13,260 --> 00:05:14,910
+than the unintended consequences.
+
+140
+00:05:14,910 --> 00:05:17,640
+And if that's true, the
+introduction of these new costs
+
+141
+00:05:17,640 --> 00:05:20,140
+or the introduction of new
+risks has to be balanced
+
+142
+00:05:20,140 --> 00:05:23,050
+and shifted in the favor of
+the consumer if you want them
+
+143
+00:05:23,050 --> 00:05:25,130
+to buy the service from
+the service provider.
+
+144
+00:05:25,130 --> 00:05:27,550
+In this case, ordering
+an Uber or a Lyft instead
+
+145
+00:05:27,550 --> 00:05:28,770
+of renting a car.
+
+146
+00:05:28,770 --> 00:05:31,910
+It's all just about
+balancing this value, right?
+
+147
+00:05:31,910 --> 00:05:33,140
+If we're the service provider,
+
+148
+00:05:33,140 --> 00:05:36,290
+or a service provider organization
+like Uber in this case,
+
+149
+00:05:36,290 --> 00:05:38,470
+we need to make sure that
+we're giving more value
+
+150
+00:05:38,470 --> 00:05:41,550
+and removing more costs and
+risks than we're introducing,
+
+151
+00:05:41,550 --> 00:05:43,880
+and this way, the customer
+will want to use it.
+
+152
+00:05:43,880 --> 00:05:45,540
+Now, in order for the
+customer to see the value
+
+153
+00:05:45,540 --> 00:05:47,750
+that we're generating,
+this has to be true.
+
+154
+00:05:47,750 --> 00:05:50,660
+It has to tip the scales
+towards the customer side.
+
+155
+00:05:50,660 --> 00:05:52,450
+Now, as the service provider,
+we want to make sure
+
+156
+00:05:52,450 --> 00:05:54,210
+we're getting value in this, too.
+
+157
+00:05:54,210 --> 00:05:56,030
+If we're the customer,
+we need to make sure
+
+158
+00:05:56,030 --> 00:05:57,620
+that we're not creating additional costs
+
+159
+00:05:57,620 --> 00:05:59,800
+or risks for ourselves
+that outweigh the benefits
+
+160
+00:05:59,800 --> 00:06:01,660
+of the service that
+we're going to consume.
+
+161
+00:06:01,660 --> 00:06:04,440
+So, if I'm going to go ahead
+and outsource my servers,
+
+162
+00:06:04,440 --> 00:06:06,690
+I want to make sure that it's
+cheaper for me to do that
+
+163
+00:06:06,690 --> 00:06:08,850
+and provides me more
+value for me to do that
+
+164
+00:06:08,850 --> 00:06:11,420
+than just to simply
+run the servers myself.
+
+165
+00:06:11,420 --> 00:06:13,590
+Now, each personal
+organization is going to weigh
+
+166
+00:06:13,590 --> 00:06:15,870
+the value proposition and
+they're going to determine
+
+167
+00:06:15,870 --> 00:06:17,620
+if it makes sense for them.
+
+168
+00:06:17,620 --> 00:06:20,140
+If it does, were going to have
+a valid business agreement
+
+169
+00:06:20,140 --> 00:06:22,120
+and we're going to be able
+to go into business together.
+
+170
+00:06:22,120 --> 00:06:24,220
+You're going to provide me a
+service and I'm going to pay you
+
+171
+00:06:24,220 --> 00:06:26,590
+to do that as the
+consumer or the customer.
+
+172
+00:06:26,590 --> 00:06:28,840
+So, going back to my
+example of Uber or Lyft,
+
+173
+00:06:28,840 --> 00:06:30,730
+I find it works great
+for me when I'm traveling
+
+174
+00:06:30,730 --> 00:06:32,840
+in a big city where
+the parking prices tend
+
+175
+00:06:32,840 --> 00:06:35,440
+to be very high, the
+traffic tends to be heavy,
+
+176
+00:06:35,440 --> 00:06:38,380
+and the number of drivers
+around is quite abundant
+
+177
+00:06:38,380 --> 00:06:40,440
+so it's easy for me to
+get a Lyft or an Uber
+
+178
+00:06:40,440 --> 00:06:41,570
+when I need one.
+
+179
+00:06:41,570 --> 00:06:43,870
+But when I travel to
+more remote locations,
+
+180
+00:06:43,870 --> 00:06:46,320
+I prefer to have my own
+rental car because it solves
+
+181
+00:06:46,320 --> 00:06:48,360
+the problem for me much
+more efficiently because
+
+182
+00:06:48,360 --> 00:06:50,810
+there's less risk of me not
+finding a parking space,
+
+183
+00:06:50,810 --> 00:06:52,990
+because parking is low-cost in those areas
+
+184
+00:06:52,990 --> 00:06:55,300
+and traffic is less of an
+issue because I'm outside
+
+185
+00:06:55,300 --> 00:06:56,420
+the city center.
+
+186
+00:06:56,420 --> 00:06:58,690
+This is the whole idea
+of balancing those pros
+
+187
+00:06:58,690 --> 00:07:00,440
+and those cons so we can make the idea
+
+188
+00:07:00,440 --> 00:07:02,930
+and figure out what
+gives us the most value.
+
+189
+00:07:02,930 --> 00:07:05,690
+So, we've talked a lot
+about outcomes so far in all
+
+190
+00:07:05,690 --> 00:07:08,710
+of these examples, but there's
+also a similar concept known
+
+191
+00:07:08,710 --> 00:07:10,900
+as output that it's
+important to understand
+
+192
+00:07:10,900 --> 00:07:12,420
+when you take the exam.
+
+193
+00:07:12,420 --> 00:07:15,550
+An output is a tangible
+or intangible deliverable
+
+194
+00:07:15,550 --> 00:07:18,300
+or an artifact that's
+created by an activity.
+
+195
+00:07:18,300 --> 00:07:20,110
+Now, for the exam you have to understand
+
+196
+00:07:20,110 --> 00:07:23,100
+the difference between
+an output and an outcome.
+
+197
+00:07:23,100 --> 00:07:27,270
+Services facilitate outcomes
+through one or more outputs.
+
+198
+00:07:27,270 --> 00:07:28,800
+So, what does that mean?
+
+199
+00:07:28,800 --> 00:07:30,840
+Well, an output could be a report,
+
+200
+00:07:30,840 --> 00:07:32,480
+it could be a bill that
+you receive at the end
+
+201
+00:07:32,480 --> 00:07:33,990
+of the service that you've consumed,
+
+202
+00:07:33,990 --> 00:07:36,010
+or it can even be an email if you're using
+
+203
+00:07:36,010 --> 00:07:37,340
+a webmail service.
+
+204
+00:07:37,340 --> 00:07:39,080
+All of these things
+are considered outputs.
+
+205
+00:07:39,080 --> 00:07:41,170
+They're that tangible item that comes out
+
+206
+00:07:41,170 --> 00:07:42,690
+of using that service.
+
+207
+00:07:42,690 --> 00:07:43,950
+Now, I like to think about this in
+
+208
+00:07:43,950 --> 00:07:45,460
+a more tangible way, though.
+
+209
+00:07:45,460 --> 00:07:46,880
+Consider this course.
+
+210
+00:07:46,880 --> 00:07:49,500
+When I'm writing and filming
+this lesson, the output is
+
+211
+00:07:49,500 --> 00:07:51,710
+the final video that
+you're watching right now,
+
+212
+00:07:51,710 --> 00:07:55,550
+but this isn't the outcome,
+it's just the output.
+
+213
+00:07:55,550 --> 00:07:58,800
+So if the video isn't
+the outcome, what is?
+
+214
+00:07:58,800 --> 00:08:00,910
+Well, it's the desired
+value that you're trying
+
+215
+00:08:00,910 --> 00:08:02,720
+to achieve from this video.
+
+216
+00:08:02,720 --> 00:08:05,260
+In the case of this video and
+the others in this course,
+
+217
+00:08:05,260 --> 00:08:07,170
+the outcome for a student
+like you is to be able
+
+218
+00:08:07,170 --> 00:08:09,660
+to pass your ITIL 4 Foundation exam.
+
+219
+00:08:09,660 --> 00:08:11,950
+If you're able to do that
+after watching these videos,
+
+220
+00:08:11,950 --> 00:08:13,500
+then you've achieved the
+outcome that both you
+
+221
+00:08:13,500 --> 00:08:14,980
+and I have desired.
+
+222
+00:08:14,980 --> 00:08:17,540
+This is an important concept
+and one that people often
+
+223
+00:08:17,540 --> 00:08:20,330
+confuse because the
+output is easily measured,
+
+224
+00:08:20,330 --> 00:08:22,320
+but often the outcomes are not.
+
+225
+00:08:22,320 --> 00:08:24,380
+It's easy for me to create
+an outline and list all
+
+226
+00:08:24,380 --> 00:08:26,630
+of the videos that we're going
+to produce for this course.
+
+227
+00:08:26,630 --> 00:08:28,870
+We can say, for example, there's
+going to be 100 videos in
+
+228
+00:08:28,870 --> 00:08:31,303
+this course and if I've already
+filmed 12 of those videos,
+
+229
+00:08:31,303 --> 00:08:34,270
+then I'm 12% complete
+with creating this course,
+
+230
+00:08:34,270 --> 00:08:37,010
+and so I have outputted
+12% of the product.
+
+231
+00:08:37,010 --> 00:08:39,100
+Now, this is measuring
+outputs though, right?
+
+232
+00:08:39,100 --> 00:08:40,980
+It's not measuring outcomes.
+
+233
+00:08:40,980 --> 00:08:42,850
+Do we know that 100
+videos is the right number
+
+234
+00:08:42,850 --> 00:08:44,060
+to help you as a student?
+
+235
+00:08:44,060 --> 00:08:47,280
+Get from the beginning to
+the end and pass the exam?
+
+236
+00:08:47,280 --> 00:08:49,030
+Well, if the outcome we want to achieve
+
+237
+00:08:49,030 --> 00:08:51,660
+is a student passing, then
+100 videos might not be
+
+238
+00:08:51,660 --> 00:08:52,730
+the right measure.
+
+239
+00:08:52,730 --> 00:08:56,500
+Maybe it only takes 25 videos
+or maybe it takes 200 videos.
+
+240
+00:08:56,500 --> 00:08:58,860
+We'll have to figure that out
+and measure that as we go.
+
+241
+00:08:58,860 --> 00:09:00,770
+And as we figure out
+what things are working,
+
+242
+00:09:00,770 --> 00:09:03,210
+what things aren't, we add
+or we remove to the course
+
+243
+00:09:03,210 --> 00:09:05,030
+to make sure that our students
+are always going to be able
+
+244
+00:09:05,030 --> 00:09:06,520
+to pass the exam.
+
+245
+00:09:06,520 --> 00:09:09,710
+Now, output is part of an
+outcome, but there's more to it
+
+246
+00:09:09,710 --> 00:09:10,990
+than just outputs.
+
+247
+00:09:10,990 --> 00:09:13,550
+So, when you think of outcomes,
+I want you to remember
+
+248
+00:09:13,550 --> 00:09:14,880
+that it's what you're able to achieve
+
+249
+00:09:14,880 --> 00:09:16,730
+as a result of the activity.
+
+250
+00:09:16,730 --> 00:09:18,490
+As a result of this interaction.
+
+251
+00:09:18,490 --> 00:09:21,110
+Not just the outputs
+that are being created.
+
+252
+00:09:21,110 --> 00:09:23,210
+Going back to my Uber and Lyft example,
+
+253
+00:09:23,210 --> 00:09:25,030
+the outcome is me getting across town
+
+254
+00:09:25,030 --> 00:09:27,720
+and to my meeting on time
+because of the service provided
+
+255
+00:09:27,720 --> 00:09:29,050
+by those companies.
+
+256
+00:09:29,050 --> 00:09:31,050
+The outcomes of taking
+this course isn't to say
+
+257
+00:09:31,050 --> 00:09:33,790
+that you sat here and watched
+100 videos for X number
+
+258
+00:09:33,790 --> 00:09:36,000
+of hours or whatever it happens to be.
+
+259
+00:09:36,000 --> 00:09:39,050
+But instead, it's focused
+on you passing the exam.
+
+260
+00:09:39,050 --> 00:09:41,900
+That's the outcome that both
+you and I want to achieve here.
+
+261
+00:09:41,900 --> 00:09:45,160
+Now, because of this, outcomes
+can be a bit more intangible,
+
+262
+00:09:45,160 --> 00:09:47,410
+where outputs tend to
+be much more tangible.
+
+263
+00:09:47,410 --> 00:09:49,850
+They're things you can
+touch and feel like papers
+
+264
+00:09:49,850 --> 00:09:51,490
+and reports and things like that.
+
+265
+00:09:51,490 --> 00:09:54,033
+It also means that outputs
+are easier to measure because
+
+266
+00:09:54,033 --> 00:09:56,410
+they're the results of an activity.
+
+267
+00:09:56,410 --> 00:09:58,290
+So, when building your service metrics,
+
+268
+00:09:58,290 --> 00:10:00,970
+be careful not to measure
+just outputs, but instead,
+
+269
+00:10:00,970 --> 00:10:03,040
+you need to put some thought
+behind how you're going to measure
+
+270
+00:10:03,040 --> 00:10:05,550
+your outcomes as well, because otherwise,
+
+271
+00:10:05,550 --> 00:10:06,970
+you're going to have
+people working for you
+
+272
+00:10:06,970 --> 00:10:08,370
+that game the system.
+
+273
+00:10:08,370 --> 00:10:10,240
+They're going to be
+pushing different things
+
+274
+00:10:10,240 --> 00:10:12,830
+to make it look like all
+those outputs are really high,
+
+275
+00:10:12,830 --> 00:10:15,160
+but you're never going to
+achieve the outcomes you want.
+
+276
+00:10:15,160 --> 00:10:17,500
+So really think about that as
+you're building those metrics
+
+277
+00:10:17,500 --> 00:10:21,063
+and be sure to measure your
+outcomes, not just your outputs.
+

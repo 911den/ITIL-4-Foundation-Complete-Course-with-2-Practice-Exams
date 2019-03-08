@@ -1,0 +1,127 @@
+﻿1
+00:00:00,340 --> 00:00:02,790
+- Service Validation and Testing.
+
+2
+00:00:02,790 --> 00:00:05,390
+This is our final
+practice in this section.
+
+3
+00:00:05,390 --> 00:00:08,000
+Now again, this is not one
+you need to know for the exam
+
+4
+00:00:08,000 --> 00:00:10,000
+but just for your general awareness.
+
+5
+00:00:10,000 --> 00:00:12,960
+Service validation and testing
+is the practice of ensuring
+
+6
+00:00:12,960 --> 00:00:14,320
+that new or changed products
+
+7
+00:00:14,320 --> 00:00:17,060
+and services meet the
+defined requirements.
+
+8
+00:00:17,060 --> 00:00:18,470
+Now, what does that mean?
+
+9
+00:00:18,470 --> 00:00:20,800
+Well, let's say I was going
+to build a new website.
+
+10
+00:00:20,800 --> 00:00:23,000
+Before I put it out
+there for public release,
+
+11
+00:00:23,000 --> 00:00:24,070
+I would want to make sure we went
+
+12
+00:00:24,070 --> 00:00:25,970
+through some sort of service validation
+
+13
+00:00:25,970 --> 00:00:28,190
+to make sure everything's
+working properly,
+
+14
+00:00:28,190 --> 00:00:30,100
+and we'd go through some beta testing
+
+15
+00:00:30,100 --> 00:00:31,700
+to ensure we tested it in-house,
+
+16
+00:00:31,700 --> 00:00:33,420
+we brought in some external testers,
+
+17
+00:00:33,420 --> 00:00:36,150
+and it was doing everything
+the way that we need it to.
+
+18
+00:00:36,150 --> 00:00:38,610
+That's the idea in service
+validation and testing.
+
+19
+00:00:38,610 --> 00:00:41,151
+Before you go and transition
+this into the live environment,
+
+20
+00:00:41,151 --> 00:00:44,070
+you want to make sure everything
+is operating properly,
+
+21
+00:00:44,070 --> 00:00:46,520
+and then, once you've transferred over
+
+22
+00:00:46,520 --> 00:00:48,757
+to the live environment,
+you go back and validate it
+
+23
+00:00:48,757 --> 00:00:52,190
+to make sure it's still operating
+the way you designed it.
+
+24
+00:00:52,190 --> 00:00:53,320
+That's all service validation
+
+25
+00:00:53,320 --> 00:00:54,830
+and testing really comes down to.
+
+26
+00:00:54,830 --> 00:00:56,510
+It's making sure you're testing things
+
+27
+00:00:56,510 --> 00:00:59,380
+before you release them
+and after you release them
+
+28
+00:00:59,380 --> 00:01:02,230
+to make sure they're operating
+the way you designed them.
+

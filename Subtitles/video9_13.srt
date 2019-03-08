@@ -1,0 +1,103 @@
+﻿1
+00:00:00,790 --> 00:00:04,030
+- Business analysis, this practice is one
+
+2
+00:00:04,030 --> 00:00:05,900
+that you don't need to know for the exam,
+
+3
+00:00:05,900 --> 00:00:08,550
+but we're covering it for
+your general awareness.
+
+4
+00:00:08,550 --> 00:00:10,260
+Business analysis is the practice
+
+5
+00:00:10,260 --> 00:00:13,270
+of analyzing a business or
+some element of that business
+
+6
+00:00:13,270 --> 00:00:15,770
+to define its needs,
+and recommend solutions
+
+7
+00:00:15,770 --> 00:00:18,960
+to address those needs, or
+to solve a business problem.
+
+8
+00:00:18,960 --> 00:00:21,940
+This will help you create
+value for your stakeholders.
+
+9
+00:00:21,940 --> 00:00:24,040
+So when I think about business analysis,
+
+10
+00:00:24,040 --> 00:00:26,620
+you're thinking about this
+outside of the IT realm.
+
+11
+00:00:26,620 --> 00:00:29,200
+Normally you're thinking
+about dollars and cents.
+
+12
+00:00:29,200 --> 00:00:31,640
+How can I solve some
+sort of business problem?
+
+13
+00:00:31,640 --> 00:00:33,820
+And that might be with a
+technological solution,
+
+14
+00:00:33,820 --> 00:00:36,580
+but it might be with an
+organizational solution,
+
+15
+00:00:36,580 --> 00:00:38,610
+or it might be with a new marketing plan,
+
+16
+00:00:38,610 --> 00:00:40,310
+or whatever it happens to be.
+
+17
+00:00:40,310 --> 00:00:42,190
+The business analysis, the reason it's put
+
+18
+00:00:42,190 --> 00:00:44,800
+under this technical
+heading inside this category
+
+19
+00:00:44,800 --> 00:00:47,870
+is because it often relies
+heavily on lots of facts
+
+20
+00:00:47,870 --> 00:00:50,650
+and lots of figures, and
+they use a lot of technology
+
+21
+00:00:50,650 --> 00:00:53,860
+to do the analysis, but
+the actual analysis itself
+
+22
+00:00:53,860 --> 00:00:56,810
+is more of a management function
+than a technical function.
+

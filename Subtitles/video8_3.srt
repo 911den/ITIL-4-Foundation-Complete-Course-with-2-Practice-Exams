@@ -1,0 +1,993 @@
+﻿1
+00:00:01,130 --> 00:00:03,030
+- Continual improvement.
+
+2
+00:00:03,030 --> 00:00:04,920
+Our first general management practice
+
+3
+00:00:04,920 --> 00:00:06,460
+is continual improvement.
+
+4
+00:00:06,460 --> 00:00:08,950
+And for the exam, this is
+the one you need to know
+
+5
+00:00:08,950 --> 00:00:11,080
+in depth from this section.
+
+6
+00:00:11,080 --> 00:00:12,340
+For this one, you need to be able
+
+7
+00:00:12,340 --> 00:00:14,240
+to explain continual improvement,
+
+8
+00:00:14,240 --> 00:00:16,770
+what its purpose is, and how it applies
+
+9
+00:00:16,770 --> 00:00:18,520
+throughout the value chain.
+
+10
+00:00:18,520 --> 00:00:20,440
+So when we talk about
+continual improvement,
+
+11
+00:00:20,440 --> 00:00:22,360
+what exactly is its purpose?
+
+12
+00:00:22,360 --> 00:00:25,180
+Well, the purpose of the
+continual improvement practice is
+
+13
+00:00:25,180 --> 00:00:27,810
+to align the organization's
+practices and services
+
+14
+00:00:27,810 --> 00:00:29,270
+with changing business needs
+
+15
+00:00:29,270 --> 00:00:31,440
+through the ongoing
+identification and improvement
+
+16
+00:00:31,440 --> 00:00:34,450
+of services, service
+components, practices,
+
+17
+00:00:34,450 --> 00:00:36,050
+or any other element involved
+
+18
+00:00:36,050 --> 00:00:38,350
+in the efficient and effective
+management of products
+
+19
+00:00:38,350 --> 00:00:42,300
+and services; basically, how
+do we make things work better.
+
+20
+00:00:42,300 --> 00:00:44,660
+That's what continual
+improvement is all about.
+
+21
+00:00:44,660 --> 00:00:46,410
+Now when we think about
+continual improvement,
+
+22
+00:00:46,410 --> 00:00:49,160
+there's a couple of key
+things that it focuses on.
+
+23
+00:00:49,160 --> 00:00:51,570
+First, we wanta encourage
+continual improvement
+
+24
+00:00:51,570 --> 00:00:53,320
+across the organization.
+
+25
+00:00:53,320 --> 00:00:56,260
+We always wanta be aiming
+for something bigger, better,
+
+26
+00:00:56,260 --> 00:00:59,170
+faster, cheaper, or more efficient.
+
+27
+00:00:59,170 --> 00:01:01,580
+The second key function of
+continual improvement is
+
+28
+00:01:01,580 --> 00:01:04,460
+to secure time and budget
+for continual improvement.
+
+29
+00:01:04,460 --> 00:01:07,080
+It's really easy in an
+organization to keep working
+
+30
+00:01:07,080 --> 00:01:09,000
+on the same things day in and day out
+
+31
+00:01:09,000 --> 00:01:11,150
+and not think about how to improve.
+
+32
+00:01:11,150 --> 00:01:13,350
+You wanta make sure you're
+securing that time and budget
+
+33
+00:01:13,350 --> 00:01:16,390
+so we can continue to work
+on improving our processes.
+
+34
+00:01:16,390 --> 00:01:18,310
+Next, we wanta think about identifying
+
+35
+00:01:18,310 --> 00:01:20,540
+and logging improvement opportunities.
+
+36
+00:01:20,540 --> 00:01:24,037
+Anytime you're working on
+something, you might have an idea
+
+37
+00:01:24,037 --> 00:01:26,590
+and say, "You know, this would
+be better if we did x thing."
+
+38
+00:01:26,590 --> 00:01:29,470
+At that point we wanta log
+that down, identify it,
+
+39
+00:01:29,470 --> 00:01:31,840
+and that way, eventually, we
+might be able to get back to it
+
+40
+00:01:31,840 --> 00:01:33,900
+and cause that improvement to happen.
+
+41
+00:01:33,900 --> 00:01:35,970
+Another thing we wanta
+think about is how we assess
+
+42
+00:01:35,970 --> 00:01:38,270
+and prioritize our
+improvement opportunities.
+
+43
+00:01:38,270 --> 00:01:40,190
+You may have a hundred great ideas,
+
+44
+00:01:40,190 --> 00:01:42,340
+but which one should we work on first?
+
+45
+00:01:42,340 --> 00:01:44,370
+That's part of continual improvement.
+
+46
+00:01:44,370 --> 00:01:45,650
+We also wanta think
+about how we're going to
+
+47
+00:01:45,650 --> 00:01:48,020
+make a business case for
+those improvement actions.
+
+48
+00:01:48,020 --> 00:01:49,550
+At some point, you need to get budget
+
+49
+00:01:49,550 --> 00:01:50,700
+for your improvement, right?
+
+50
+00:01:50,700 --> 00:01:52,700
+So you're going to haveta think
+about how we're going to be able
+
+51
+00:01:52,700 --> 00:01:54,560
+to do that and make the case for it up
+
+52
+00:01:54,560 --> 00:01:57,090
+to your senior leadership
+or your senior management.
+
+53
+00:01:57,090 --> 00:01:59,117
+Maybe you're going to say
+something like, "Hey, boss,
+
+54
+00:01:59,117 --> 00:02:00,987
+"I think we should do
+this improvement action.
+
+55
+00:02:00,987 --> 00:02:03,667
+"It's going to take us 20
+hours right now to build it,
+
+56
+00:02:03,667 --> 00:02:05,757
+"but it's going to save
+us 10 hours a week.
+
+57
+00:02:05,757 --> 00:02:08,307
+"So in just two weeks, we're
+going to make up that time.
+
+58
+00:02:08,307 --> 00:02:09,780
+"It's a great idea."
+
+59
+00:02:09,780 --> 00:02:12,440
+That would be an example of
+making your business case.
+
+60
+00:02:12,440 --> 00:02:14,360
+Next, we wanta think about
+how we're going to plan
+
+61
+00:02:14,360 --> 00:02:16,490
+and implement those improvements;
+and we wanta figure out
+
+62
+00:02:16,490 --> 00:02:18,600
+how we're going to measure
+and evaluate the improvements
+
+63
+00:02:18,600 --> 00:02:20,550
+and the results of those improvements.
+
+64
+00:02:20,550 --> 00:02:22,490
+Again, we've talked a lot
+about this when we talked
+
+65
+00:02:22,490 --> 00:02:24,240
+about the continual improvement model
+
+66
+00:02:24,240 --> 00:02:26,010
+in the last section of the course.
+
+67
+00:02:26,010 --> 00:02:27,740
+This is just the formal practice
+
+68
+00:02:27,740 --> 00:02:29,540
+that is going to work that model.
+
+69
+00:02:29,540 --> 00:02:31,280
+And we also wanta make
+sure we're coordinating
+
+70
+00:02:31,280 --> 00:02:33,830
+our improvement activities
+across the organization.
+
+71
+00:02:33,830 --> 00:02:36,810
+Remember, we wanta think
+holistically and act widely
+
+72
+00:02:36,810 --> 00:02:39,420
+across the organization
+for the best improvements.
+
+73
+00:02:39,420 --> 00:02:41,300
+Now when we're working
+with continual improvement,
+
+74
+00:02:41,300 --> 00:02:42,830
+there's a lot of different tools
+
+75
+00:02:42,830 --> 00:02:44,650
+that we can put into our toolbox.
+
+76
+00:02:44,650 --> 00:02:47,530
+These are things like methods,
+and models, and techniques.
+
+77
+00:02:47,530 --> 00:02:49,490
+This is things like lean
+methods where we're trying
+
+78
+00:02:49,490 --> 00:02:52,090
+to reduce waste, multiphase
+projects where we're trying
+
+79
+00:02:52,090 --> 00:02:53,630
+to organize the way
+we're going to do things
+
+80
+00:02:53,630 --> 00:02:55,350
+and get incremental improvements.
+
+81
+00:02:55,350 --> 00:02:57,310
+We might do maturity
+assessments to figure out
+
+82
+00:02:57,310 --> 00:02:58,960
+how mature our organization is,
+
+83
+00:02:58,960 --> 00:03:01,290
+and are we operating at peak efficiency.
+
+84
+00:03:01,290 --> 00:03:02,950
+We might be using development ops
+
+85
+00:03:02,950 --> 00:03:05,160
+so that we can develop
+things quicker and faster
+
+86
+00:03:05,160 --> 00:03:06,670
+and get them into market.
+
+87
+00:03:06,670 --> 00:03:08,710
+We might use something
+like a balance score card
+
+88
+00:03:08,710 --> 00:03:09,890
+where we look at the improvement,
+
+89
+00:03:09,890 --> 00:03:10,980
+and we look at it through the lens
+
+90
+00:03:10,980 --> 00:03:13,810
+of those four different
+dimensions of service management.
+
+91
+00:03:13,810 --> 00:03:16,310
+We also might be using agile
+improvements and techniques.
+
+92
+00:03:16,310 --> 00:03:18,180
+We might be trying to get some quick wins.
+
+93
+00:03:18,180 --> 00:03:20,300
+Or we might even do a SWOT analysis.
+
+94
+00:03:20,300 --> 00:03:21,990
+And a SWOT analysis is something
+
+95
+00:03:21,990 --> 00:03:23,360
+that they teach in business school.
+
+96
+00:03:23,360 --> 00:03:25,950
+It's where you list out the
+strengths, the weaknesses,
+
+97
+00:03:25,950 --> 00:03:28,470
+the opportunities, and the
+threats; and then you figure out
+
+98
+00:03:28,470 --> 00:03:30,960
+how that applies to your given initiative.
+
+99
+00:03:30,960 --> 00:03:32,900
+Now all of this is great.
+
+100
+00:03:32,900 --> 00:03:34,880
+And there's one more technique or tool
+
+101
+00:03:34,880 --> 00:03:36,000
+that you should be using,
+
+102
+00:03:36,000 --> 00:03:38,730
+and it's called a Continual
+Improvement Register.
+
+103
+00:03:38,730 --> 00:03:42,330
+Now a Continual Improvement
+Register or CIR is a database
+
+104
+00:03:42,330 --> 00:03:44,180
+or a structured document that we use
+
+105
+00:03:44,180 --> 00:03:46,620
+to track and manage all
+of the improvement ideas
+
+106
+00:03:46,620 --> 00:03:49,110
+from the identification
+through final action.
+
+107
+00:03:49,110 --> 00:03:51,240
+So, as I said before,
+you might sitting there;
+
+108
+00:03:51,240 --> 00:03:53,040
+and you come up with a great idea.
+
+109
+00:03:53,040 --> 00:03:54,370
+Well, if you just think about it
+
+110
+00:03:54,370 --> 00:03:56,900
+and nothing gets done, we're
+never going to improve.
+
+111
+00:03:56,900 --> 00:03:59,920
+So instead, you should submit
+that idea into the CIR,
+
+112
+00:03:59,920 --> 00:04:01,850
+the Continual Improvement Register.
+
+113
+00:04:01,850 --> 00:04:03,600
+From there, we'll log it in there.
+
+114
+00:04:03,600 --> 00:04:05,010
+And, eventually, we're going to figure out
+
+115
+00:04:05,010 --> 00:04:07,490
+whether or not we're going to
+work on that improvement idea;
+
+116
+00:04:07,490 --> 00:04:10,920
+and if that improvement has a
+low, medium, or high impact,
+
+117
+00:04:10,920 --> 00:04:12,260
+and what the resolution is.
+
+118
+00:04:12,260 --> 00:04:14,830
+Did we decide to do it or
+did we not decide to do it?
+
+119
+00:04:14,830 --> 00:04:16,070
+And if we decide to do it,
+
+120
+00:04:16,070 --> 00:04:17,440
+when are we going to decide to do it?
+
+121
+00:04:17,440 --> 00:04:18,980
+And how are we going to plan for it?
+
+122
+00:04:18,980 --> 00:04:20,370
+So that's the whole idea.
+
+123
+00:04:20,370 --> 00:04:22,070
+Here's an example of a CIR.
+
+124
+00:04:22,070 --> 00:04:24,170
+Here you can see that there
+are three different things
+
+125
+00:04:24,170 --> 00:04:25,620
+that are listed and the impact
+
+126
+00:04:25,620 --> 00:04:28,140
+for each one: medium, medium, and high.
+
+127
+00:04:28,140 --> 00:04:30,310
+And then the last column
+there would be where we said
+
+128
+00:04:30,310 --> 00:04:31,450
+what we're going to do with it.
+
+129
+00:04:31,450 --> 00:04:32,950
+Yes, we're going to do this initiative,
+
+130
+00:04:32,950 --> 00:04:35,850
+and we're going to start it
+in quarter one of next year.
+
+131
+00:04:35,850 --> 00:04:36,960
+Whatever that plan is,
+
+132
+00:04:36,960 --> 00:04:39,050
+we wanta make sure we're capturing it.
+
+133
+00:04:39,050 --> 00:04:41,360
+The last thing I wanta talk
+about in continual improvement
+
+134
+00:04:41,360 --> 00:04:43,250
+is how it's operated when you talk
+
+135
+00:04:43,250 --> 00:04:46,330
+about continual improvement
+with the relationships involved.
+
+136
+00:04:46,330 --> 00:04:48,290
+We like to put this in as a pyramid.
+
+137
+00:04:48,290 --> 00:04:49,940
+So if we start at the
+bottom, and we start thinking
+
+138
+00:04:49,940 --> 00:04:52,760
+about our partners and
+suppliers, how can we improve
+
+139
+00:04:52,760 --> 00:04:54,960
+our relationships with
+partners and suppliers?
+
+140
+00:04:54,960 --> 00:04:56,940
+Well, we can do that by
+going through and looking
+
+141
+00:04:56,940 --> 00:04:59,330
+at our contracts, including
+how we're going to measure,
+
+142
+00:04:59,330 --> 00:05:01,890
+report, and improve those processes.
+
+143
+00:05:01,890 --> 00:05:04,100
+Then we look inside our
+entire organization,
+
+144
+00:05:04,100 --> 00:05:06,210
+which is the next large
+audience that we have.
+
+145
+00:05:06,210 --> 00:05:08,630
+And from there, we wanta try
+to get active participation
+
+146
+00:05:08,630 --> 00:05:10,220
+and continual improvement initiatives
+
+147
+00:05:10,220 --> 00:05:12,430
+as a core part of everyone's job.
+
+148
+00:05:12,430 --> 00:05:14,470
+When it comes down to
+it, continual improvement
+
+149
+00:05:14,470 --> 00:05:16,840
+isn't the job of the
+continual improvement manager.
+
+150
+00:05:16,840 --> 00:05:19,710
+It's the job of everyone
+in the organization.
+
+151
+00:05:19,710 --> 00:05:22,380
+And then we have the
+continual improvement team led
+
+152
+00:05:22,380 --> 00:05:24,190
+by the continual improvement manager.
+
+153
+00:05:24,190 --> 00:05:26,660
+Their job is to lead
+the efforts and advocate
+
+154
+00:05:26,660 --> 00:05:29,490
+for the practice across
+the entire organization.
+
+155
+00:05:29,490 --> 00:05:31,150
+They're the ones trying
+to get everyone else
+
+156
+00:05:31,150 --> 00:05:33,070
+in the organization to join in the fight
+
+157
+00:05:33,070 --> 00:05:34,540
+and help us improve.
+
+158
+00:05:34,540 --> 00:05:36,570
+And then all the way at
+the top of the pyramid,
+
+159
+00:05:36,570 --> 00:05:38,530
+we have those few leaders at the top.
+
+160
+00:05:38,530 --> 00:05:40,230
+And those are going to be
+the ones who going to try
+
+161
+00:05:40,230 --> 00:05:42,470
+to embed continual
+improvement into the way
+
+162
+00:05:42,470 --> 00:05:46,390
+that people think and work by
+providing that proper vision.
+
+163
+00:05:46,390 --> 00:05:47,960
+And so this really does hark back to
+
+164
+00:05:47,960 --> 00:05:50,150
+that continual improvement
+model we talked about.
+
+165
+00:05:50,150 --> 00:05:52,440
+If we look at this pyramid
+and we do it from the top
+
+166
+00:05:52,440 --> 00:05:54,950
+to the bottom instead, we
+start seeing the leaders
+
+167
+00:05:54,950 --> 00:05:57,250
+who come up with the vision,
+which is the beginning
+
+168
+00:05:57,250 --> 00:05:58,910
+of our continual improvement model.
+
+169
+00:05:58,910 --> 00:06:00,940
+Then we have our continual
+improvement team,
+
+170
+00:06:00,940 --> 00:06:02,440
+and that team is the ones who are going
+
+171
+00:06:02,440 --> 00:06:03,800
+to be doing the baseline assessments
+
+172
+00:06:03,800 --> 00:06:06,750
+of where we are and
+determining where we wanta be.
+
+173
+00:06:06,750 --> 00:06:08,600
+They're also going to
+help develop the plans.
+
+174
+00:06:08,600 --> 00:06:11,230
+But then when we wanta take
+action, we have to do that
+
+175
+00:06:11,230 --> 00:06:14,040
+with everyone in the organization
+including our partners
+
+176
+00:06:14,040 --> 00:06:16,190
+and suppliers outside the organization.
+
+177
+00:06:16,190 --> 00:06:18,250
+And then we're going to
+reassess where we are,
+
+178
+00:06:18,250 --> 00:06:20,620
+and then figure out how do
+we keep this momentum going,
+
+179
+00:06:20,620 --> 00:06:21,980
+and do it all again.
+
+180
+00:06:21,980 --> 00:06:23,780
+You could see how this
+all ties in together
+
+181
+00:06:23,780 --> 00:06:25,620
+time and time again.
+
+182
+00:06:25,620 --> 00:06:27,530
+Now, the last thing I
+wanta talk about here
+
+183
+00:06:27,530 --> 00:06:29,830
+in continual improvement
+is how it integrates
+
+184
+00:06:29,830 --> 00:06:32,010
+with the different value chain activities.
+
+185
+00:06:32,010 --> 00:06:34,310
+So if we look at how continual
+improvement is going to work
+
+186
+00:06:34,310 --> 00:06:37,620
+inside plan, the continual
+improvement practice is applied
+
+187
+00:06:37,620 --> 00:06:39,150
+to all planning activities.
+
+188
+00:06:39,150 --> 00:06:40,690
+We're going to look at
+the methods and techniques
+
+189
+00:06:40,690 --> 00:06:42,610
+to make sure that they're all relevant
+
+190
+00:06:42,610 --> 00:06:45,367
+for the organization's current objective
+
+191
+00:06:45,367 --> 00:06:46,920
+in the context in which we're operating.
+
+192
+00:06:46,920 --> 00:06:49,160
+When we start looking at this
+from the improve perspective,
+
+193
+00:06:49,160 --> 00:06:51,050
+the continual improvement practice is key
+
+194
+00:06:51,050 --> 00:06:52,430
+to this value chain activity.
+
+195
+00:06:52,430 --> 00:06:53,920
+It's all about improvement.
+
+196
+00:06:53,920 --> 00:06:56,120
+It structures our resources
+and our activities
+
+197
+00:06:56,120 --> 00:06:58,070
+to enable that improvement at all levels
+
+198
+00:06:58,070 --> 00:07:01,430
+of the organization and across
+the service value system.
+
+199
+00:07:01,430 --> 00:07:03,820
+Now as we look at the rest
+of the service value chain,
+
+200
+00:07:03,820 --> 00:07:05,100
+and we look at the value chain activities
+
+201
+00:07:05,100 --> 00:07:07,990
+of engage, design and
+transition, obtain and build,
+
+202
+00:07:07,990 --> 00:07:09,380
+and deliver and support,
+
+203
+00:07:09,380 --> 00:07:11,580
+each of these value chain
+activities are subject
+
+204
+00:07:11,580 --> 00:07:12,780
+to continual improvement
+
+205
+00:07:12,780 --> 00:07:15,060
+because we're always trying
+to improve our practices,
+
+206
+00:07:15,060 --> 00:07:17,190
+our activities, and our processes.
+
+207
+00:07:17,190 --> 00:07:19,010
+And the continual
+improvement practice itself
+
+208
+00:07:19,010 --> 00:07:20,450
+is applied to all of these.
+
+209
+00:07:20,450 --> 00:07:22,830
+As you can see, the continual
+improvement practice
+
+210
+00:07:22,830 --> 00:07:25,660
+is inside everything we do inside ITIL 4.
+
+211
+00:07:25,660 --> 00:07:27,830
+We're always trying to
+continue to improve.
+
+212
+00:07:27,830 --> 00:07:30,490
+If we go back and look at the
+service value chain again,
+
+213
+00:07:30,490 --> 00:07:33,610
+you see that improve touches
+all of those inner cubes
+
+214
+00:07:33,610 --> 00:07:36,400
+and the engage process
+with that purple line.
+
+215
+00:07:36,400 --> 00:07:39,410
+That's because it impacts
+every single one of them.
+
+216
+00:07:39,410 --> 00:07:40,670
+That's the key here.
+
+217
+00:07:40,670 --> 00:07:42,770
+Continual improvement is
+the key to our success
+
+218
+00:07:42,770 --> 00:07:45,453
+in ITIL 4 because we never
+want to stop improving.
+

@@ -1,0 +1,1081 @@
+﻿1
+00:00:00,640 --> 00:00:02,410
+- Start Where You Are.
+
+2
+00:00:02,410 --> 00:00:05,610
+Our second guiding principle
+is to start where you are.
+
+3
+00:00:05,610 --> 00:00:07,880
+This is a really important
+guiding principle
+
+4
+00:00:07,880 --> 00:00:10,010
+because whenever you get
+into an organization,
+
+5
+00:00:10,010 --> 00:00:11,690
+even if you're a brand new hire,
+
+6
+00:00:11,690 --> 00:00:15,230
+they already have existing
+processes and services in place
+
+7
+00:00:15,230 --> 00:00:17,520
+and if you're brought
+onboard to help improve that
+
+8
+00:00:17,520 --> 00:00:19,050
+through an improvement initiative,
+
+9
+00:00:19,050 --> 00:00:20,830
+you have to remember that
+we don't want to start
+
+10
+00:00:20,830 --> 00:00:22,450
+with a blank slate each time.
+
+11
+00:00:22,450 --> 00:00:23,931
+We want to start where we are.
+
+12
+00:00:23,931 --> 00:00:26,910
+If I had you come in and
+I hired you to figure out
+
+13
+00:00:26,910 --> 00:00:29,730
+the best way to create
+a new service or process
+
+14
+00:00:29,730 --> 00:00:31,940
+to do voucher fulfillment for my students,
+
+15
+00:00:31,940 --> 00:00:33,280
+every time somebody comes to our website
+
+16
+00:00:33,280 --> 00:00:34,960
+to buy an exam voucher,
+
+17
+00:00:34,960 --> 00:00:35,820
+you would have to look at the way
+
+18
+00:00:35,820 --> 00:00:37,600
+the current process is done.
+
+19
+00:00:37,600 --> 00:00:39,110
+Then you can figure out
+
+20
+00:00:39,110 --> 00:00:41,210
+what is the better way to do it, right?
+
+21
+00:00:41,210 --> 00:00:43,190
+But if you don't start with
+where we currently are,
+
+22
+00:00:43,190 --> 00:00:44,760
+and you just start from a blank slate,
+
+23
+00:00:44,760 --> 00:00:46,740
+you're going to spend a
+lot of time and resources
+
+24
+00:00:46,740 --> 00:00:49,668
+doing stuff that isn't the
+way that we currently do it.
+
+25
+00:00:49,668 --> 00:00:51,950
+And there's probably some amount of value
+
+26
+00:00:51,950 --> 00:00:53,570
+in the way we currently do it.
+
+27
+00:00:53,570 --> 00:00:55,630
+So whenever you're engaged
+in an improvement initiative,
+
+28
+00:00:55,630 --> 00:00:57,230
+I don't want you to start over
+
+29
+00:00:57,230 --> 00:00:59,450
+without first looking at
+what is already available
+
+30
+00:00:59,450 --> 00:01:00,320
+to be leveraged,
+
+31
+00:01:00,320 --> 00:01:03,040
+because something there
+is probably valuable.
+
+32
+00:01:03,040 --> 00:01:05,190
+Now when you have a
+decision on how to proceed,
+
+33
+00:01:05,190 --> 00:01:06,630
+you have to think about this based on
+
+34
+00:01:06,630 --> 00:01:08,480
+the accurate information that's obtained
+
+35
+00:01:08,480 --> 00:01:10,090
+through your direct observation
+
+36
+00:01:10,090 --> 00:01:12,970
+supported by appropriate
+and effective measurement.
+
+37
+00:01:12,970 --> 00:01:14,370
+Again, if I have you come in,
+
+38
+00:01:14,370 --> 00:01:16,030
+you're going to look at
+the way we currently do
+
+39
+00:01:16,030 --> 00:01:17,280
+voucher fulfillment.
+
+40
+00:01:17,280 --> 00:01:19,070
+If you looked at us about a year ago,
+
+41
+00:01:19,070 --> 00:01:21,050
+the way we did it was
+a student would buy it
+
+42
+00:01:21,050 --> 00:01:22,870
+through our shopping cart on our website,
+
+43
+00:01:22,870 --> 00:01:24,770
+that would send an email to me,
+
+44
+00:01:24,770 --> 00:01:26,410
+I would then go and order the voucher,
+
+45
+00:01:26,410 --> 00:01:28,560
+take that voucher, put it in an email,
+
+46
+00:01:28,560 --> 00:01:30,050
+and email it back to the student.
+
+47
+00:01:30,050 --> 00:01:32,190
+It was a very manual process.
+
+48
+00:01:32,190 --> 00:01:33,727
+Now if you came in and
+looked at that, you'd say,
+
+49
+00:01:33,727 --> 00:01:35,537
+"Hey, I can make this a lot better.
+
+50
+00:01:35,537 --> 00:01:36,517
+"I can automate this.
+
+51
+00:01:36,517 --> 00:01:38,597
+"We can do five or six different ways
+
+52
+00:01:38,597 --> 00:01:40,060
+"of doing this process."
+
+53
+00:01:40,060 --> 00:01:42,090
+But if you looked at the
+way we were doing it,
+
+54
+00:01:42,090 --> 00:01:43,640
+you'd at least know the proper steps
+
+55
+00:01:43,640 --> 00:01:44,950
+that need to be included,
+
+56
+00:01:44,950 --> 00:01:47,680
+which was we had to buy
+the voucher from Axelos,
+
+57
+00:01:47,680 --> 00:01:49,560
+we then had to give that
+voucher to our student,
+
+58
+00:01:49,560 --> 00:01:50,960
+and we had to collect
+money from our students
+
+59
+00:01:50,960 --> 00:01:52,130
+for that voucher.
+
+60
+00:01:52,130 --> 00:01:53,950
+So we'd have to figure
+out what those steps are.
+
+61
+00:01:53,950 --> 00:01:56,060
+By figuring out what the current steps are
+
+62
+00:01:56,060 --> 00:01:58,120
+and how fast it is or how slow it is
+
+63
+00:01:58,120 --> 00:01:59,580
+or what pain points there are,
+
+64
+00:01:59,580 --> 00:02:02,650
+you can then overcome them as
+you're trying to go forward,
+
+65
+00:02:02,650 --> 00:02:04,540
+and some of those parts
+of starting where you are
+
+66
+00:02:04,540 --> 00:02:05,373
+are useful.
+
+67
+00:02:05,373 --> 00:02:07,450
+Some of those you're going
+to decide aren't useful
+
+68
+00:02:07,450 --> 00:02:09,090
+and you'll push them away.
+
+69
+00:02:09,090 --> 00:02:11,430
+All of this is done by
+measuring what you have,
+
+70
+00:02:11,430 --> 00:02:14,050
+and measurements should be
+used to support your analysis
+
+71
+00:02:14,050 --> 00:02:15,400
+of what you're observing
+
+72
+00:02:15,400 --> 00:02:17,550
+rather than just simply replacing it.
+
+73
+00:02:17,550 --> 00:02:19,040
+Not everything can be measured
+
+74
+00:02:19,040 --> 00:02:21,000
+with zeros and ones and numbers.
+
+75
+00:02:21,000 --> 00:02:24,730
+Some things in data analytics,
+we rely on way too much
+
+76
+00:02:24,730 --> 00:02:27,100
+and we oversee some of the basic things
+
+77
+00:02:27,100 --> 00:02:29,400
+that we should be observing
+with our own eyes.
+
+78
+00:02:29,400 --> 00:02:31,610
+Again, if you came in and
+looked at our voucher process,
+
+79
+00:02:31,610 --> 00:02:33,100
+it was very simple, right?
+
+80
+00:02:33,100 --> 00:02:34,540
+But that worked when we started out
+
+81
+00:02:34,540 --> 00:02:37,450
+because we were selling
+maybe two vouchers a week.
+
+82
+00:02:37,450 --> 00:02:39,840
+Now we're selling a
+lot of vouchers a week,
+
+83
+00:02:39,840 --> 00:02:42,380
+and if we had to do that all
+manually it wouldn't work.
+
+84
+00:02:42,380 --> 00:02:43,900
+The timeline to deliver to our students
+
+85
+00:02:43,900 --> 00:02:45,490
+would take way too long,
+
+86
+00:02:45,490 --> 00:02:48,260
+so instead we've looked
+at that using measurement,
+
+87
+00:02:48,260 --> 00:02:50,870
+we've gotten our time down
+where now we deliver a voucher
+
+88
+00:02:50,870 --> 00:02:53,712
+in about five minutes, and
+a lot of it is automated.
+
+89
+00:02:53,712 --> 00:02:55,700
+Now there's still some
+parts of the process
+
+90
+00:02:55,700 --> 00:02:56,770
+that are still manual,
+
+91
+00:02:56,770 --> 00:02:57,900
+but that's just because of the way
+
+92
+00:02:57,900 --> 00:02:59,260
+that those systems operate,
+
+93
+00:02:59,260 --> 00:03:01,470
+and we're going through and
+we're constantly improving that
+
+94
+00:03:01,470 --> 00:03:02,780
+to reduce that time down
+
+95
+00:03:02,780 --> 00:03:05,530
+to give a better value and
+experience for our customers.
+
+96
+00:03:05,530 --> 00:03:08,750
+Now, the act of measuring
+can affect your results
+
+97
+00:03:08,750 --> 00:03:10,700
+and this is something that's
+important to think about
+
+98
+00:03:10,700 --> 00:03:12,670
+because as you go through and
+you try to measure everything
+
+99
+00:03:12,670 --> 00:03:13,970
+that's currently going on,
+
+100
+00:03:13,970 --> 00:03:16,030
+sometimes the people you're measuring
+
+101
+00:03:16,030 --> 00:03:17,580
+will change the way they're working
+
+102
+00:03:17,580 --> 00:03:19,580
+because they know they're being watched.
+
+103
+00:03:19,580 --> 00:03:22,820
+This happens a lot inside
+the service desk area.
+
+104
+00:03:22,820 --> 00:03:24,390
+If you're doing something like measuring
+
+105
+00:03:24,390 --> 00:03:26,590
+how quickly a call is resolved,
+
+106
+00:03:26,590 --> 00:03:29,140
+what you'll start seeing is
+that your first level agents
+
+107
+00:03:29,140 --> 00:03:30,900
+will close out trouble tickets
+
+108
+00:03:30,900 --> 00:03:33,530
+even before things are
+solved for your consumers.
+
+109
+00:03:33,530 --> 00:03:35,527
+That means that your measurement
+is going to go up, saying,
+
+110
+00:03:35,527 --> 00:03:37,057
+"Oh, look how quickly we've been able to
+
+111
+00:03:37,057 --> 00:03:38,490
+"resolve all these calls,"
+
+112
+00:03:38,490 --> 00:03:41,100
+but in reality your customers
+aren't getting the value
+
+113
+00:03:41,100 --> 00:03:43,770
+they want because their
+calls aren't being resolved.
+
+114
+00:03:43,770 --> 00:03:45,100
+I've seen this even at some places
+
+115
+00:03:45,100 --> 00:03:46,470
+like drive-through restaurants.
+
+116
+00:03:46,470 --> 00:03:48,200
+If you've ever gone through a McDonald's,
+
+117
+00:03:48,200 --> 00:03:50,400
+they have a counter and
+they have a measurement
+
+118
+00:03:50,400 --> 00:03:53,340
+of 30 seconds to deliver
+the food to you in your car
+
+119
+00:03:53,340 --> 00:03:55,030
+to get you on the road again.
+
+120
+00:03:55,030 --> 00:03:57,430
+But if they can't get
+that, what do they do?
+
+121
+00:03:57,430 --> 00:03:59,250
+The tell you to pull off to a parking spot
+
+122
+00:03:59,250 --> 00:04:01,030
+so they can mark your order as complete,
+
+123
+00:04:01,030 --> 00:04:02,300
+and that way their timer stops,
+
+124
+00:04:02,300 --> 00:04:04,060
+even though you still
+haven't gotten your food
+
+125
+00:04:04,060 --> 00:04:05,720
+and that way they can
+help the next person.
+
+126
+00:04:05,720 --> 00:04:08,150
+You may be sitting there for
+10 minutes to get your food.
+
+127
+00:04:08,150 --> 00:04:09,740
+Because they know they're being measured,
+
+128
+00:04:09,740 --> 00:04:10,850
+that's going to affect the results
+
+129
+00:04:10,850 --> 00:04:12,640
+because they're going to cheat the system.
+
+130
+00:04:12,640 --> 00:04:14,200
+Now when you set measurements,
+
+131
+00:04:14,200 --> 00:04:15,800
+another thing I want you to think about
+
+132
+00:04:15,800 --> 00:04:17,734
+is that when the
+measurement becomes a target
+
+133
+00:04:17,734 --> 00:04:20,410
+it ceases to be a good measure.
+
+134
+00:04:20,410 --> 00:04:22,040
+Going back to that McDonald's example.
+
+135
+00:04:22,040 --> 00:04:25,280
+If I say every car has to get
+their food within 30 seconds
+
+136
+00:04:25,280 --> 00:04:26,930
+and that becomes the target,
+
+137
+00:04:26,930 --> 00:04:28,810
+we're no longer trying to give good food
+
+138
+00:04:28,810 --> 00:04:30,510
+or good value to the customer.
+
+139
+00:04:30,510 --> 00:04:32,480
+Instead we're just trying
+to get them in and out
+
+140
+00:04:32,480 --> 00:04:33,760
+within 30 seconds.
+
+141
+00:04:33,760 --> 00:04:35,670
+So that is something
+you have to be wary of.
+
+142
+00:04:35,670 --> 00:04:37,070
+Measurement is great in business.
+
+143
+00:04:37,070 --> 00:04:38,690
+We use measurement a lot.
+
+144
+00:04:38,690 --> 00:04:41,090
+But you want to make sure you're
+measuring the right things
+
+145
+00:04:41,090 --> 00:04:43,360
+and it's not the target in and of itself.
+
+146
+00:04:43,360 --> 00:04:44,910
+You're measuring things to determine if
+
+147
+00:04:44,910 --> 00:04:47,010
+you're making progress towards the outcome
+
+148
+00:04:47,010 --> 00:04:48,070
+that you really want.
+
+149
+00:04:48,070 --> 00:04:49,480
+We talked about that
+before when we talked about
+
+150
+00:04:49,480 --> 00:04:52,500
+measuring outputs versus
+measuring outcomes.
+
+151
+00:04:52,500 --> 00:04:54,505
+This is an important concept to remember.
+
+152
+00:04:54,505 --> 00:04:57,160
+When we talk about starting where you are,
+
+153
+00:04:57,160 --> 00:04:59,142
+how do we really apply
+this guiding principle?
+
+154
+00:04:59,142 --> 00:05:01,770
+First I want you to look at what exists
+
+155
+00:05:01,770 --> 00:05:03,610
+as objectively as possible.
+
+156
+00:05:03,610 --> 00:05:05,457
+You may come into a
+new place and they say,
+
+157
+00:05:05,457 --> 00:05:07,127
+"You're going to come
+in because our current
+
+158
+00:05:07,127 --> 00:05:08,817
+"service management system sucks.
+
+159
+00:05:08,817 --> 00:05:10,177
+"It's bad, it's horrible,
+
+160
+00:05:10,177 --> 00:05:11,597
+"so we're hiring you as the new manager.
+
+161
+00:05:11,597 --> 00:05:13,410
+"Come in and overhaul the place."
+
+162
+00:05:13,410 --> 00:05:15,200
+You may come in and your
+first thing you want to do
+
+163
+00:05:15,200 --> 00:05:18,060
+is just delete everything
+they have and start over.
+
+164
+00:05:18,060 --> 00:05:19,490
+Please resist that urge.
+
+165
+00:05:19,490 --> 00:05:21,650
+Instead look at what is there,
+
+166
+00:05:21,650 --> 00:05:25,190
+figure out what is useful
+and what you can build upon.
+
+167
+00:05:25,190 --> 00:05:27,230
+You can determine if there
+are successful practices
+
+168
+00:05:27,230 --> 00:05:29,910
+or services in place that
+can be replicated or expanded
+
+169
+00:05:29,910 --> 00:05:31,400
+across the organization,
+
+170
+00:05:31,400 --> 00:05:34,030
+and you can determine the
+things that are not successful
+
+171
+00:05:34,030 --> 00:05:35,620
+and those things that need to be changed
+
+172
+00:05:35,620 --> 00:05:37,410
+or deleted or removed.
+
+173
+00:05:37,410 --> 00:05:39,750
+You want to be applying your
+risk management skills here
+
+174
+00:05:39,750 --> 00:05:41,530
+in your decision making progress
+
+175
+00:05:41,530 --> 00:05:43,716
+because if we decide to
+just throw everything away
+
+176
+00:05:43,716 --> 00:05:45,340
+and start from the beginning,
+
+177
+00:05:45,340 --> 00:05:48,370
+we're going to spend a lot more
+time and assume a lot more risk
+
+178
+00:05:48,370 --> 00:05:51,100
+because it is a lot
+easier to fix something
+
+179
+00:05:51,100 --> 00:05:53,240
+than it is to create something new.
+
+180
+00:05:53,240 --> 00:05:55,610
+Also you should recognize that sometimes
+
+181
+00:05:55,610 --> 00:05:57,840
+nothing from the current
+state can be reused,
+
+182
+00:05:57,840 --> 00:06:00,600
+and you are going to simply
+have to create a blank slate.
+
+183
+00:06:00,600 --> 00:06:01,660
+Now when you're going to do that,
+
+184
+00:06:01,660 --> 00:06:02,920
+you're going to have
+to think about the way
+
+185
+00:06:02,920 --> 00:06:05,110
+to make that transition happen.
+
+186
+00:06:05,110 --> 00:06:07,730
+A good example of that
+is my current website.
+
+187
+00:06:07,730 --> 00:06:08,940
+As we're filming this video
+
+188
+00:06:08,940 --> 00:06:11,750
+we're actually going through
+a major website redesign
+
+189
+00:06:11,750 --> 00:06:14,330
+and overhaul, and it's not just a redesign
+
+190
+00:06:14,330 --> 00:06:17,110
+of the website itself and
+how it looks and feels,
+
+191
+00:06:17,110 --> 00:06:19,850
+but all of the underlying
+services are being rebuilt
+
+192
+00:06:19,850 --> 00:06:21,150
+from the ground up.
+
+193
+00:06:21,150 --> 00:06:22,810
+The current provider we were on
+
+194
+00:06:22,810 --> 00:06:25,440
+was great when we had just a
+couple of hundred students,
+
+195
+00:06:25,440 --> 00:06:28,580
+but as we've grown they can't
+support the demand anymore
+
+196
+00:06:28,580 --> 00:06:30,710
+and their processes just don't work well
+
+197
+00:06:30,710 --> 00:06:32,690
+for the long-term vision of our company.
+
+198
+00:06:32,690 --> 00:06:34,950
+So instead we're building
+a brand new system
+
+199
+00:06:34,950 --> 00:06:36,000
+from the ground up.
+
+200
+00:06:36,000 --> 00:06:37,670
+We have a brand new operating system,
+
+201
+00:06:37,670 --> 00:06:40,490
+brand new servers, a
+brand new cloud provider,
+
+202
+00:06:40,490 --> 00:06:42,840
+and we've built the
+entire application layer
+
+203
+00:06:42,840 --> 00:06:45,410
+that does the course delivery ourself.
+
+204
+00:06:45,410 --> 00:06:48,090
+All of that means we've
+taken a huge amount of risk
+
+205
+00:06:48,090 --> 00:06:50,380
+because we're migrating from
+something that we know works
+
+206
+00:06:50,380 --> 00:06:52,130
+into something that we're
+trying to make work.
+
+207
+00:06:52,130 --> 00:06:55,660
+So because of that we have
+to use proper risk management
+
+208
+00:06:55,660 --> 00:06:57,020
+and do mitigations.
+
+209
+00:06:57,020 --> 00:06:59,470
+One of those is we broke
+up the phase deployment
+
+210
+00:06:59,470 --> 00:07:01,400
+of moving things over in pieces,
+
+211
+00:07:01,400 --> 00:07:03,020
+so as we brought up the new site
+
+212
+00:07:03,020 --> 00:07:04,750
+we brought over the homepage first
+
+213
+00:07:04,750 --> 00:07:06,390
+but we didn't bring over the shopping cart
+
+214
+00:07:06,390 --> 00:07:09,930
+and we didn't bring over the
+content and lesson delivery.
+
+215
+00:07:09,930 --> 00:07:12,250
+Next we're bringing over
+the shopping cart pieces,
+
+216
+00:07:12,250 --> 00:07:13,490
+making sure that all works,
+
+217
+00:07:13,490 --> 00:07:15,350
+and then we're going to
+bring over the big bulk
+
+218
+00:07:15,350 --> 00:07:17,360
+which is our learning management system.
+
+219
+00:07:17,360 --> 00:07:19,710
+We're doing this over a
+two or a three month period
+
+220
+00:07:19,710 --> 00:07:21,990
+in very deliberate phased approaches,
+
+221
+00:07:21,990 --> 00:07:23,540
+and by the time we're done
+
+222
+00:07:23,540 --> 00:07:25,230
+most of what we had on the old site
+
+223
+00:07:25,230 --> 00:07:26,550
+is not going to be reused.
+
+224
+00:07:26,550 --> 00:07:27,920
+It's going to be thrown away
+
+225
+00:07:27,920 --> 00:07:31,030
+because a lot of that doesn't
+apply on the new systems
+
+226
+00:07:31,030 --> 00:07:32,680
+and the new services we've built.
+
+227
+00:07:32,680 --> 00:07:34,800
+So that sometimes is
+where you're going to be,
+
+228
+00:07:34,800 --> 00:07:37,200
+but I would implore to
+you always think about
+
+229
+00:07:37,200 --> 00:07:39,390
+what can be reused from the current system
+
+230
+00:07:39,390 --> 00:07:40,520
+to the old system.
+
+231
+00:07:40,520 --> 00:07:42,440
+In our case, a lot of our old training
+
+232
+00:07:42,440 --> 00:07:43,600
+was able to be brought over.
+
+233
+00:07:43,600 --> 00:07:45,460
+Our practice exams were
+able to be brought over.
+
+234
+00:07:45,460 --> 00:07:47,850
+Our PDFs and our videos were
+able to be brought over.
+
+235
+00:07:47,850 --> 00:07:50,240
+So we didn't have to
+recreate 20 classes again.
+
+236
+00:07:50,240 --> 00:07:51,700
+But a lot of the services and the support
+
+237
+00:07:51,700 --> 00:07:55,370
+that underlaid that system
+is being rebuilt again
+
+238
+00:07:55,370 --> 00:07:58,160
+from a blank slate because
+that could not be reused.
+
+239
+00:07:58,160 --> 00:07:59,590
+As you go through your organizations,
+
+240
+00:07:59,590 --> 00:08:01,520
+you need to think about what can I reuse
+
+241
+00:08:01,520 --> 00:08:02,890
+when I start from where I am
+
+242
+00:08:02,890 --> 00:08:05,130
+and what do I need to start over on?
+
+243
+00:08:05,130 --> 00:08:06,810
+That's the guiding principle that we use
+
+244
+00:08:06,810 --> 00:08:08,433
+as our second guiding principle.
+

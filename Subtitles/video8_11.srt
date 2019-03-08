@@ -1,0 +1,233 @@
+﻿1
+00:00:00,850 --> 00:00:03,560
+- Portfolio management, our next practice
+
+2
+00:00:03,560 --> 00:00:04,830
+we're going to discuss for your general
+
+3
+00:00:04,830 --> 00:00:07,090
+knowledge is portfolio management.
+
+4
+00:00:07,090 --> 00:00:09,280
+This is the practice of
+ensuring that an organization
+
+5
+00:00:09,280 --> 00:00:12,660
+has the right mix of
+programs, projects, products,
+
+6
+00:00:12,660 --> 00:00:14,920
+and services to execute its strategy
+
+7
+00:00:14,920 --> 00:00:17,630
+within its funding and
+resource constraints.
+
+8
+00:00:17,630 --> 00:00:19,190
+Now, what does this really means?
+
+9
+00:00:19,190 --> 00:00:21,750
+Let's take my company for
+example Dion Training.
+
+10
+00:00:21,750 --> 00:00:24,590
+There are a lot of different
+products, projects, programs
+
+11
+00:00:24,590 --> 00:00:26,660
+and services that we could be using.
+
+12
+00:00:26,660 --> 00:00:28,290
+We could be doing a
+lot of different things
+
+13
+00:00:28,290 --> 00:00:30,910
+but we have to figure out
+what works with our strategy.
+
+14
+00:00:30,910 --> 00:00:33,920
+For example, we might make
+practice exam courses,
+
+15
+00:00:33,920 --> 00:00:36,040
+we might make video courses, we might
+
+16
+00:00:36,040 --> 00:00:38,330
+do live training, we might create apps
+
+17
+00:00:38,330 --> 00:00:40,530
+in the app store, we might write a book.
+
+18
+00:00:40,530 --> 00:00:42,000
+There's lots of things that we can do.
+
+19
+00:00:42,000 --> 00:00:43,260
+And in our first couple of years,
+
+20
+00:00:43,260 --> 00:00:46,680
+we did a lot of those things;
+in fact all of those things.
+
+21
+00:00:46,680 --> 00:00:49,580
+But over time we figured out
+where our true strengths were.
+
+22
+00:00:49,580 --> 00:00:51,960
+And we figured out what our
+vision for the company was,
+
+23
+00:00:51,960 --> 00:00:53,880
+and we build a strategy around it.
+
+24
+00:00:53,880 --> 00:00:56,690
+So now, based on that
+strategy, we've assigned
+
+25
+00:00:56,690 --> 00:00:58,960
+certain funding, and
+resource and strengths,
+
+26
+00:00:58,960 --> 00:01:00,710
+the biggest resource constraint is really
+
+27
+00:01:00,710 --> 00:01:03,100
+the amount of people we have
+that can teach this stuff,
+
+28
+00:01:03,100 --> 00:01:05,070
+and having the right
+people on staff to do it,
+
+29
+00:01:05,070 --> 00:01:08,220
+and so we're limited in the
+amount of stuff we can do.
+
+30
+00:01:08,220 --> 00:01:11,040
+So, based on those
+restraints, we figure out
+
+31
+00:01:11,040 --> 00:01:13,980
+what is the proper mix of
+programs, projects, products
+
+32
+00:01:13,980 --> 00:01:16,560
+and services to give
+you the best experience
+
+33
+00:01:16,560 --> 00:01:18,950
+and give you the most bang for your buck.
+
+34
+00:01:18,950 --> 00:01:21,670
+For us for example,
+inside the ITIL framework,
+
+35
+00:01:21,670 --> 00:01:24,020
+we do the foundation of
+exams and we're going to
+
+36
+00:01:24,020 --> 00:01:26,090
+do all of the ITIL for exams.
+
+37
+00:01:26,090 --> 00:01:29,210
+That was a decision we
+made, but we are not doing
+
+38
+00:01:29,210 --> 00:01:32,510
+all of the ITIL three,
+intermediate certifications,
+
+39
+00:01:32,510 --> 00:01:34,710
+because those were coming to end of life
+
+40
+00:01:34,710 --> 00:01:37,410
+in the next 12 to 18 months
+and so it didn't make sense
+
+41
+00:01:37,410 --> 00:01:40,500
+for our vision and our strategy
+to put a lot of resources
+
+42
+00:01:40,500 --> 00:01:42,650
+into building those exams when
+
+43
+00:01:42,650 --> 00:01:45,740
+those exams were going to be
+sunset in just 12 or 18 months.
+
+44
+00:01:45,740 --> 00:01:47,280
+Whereas ITIL four is brand new
+
+45
+00:01:47,280 --> 00:01:49,610
+and will last for many years to come.
+
+46
+00:01:49,610 --> 00:01:51,970
+That's the idea inside your organization.
+
+47
+00:01:51,970 --> 00:01:53,890
+You need to think about
+what is the right mix
+
+48
+00:01:53,890 --> 00:01:56,070
+of products and services and programs
+
+49
+00:01:56,070 --> 00:01:58,400
+and portfolio management
+helps you do that.
+
+50
+00:01:58,400 --> 00:02:00,470
+You figure out exactly
+what you want to do,
+
+51
+00:02:00,470 --> 00:02:02,070
+and then you build towards that.
+

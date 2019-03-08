@@ -1,0 +1,389 @@
+﻿1
+00:00:00,820 --> 00:00:02,620
+- Where do we want to be?
+
+2
+00:00:02,620 --> 00:00:03,860
+Coming out of step two,
+
+3
+00:00:03,860 --> 00:00:06,800
+we now know where we are
+in terms of our baseline.
+
+4
+00:00:06,800 --> 00:00:09,830
+This now begs the question,
+where do we want to be?
+
+5
+00:00:09,830 --> 00:00:12,010
+Let's pretend that you're
+back in college again.
+
+6
+00:00:12,010 --> 00:00:14,160
+When you started the school
+year, you had a vision.
+
+7
+00:00:14,160 --> 00:00:15,250
+This is step one.
+
+8
+00:00:15,250 --> 00:00:16,730
+And your vision was you're going to own
+
+9
+00:00:16,730 --> 00:00:19,230
+a 3.5 grade point average.
+
+10
+00:00:19,230 --> 00:00:21,000
+Now you just finished your first semester
+
+11
+00:00:21,000 --> 00:00:22,480
+and you got your grades back.
+
+12
+00:00:22,480 --> 00:00:24,680
+Unfortunately, you didn't
+do as well as you thought
+
+13
+00:00:24,680 --> 00:00:27,180
+and you earned some B's and some C's.
+
+14
+00:00:27,180 --> 00:00:28,790
+Now you're looking at
+your grade point average
+
+15
+00:00:28,790 --> 00:00:30,990
+and you see that you earned a 2.9.
+
+16
+00:00:30,990 --> 00:00:32,190
+That's the second step.
+
+17
+00:00:32,190 --> 00:00:33,270
+Where are we now?
+
+18
+00:00:33,270 --> 00:00:34,103
+We're at a 2.9.
+
+19
+00:00:35,070 --> 00:00:37,240
+Now you need to decide if this semester
+
+20
+00:00:37,240 --> 00:00:39,810
+is going to be different and
+if you've made that decision,
+
+21
+00:00:39,810 --> 00:00:41,180
+we're going to go ahead and try to do
+
+22
+00:00:41,180 --> 00:00:42,650
+some improvement initiatives.
+
+23
+00:00:42,650 --> 00:00:44,880
+You might study longer
+or study differently.
+
+24
+00:00:44,880 --> 00:00:47,200
+Now you've decided that by
+the end of the school year,
+
+25
+00:00:47,200 --> 00:00:49,450
+you want to have a 3.3 GPA.
+
+26
+00:00:49,450 --> 00:00:51,230
+And by the end of next school year,
+
+27
+00:00:51,230 --> 00:00:54,660
+you want to achieve an
+initial vision of 3.5.
+
+28
+00:00:54,660 --> 00:00:56,880
+This is what we're going
+to be doing in step three.
+
+29
+00:00:56,880 --> 00:00:59,090
+We're going to decide where we want to be.
+
+30
+00:00:59,090 --> 00:01:01,400
+Both in the short term and the long term.
+
+31
+00:01:01,400 --> 00:01:04,320
+During this step, we're going
+to perform a gap analysis.
+
+32
+00:01:04,320 --> 00:01:06,240
+This is going to look
+at our overall vision,
+
+33
+00:01:06,240 --> 00:01:08,260
+where we currently are
+and where we want to be
+
+34
+00:01:08,260 --> 00:01:10,050
+over some amount of time.
+
+35
+00:01:10,050 --> 00:01:11,400
+Based on this analysis,
+
+36
+00:01:11,400 --> 00:01:13,680
+we're going to be able to
+determine what that delta is,
+
+37
+00:01:13,680 --> 00:01:15,090
+what the gap is.
+
+38
+00:01:15,090 --> 00:01:17,830
+So, for example, if I say
+I wanted to have $1,000
+
+39
+00:01:17,830 --> 00:01:20,750
+in my bank account, but
+I only have $100 today,
+
+40
+00:01:20,750 --> 00:01:23,123
+well, the gap is $900.
+
+41
+00:01:23,123 --> 00:01:27,390
+1,000, where I want to be versus
+the $100 I currently have.
+
+42
+00:01:27,390 --> 00:01:29,250
+Therefore, we need to figure out a way
+
+43
+00:01:29,250 --> 00:01:32,500
+of what we're going to
+do to get us $900 more.
+
+44
+00:01:32,500 --> 00:01:34,350
+Now in the case of IT systems,
+
+45
+00:01:34,350 --> 00:01:36,530
+it's usually not going
+to be monetary related.
+
+46
+00:01:36,530 --> 00:01:38,640
+It will be based on
+some key metrics though.
+
+47
+00:01:38,640 --> 00:01:39,880
+This is going to be based on things
+
+48
+00:01:39,880 --> 00:01:43,020
+like critical success factors or CSFs
+
+49
+00:01:43,020 --> 00:01:46,180
+or key performance indicators, KPIs.
+
+50
+00:01:46,180 --> 00:01:47,700
+Either way, in the business world,
+
+51
+00:01:47,700 --> 00:01:50,390
+we refer to these generally as metrics.
+
+52
+00:01:50,390 --> 00:01:53,220
+These metrics are what we're
+going to use to measure things
+
+53
+00:01:53,220 --> 00:01:55,460
+and figure out what the gap is.
+
+54
+00:01:55,460 --> 00:01:56,910
+Now it's important to note here
+
+55
+00:01:56,910 --> 00:01:58,260
+that our vision from step one
+
+56
+00:01:58,260 --> 00:02:00,810
+may be something that
+is totally aspirational
+
+57
+00:02:00,810 --> 00:02:02,830
+and never going to be obtained truly.
+
+58
+00:02:02,830 --> 00:02:05,600
+The reason for this is
+because sometimes our vision
+
+59
+00:02:05,600 --> 00:02:08,620
+is going to be beyond
+what we can ever get to.
+
+60
+00:02:08,620 --> 00:02:11,470
+Let's use the example of
+our college GPA again.
+
+61
+00:02:11,470 --> 00:02:13,820
+Let's say your vision
+was to graduate college
+
+62
+00:02:13,820 --> 00:02:15,130
+with a perfect score.
+
+63
+00:02:15,130 --> 00:02:17,190
+A 4.0 GPA.
+
+64
+00:02:17,190 --> 00:02:20,090
+Well, based on our current
+state that we found in step two,
+
+65
+00:02:20,090 --> 00:02:22,580
+we're never going to be
+able to reach that 4.0
+
+66
+00:02:22,580 --> 00:02:24,920
+because we already earned
+some B's and some C's,
+
+67
+00:02:24,920 --> 00:02:27,220
+which is going to lower
+our overall average.
+
+68
+00:02:27,220 --> 00:02:28,100
+Now that's fine.
+
+69
+00:02:28,100 --> 00:02:30,821
+We can keep the vision
+of graduating with a 4.0,
+
+70
+00:02:30,821 --> 00:02:32,830
+but we know we're never going to reach it.
+
+71
+00:02:32,830 --> 00:02:36,090
+Maybe we can get up to a 3.8
+but we'll never get to 4.0.
+
+72
+00:02:36,090 --> 00:02:38,060
+It's just the way math works, right.
+
+73
+00:02:38,060 --> 00:02:39,730
+So now, here in step three,
+
+74
+00:02:39,730 --> 00:02:42,050
+we're going to create smaller
+goals that we can reach
+
+75
+00:02:42,050 --> 00:02:45,230
+as we try to get closer and
+closer to the actual vision,
+
+76
+00:02:45,230 --> 00:02:48,580
+whether or not we ever obtain
+that actual vision in the end.
+
+77
+00:02:48,580 --> 00:02:50,680
+So now in step three,
+we're going to figure out
+
+78
+00:02:50,680 --> 00:02:53,630
+where do we want to be and
+we're going to set our goals.
+
+79
+00:02:53,630 --> 00:02:56,080
+We're going to agree to those
+key performance indicators,
+
+80
+00:02:56,080 --> 00:02:58,410
+those metrics, such as the KPIs
+
+81
+00:02:58,410 --> 00:03:00,370
+and the critical success factors.
+
+82
+00:03:00,370 --> 00:03:03,580
+But at this point, we still
+haven't taken any actions
+
+83
+00:03:03,580 --> 00:03:05,220
+to actually improve, right.
+
+84
+00:03:05,220 --> 00:03:07,690
+We've just set out our
+goals, but that's okay,
+
+85
+00:03:07,690 --> 00:03:09,380
+because next in step four,
+
+86
+00:03:09,380 --> 00:03:11,100
+we're going to begin to formulate our plan
+
+87
+00:03:11,100 --> 00:03:12,950
+in order to start taking some action.
+

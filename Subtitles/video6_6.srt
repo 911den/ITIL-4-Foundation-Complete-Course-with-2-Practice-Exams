@@ -1,0 +1,879 @@
+﻿1
+00:00:00,760 --> 00:00:01,870
+- [Instructor] Our next value chain
+
+2
+00:00:01,870 --> 00:00:04,390
+activity is Obtain/Build.
+
+3
+00:00:04,390 --> 00:00:06,360
+Now, the purpose of the Obtain/Build
+
+4
+00:00:06,360 --> 00:00:08,380
+value chain activity is to ensure
+
+5
+00:00:08,380 --> 00:00:10,140
+that service components are available
+
+6
+00:00:10,140 --> 00:00:11,750
+when and where they're needed
+
+7
+00:00:11,750 --> 00:00:15,060
+and they're going to meet the
+agreed-upon specifications.
+
+8
+00:00:15,060 --> 00:00:17,580
+Simply put, if I'm going
+to build a service,
+
+9
+00:00:17,580 --> 00:00:19,530
+I need to build it to the design criteria
+
+10
+00:00:19,530 --> 00:00:23,460
+that I was given from the
+design & transition activity.
+
+11
+00:00:23,460 --> 00:00:26,190
+Now, there are a lot of
+different inputs and outputs
+
+12
+00:00:26,190 --> 00:00:28,277
+when it comes to Obtain/Build.
+
+13
+00:00:28,277 --> 00:00:29,110
+When we talk about inputs,
+
+14
+00:00:29,110 --> 00:00:31,650
+we're going to get them
+from a variety of sources.
+
+15
+00:00:31,650 --> 00:00:34,730
+First, let's think about
+architectures and policies.
+
+16
+00:00:34,730 --> 00:00:35,990
+We've talked a lot about this
+
+17
+00:00:35,990 --> 00:00:38,590
+and this is something
+that comes from plans.
+
+18
+00:00:38,590 --> 00:00:41,510
+Plans is going to output the
+architectures and policies
+
+19
+00:00:41,510 --> 00:00:43,420
+and lots of these different value chains
+
+20
+00:00:43,420 --> 00:00:44,750
+are going to use those
+
+21
+00:00:44,750 --> 00:00:46,540
+because if we know what the governance is
+
+22
+00:00:46,540 --> 00:00:49,330
+and the architecture and the
+policies for our organization,
+
+23
+00:00:49,330 --> 00:00:52,490
+that helps us design and
+transition a better service,
+
+24
+00:00:52,490 --> 00:00:53,410
+or in this case,
+
+25
+00:00:53,410 --> 00:00:57,080
+obtain and build it to
+those proper specifications.
+
+26
+00:00:57,080 --> 00:00:59,610
+Next, we're going to look
+at contracts and agreements.
+
+27
+00:00:59,610 --> 00:01:01,230
+As we get contracts and agreements
+
+28
+00:01:01,230 --> 00:01:04,060
+with external and internal
+suppliers and partners,
+
+29
+00:01:04,060 --> 00:01:06,160
+those are all going to come as an input
+
+30
+00:01:06,160 --> 00:01:09,131
+from engage into this Obtain/Build.
+
+31
+00:01:09,131 --> 00:01:12,120
+Next, we're also going to
+look at goods and services
+
+32
+00:01:12,120 --> 00:01:14,070
+and these goods and services
+are going to be provided
+
+33
+00:01:14,070 --> 00:01:17,210
+by these external and internal
+suppliers and partners.
+
+34
+00:01:17,210 --> 00:01:19,260
+Again, once we contract for something,
+
+35
+00:01:19,260 --> 00:01:22,500
+we then are going to get some
+kind of good or service for it.
+
+36
+00:01:22,500 --> 00:01:23,430
+The information,
+
+37
+00:01:23,430 --> 00:01:24,263
+the interaction,
+
+38
+00:01:24,263 --> 00:01:26,110
+and the engagement all comes from
+
+39
+00:01:26,110 --> 00:01:28,170
+the engage portion of that contract.
+
+40
+00:01:28,170 --> 00:01:30,860
+But, the actual physical
+delivery and receipt
+
+41
+00:01:30,860 --> 00:01:31,720
+of the components,
+
+42
+00:01:31,720 --> 00:01:32,553
+the goods,
+
+43
+00:01:32,553 --> 00:01:33,386
+and the services,
+
+44
+00:01:33,386 --> 00:01:36,970
+that occurs inside the
+Obtain/Build part of this activity.
+
+45
+00:01:36,970 --> 00:01:39,450
+And, that is going to
+bring us to our next thing,
+
+46
+00:01:39,450 --> 00:01:41,970
+which is getting the
+requirements and specifications
+
+47
+00:01:41,970 --> 00:01:44,220
+for what we want to obtain or build.
+
+48
+00:01:44,220 --> 00:01:46,780
+Where do we get the requirements
+and specifications from?
+
+49
+00:01:46,780 --> 00:01:49,530
+Well, that comes from design & transition.
+
+50
+00:01:49,530 --> 00:01:51,580
+Somebody has designed this service
+
+51
+00:01:51,580 --> 00:01:53,630
+and they pass those designs to us
+
+52
+00:01:53,630 --> 00:01:55,190
+here in the Obtain/Build,
+
+53
+00:01:55,190 --> 00:01:57,480
+where we're actually going
+to install the software,
+
+54
+00:01:57,480 --> 00:01:58,810
+purchase the servers,
+
+55
+00:01:58,810 --> 00:02:00,500
+get it all connected in network,
+
+56
+00:02:00,500 --> 00:02:03,770
+and then transition it into
+the real live environment
+
+57
+00:02:03,770 --> 00:02:06,460
+when it goes back into
+design & transition.
+
+58
+00:02:06,460 --> 00:02:09,210
+Another input to the
+Obtain and Build activity
+
+59
+00:02:09,210 --> 00:02:11,370
+is improvement initiatives and plans.
+
+60
+00:02:11,370 --> 00:02:14,300
+And, these are going to come
+from the improve activity
+
+61
+00:02:14,300 --> 00:02:16,270
+because the improve
+activity has been looking at
+
+62
+00:02:16,270 --> 00:02:18,150
+how can we make things better?
+
+63
+00:02:18,150 --> 00:02:20,500
+Once they figure out those
+processes and procedures
+
+64
+00:02:20,500 --> 00:02:22,040
+of how we can improve things,
+
+65
+00:02:22,040 --> 00:02:24,030
+they're going to pass
+that back to Obtain/Build
+
+66
+00:02:24,030 --> 00:02:26,210
+so they can build those things.
+
+67
+00:02:26,210 --> 00:02:27,970
+Another thing we're
+going to get from improve
+
+68
+00:02:27,970 --> 00:02:30,060
+is our improvement status reports.
+
+69
+00:02:30,060 --> 00:02:31,920
+Again, they're going to be
+looking at our processes,
+
+70
+00:02:31,920 --> 00:02:32,970
+our procedures,
+
+71
+00:02:32,970 --> 00:02:34,580
+the lessons learned from before,
+
+72
+00:02:34,580 --> 00:02:37,680
+and help us improve
+the way we do business.
+
+73
+00:02:37,680 --> 00:02:40,180
+Now, going back to our engage activity,
+
+74
+00:02:40,180 --> 00:02:42,060
+we're going to get
+something from them as well.
+
+75
+00:02:42,060 --> 00:02:45,200
+We're going to get changes and
+project initiation requests
+
+76
+00:02:45,200 --> 00:02:48,060
+from engage because as
+a customer or a consumer
+
+77
+00:02:48,060 --> 00:02:49,030
+or an end user,
+
+78
+00:02:49,030 --> 00:02:50,890
+if I have a problem with a service,
+
+79
+00:02:50,890 --> 00:02:52,830
+I might put in a change request.
+
+80
+00:02:52,830 --> 00:02:54,170
+And if I put in that change request,
+
+81
+00:02:54,170 --> 00:02:55,850
+it's coming in through engage
+
+82
+00:02:55,850 --> 00:02:57,750
+because it's an external communication.
+
+83
+00:02:57,750 --> 00:02:59,280
+Once engage gets that request,
+
+84
+00:02:59,280 --> 00:03:00,510
+they're going to process it
+
+85
+00:03:00,510 --> 00:03:02,980
+and then pass it over
+to us in Obtain/Build
+
+86
+00:03:02,980 --> 00:03:05,780
+so that we can obtain
+or build the new service
+
+87
+00:03:05,780 --> 00:03:07,710
+to meet that customer need.
+
+88
+00:03:07,710 --> 00:03:09,620
+Other change requests may also be provided
+
+89
+00:03:09,620 --> 00:03:11,010
+from deliver & support
+
+90
+00:03:11,010 --> 00:03:13,430
+because the people who are
+delivering and supporting things,
+
+91
+00:03:13,430 --> 00:03:15,560
+maybe there was a switch that went down.
+
+92
+00:03:15,560 --> 00:03:17,930
+Well, deliver & support
+can put a change request
+
+93
+00:03:17,930 --> 00:03:20,950
+that says 'Switch number
+one needs to be replaced'
+
+94
+00:03:20,950 --> 00:03:22,700
+and then here, in Obtain/Build,
+
+95
+00:03:22,700 --> 00:03:24,000
+we would go get a new switch
+
+96
+00:03:24,000 --> 00:03:25,800
+and replace switch number one.
+
+97
+00:03:25,800 --> 00:03:29,430
+Again, these processes
+are all very interrelated.
+
+98
+00:03:29,430 --> 00:03:31,970
+And then, we get down to our
+knowledge and information.
+
+99
+00:03:31,970 --> 00:03:34,560
+Again, the same two we've been
+talking about a lot already:
+
+100
+00:03:34,560 --> 00:03:35,920
+knowledge and information about
+
+101
+00:03:35,920 --> 00:03:37,660
+new or changed product and services
+
+102
+00:03:37,660 --> 00:03:39,920
+is going to come from design & transition.
+
+103
+00:03:39,920 --> 00:03:42,800
+We need to know what design
+& transition is going to do
+
+104
+00:03:42,800 --> 00:03:44,680
+for some new service so that we can then
+
+105
+00:03:44,680 --> 00:03:46,550
+build to that specification.
+
+106
+00:03:46,550 --> 00:03:48,440
+And, the other thing with
+knowledge and information
+
+107
+00:03:48,440 --> 00:03:51,360
+is anything that comes from a
+third-party service component.
+
+108
+00:03:51,360 --> 00:03:54,320
+That information is going
+to come from engage as well
+
+109
+00:03:54,320 --> 00:03:56,650
+because engage is going to push that out
+
+110
+00:03:56,650 --> 00:03:59,820
+and get it from our third-party suppliers.
+
+111
+00:03:59,820 --> 00:04:01,490
+Now that we know all of the inputs,
+
+112
+00:04:01,490 --> 00:04:03,720
+let's talk about some of the outputs.
+
+113
+00:04:03,720 --> 00:04:05,970
+One of the outputs is service components
+
+114
+00:04:05,970 --> 00:04:07,990
+for delivery and support.
+
+115
+00:04:07,990 --> 00:04:09,860
+As I go and I build a service,
+
+116
+00:04:09,860 --> 00:04:11,880
+I'm going to build
+different components for it.
+
+117
+00:04:11,880 --> 00:04:13,570
+I might build some software code
+
+118
+00:04:13,570 --> 00:04:16,640
+or a particular server
+or a particular system.
+
+119
+00:04:16,640 --> 00:04:19,520
+Once I do and it goes into live operation,
+
+120
+00:04:19,520 --> 00:04:22,420
+it's no longer my problem as Obtain/Build.
+
+121
+00:04:22,420 --> 00:04:25,470
+It now gets transitioned
+over to deliver & support,
+
+122
+00:04:25,470 --> 00:04:27,400
+who's going to run it on a daily basis
+
+123
+00:04:27,400 --> 00:04:29,380
+to give the end user what they need.
+
+124
+00:04:29,380 --> 00:04:31,490
+This can include things like spare parts,
+
+125
+00:04:31,490 --> 00:04:32,510
+consumables,
+
+126
+00:04:32,510 --> 00:04:33,720
+new functionality,
+
+127
+00:04:33,720 --> 00:04:35,580
+systems and software.
+
+128
+00:04:35,580 --> 00:04:37,340
+All of this stuff is stuff
+
+129
+00:04:37,340 --> 00:04:40,500
+that we can go and give
+to deliver & support.
+
+130
+00:04:40,500 --> 00:04:42,500
+Generally, when it's something big,
+
+131
+00:04:42,500 --> 00:04:44,340
+like a new system or a new function,
+
+132
+00:04:44,340 --> 00:04:46,240
+it's going to go from Obtain/Build
+
+133
+00:04:46,240 --> 00:04:49,970
+back to transition and from
+transition to deliver & support.
+
+134
+00:04:49,970 --> 00:04:51,140
+But if it's something small,
+
+135
+00:04:51,140 --> 00:04:53,250
+like a spare part or a consumable,
+
+136
+00:04:53,250 --> 00:04:55,670
+then it doesn't need to go
+to design & transition again
+
+137
+00:04:55,670 --> 00:04:58,760
+and instead, it'll go
+straight to deliver & support.
+
+138
+00:04:58,760 --> 00:05:01,620
+Let's say for example that I
+built a brand new web service
+
+139
+00:05:01,620 --> 00:05:04,180
+and we want to get it out
+into the live environment.
+
+140
+00:05:04,180 --> 00:05:06,380
+Well, we built it here in Obtain/Build
+
+141
+00:05:06,380 --> 00:05:09,550
+based on the designs that we
+got from design & transition.
+
+142
+00:05:09,550 --> 00:05:11,180
+Now that we've built it though,
+
+143
+00:05:11,180 --> 00:05:13,910
+we're going to turn that back
+over to design & transition
+
+144
+00:05:13,910 --> 00:05:17,090
+so that they can transition
+that into the live environment
+
+145
+00:05:17,090 --> 00:05:17,923
+and from them,
+
+146
+00:05:17,923 --> 00:05:22,170
+it's going to go back over
+into the delivery and support.
+
+147
+00:05:22,170 --> 00:05:24,130
+You can see how all these
+processes and activities
+
+148
+00:05:24,130 --> 00:05:25,820
+are going to tie together.
+
+149
+00:05:25,820 --> 00:05:27,730
+Another output from this activity
+
+150
+00:05:27,730 --> 00:05:29,300
+is knowledge and information about
+
+151
+00:05:29,300 --> 00:05:31,160
+our new and changed service components
+
+152
+00:05:31,160 --> 00:05:33,530
+to all of the other
+value chain activities.
+
+153
+00:05:33,530 --> 00:05:35,220
+Any time I built something new,
+
+154
+00:05:35,220 --> 00:05:36,990
+I needed to tell everybody about it
+
+155
+00:05:36,990 --> 00:05:38,400
+so they know the functionality,
+
+156
+00:05:38,400 --> 00:05:39,580
+the capabilities,
+
+157
+00:05:39,580 --> 00:05:41,060
+how long that thing will last,
+
+158
+00:05:41,060 --> 00:05:43,080
+when it needs to be replaced or repaired
+
+159
+00:05:43,080 --> 00:05:44,340
+and we can plan for it.
+
+160
+00:05:44,340 --> 00:05:45,670
+We can design for it.
+
+161
+00:05:45,670 --> 00:05:46,940
+We can support it.
+
+162
+00:05:46,940 --> 00:05:48,020
+All of the other activities
+
+163
+00:05:48,020 --> 00:05:50,000
+are going to rely on this
+knowledge & information.
+
+164
+00:05:50,000 --> 00:05:51,380
+And that's why having a good
+
+165
+00:05:51,380 --> 00:05:54,440
+knowledge management
+process is really important.
+
+166
+00:05:54,440 --> 00:05:56,860
+Now, when we go back to
+contracts and agreements,
+
+167
+00:05:56,860 --> 00:05:58,440
+we're going to send all that information
+
+168
+00:05:58,440 --> 00:06:00,190
+and the requirements we have for those
+
+169
+00:06:00,190 --> 00:06:01,380
+back to engage,
+
+170
+00:06:01,380 --> 00:06:04,060
+who's going to engage with
+those external stakeholders,
+
+171
+00:06:04,060 --> 00:06:04,893
+those partners,
+
+172
+00:06:04,893 --> 00:06:06,080
+and those suppliers.
+
+173
+00:06:06,080 --> 00:06:08,600
+And finally, we're going
+to get all the information
+
+174
+00:06:08,600 --> 00:06:12,800
+about our own activity here
+inside of the Obtain and Build
+
+175
+00:06:12,800 --> 00:06:14,790
+and we're going to collect
+that performance information
+
+176
+00:06:14,790 --> 00:06:16,010
+and improvement opportunities
+
+177
+00:06:16,010 --> 00:06:18,520
+and pass that over to
+the improve activity.
+
+178
+00:06:18,520 --> 00:06:20,050
+That way, they can consolidate that
+
+179
+00:06:20,050 --> 00:06:22,940
+and look holistically
+across all of the activities
+
+180
+00:06:22,940 --> 00:06:25,850
+and figure out how we
+can best improve ourself.
+
+181
+00:06:25,850 --> 00:06:27,360
+So, when it comes down to it,
+
+182
+00:06:27,360 --> 00:06:29,570
+and we've talked about
+the value chain activity
+
+183
+00:06:29,570 --> 00:06:31,090
+of Obtain and Build,
+
+184
+00:06:31,090 --> 00:06:34,100
+I want you to think about
+it pretty simply like this.
+
+185
+00:06:34,100 --> 00:06:37,510
+Any time we're going to buy
+something and install it,
+
+186
+00:06:37,510 --> 00:06:39,990
+that's going to be part
+of this Obtain/build.
+
+187
+00:06:39,990 --> 00:06:42,980
+If we're coding something and
+we're creating a new service,
+
+188
+00:06:42,980 --> 00:06:44,990
+that's going to be inside Obtain/build.
+
+189
+00:06:44,990 --> 00:06:47,010
+It's when the thing is
+actually being built
+
+190
+00:06:47,010 --> 00:06:49,860
+and developed and coded
+based on the requirements
+
+191
+00:06:49,860 --> 00:06:52,280
+you got from design & transition.
+
+192
+00:06:52,280 --> 00:06:53,240
+Once it's ready,
+
+193
+00:06:53,240 --> 00:06:54,470
+you're going to turn that back over
+
+194
+00:06:54,470 --> 00:06:56,120
+either to design & transition
+
+195
+00:06:56,120 --> 00:06:58,600
+to formally transition
+it to delivery & support
+
+196
+00:06:58,600 --> 00:07:00,490
+or in the case of something minor
+
+197
+00:07:00,490 --> 00:07:03,580
+like a replacement switch
+or replacement hardware,
+
+198
+00:07:03,580 --> 00:07:06,040
+that might go directly
+to deliver & support,
+
+199
+00:07:06,040 --> 00:07:07,740
+which we're going to talk about next.
+

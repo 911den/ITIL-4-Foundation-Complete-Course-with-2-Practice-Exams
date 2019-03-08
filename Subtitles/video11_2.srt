@@ -1,0 +1,204 @@
+﻿1
+00:00:00,840 --> 00:00:02,560
+- Congratulations you did it,
+
+2
+00:00:02,560 --> 00:00:04,410
+you've reached the end of the course.
+
+3
+00:00:04,410 --> 00:00:06,730
+Together, we have spent a lot of time
+
+4
+00:00:06,730 --> 00:00:08,330
+as we've gone through 100 lessons
+
+5
+00:00:08,330 --> 00:00:10,460
+of videos and quizzes to teach you
+
+6
+00:00:10,460 --> 00:00:14,070
+everything you need to know
+for the ITIL 4 Foundation exam.
+
+7
+00:00:14,070 --> 00:00:15,400
+Now, if you're like most students
+
+8
+00:00:15,400 --> 00:00:17,800
+you're getting ready to go take that exam,
+
+9
+00:00:17,800 --> 00:00:19,490
+what should you being doing now?
+
+10
+00:00:19,490 --> 00:00:21,960
+First, you should make sure
+you have that study guide
+
+11
+00:00:21,960 --> 00:00:23,720
+from lesson one of the course.
+
+12
+00:00:23,720 --> 00:00:26,370
+In there we have all of
+the definitions you need,
+
+13
+00:00:26,370 --> 00:00:28,640
+and all of the purposes
+and all of the terms
+
+14
+00:00:28,640 --> 00:00:30,010
+that are memorization items,
+
+15
+00:00:30,010 --> 00:00:32,290
+as well as all of our
+notes from the course.
+
+16
+00:00:32,290 --> 00:00:33,900
+If you've been following
+along as we've gone through
+
+17
+00:00:33,900 --> 00:00:36,160
+the course and that guide,
+you've probably highlighted it
+
+18
+00:00:36,160 --> 00:00:38,450
+and taken notes, which is great.
+
+19
+00:00:38,450 --> 00:00:41,110
+Then, I want you to take
+some practice exams.
+
+20
+00:00:41,110 --> 00:00:43,510
+I've included a couple
+of them in this course
+
+21
+00:00:43,510 --> 00:00:45,180
+and I want you to make
+sure you're taking those
+
+22
+00:00:45,180 --> 00:00:46,560
+and seeing where you score.
+
+23
+00:00:46,560 --> 00:00:49,580
+If you're scoring 75%, or 80%, or higher,
+
+24
+00:00:49,580 --> 00:00:52,670
+you're ready to take the
+real certification exam.
+
+25
+00:00:52,670 --> 00:00:54,400
+If you're not, you may want to get
+
+26
+00:00:54,400 --> 00:00:57,190
+a couple more practice
+exams and keep practicing,
+
+27
+00:00:57,190 --> 00:00:59,150
+because that exam is expensive
+
+28
+00:00:59,150 --> 00:01:02,110
+and so another 10 or $15
+to get some practice exams
+
+29
+00:01:02,110 --> 00:01:04,500
+might be worthwhile so
+you can practice more
+
+30
+00:01:04,500 --> 00:01:06,120
+with some new questions.
+
+31
+00:01:06,120 --> 00:01:08,730
+Once you feel confident, I
+want you to get your voucher
+
+32
+00:01:08,730 --> 00:01:10,150
+and schedule your exam.
+
+33
+00:01:10,150 --> 00:01:13,100
+Set a date in stone so you know
+when you're going to take it.
+
+34
+00:01:13,100 --> 00:01:16,240
+That will help you study
+better and more efficiently.
+
+35
+00:01:16,240 --> 00:01:18,650
+As I said back in our
+first lesson together,
+
+36
+00:01:18,650 --> 00:01:20,840
+we're always going back
+and improving this course
+
+37
+00:01:20,840 --> 00:01:22,550
+based on the feedback of our students.
+
+38
+00:01:22,550 --> 00:01:24,240
+If I didn't explain something well enough
+
+39
+00:01:24,240 --> 00:01:26,940
+or go into enough depth
+based on the exam you took,
+
+40
+00:01:26,940 --> 00:01:28,720
+please let me know
+because we're constantly
+
+41
+00:01:28,720 --> 00:01:30,300
+adding more to this course to make it
+
+42
+00:01:30,300 --> 00:01:33,920
+the best course there is for
+anyone studying for ITIL 4.
+
+43
+00:01:33,920 --> 00:01:36,720
+So, once you pass the exam,
+let me know how you did,
+
+44
+00:01:36,720 --> 00:01:38,190
+I'd love to hear about it,
+
+45
+00:01:38,190 --> 00:01:41,473
+and I hope to see you in a
+future course, good luck!
+

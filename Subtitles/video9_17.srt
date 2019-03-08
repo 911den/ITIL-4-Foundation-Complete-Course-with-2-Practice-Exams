@@ -1,0 +1,205 @@
+﻿1
+00:00:00,740 --> 00:00:02,360
+- Service Design.
+
+2
+00:00:02,360 --> 00:00:04,000
+This practice is another one
+
+3
+00:00:04,000 --> 00:00:05,480
+inside this category that
+we're going to discuss
+
+4
+00:00:05,480 --> 00:00:08,060
+for your general awareness
+but it isn't covered
+
+5
+00:00:08,060 --> 00:00:09,300
+on the exam.
+
+6
+00:00:09,300 --> 00:00:12,080
+Now service is the practice
+of designing products
+
+7
+00:00:12,080 --> 00:00:14,120
+and services that are fit for purpose,
+
+8
+00:00:14,120 --> 00:00:16,060
+Fit For Use and that it can be delivered
+
+9
+00:00:16,060 --> 00:00:18,560
+by the organization and its ecosystem.
+
+10
+00:00:18,560 --> 00:00:19,646
+Let's break that down a little bit,
+
+11
+00:00:19,646 --> 00:00:21,227
+cause there's a couple
+of key terms in there
+
+12
+00:00:21,227 --> 00:00:23,080
+that we might recognize.
+
+13
+00:00:23,080 --> 00:00:25,110
+First, Fit for Purpose.
+
+14
+00:00:25,110 --> 00:00:26,710
+What does that remind you of?
+
+15
+00:00:26,710 --> 00:00:28,420
+That's right, utility.
+
+16
+00:00:28,420 --> 00:00:30,200
+Fit for Purpose is utility.
+
+17
+00:00:30,200 --> 00:00:31,425
+We want to make sure that our products
+
+18
+00:00:31,425 --> 00:00:32,990
+has good utility.
+
+19
+00:00:32,990 --> 00:00:34,860
+They do what we need them to do.
+
+20
+00:00:34,860 --> 00:00:37,320
+We also have Fit For
+Use in this definition.
+
+21
+00:00:37,320 --> 00:00:38,560
+What's Fit For Use?
+
+22
+00:00:38,560 --> 00:00:40,040
+Well that's warranty.
+
+23
+00:00:40,040 --> 00:00:41,720
+We want to make sure
+that it meets all of the
+
+24
+00:00:41,720 --> 00:00:42,996
+standards and requirements
+that we were given
+
+25
+00:00:42,996 --> 00:00:45,140
+as part of our warranty.
+
+26
+00:00:45,140 --> 00:00:46,760
+And then finally we have this
+
+27
+00:00:46,760 --> 00:00:49,380
+delivered by the organization
+and its ecosystem,
+
+28
+00:00:49,380 --> 00:00:50,323
+what's that talking about?
+
+29
+00:00:50,323 --> 00:00:53,590
+It's saying that we have
+the capability of doing it.
+
+30
+00:00:53,590 --> 00:00:55,960
+For example we are a training company.
+
+31
+00:00:55,960 --> 00:00:58,640
+We have a lot of
+capabilities that we can do,
+
+32
+00:00:58,640 --> 00:01:00,840
+should we be doing video hosting?
+
+33
+00:01:00,840 --> 00:01:03,480
+Well that's probably not one
+of our core capabilities.
+
+34
+00:01:03,480 --> 00:01:05,471
+So instead, we're not going
+to design that service
+
+35
+00:01:05,471 --> 00:01:07,600
+that we are going to do it in house,
+
+36
+00:01:07,600 --> 00:01:09,990
+instead we would design it to outsource
+
+37
+00:01:09,990 --> 00:01:11,330
+that part of our brand.
+
+38
+00:01:11,330 --> 00:01:13,480
+That way, we can still
+make sure we have a service
+
+39
+00:01:13,480 --> 00:01:15,800
+that is Fit For Use, fit for purpose,
+
+40
+00:01:15,800 --> 00:01:19,210
+and it can be delivered
+effectively by our ecosystem
+
+41
+00:01:19,210 --> 00:01:20,980
+meaning our partners and suppliers,
+
+42
+00:01:20,980 --> 00:01:23,860
+as opposed to us the organization ourself.
+
+43
+00:01:23,860 --> 00:01:25,013
+That's the idea with service design,
+
+44
+00:01:25,013 --> 00:01:27,690
+you want to think about
+your products and services
+
+45
+00:01:27,690 --> 00:01:30,190
+and how you can best build
+them and design them,
+
+46
+00:01:30,190 --> 00:01:32,504
+so that you're getting the
+best warranty and utility,
+
+47
+00:01:32,504 --> 00:01:34,133
+for your organization.
+

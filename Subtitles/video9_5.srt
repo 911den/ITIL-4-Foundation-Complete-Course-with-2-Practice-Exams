@@ -1,0 +1,944 @@
+﻿1
+00:00:00,730 --> 00:00:03,370
+- The service desk,
+this is another practice
+
+2
+00:00:03,370 --> 00:00:04,900
+that you have to know in depth.
+
+3
+00:00:04,900 --> 00:00:06,550
+Luckily, it's probably the one you
+
+4
+00:00:06,550 --> 00:00:08,900
+already know the most about,
+because most of us have dealt
+
+5
+00:00:08,900 --> 00:00:11,460
+with a service desk at
+some point in our life.
+
+6
+00:00:11,460 --> 00:00:13,340
+The purpose of the
+service desk practice is
+
+7
+00:00:13,340 --> 00:00:15,320
+to capture demand for incident resolution
+
+8
+00:00:15,320 --> 00:00:16,870
+and service requests.
+
+9
+00:00:16,870 --> 00:00:19,660
+It should also be the entry
+point or single point of contact
+
+10
+00:00:19,660 --> 00:00:22,700
+for your service provider
+for all of its users.
+
+11
+00:00:22,700 --> 00:00:25,610
+Now, once that issue
+request or query is received
+
+12
+00:00:25,610 --> 00:00:28,110
+by the service desk, they're
+going to acknowledge it,
+
+13
+00:00:28,110 --> 00:00:31,020
+classify it, own it, and act upon it.
+
+14
+00:00:31,020 --> 00:00:32,930
+This is the process and the workflow
+
+15
+00:00:32,930 --> 00:00:35,870
+that's generally used for
+a service desk practice.
+
+16
+00:00:35,870 --> 00:00:38,250
+Now, the reason why this
+is your single point is
+
+17
+00:00:38,250 --> 00:00:40,240
+because your service
+desk is going to be able
+
+18
+00:00:40,240 --> 00:00:43,020
+to take in everything,
+whether it's a change request,
+
+19
+00:00:43,020 --> 00:00:44,670
+whether it's a request for service,
+
+20
+00:00:44,670 --> 00:00:46,000
+or whether it's an incident,
+
+21
+00:00:46,000 --> 00:00:48,360
+and they can route it
+to the appropriate desk.
+
+22
+00:00:48,360 --> 00:00:50,050
+Now, this isn't the way service desks
+
+23
+00:00:50,050 --> 00:00:51,430
+were originally designed, though.
+
+24
+00:00:51,430 --> 00:00:53,710
+The role of the service desk has changed.
+
+25
+00:00:53,710 --> 00:00:55,530
+It used to be that we
+had a simple help desk
+
+26
+00:00:55,530 --> 00:00:57,380
+that was there to solve technical issues.
+
+27
+00:00:57,380 --> 00:01:00,070
+But more recently, it's
+become the one-stop shop
+
+28
+00:01:00,070 --> 00:01:03,530
+for everything between the
+users and the service provider.
+
+29
+00:01:03,530 --> 00:01:05,420
+This new focus of the service desk is
+
+30
+00:01:05,420 --> 00:01:07,790
+to provide support for
+the people and business,
+
+31
+00:01:07,790 --> 00:01:10,290
+rather than simply the technical issues.
+
+32
+00:01:10,290 --> 00:01:12,440
+Our service desk has a major influence
+
+33
+00:01:12,440 --> 00:01:13,810
+on the users' experience
+
+34
+00:01:13,810 --> 00:01:16,950
+and how the users are going to
+perceive the service provider.
+
+35
+00:01:16,950 --> 00:01:18,370
+And so, it's really important
+
+36
+00:01:18,370 --> 00:01:20,240
+that we get the service desk right.
+
+37
+00:01:20,240 --> 00:01:22,820
+Now, because of this, the
+service desk has become
+
+38
+00:01:22,820 --> 00:01:25,500
+really important, in
+fact, for most people,
+
+39
+00:01:25,500 --> 00:01:27,190
+this is one of the
+first places you'll work
+
+40
+00:01:27,190 --> 00:01:29,470
+when you work in IT service management.
+
+41
+00:01:29,470 --> 00:01:32,020
+The service desk has to have
+a practical understanding
+
+42
+00:01:32,020 --> 00:01:34,680
+of the entire organization
+and how it functions,
+
+43
+00:01:34,680 --> 00:01:36,230
+because they are the gatekeeper.
+
+44
+00:01:36,230 --> 00:01:38,020
+Everything comes into
+them, and then they have
+
+45
+00:01:38,020 --> 00:01:39,720
+to route it to the right place.
+
+46
+00:01:39,720 --> 00:01:42,440
+This service desk has to
+be the empathetic link
+
+47
+00:01:42,440 --> 00:01:44,640
+between the service
+provider and its users.
+
+48
+00:01:44,640 --> 00:01:45,850
+And that's why, a lot of times,
+
+49
+00:01:45,850 --> 00:01:48,110
+you'll find it's not even
+the most technical people
+
+50
+00:01:48,110 --> 00:01:49,800
+that work at the service desk.
+
+51
+00:01:49,800 --> 00:01:51,070
+The service desk, instead,
+
+52
+00:01:51,070 --> 00:01:53,740
+focuses on excellent
+customer service experiences
+
+53
+00:01:53,740 --> 00:01:56,580
+with personal contact when
+it's needed by the user.
+
+54
+00:01:56,580 --> 00:01:59,030
+This is why soft skills
+are really important
+
+55
+00:01:59,030 --> 00:02:02,080
+over technical skills for
+service desk personnel.
+
+56
+00:02:02,080 --> 00:02:03,970
+Your support and development
+teams need to work
+
+57
+00:02:03,970 --> 00:02:06,270
+in close collaboration
+with your service desk,
+
+58
+00:02:06,270 --> 00:02:08,680
+passing information to
+and from the service desk,
+
+59
+00:02:08,680 --> 00:02:10,950
+because the service desk is
+the one who's going to interact
+
+60
+00:02:10,950 --> 00:02:12,940
+with your users and know the needs
+
+61
+00:02:12,940 --> 00:02:14,620
+that they have and the demands.
+
+62
+00:02:14,620 --> 00:02:15,990
+When the customer calls up and says,
+
+63
+00:02:15,990 --> 00:02:18,000
+hey, what's the current
+status of my ticket,
+
+64
+00:02:18,000 --> 00:02:20,700
+they're talking to the service
+desk, not the technician.
+
+65
+00:02:20,700 --> 00:02:22,860
+And so, that technician needs
+to make sure they're feeding
+
+66
+00:02:22,860 --> 00:02:25,240
+that information back to the service desk
+
+67
+00:02:25,240 --> 00:02:27,980
+so the service desk can
+engage with the customer.
+
+68
+00:02:27,980 --> 00:02:30,360
+Now, how does a user
+access the service desk
+
+69
+00:02:30,360 --> 00:02:31,700
+for assistance, though?
+
+70
+00:02:31,700 --> 00:02:34,030
+Well, this is going to
+depend on your organization.
+
+71
+00:02:34,030 --> 00:02:37,010
+But you may rely on phone
+calls, service portals,
+
+72
+00:02:37,010 --> 00:02:40,660
+live chat with a real
+person, a chatbot, email,
+
+73
+00:02:40,660 --> 00:02:42,830
+walk-in services, text messages,
+
+74
+00:02:42,830 --> 00:02:46,040
+social media messaging, or
+even discussion board forums.
+
+75
+00:02:46,040 --> 00:02:48,710
+It really depends on how
+your company wants to do it.
+
+76
+00:02:48,710 --> 00:02:51,470
+Now, there are four main
+types of service desks.
+
+77
+00:02:51,470 --> 00:02:55,490
+They are local, centralized,
+virtual, and follow the sun.
+
+78
+00:02:55,490 --> 00:02:58,300
+With a local service desk,
+these are going to be co-located
+
+79
+00:02:58,300 --> 00:03:01,760
+within or physically close
+to the users that it serves.
+
+80
+00:03:01,760 --> 00:03:03,880
+This often is going to
+aid in communication,
+
+81
+00:03:03,880 --> 00:03:06,690
+provides a very clear
+presence of a person there,
+
+82
+00:03:06,690 --> 00:03:08,430
+and it can support a local language
+
+83
+00:03:08,430 --> 00:03:10,440
+or cultural differences, if needed.
+
+84
+00:03:10,440 --> 00:03:13,110
+But the big problem is,
+it's often inefficient
+
+85
+00:03:13,110 --> 00:03:16,210
+and expensive, because you're
+tying up a single person
+
+86
+00:03:16,210 --> 00:03:19,760
+to be inside this office, and
+they may not have enough calls
+
+87
+00:03:19,760 --> 00:03:22,340
+to justify 40 hours a week of work.
+
+88
+00:03:22,340 --> 00:03:23,940
+Now, a centralized service desk,
+
+89
+00:03:23,940 --> 00:03:26,060
+on the other hand, tries to avoid that.
+
+90
+00:03:26,060 --> 00:03:29,350
+They try to put all of the
+service desk people in one area,
+
+91
+00:03:29,350 --> 00:03:31,850
+and everyone calls a single 1-800 number
+
+92
+00:03:31,850 --> 00:03:34,310
+or goes to a certain
+website to get support.
+
+93
+00:03:34,310 --> 00:03:36,790
+This can be very efficient
+and cost-effective,
+
+94
+00:03:36,790 --> 00:03:38,580
+'cause it allows fewer staff to deal
+
+95
+00:03:38,580 --> 00:03:40,650
+with a much higher volume of calls.
+
+96
+00:03:40,650 --> 00:03:42,590
+But it might also be necessary for you
+
+97
+00:03:42,590 --> 00:03:45,010
+to still maintain some
+kind of local presence,
+
+98
+00:03:45,010 --> 00:03:47,620
+because some of the staff
+can't fix the problems
+
+99
+00:03:47,620 --> 00:03:50,150
+on the other side of the world
+if they can't touch the desk.
+
+100
+00:03:50,150 --> 00:03:53,180
+And so, we try to handle
+anything that we can remotely
+
+101
+00:03:53,180 --> 00:03:54,660
+through the centralized service desk,
+
+102
+00:03:54,660 --> 00:03:56,730
+while still maybe having one or two people
+
+103
+00:03:56,730 --> 00:03:58,620
+at a local service desk.
+
+104
+00:03:58,620 --> 00:04:00,750
+Then, we have a virtual service desk.
+
+105
+00:04:00,750 --> 00:04:03,120
+Now, because of the way we
+have technology these days,
+
+106
+00:04:03,120 --> 00:04:05,360
+particularly the internet
+and Voice over IP,
+
+107
+00:04:05,360 --> 00:04:07,580
+and all the corporate
+support tools that we have,
+
+108
+00:04:07,580 --> 00:04:09,670
+it's possible for us to
+give you the impression
+
+109
+00:04:09,670 --> 00:04:11,990
+that there's a single
+centralized service desk,
+
+110
+00:04:11,990 --> 00:04:15,040
+when in fact, a virtual
+service desk is used instead.
+
+111
+00:04:15,040 --> 00:04:16,990
+This virtual service desk allows agents
+
+112
+00:04:16,990 --> 00:04:18,170
+to work from multiple,
+
+113
+00:04:18,170 --> 00:04:21,070
+geographically-dispersed
+locations all around the world.
+
+114
+00:04:21,070 --> 00:04:23,250
+It requires some sophisticated technology,
+
+115
+00:04:23,250 --> 00:04:24,650
+but it does allow us to have access
+
+116
+00:04:24,650 --> 00:04:27,290
+from anywhere in the world,
+and we can route those calls
+
+117
+00:04:27,290 --> 00:04:29,010
+to the right agent, no matter what time
+
+118
+00:04:29,010 --> 00:04:31,570
+of the day it is, across the globe.
+
+119
+00:04:31,570 --> 00:04:34,490
+Our fourth model is what
+we call follow the sun.
+
+120
+00:04:34,490 --> 00:04:38,010
+Follow the sun is where global
+corporations have to combine
+
+121
+00:04:38,010 --> 00:04:40,960
+two or more geographically-dispersed
+service desks
+
+122
+00:04:40,960 --> 00:04:43,660
+to provide 24-hour
+follow-the-sun coverage.
+
+123
+00:04:43,660 --> 00:04:46,700
+For example, maybe we
+had three service desks,
+
+124
+00:04:46,700 --> 00:04:50,300
+one in London, one in New
+York, and one in India.
+
+125
+00:04:50,300 --> 00:04:52,710
+By doing that, as it's daylight in London,
+
+126
+00:04:52,710 --> 00:04:53,940
+they would take the calls.
+
+127
+00:04:53,940 --> 00:04:55,600
+Once it's daylight in America,
+
+128
+00:04:55,600 --> 00:04:57,250
+the New York office would take the calls.
+
+129
+00:04:57,250 --> 00:04:58,820
+And then once it's daylight in India,
+
+130
+00:04:58,820 --> 00:04:59,940
+they would take the calls.
+
+131
+00:04:59,940 --> 00:05:02,330
+Regardless of where the
+customer is calling from,
+
+132
+00:05:02,330 --> 00:05:04,320
+it would be whichever
+service desk was open
+
+133
+00:05:04,320 --> 00:05:07,360
+at that particular time, so
+we can give a full 24 hours
+
+134
+00:05:07,360 --> 00:05:09,830
+of coverage using those
+three service desks.
+
+135
+00:05:09,830 --> 00:05:12,060
+That's the idea here when we
+talk about a service desk.
+
+136
+00:05:12,060 --> 00:05:14,560
+We want to make sure our user
+has a place they can call
+
+137
+00:05:14,560 --> 00:05:16,990
+and get support from any time they need.
+
+138
+00:05:16,990 --> 00:05:19,510
+Now, how do you run an
+effective service desk?
+
+139
+00:05:19,510 --> 00:05:22,720
+Well, you need to have effective
+supporting technologies.
+
+140
+00:05:22,720 --> 00:05:25,020
+This is especially true
+when you use a centralized,
+
+141
+00:05:25,020 --> 00:05:27,710
+virtual, or follow the
+sun service desk model.
+
+142
+00:05:27,710 --> 00:05:30,610
+These systems might be things
+like telephone systems,
+
+143
+00:05:30,610 --> 00:05:32,970
+workflow systems, workflow management
+
+144
+00:05:32,970 --> 00:05:34,730
+and resource planning systems,
+
+145
+00:05:34,730 --> 00:05:38,350
+knowledge bases, call recording
+and remote access tools,
+
+146
+00:05:38,350 --> 00:05:40,040
+dashboards and monitoring tools,
+
+147
+00:05:40,040 --> 00:05:42,960
+configuration management
+systems, and many others.
+
+148
+00:05:42,960 --> 00:05:45,090
+Now, when you're going to
+put a service desk together,
+
+149
+00:05:45,090 --> 00:05:47,160
+you have to fill it with employees, right?
+
+150
+00:05:47,160 --> 00:05:49,810
+What should you look for
+when you're hiring employees?
+
+151
+00:05:49,810 --> 00:05:51,080
+Well, when you're hiring employees
+
+152
+00:05:51,080 --> 00:05:53,440
+for a service desk position,
+you should look for people
+
+153
+00:05:53,440 --> 00:05:55,750
+who have empathy, emotional intelligence,
+
+154
+00:05:55,750 --> 00:05:57,590
+effective communication skills,
+
+155
+00:05:57,590 --> 00:05:59,230
+excellent customer service skills,
+
+156
+00:05:59,230 --> 00:06:01,810
+an understanding of the business
+priorities and the ability
+
+157
+00:06:01,810 --> 00:06:05,010
+to conduct incident
+analysis and prioritization.
+
+158
+00:06:05,010 --> 00:06:06,630
+Notice, in that list,
+
+159
+00:06:06,630 --> 00:06:09,540
+I didn't highlight a strong
+technical capability, did I?
+
+160
+00:06:09,540 --> 00:06:12,150
+Instead, a service desk may be technical,
+
+161
+00:06:12,150 --> 00:06:14,420
+but most of the time,
+it doesn't have to be.
+
+162
+00:06:14,420 --> 00:06:16,220
+Most service desks are more focused
+
+163
+00:06:16,220 --> 00:06:19,230
+around the customer support
+and customer service aspects.
+
+164
+00:06:19,230 --> 00:06:20,630
+They leave the technical details
+
+165
+00:06:20,630 --> 00:06:22,320
+to the higher level of tiered support
+
+166
+00:06:22,320 --> 00:06:24,800
+that's going to come in
+when something's wrong.
+
+167
+00:06:24,800 --> 00:06:27,220
+Now, to finish up this
+lesson, let's talk about
+
+168
+00:06:27,220 --> 00:06:29,100
+how the support desk integrates
+
+169
+00:06:29,100 --> 00:06:30,820
+with the value chain activities.
+
+170
+00:06:30,820 --> 00:06:33,770
+First, improve, the
+service desk activities are
+
+171
+00:06:33,770 --> 00:06:36,240
+constantly monitoring
+and evaluating support
+
+172
+00:06:36,240 --> 00:06:39,590
+for continual improvement,
+alignment, and value creation.
+
+173
+00:06:39,590 --> 00:06:41,180
+They're going to get feedback from users,
+
+174
+00:06:41,180 --> 00:06:42,430
+collect that, and pass it
+
+175
+00:06:42,430 --> 00:06:45,450
+to the continual improvement
+process or practice.
+
+176
+00:06:45,450 --> 00:06:47,650
+When we talk about engage,
+the service desk is there
+
+177
+00:06:47,650 --> 00:06:49,560
+as our main channel for tactical
+
+178
+00:06:49,560 --> 00:06:51,330
+and operational engagement with users.
+
+179
+00:06:51,330 --> 00:06:53,270
+They're the ones contacting and talking
+
+180
+00:06:53,270 --> 00:06:55,550
+with the users on a daily basis.
+
+181
+00:06:55,550 --> 00:06:57,360
+When we talk about design and transition,
+
+182
+00:06:57,360 --> 00:06:59,020
+the service desk is going
+to provide a channel
+
+183
+00:06:59,020 --> 00:07:02,430
+for communicating with users
+about new and changed services.
+
+184
+00:07:02,430 --> 00:07:04,880
+The service desk, again,
+is that engage part, right?
+
+185
+00:07:04,880 --> 00:07:06,500
+So we're going to get this
+information from design
+
+186
+00:07:06,500 --> 00:07:09,120
+and transition, and pass
+it out to everybody else.
+
+187
+00:07:09,120 --> 00:07:11,780
+Also, our service desk
+personnel can participate
+
+188
+00:07:11,780 --> 00:07:14,870
+in release planning, testing,
+and early live support.
+
+189
+00:07:14,870 --> 00:07:16,260
+When we think about obtain and build,
+
+190
+00:07:16,260 --> 00:07:18,240
+the service desk can also be involved
+
+191
+00:07:18,240 --> 00:07:20,200
+in acquiring service
+components that are used
+
+192
+00:07:20,200 --> 00:07:22,990
+to fulfill service requests
+and resolve our incidents.
+
+193
+00:07:22,990 --> 00:07:24,840
+Maybe somebody's hard drive has crashed.
+
+194
+00:07:24,840 --> 00:07:26,820
+You as a service desk analyst might go
+
+195
+00:07:26,820 --> 00:07:28,090
+and order the new hard drive.
+
+196
+00:07:28,090 --> 00:07:30,220
+That's part of obtain and build.
+
+197
+00:07:30,220 --> 00:07:32,180
+And finally, deliver and support.
+
+198
+00:07:32,180 --> 00:07:34,620
+This is where the service
+desk is really focused.
+
+199
+00:07:34,620 --> 00:07:36,540
+The service desk is the coordination point
+
+200
+00:07:36,540 --> 00:07:38,230
+for managing all of the incidents,
+
+201
+00:07:38,230 --> 00:07:40,490
+all the problems, and all
+of the service requests.
+
+202
+00:07:40,490 --> 00:07:42,680
+And so, it's really important
+that you get it right
+
+203
+00:07:42,680 --> 00:07:44,150
+by making sure your service desk
+
+204
+00:07:44,150 --> 00:07:45,750
+has the right people employed,
+
+205
+00:07:45,750 --> 00:07:46,960
+that have been at the right training,
+
+206
+00:07:46,960 --> 00:07:49,380
+and they understand how the
+whole organization works
+
+207
+00:07:49,380 --> 00:07:51,763
+to get the best value for your end users.
+

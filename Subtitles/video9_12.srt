@@ -1,0 +1,123 @@
+﻿1
+00:00:00,950 --> 00:00:02,960
+- Availability management.
+
+2
+00:00:02,960 --> 00:00:05,700
+This is one that you don't
+have to recall for the exam.
+
+3
+00:00:05,700 --> 00:00:08,080
+Instead, this begins the ones
+that we're going to talk about
+
+4
+00:00:08,080 --> 00:00:09,930
+for your general awareness.
+
+5
+00:00:09,930 --> 00:00:11,770
+What is availability management?
+
+6
+00:00:11,770 --> 00:00:14,600
+Well, it's a practice to
+ensure services are delivered
+
+7
+00:00:14,600 --> 00:00:16,810
+at agreed-upon levels of availability
+
+8
+00:00:16,810 --> 00:00:19,400
+to meet the needs of customers and users.
+
+9
+00:00:19,400 --> 00:00:21,050
+When we talk about availability,
+
+10
+00:00:21,050 --> 00:00:23,370
+we're talking about the
+ability of an IT service
+
+11
+00:00:23,370 --> 00:00:24,960
+or other configuration item
+
+12
+00:00:24,960 --> 00:00:28,150
+to perform its agreed-upon
+function when it's required.
+
+13
+00:00:28,150 --> 00:00:31,070
+For example, if you want to
+go to my website right now,
+
+14
+00:00:31,070 --> 00:00:33,860
+you want to make when you
+type in diontraining.com,
+
+15
+00:00:33,860 --> 00:00:36,270
+the website comes up
+and you can read things.
+
+16
+00:00:36,270 --> 00:00:38,150
+That means it's available.
+
+17
+00:00:38,150 --> 00:00:41,950
+We aim to have 99.999% availability,
+
+18
+00:00:41,950 --> 00:00:44,980
+which means that our
+website is up at least
+
+19
+00:00:44,980 --> 00:00:47,570
+the entire year minus five minutes.
+
+20
+00:00:47,570 --> 00:00:49,210
+That's a pretty big ask, right?
+
+21
+00:00:49,210 --> 00:00:51,180
+To do that, we use load balancers,
+
+22
+00:00:51,180 --> 00:00:52,960
+we use multiple redundant servers,
+
+23
+00:00:52,960 --> 00:00:54,830
+and all sorts of cloud infrastructure
+
+24
+00:00:54,830 --> 00:00:57,120
+to make sure our server is up and running
+
+25
+00:00:57,120 --> 00:00:58,880
+any time you're trying to get to it.
+
+26
+00:00:58,880 --> 00:01:00,810
+That's what we're trying
+to do with availability,
+
+27
+00:01:00,810 --> 00:01:02,220
+and availability management
+
+28
+00:01:02,220 --> 00:01:05,023
+is simply the practice to
+ensure that that happens.
+

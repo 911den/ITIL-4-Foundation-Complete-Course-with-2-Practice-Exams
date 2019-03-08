@@ -1,0 +1,314 @@
+﻿1
+00:00:00,860 --> 00:00:03,110
+- Categories of practices.
+
+2
+00:00:03,110 --> 00:00:05,050
+Over the next three
+sections of the course,
+
+3
+00:00:05,050 --> 00:00:09,090
+we're going to cover all 34
+of the ITIL four practices.
+
+4
+00:00:09,090 --> 00:00:11,030
+These 34 individual practices
+
+5
+00:00:11,030 --> 00:00:13,470
+are divided up into three categories.
+
+6
+00:00:13,470 --> 00:00:16,550
+General management practices,
+service management practices,
+
+7
+00:00:16,550 --> 00:00:18,780
+and technical management practices.
+
+8
+00:00:18,780 --> 00:00:20,250
+This begs the question though,
+
+9
+00:00:20,250 --> 00:00:22,560
+what exactly is a practice?
+
+10
+00:00:22,560 --> 00:00:25,100
+You may remember from our
+service value system lesson
+
+11
+00:00:25,100 --> 00:00:26,570
+that there was a portion of the diagram
+
+12
+00:00:26,570 --> 00:00:28,370
+that called out these practices.
+
+13
+00:00:28,370 --> 00:00:31,410
+Well, a practice is a set
+of organized resources
+
+14
+00:00:31,410 --> 00:00:34,740
+designed for performing work
+or accomplishing an objective.
+
+15
+00:00:34,740 --> 00:00:36,250
+Each practice is going to support
+
+16
+00:00:36,250 --> 00:00:38,350
+multiple service value chain activities,
+
+17
+00:00:38,350 --> 00:00:39,910
+and it includes resources based on
+
+18
+00:00:39,910 --> 00:00:42,420
+the four dimensions of
+IT service management.
+
+19
+00:00:42,420 --> 00:00:44,010
+So, in this section of the course,
+
+20
+00:00:44,010 --> 00:00:47,590
+we're going to focus on the
+first 14 practices of ITIL four.
+
+21
+00:00:47,590 --> 00:00:50,680
+These are known as the
+general management practices.
+
+22
+00:00:50,680 --> 00:00:53,790
+But, before we dive into those
+general management practices,
+
+23
+00:00:53,790 --> 00:00:56,040
+let me cover what you
+need to know for the exam,
+
+24
+00:00:56,040 --> 00:00:58,280
+because we're going to
+cover a lot of information
+
+25
+00:00:58,280 --> 00:01:00,600
+during the next three
+sections of the course.
+
+26
+00:01:00,600 --> 00:01:03,020
+First, you need to be
+able to recall the purpose
+
+27
+00:01:03,020 --> 00:01:05,290
+of 15 of the ITIL practices.
+
+28
+00:01:05,290 --> 00:01:07,630
+I'm not going to list each
+of those 15 right now.
+
+29
+00:01:07,630 --> 00:01:10,840
+But instead, as we cover each
+practice in it's own video,
+
+30
+00:01:10,840 --> 00:01:12,020
+I'm going to tell you whether you need
+
+31
+00:01:12,020 --> 00:01:14,270
+to recall it for the exam or not.
+
+32
+00:01:14,270 --> 00:01:16,220
+For these 15 practices though,
+
+33
+00:01:16,220 --> 00:01:17,710
+you need to remember the definition,
+
+34
+00:01:17,710 --> 00:01:19,370
+since these are at the recall level
+
+35
+00:01:19,370 --> 00:01:21,120
+of knowledge for the exam.
+
+36
+00:01:21,120 --> 00:01:22,140
+Just as a reminder,
+
+37
+00:01:22,140 --> 00:01:25,060
+there are 34 practices
+inside of ITIL four,
+
+38
+00:01:25,060 --> 00:01:27,690
+and while I'm going to cover
+each of these at least briefly,
+
+39
+00:01:27,690 --> 00:01:28,560
+this is going to help you get
+
+40
+00:01:28,560 --> 00:01:30,880
+a general awareness of
+each of the 34 of them,
+
+41
+00:01:30,880 --> 00:01:33,240
+you only really need to know 15 of them
+
+42
+00:01:33,240 --> 00:01:35,370
+for the foundation level of the exam.
+
+43
+00:01:35,370 --> 00:01:37,750
+And of these 15, there are six of them
+
+44
+00:01:37,750 --> 00:01:39,790
+that you have to know more in depth.
+
+45
+00:01:39,790 --> 00:01:42,200
+Again, when I cover
+those specific practices,
+
+46
+00:01:42,200 --> 00:01:44,750
+I'm going to remind you that
+these are very important
+
+47
+00:01:44,750 --> 00:01:46,330
+and you're going to have
+to pay more attention
+
+48
+00:01:46,330 --> 00:01:48,240
+than just knowing the definition.
+
+49
+00:01:48,240 --> 00:01:50,250
+In fact, as we start
+each of these sections
+
+50
+00:01:50,250 --> 00:01:52,400
+covering the different
+categories of practices,
+
+51
+00:01:52,400 --> 00:01:53,910
+we're going to first cover the practices
+
+52
+00:01:53,910 --> 00:01:55,430
+that you have to know in depth.
+
+53
+00:01:55,430 --> 00:01:56,970
+Then, we're going to cover the practices
+
+54
+00:01:56,970 --> 00:01:59,340
+that you simply need to
+recall the definition for.
+
+55
+00:01:59,340 --> 00:02:01,150
+And then, we're going to
+finish out each section
+
+56
+00:02:01,150 --> 00:02:02,530
+with the practices that aren't covered
+
+57
+00:02:02,530 --> 00:02:04,290
+by the foundation exam, and instead,
+
+58
+00:02:04,290 --> 00:02:06,880
+are being covered just for
+your general awareness.
+
+59
+00:02:06,880 --> 00:02:09,000
+As we go through these three
+sections of the course,
+
+60
+00:02:09,000 --> 00:02:10,730
+we're also going to cover the seven terms
+
+61
+00:02:10,730 --> 00:02:13,140
+that are under the recall level
+of knowledge for the exam.
+
+62
+00:02:13,140 --> 00:02:14,240
+And we're going to do this throughout
+
+63
+00:02:14,240 --> 00:02:15,990
+our discussion of these practices.
+
+64
+00:02:15,990 --> 00:02:19,980
+These are the IT asset,
+event, configuration item,
+
+65
+00:02:19,980 --> 00:02:23,810
+change, incident,
+problem, and known error.
+
+66
+00:02:23,810 --> 00:02:25,130
+When we get to them in the lessons,
+
+67
+00:02:25,130 --> 00:02:27,340
+I'm going to remind you again
+that these are the terms
+
+68
+00:02:27,340 --> 00:02:29,710
+that you have to memorize
+the definitions for.
+
+69
+00:02:29,710 --> 00:02:31,540
+So, with all of that said,
+
+70
+00:02:31,540 --> 00:02:34,193
+let's dive in to the general
+management practices.
+

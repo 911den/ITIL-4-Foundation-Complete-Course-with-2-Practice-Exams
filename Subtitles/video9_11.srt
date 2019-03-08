@@ -1,0 +1,147 @@
+﻿1
+00:00:00,740 --> 00:00:02,850
+- Service Configuration Management.
+
+2
+00:00:02,850 --> 00:00:04,330
+This is another practice you have to
+
+3
+00:00:04,330 --> 00:00:06,030
+recall the definition for.
+
+4
+00:00:06,030 --> 00:00:08,130
+The purpose of this service
+configuration management
+
+5
+00:00:08,130 --> 00:00:10,590
+practice is to ensure
+that accurate and reliable
+
+6
+00:00:10,590 --> 00:00:13,080
+information about the
+configuration of services,
+
+7
+00:00:13,080 --> 00:00:15,939
+and the CIs known as configuration
+items that support them,
+
+8
+00:00:15,939 --> 00:00:19,400
+is available when and where it's needed.
+
+9
+00:00:19,400 --> 00:00:22,040
+So when I think about this,
+first we want to talk about,
+
+10
+00:00:22,040 --> 00:00:23,500
+what is a CI?
+
+11
+00:00:23,500 --> 00:00:26,270
+Well, a CI is any component
+that needs to be managed
+
+12
+00:00:26,270 --> 00:00:28,670
+in order to deliver an IT service.
+
+13
+00:00:28,670 --> 00:00:31,310
+This might be a server,
+it might be a switch.
+
+14
+00:00:31,310 --> 00:00:33,800
+It might be a desktop,
+it might be a laptop.
+
+15
+00:00:33,800 --> 00:00:36,280
+All of these could be configuration items.
+
+16
+00:00:36,280 --> 00:00:38,320
+The way that we track these is as a single
+
+17
+00:00:38,320 --> 00:00:41,060
+configuration item like
+your desktop computer
+
+18
+00:00:41,060 --> 00:00:43,550
+with Windows 10 and eight gigabytes of RAM
+
+19
+00:00:43,550 --> 00:00:46,710
+and a one terabyte hard
+drive is a single CI,
+
+20
+00:00:46,710 --> 00:00:49,140
+in most cases, promotes your organization.
+
+21
+00:00:49,140 --> 00:00:51,510
+So, this is the idea here
+that we have to think about
+
+22
+00:00:51,510 --> 00:00:54,400
+as we're tracking our service
+configuration management.
+
+23
+00:00:54,400 --> 00:00:55,800
+Now, as we figure out what our
+
+24
+00:00:55,800 --> 00:00:58,390
+service configuration management is
+
+25
+00:00:58,390 --> 00:00:59,931
+and we know what all these CIs are
+
+26
+00:00:59,931 --> 00:01:00,764
+and how they're configured,
+
+27
+00:01:00,764 --> 00:01:02,660
+that means any time we want
+to make a change to them
+
+28
+00:01:02,660 --> 00:01:05,070
+through change control,
+this is going to feed back
+
+29
+00:01:05,070 --> 00:01:07,020
+into the service configuration management
+
+30
+00:01:07,020 --> 00:01:08,470
+so we can update our database
+
+31
+00:01:08,470 --> 00:01:10,480
+and know exactly what devices
+
+32
+00:01:10,480 --> 00:01:13,430
+and what assets we have all
+throughout our organization
+
+33
+00:01:13,430 --> 00:01:15,380
+so we can get the most value from them.
+

@@ -1,0 +1,628 @@
+﻿1
+00:00:00,700 --> 00:00:02,330
+- In today's digital economy,
+
+2
+00:00:02,330 --> 00:00:03,960
+every organization in the world
+
+3
+00:00:03,960 --> 00:00:06,290
+has become a service organization.
+
+4
+00:00:06,290 --> 00:00:07,590
+You may think your organization
+
+5
+00:00:07,590 --> 00:00:09,230
+isn't a service organization,
+
+6
+00:00:09,230 --> 00:00:11,970
+but when you really look at
+what it does on a daily basis,
+
+7
+00:00:11,970 --> 00:00:14,660
+it truly is a service organization.
+
+8
+00:00:14,660 --> 00:00:15,590
+For example,
+
+9
+00:00:15,590 --> 00:00:17,080
+you may work for a grocery store,
+
+10
+00:00:17,080 --> 00:00:18,350
+and you may think you're in the business
+
+11
+00:00:18,350 --> 00:00:20,100
+of selling milk and cereal,
+
+12
+00:00:20,100 --> 00:00:21,580
+which are both products,
+
+13
+00:00:21,580 --> 00:00:23,390
+but in reality you're probably really
+
+14
+00:00:23,390 --> 00:00:25,280
+a service organization too.
+
+15
+00:00:25,280 --> 00:00:26,410
+Most of the services,
+
+16
+00:00:26,410 --> 00:00:27,810
+if not all of the services
+
+17
+00:00:27,810 --> 00:00:29,880
+that your company
+currently owns and manages,
+
+18
+00:00:29,880 --> 00:00:32,600
+is done to co-create
+value with your customers.
+
+19
+00:00:32,600 --> 00:00:35,780
+And these are enabled by
+information technology.
+
+20
+00:00:35,780 --> 00:00:37,690
+Now, how can I make this claim?
+
+21
+00:00:37,690 --> 00:00:40,530
+Well, let's consider the
+large retailer like Walmart,
+
+22
+00:00:40,530 --> 00:00:42,970
+who sells a large variety
+of different products,
+
+23
+00:00:42,970 --> 00:00:46,930
+from diapers to groceries to
+electronics and car tires.
+
+24
+00:00:46,930 --> 00:00:49,060
+Walmart has been wildly successful
+
+25
+00:00:49,060 --> 00:00:51,030
+in selling all of these
+different products,
+
+26
+00:00:51,030 --> 00:00:53,140
+but the particular products Walmart sells,
+
+27
+00:00:53,140 --> 00:00:55,020
+doesn't really matter that much.
+
+28
+00:00:55,020 --> 00:00:58,310
+Instead the real reason that
+Walmart has been so successful,
+
+29
+00:00:58,310 --> 00:00:59,910
+is that their available
+to provide a service
+
+30
+00:00:59,910 --> 00:01:01,390
+to their customers that no one else
+
+31
+00:01:01,390 --> 00:01:03,760
+has been able to do the way they have.
+
+32
+00:01:03,760 --> 00:01:07,340
+And that is a collection of
+services that's enabled by IT.
+
+33
+00:01:07,340 --> 00:01:08,470
+Walmart, for example,
+
+34
+00:01:08,470 --> 00:01:10,290
+has created a wonderfully robust
+
+35
+00:01:10,290 --> 00:01:12,250
+distribution and logistics system
+
+36
+00:01:12,250 --> 00:01:14,380
+to get their products
+to their stores quickly,
+
+37
+00:01:14,380 --> 00:01:18,090
+efficiently and more cost
+effectively than other people.
+
+38
+00:01:18,090 --> 00:01:19,300
+And this allows them to rely
+
+39
+00:01:19,300 --> 00:01:22,400
+on complex inventory tracking
+and logistic systems,
+
+40
+00:01:22,400 --> 00:01:26,050
+that are all run by various
+IT components and services.
+
+41
+00:01:26,050 --> 00:01:28,430
+They've been able to do
+this to provide products
+
+42
+00:01:28,430 --> 00:01:30,050
+at their everyday low price,
+
+43
+00:01:30,050 --> 00:01:31,590
+which is actually the service
+
+44
+00:01:31,590 --> 00:01:33,260
+they provide to their customers.
+
+45
+00:01:33,260 --> 00:01:35,290
+Walmart's service is
+bringing you the products
+
+46
+00:01:35,290 --> 00:01:38,670
+you want or need at the
+lowest price, always.
+
+47
+00:01:38,670 --> 00:01:41,040
+Other stores can't bring
+that to you at the same level
+
+48
+00:01:41,040 --> 00:01:43,060
+or the same cost that Walmart can.
+
+49
+00:01:43,060 --> 00:01:44,260
+So in a price battle,
+
+50
+00:01:44,260 --> 00:01:46,310
+Walmart is going to win every time,
+
+51
+00:01:46,310 --> 00:01:48,630
+because of their ability to embrace IT
+
+52
+00:01:48,630 --> 00:01:50,370
+to enable their services.
+
+53
+00:01:50,370 --> 00:01:52,640
+But how is Walmart
+co-creating value with me,
+
+54
+00:01:52,640 --> 00:01:54,090
+the customer?
+
+55
+00:01:54,090 --> 00:01:55,690
+Lets say I was having a party tonight,
+
+56
+00:01:55,690 --> 00:01:57,660
+and I've invited you over for dinner.
+
+57
+00:01:57,660 --> 00:02:00,560
+I might run over to Walmart to
+buy all the supplies I need.
+
+58
+00:02:00,560 --> 00:02:02,200
+Things like meat and cheeses,
+
+59
+00:02:02,200 --> 00:02:03,560
+vegetables and drinks,
+
+60
+00:02:03,560 --> 00:02:05,620
+and I bring them all back to my kitchen.
+
+61
+00:02:05,620 --> 00:02:07,400
+I then use all those ingredients
+
+62
+00:02:07,400 --> 00:02:09,470
+to cook a meal for my party tonight.
+
+63
+00:02:09,470 --> 00:02:11,990
+The value isn't the ingredients
+that I got from Walmart.
+
+64
+00:02:11,990 --> 00:02:13,390
+It's the outcome that I had
+
+65
+00:02:13,390 --> 00:02:15,740
+when I co-created value with Walmart.
+
+66
+00:02:15,740 --> 00:02:18,420
+Walmart provided all the
+ingredients at a low price,
+
+67
+00:02:18,420 --> 00:02:20,380
+and I've provided the
+ability to cook it all up
+
+68
+00:02:20,380 --> 00:02:21,870
+into a delicious meal.
+
+69
+00:02:21,870 --> 00:02:24,820
+Now the value is the
+happiness and the full bellies
+
+70
+00:02:24,820 --> 00:02:26,910
+of all of my guests at my party.
+
+71
+00:02:26,910 --> 00:02:30,060
+This is the value co-created
+through the service.
+
+72
+00:02:30,060 --> 00:02:32,080
+Now as you think about all
+the different industries
+
+73
+00:02:32,080 --> 00:02:33,630
+and organizations in the world,
+
+74
+00:02:33,630 --> 00:02:35,130
+it's really hard to think of any
+
+75
+00:02:35,130 --> 00:02:37,160
+that aren't providing some kind of service
+
+76
+00:02:37,160 --> 00:02:39,000
+that is enabled by technology.
+
+77
+00:02:39,000 --> 00:02:41,550
+Because of this technology
+has become common place
+
+78
+00:02:41,550 --> 00:02:43,090
+in the modern workplace.
+
+79
+00:02:43,090 --> 00:02:45,540
+But all of this technology
+needs to be managed
+
+80
+00:02:45,540 --> 00:02:48,000
+in order for it to be
+effective and enabling value
+
+81
+00:02:48,000 --> 00:02:50,490
+to your customers by providing services.
+
+82
+00:02:50,490 --> 00:02:53,840
+And this brings us to the
+concept of service management.
+
+83
+00:02:53,840 --> 00:02:55,300
+Service management is defined
+
+84
+00:02:55,300 --> 00:02:58,250
+as a set of specialized
+organizational capabilities
+
+85
+00:02:58,250 --> 00:03:01,670
+for enabling value to customers
+in the form of services.
+
+86
+00:03:01,670 --> 00:03:03,315
+The purpose of ITIL 4 is
+to provide organizations,
+
+87
+00:03:03,315 --> 00:03:06,590
+working in this modern service economy,
+
+88
+00:03:06,590 --> 00:03:09,220
+with guidance from managing
+their information technology
+
+89
+00:03:09,220 --> 00:03:12,110
+and information technology
+dependencies effectively,
+
+90
+00:03:12,110 --> 00:03:14,440
+efficiently and in some coordinated,
+
+91
+00:03:14,440 --> 00:03:16,270
+structured and integrated way
+
+92
+00:03:16,270 --> 00:03:17,740
+that combines the agility,
+
+93
+00:03:17,740 --> 00:03:18,750
+the time to market,
+
+94
+00:03:18,750 --> 00:03:21,360
+and their ability to
+deliver new things faster,
+
+95
+00:03:21,360 --> 00:03:24,010
+while using their risk controls
+and providing insurance
+
+96
+00:03:24,010 --> 00:03:26,770
+that the services will be
+performed properly today,
+
+97
+00:03:26,770 --> 00:03:29,870
+tomorrow and any day
+further off into the future.
+
+98
+00:03:29,870 --> 00:03:31,910
+Notice this isn't just
+about providing a service
+
+99
+00:03:31,910 --> 00:03:33,230
+fast to a customer,
+
+100
+00:03:33,230 --> 00:03:35,110
+but it's also about being
+able to balance that
+
+101
+00:03:35,110 --> 00:03:36,880
+with the proper controls so that
+
+102
+00:03:36,880 --> 00:03:38,950
+that is providing a quality service,
+
+103
+00:03:38,950 --> 00:03:40,880
+now and into the future.
+
+104
+00:03:40,880 --> 00:03:42,840
+This ensures that there's
+a balance of speed
+
+105
+00:03:42,840 --> 00:03:46,130
+in control within our
+organizations and their services.
+
+106
+00:03:46,130 --> 00:03:48,384
+Simply put, ITIL 4 provides organizations
+
+107
+00:03:48,384 --> 00:03:51,860
+with a comprehensive framework
+for IT service management.
+
+108
+00:03:51,860 --> 00:03:54,720
+This framework is designed
+to ensure that an effective,
+
+109
+00:03:54,720 --> 00:03:56,340
+efficient, flexible,
+
+110
+00:03:56,340 --> 00:03:58,540
+coordinated and integrated system
+
+111
+00:03:58,540 --> 00:03:59,990
+for the governance and management
+
+112
+00:03:59,990 --> 00:04:02,030
+of services is established.
+
+113
+00:04:02,030 --> 00:04:04,293
+It also is concerned with
+ensuring that these services
+
+114
+00:04:04,293 --> 00:04:07,660
+are continually improving
+within your organization.
+
+115
+00:04:07,660 --> 00:04:09,300
+Now, if you're new to the business world
+
+116
+00:04:09,300 --> 00:04:10,820
+or information technology,
+
+117
+00:04:10,820 --> 00:04:11,720
+the word, governance,
+
+118
+00:04:11,720 --> 00:04:14,150
+might be one that you're
+not quite familiar with.
+
+119
+00:04:14,150 --> 00:04:15,490
+Governance is simply the means
+
+120
+00:04:15,490 --> 00:04:18,420
+by which an organization
+is directed and controlled.
+
+121
+00:04:18,420 --> 00:04:20,930
+This means that it involves
+all of the processes needed
+
+122
+00:04:20,930 --> 00:04:24,240
+to govern or oversee the
+running of the organization.
+
+123
+00:04:24,240 --> 00:04:26,090
+For example, in the United States,
+
+124
+00:04:26,090 --> 00:04:28,840
+our government creates
+rules and laws that are used
+
+125
+00:04:28,840 --> 00:04:31,730
+as a method to direct the
+actions of its citizens.
+
+126
+00:04:31,730 --> 00:04:33,340
+This is called governance, right?
+
+127
+00:04:33,340 --> 00:04:35,340
+It's the way that we operate a country.
+
+128
+00:04:35,340 --> 00:04:37,800
+Well, organizations need governance too.
+
+129
+00:04:37,800 --> 00:04:38,850
+And at your company,
+
+130
+00:04:38,850 --> 00:04:41,530
+there's a process probably
+for everything you need to do.
+
+131
+00:04:41,530 --> 00:04:44,100
+Think about it if you wanted
+to take two weeks of vacation.
+
+132
+00:04:44,100 --> 00:04:46,130
+You couldn't simply decide
+just to not go to work
+
+133
+00:04:46,130 --> 00:04:48,070
+for two weeks without
+telling your boss, right?
+
+134
+00:04:48,070 --> 00:04:49,920
+You'd probably end up loosing your job.
+
+135
+00:04:49,920 --> 00:04:50,753
+Now instead,
+
+136
+00:04:50,753 --> 00:04:52,868
+you're going to go through the
+process to request a vacation,
+
+137
+00:04:52,868 --> 00:04:54,613
+and that process is going to be different
+
+138
+00:04:54,613 --> 00:04:57,570
+based on your organization
+or my organization.
+
+139
+00:04:57,570 --> 00:04:59,750
+Because each organization runs itself
+
+140
+00:04:59,750 --> 00:05:01,400
+and its process is differently.
+
+141
+00:05:01,400 --> 00:05:02,900
+That way that they run things,
+
+142
+00:05:02,900 --> 00:05:04,273
+that's known as governance.
+

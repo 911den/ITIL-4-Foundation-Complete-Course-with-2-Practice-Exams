@@ -1,0 +1,1432 @@
+﻿1
+00:00:00,540 --> 00:00:02,800
+- Organizations and people.
+
+2
+00:00:02,800 --> 00:00:05,260
+When we discuss the
+concept of an organization
+
+3
+00:00:05,260 --> 00:00:08,570
+inside of ITIL 4, the
+organization is not limited
+
+4
+00:00:08,570 --> 00:00:10,680
+to a service provider organization,
+
+5
+00:00:10,680 --> 00:00:13,550
+or an internal information
+technology organization,
+
+6
+00:00:13,550 --> 00:00:17,050
+or even an information
+technology organization at large.
+
+7
+00:00:17,050 --> 00:00:18,950
+Instead, we're just looking at this
+
+8
+00:00:18,950 --> 00:00:21,010
+as a generic organization.
+
+9
+00:00:21,010 --> 00:00:23,850
+But, what exactly is
+an organization anyway?
+
+10
+00:00:23,850 --> 00:00:26,190
+Well ITIL 4 defines an organization
+
+11
+00:00:26,190 --> 00:00:28,550
+as a person or a group of people that has
+
+12
+00:00:28,550 --> 00:00:30,870
+its own functions with responsibilities,
+
+13
+00:00:30,870 --> 00:00:34,500
+authorities, and relationships,
+to achieve its objectives.
+
+14
+00:00:34,500 --> 00:00:36,720
+Notice this definition is pretty generic,
+
+15
+00:00:36,720 --> 00:00:38,340
+and again this is done on purpose
+
+16
+00:00:38,340 --> 00:00:40,710
+by the creators of ITIL,
+because it allows ITIL
+
+17
+00:00:40,710 --> 00:00:44,190
+to be more widely used and
+adapted to any organization.
+
+18
+00:00:44,190 --> 00:00:46,290
+In ITIL 4 there are two basic roles
+
+19
+00:00:46,290 --> 00:00:48,310
+that an organization can fulfill.
+
+20
+00:00:48,310 --> 00:00:50,150
+A service provider is a role performed
+
+21
+00:00:50,150 --> 00:00:52,350
+by an organization in
+a service relationship
+
+22
+00:00:53,297 --> 00:00:55,070
+to provide services to consumers.
+
+23
+00:00:55,070 --> 00:00:57,160
+Conversely, a consumer is a role performed
+
+24
+00:00:57,160 --> 00:00:59,110
+by an organization in the relationship
+
+25
+00:00:59,110 --> 00:01:02,030
+that uses or consumes those services.
+
+26
+00:01:02,030 --> 00:01:05,040
+Organizations vary in size
+and complexity as well.
+
+27
+00:01:05,040 --> 00:01:07,910
+Now, organizations can also
+vary in their legal structure
+
+28
+00:01:07,910 --> 00:01:09,640
+in that they can be a single person,
+
+29
+00:01:09,640 --> 00:01:13,400
+a team, or even a complex
+multinational corporation.
+
+30
+00:01:13,400 --> 00:01:15,420
+What really bounds an
+organization together
+
+31
+00:01:15,420 --> 00:01:17,050
+is a set of common objectives,
+
+32
+00:01:17,050 --> 00:01:18,930
+relationships, and authorities.
+
+33
+00:01:18,930 --> 00:01:20,410
+Now, this may seem strange,
+
+34
+00:01:20,410 --> 00:01:22,470
+especially when
+considering a single person
+
+35
+00:01:22,470 --> 00:01:24,240
+that can act as an organization,
+
+36
+00:01:24,240 --> 00:01:26,820
+but it really does work
+this way in the real world.
+
+37
+00:01:26,820 --> 00:01:29,340
+When I created my company,
+Dion Training Solutions,
+
+38
+00:01:29,340 --> 00:01:32,130
+it was created as a sole
+proprietorship originally.
+
+39
+00:01:32,130 --> 00:01:34,680
+I was a single person
+operating as an organization
+
+40
+00:01:34,680 --> 00:01:36,870
+in all of my business relationships.
+
+41
+00:01:36,870 --> 00:01:39,130
+Now, an organization
+can be a team of people
+
+42
+00:01:39,130 --> 00:01:41,390
+working towards a common objective too.
+
+43
+00:01:41,390 --> 00:01:42,910
+As my company has gotten bigger,
+
+44
+00:01:42,910 --> 00:01:45,220
+we now have two teams
+of people which make up
+
+45
+00:01:45,220 --> 00:01:47,580
+two distinct organizations
+within the company.
+
+46
+00:01:47,580 --> 00:01:49,550
+One is the training team, which I lead,
+
+47
+00:01:49,550 --> 00:01:51,240
+and the other is our operations team,
+
+48
+00:01:51,240 --> 00:01:53,120
+which my director of operations leads.
+
+49
+00:01:53,120 --> 00:01:55,400
+Now, the director of operations
+happens to be my wife,
+
+50
+00:01:55,400 --> 00:01:58,220
+but she has her own team
+and people who work for her.
+
+51
+00:01:58,220 --> 00:02:00,370
+This is an example of how people organized
+
+52
+00:02:00,370 --> 00:02:03,510
+around common goals within a
+larger business organization
+
+53
+00:02:03,510 --> 00:02:06,520
+to achieve common objectives
+in a coordinated method.
+
+54
+00:02:06,520 --> 00:02:08,310
+Now, in most of these cases,
+
+55
+00:02:08,310 --> 00:02:10,620
+the common objectives are
+usually trying to create
+
+56
+00:02:10,620 --> 00:02:13,210
+value for the consumer, but the way value
+
+57
+00:02:13,210 --> 00:02:16,070
+is actually achieved
+has changed in ITIL 4.
+
+58
+00:02:16,070 --> 00:02:18,060
+Previously, value was considered something
+
+59
+00:02:18,060 --> 00:02:20,040
+that was delivered from a service provider
+
+60
+00:02:20,040 --> 00:02:21,640
+to the consumer of the service.
+
+61
+00:02:21,640 --> 00:02:23,240
+But this wasn't entirely accurate
+
+62
+00:02:23,240 --> 00:02:24,950
+the way it was done in the real world.
+
+63
+00:02:24,950 --> 00:02:27,667
+In fact, it was so
+inaccurate that saying like
+
+64
+00:02:27,667 --> 00:02:29,227
+"Delivering something it easy,
+
+65
+00:02:29,227 --> 00:02:31,400
+"but delivering something
+of value is hard,"
+
+66
+00:02:31,400 --> 00:02:32,850
+began to spring up all throughout
+
+67
+00:02:32,850 --> 00:02:35,020
+the IT service management industry.
+
+68
+00:02:35,020 --> 00:02:37,640
+So instead, ITIL 4 recognizes that value
+
+69
+00:02:37,640 --> 00:02:41,380
+must be cocreated by the service
+provider and the consumer.
+
+70
+00:02:41,380 --> 00:02:43,720
+Now, what does this mean
+for us in the real world?
+
+71
+00:02:43,720 --> 00:02:45,970
+Well, let's take this
+course as an example.
+
+72
+00:02:45,970 --> 00:02:47,820
+My team and I have spent a lot of time
+
+73
+00:02:47,820 --> 00:02:50,300
+preparing this course,
+filming this course,
+
+74
+00:02:50,300 --> 00:02:52,570
+editing this course, and
+publishing this course
+
+75
+00:02:52,570 --> 00:02:54,290
+so that you could get value from it.
+
+76
+00:02:54,290 --> 00:02:56,320
+And I truly believe
+this is the best course
+
+77
+00:02:56,320 --> 00:02:57,570
+that's out there today.
+
+78
+00:02:57,570 --> 00:02:59,410
+And as such I place a lot of value
+
+79
+00:02:59,410 --> 00:03:01,600
+on the content, and I hope you do as well.
+
+80
+00:03:01,600 --> 00:03:04,810
+But, let's look at it from your
+perspective as the consumer.
+
+81
+00:03:04,810 --> 00:03:06,980
+Is this course truly valuable?
+
+82
+00:03:06,980 --> 00:03:09,080
+Well, you've exchanged some
+of your hard earned money
+
+83
+00:03:09,080 --> 00:03:10,600
+to get access to this training,
+
+84
+00:03:10,600 --> 00:03:13,110
+so you probably feel that
+it has some amount of value
+
+85
+00:03:13,110 --> 00:03:14,710
+or you wouldn't have given me your money
+
+86
+00:03:14,710 --> 00:03:16,310
+to access this course.
+
+87
+00:03:16,310 --> 00:03:17,720
+Now if you're like most students,
+
+88
+00:03:17,720 --> 00:03:19,280
+you probably are going to measure this
+
+89
+00:03:19,280 --> 00:03:21,190
+based on the fact of seeing if it actually
+
+90
+00:03:21,190 --> 00:03:23,870
+prepares you to pass the foundation exam.
+
+91
+00:03:23,870 --> 00:03:26,160
+But, for you to achieve
+that desired value,
+
+92
+00:03:26,160 --> 00:03:29,880
+passing the exam, we have to
+co-create that value together.
+
+93
+00:03:29,880 --> 00:03:32,630
+As the supplier, I've provided
+you with all the videos,
+
+94
+00:03:32,630 --> 00:03:35,730
+the quizzes, the practice
+exam, the web server,
+
+95
+00:03:35,730 --> 00:03:39,310
+access to the training,
+downloadable PDFs, all of that.
+
+96
+00:03:39,310 --> 00:03:41,830
+But, as the consumer, you have to actually
+
+97
+00:03:41,830 --> 00:03:44,370
+watch those videos, study the definitions,
+
+98
+00:03:44,370 --> 00:03:47,180
+practice with the quizzes,
+take the practice exam.
+
+99
+00:03:47,180 --> 00:03:49,360
+Not to mention, you have to have a laptop,
+
+100
+00:03:49,360 --> 00:03:52,100
+a tablet, or a phone, to
+even access these videos
+
+101
+00:03:52,100 --> 00:03:54,170
+and be able to watch
+them, as well as a stable,
+
+102
+00:03:54,170 --> 00:03:56,010
+high speed internet connection.
+
+103
+00:03:56,010 --> 00:03:58,610
+To achieve the desired outcome
+in value from this course
+
+104
+00:03:58,610 --> 00:04:00,990
+we both have to work
+hard and meet our ends
+
+105
+00:04:00,990 --> 00:04:02,380
+of this obligation.
+
+106
+00:04:02,380 --> 00:04:04,700
+That's the idea of co-creation of value.
+
+107
+00:04:04,700 --> 00:04:07,200
+By the service provider, me and my team
+
+108
+00:04:07,200 --> 00:04:08,900
+and you the consumer.
+
+109
+00:04:08,900 --> 00:04:11,690
+This is how it work inside of ITIL 4.
+
+110
+00:04:11,690 --> 00:04:13,150
+Now, as much as I'd love to be able
+
+111
+00:04:13,150 --> 00:04:14,690
+to simply create the value for you
+
+112
+00:04:14,690 --> 00:04:16,360
+as soon as you make the purchase,
+
+113
+00:04:16,360 --> 00:04:17,770
+we don't have that technology yet
+
+114
+00:04:17,770 --> 00:04:20,130
+to instantly load up the
+information into your head.
+
+115
+00:04:20,130 --> 00:04:21,950
+This isn't The Matrix after all.
+
+116
+00:04:21,950 --> 00:04:23,600
+Instead, you have to have to help me
+
+117
+00:04:23,600 --> 00:04:25,330
+to create the value we both want,
+
+118
+00:04:25,330 --> 00:04:27,450
+which is for you to pass
+your certification exam
+
+119
+00:04:27,450 --> 00:04:28,790
+on the first attempt.
+
+120
+00:04:28,790 --> 00:04:30,930
+As the supplier, I can try really hard
+
+121
+00:04:30,930 --> 00:04:33,690
+to deliver that value,
+but if you as the consumer
+
+122
+00:04:33,690 --> 00:04:35,770
+don't actually cooperate
+and turn on the videos
+
+123
+00:04:35,770 --> 00:04:38,250
+and watch them, well then the value simply
+
+124
+00:04:38,250 --> 00:04:41,320
+won't be created because
+the value is the outcome.
+
+125
+00:04:41,320 --> 00:04:43,730
+It's you getting that certification done.
+
+126
+00:04:43,730 --> 00:04:46,400
+This is why relationships
+between organizations
+
+127
+00:04:46,400 --> 00:04:48,210
+such as the supplier and the consumer
+
+128
+00:04:48,210 --> 00:04:50,080
+have become very complex.
+
+129
+00:04:50,080 --> 00:04:51,930
+In the simplest form, the provider would
+
+130
+00:04:51,930 --> 00:04:54,750
+deliver a service, the consumer
+would pay for the service,
+
+131
+00:04:54,750 --> 00:04:56,430
+and the provider then uses that money
+
+132
+00:04:56,430 --> 00:04:58,490
+to create more services,
+while the consumer
+
+133
+00:04:58,490 --> 00:05:00,530
+uses the current service they paid for.
+
+134
+00:05:00,530 --> 00:05:02,820
+Now, if both sides are
+getting the value they desire
+
+135
+00:05:02,820 --> 00:05:05,940
+from that transaction, then
+this is mutually beneficial.
+
+136
+00:05:05,940 --> 00:05:07,570
+If the value is not achieved by either
+
+137
+00:05:07,570 --> 00:05:09,350
+of these sides though, then it's likely
+
+138
+00:05:09,350 --> 00:05:11,600
+that this relationship
+will soon come to an end,
+
+139
+00:05:11,600 --> 00:05:14,000
+and no more value will emerge from it.
+
+140
+00:05:14,000 --> 00:05:16,960
+Unfortunately, the real
+world is much more complex
+
+141
+00:05:16,960 --> 00:05:19,830
+than the simple example of
+value creation I just gave.
+
+142
+00:05:19,830 --> 00:05:22,907
+At any moment an organization
+can be a consumer
+
+143
+00:05:22,907 --> 00:05:25,450
+and a provider for multiple services.
+
+144
+00:05:25,450 --> 00:05:27,510
+Let's take my organization for example.
+
+145
+00:05:27,510 --> 00:05:29,550
+I'm a supplier in relation to you,
+
+146
+00:05:29,550 --> 00:05:31,700
+but I'm also a consumer in my relationship
+
+147
+00:05:31,700 --> 00:05:33,380
+with my web hosting provider.
+
+148
+00:05:33,380 --> 00:05:35,190
+These are just different hats being worn
+
+149
+00:05:35,190 --> 00:05:37,810
+by my organization, depending
+on which perspective
+
+150
+00:05:37,810 --> 00:05:39,280
+we're looking at things from.
+
+151
+00:05:39,280 --> 00:05:40,830
+This means that when my organization
+
+152
+00:05:40,830 --> 00:05:43,400
+is acting as a consumer,
+we co-create value
+
+153
+00:05:43,400 --> 00:05:46,440
+by consuming services, and when
+we're acting as a provider,
+
+154
+00:05:46,440 --> 00:05:48,810
+we co-create value by providing service
+
+155
+00:05:48,810 --> 00:05:50,750
+to other organizations and people.
+
+156
+00:05:50,750 --> 00:05:53,460
+Organizations recognize
+that value is cocreated
+
+157
+00:05:53,460 --> 00:05:55,920
+through an active
+collaboration between providers
+
+158
+00:05:55,920 --> 00:05:58,370
+and consumers, as well
+as other organizations
+
+159
+00:05:58,370 --> 00:06:01,010
+that are part of the relevant
+service relationships.
+
+160
+00:06:01,010 --> 00:06:03,400
+These service provider
+and service consumer roles
+
+161
+00:06:03,400 --> 00:06:06,830
+are the two generic roles that
+an organization can fulfill.
+
+162
+00:06:06,830 --> 00:06:10,220
+People though can fulfill
+three other types of roles.
+
+163
+00:06:10,220 --> 00:06:14,090
+This is the role of a user,
+a customer, and a sponsor.
+
+164
+00:06:14,090 --> 00:06:16,220
+The first role is that of a user.
+
+165
+00:06:16,220 --> 00:06:19,210
+A user is simply a person
+who uses a service.
+
+166
+00:06:19,210 --> 00:06:21,380
+The second role is that of a customer.
+
+167
+00:06:21,380 --> 00:06:23,750
+A customer is the person
+who defines the requirements
+
+168
+00:06:23,750 --> 00:06:25,650
+for a service, and takes responsibility
+
+169
+00:06:25,650 --> 00:06:27,860
+for the outcomes of the
+service consumption.
+
+170
+00:06:27,860 --> 00:06:30,110
+The third role is that of a sponsor.
+
+171
+00:06:30,110 --> 00:06:32,360
+A sponsor is a person
+who authorizes the budget
+
+172
+00:06:32,360 --> 00:06:33,810
+for service consumption.
+
+173
+00:06:33,810 --> 00:06:36,620
+The term sponsor is also
+used in some organizations
+
+174
+00:06:36,620 --> 00:06:38,710
+to describe an organization or department,
+
+175
+00:06:38,710 --> 00:06:40,730
+or an individual that provides financial
+
+176
+00:06:40,730 --> 00:06:42,930
+or other support for an initiative.
+
+177
+00:06:42,930 --> 00:06:44,480
+While these are the three roles,
+
+178
+00:06:44,480 --> 00:06:47,090
+these roles could be
+fulfilled by different people
+
+179
+00:06:47,090 --> 00:06:49,280
+or all three of these
+roles could be fulfilled
+
+180
+00:06:49,280 --> 00:06:50,920
+by the same person.
+
+181
+00:06:50,920 --> 00:06:53,430
+Let's consider a simple
+scenario where all three roles
+
+182
+00:06:53,430 --> 00:06:55,560
+are going to be filled by the same person.
+
+183
+00:06:55,560 --> 00:06:57,370
+Maybe it's been a few years and you decide
+
+184
+00:06:57,370 --> 00:06:59,040
+to buy a brand new car.
+
+185
+00:06:59,040 --> 00:07:00,410
+Let's say you're all excited about
+
+186
+00:07:00,410 --> 00:07:01,680
+all the technological improvements
+
+187
+00:07:01,680 --> 00:07:03,180
+that have been made in the world of cars,
+
+188
+00:07:03,180 --> 00:07:05,040
+and you decide to get one that can perform
+
+189
+00:07:05,040 --> 00:07:07,620
+semi-autonomous driving, like a Tesla.
+
+190
+00:07:07,620 --> 00:07:09,720
+As a user, you're really excited to drive
+
+191
+00:07:09,720 --> 00:07:12,130
+your new Tesla because it
+has so many cool features
+
+192
+00:07:12,130 --> 00:07:14,390
+like the autopilot, the
+comfortable leather seats
+
+193
+00:07:14,390 --> 00:07:16,450
+and a really fast electric motor.
+
+194
+00:07:16,450 --> 00:07:19,030
+As a customer though, you
+may not see a big difference
+
+195
+00:07:19,030 --> 00:07:21,780
+in the features between
+a Model S and a Model 3,
+
+196
+00:07:21,780 --> 00:07:23,410
+so you're trying to decide which model
+
+197
+00:07:23,410 --> 00:07:25,510
+best meets your requirements
+and helps you achieve
+
+198
+00:07:25,510 --> 00:07:27,230
+your outcomes most efficiently
+
+199
+00:07:27,230 --> 00:07:28,610
+when you're consuming the service
+
+200
+00:07:28,610 --> 00:07:30,550
+of this semi autonomous vehicle.
+
+201
+00:07:30,550 --> 00:07:32,580
+Now in your third role as a sponsor
+
+202
+00:07:32,580 --> 00:07:34,530
+you start to weigh the cost of the Model 3
+
+203
+00:07:34,530 --> 00:07:36,810
+versus the Model S, and
+you try to determine
+
+204
+00:07:36,810 --> 00:07:38,390
+which one should you budget for
+
+205
+00:07:38,390 --> 00:07:41,180
+in order to meet the needs
+of your semi-autonomous car
+
+206
+00:07:41,180 --> 00:07:43,350
+that's going to drive you
+from point A to point B
+
+207
+00:07:43,350 --> 00:07:44,940
+and get you to work each day.
+
+208
+00:07:44,940 --> 00:07:47,780
+Now, all three of these roles
+have competing interests.
+
+209
+00:07:47,780 --> 00:07:49,240
+The user wants the best features
+
+210
+00:07:49,240 --> 00:07:50,640
+when they consume the service,
+
+211
+00:07:50,640 --> 00:07:51,990
+but they'd probably be happy with either
+
+212
+00:07:51,990 --> 00:07:53,820
+the Model 3 or the Model S.
+
+213
+00:07:53,820 --> 00:07:55,910
+They're both really nice cars after all.
+
+214
+00:07:55,910 --> 00:07:57,620
+The customer in you actually defines
+
+215
+00:07:57,620 --> 00:07:59,400
+the requirements though for your new car.
+
+216
+00:07:59,400 --> 00:08:00,930
+They define that one has to be able
+
+217
+00:08:00,930 --> 00:08:02,780
+to drive semi-autonomously.
+
+218
+00:08:02,780 --> 00:08:03,830
+They want one that can drive
+
+219
+00:08:03,830 --> 00:08:06,370
+at least 200 miles before
+needing to be refueled
+
+220
+00:08:06,370 --> 00:08:09,610
+or recharged, and other kind
+of requirements like that.
+
+221
+00:08:09,610 --> 00:08:11,690
+Your third role is that of the sponsor,
+
+222
+00:08:11,690 --> 00:08:14,580
+and this is where things
+come from a cost perspective.
+
+223
+00:08:14,580 --> 00:08:16,190
+While I might like the Model S,
+
+224
+00:08:16,190 --> 00:08:18,380
+it sells for almost $100,000.
+
+225
+00:08:18,380 --> 00:08:19,960
+Can the Model 3 still meet all
+
+226
+00:08:19,960 --> 00:08:21,050
+of the customer's requirements
+
+227
+00:08:21,050 --> 00:08:23,450
+even though it sells for only 60,000?
+
+228
+00:08:23,450 --> 00:08:25,760
+Well, if so, then the
+sponsor would rather choose
+
+229
+00:08:25,760 --> 00:08:27,350
+the less expensive option.
+
+230
+00:08:27,350 --> 00:08:29,260
+So, whenever you buy yourself a new car,
+
+231
+00:08:29,260 --> 00:08:30,910
+you're really balancing these three roles
+
+232
+00:08:30,910 --> 00:08:32,790
+before you make the decision,
+and you're doing this
+
+233
+00:08:32,790 --> 00:08:34,530
+all inside your own head.
+
+234
+00:08:34,530 --> 00:08:36,430
+Now, let's consider a
+little bit differently.
+
+235
+00:08:36,430 --> 00:08:38,800
+Let's say we're going to
+buy a car for somebody else.
+
+236
+00:08:38,800 --> 00:08:40,360
+My daughter is almost to the age
+
+237
+00:08:40,360 --> 00:08:41,740
+where she's old enough to drive,
+
+238
+00:08:41,740 --> 00:08:43,880
+and so she's going to be
+the user in this scenario
+
+239
+00:08:43,880 --> 00:08:46,880
+because she wants her parents
+to buy her first car for her.
+
+240
+00:08:46,880 --> 00:08:48,620
+She doesn't care how much it costs.
+
+241
+00:08:48,620 --> 00:08:50,857
+She doesn't have any requirements.
+
+242
+00:08:50,857 --> 00:08:52,300
+She just knows that she's
+going to consume the resource
+
+243
+00:08:52,300 --> 00:08:53,940
+and she needs to be
+able to get in and drive
+
+244
+00:08:53,940 --> 00:08:55,500
+from point A to point B.
+
+245
+00:08:55,500 --> 00:08:57,520
+In this case, this
+means that she can drive
+
+246
+00:08:57,520 --> 00:08:59,350
+wherever she wants, and
+she'll be able to drive
+
+247
+00:08:59,350 --> 00:09:01,620
+whatever her mother and
+I decide to buy for her.
+
+248
+00:09:01,620 --> 00:09:04,710
+Now, my wife on the other hand
+is going to be our customer.
+
+249
+00:09:04,710 --> 00:09:06,970
+She's going to set the
+requirements for this service,
+
+250
+00:09:06,970 --> 00:09:08,650
+the car in our particular example,
+
+251
+00:09:08,650 --> 00:09:11,000
+and this service is going to
+have to meet those requirements,
+
+252
+00:09:11,000 --> 00:09:12,870
+and she's going to be the
+one taking responsibility
+
+253
+00:09:12,870 --> 00:09:15,740
+for our daughter's actions
+when she consumes that service.
+
+254
+00:09:15,740 --> 00:09:17,680
+In this case, when our daughter is driving
+
+255
+00:09:17,680 --> 00:09:19,690
+my wife is going to be
+responsible for whatever happens
+
+256
+00:09:19,690 --> 00:09:21,330
+because she is the customer.
+
+257
+00:09:21,330 --> 00:09:24,050
+Now, my wife may create some
+requirements for this new car.
+
+258
+00:09:24,050 --> 00:09:26,240
+She might say that it
+has to have four seats,
+
+259
+00:09:26,240 --> 00:09:27,980
+that it has to have four doors.
+
+260
+00:09:27,980 --> 00:09:30,830
+Maybe it has to have a
+driver and passenger airbag.
+
+261
+00:09:30,830 --> 00:09:33,200
+The car might have to be
+less than 10 years old.
+
+262
+00:09:33,200 --> 00:09:35,250
+Whatever the requirements
+is that she decides,
+
+263
+00:09:35,250 --> 00:09:38,060
+she has that ability
+because she is the customer.
+
+264
+00:09:38,060 --> 00:09:40,090
+Now, our third role is the sponsor,
+
+265
+00:09:40,090 --> 00:09:42,760
+and this is the person who is
+going to pay for the initiative.
+
+266
+00:09:42,760 --> 00:09:45,700
+In this case, the one of
+buying a car for my daughter,
+
+267
+00:09:45,700 --> 00:09:46,930
+I am going to be the sponsor.
+
+268
+00:09:46,930 --> 00:09:48,620
+I am going to have to pay for this thing.
+
+269
+00:09:48,620 --> 00:09:50,200
+I have created a budget for this car.
+
+270
+00:09:50,200 --> 00:09:52,380
+Let's say, no more than $10,000,
+
+271
+00:09:52,380 --> 00:09:54,810
+and that means the customer, my wife,
+
+272
+00:09:54,810 --> 00:09:57,080
+can pick any car that
+she wants for the user,
+
+273
+00:09:57,080 --> 00:09:59,730
+my daughter, but this car has to be
+
+274
+00:09:59,730 --> 00:10:01,920
+within that budget of $10,000.
+
+275
+00:10:01,920 --> 00:10:03,760
+So, I guess my wife isn't
+going to be able to go out
+
+276
+00:10:03,760 --> 00:10:06,590
+and buy her a brand new car,
+even though the customer
+
+277
+00:10:06,590 --> 00:10:08,890
+may want that, or the user may want that.
+
+278
+00:10:08,890 --> 00:10:11,060
+Instead, the customer has been allocated
+
+279
+00:10:11,060 --> 00:10:14,130
+a specific budget, and they
+have to stay within that.
+
+280
+00:10:14,130 --> 00:10:16,170
+So, this is the same type
+of thing that happens
+
+281
+00:10:16,170 --> 00:10:17,980
+in business all of the time.
+
+282
+00:10:17,980 --> 00:10:19,700
+Sometimes in business you get to act
+
+283
+00:10:19,700 --> 00:10:21,900
+as one, two, or three of these roles
+
+284
+00:10:21,900 --> 00:10:23,500
+depending on the scenario.
+
+285
+00:10:23,500 --> 00:10:25,610
+For example, you may define what is needed
+
+286
+00:10:25,610 --> 00:10:27,520
+for your business team, and
+you may have the authority
+
+287
+00:10:27,520 --> 00:10:29,170
+to allocate and authorize the budget
+
+288
+00:10:29,170 --> 00:10:31,230
+for those requirements,
+and you're going to be
+
+289
+00:10:31,230 --> 00:10:33,510
+both the customer and
+sponsor in that case.
+
+290
+00:10:33,510 --> 00:10:35,830
+But, your team members
+are going to be the users
+
+291
+00:10:35,830 --> 00:10:37,610
+because they're going to use what you buy.
+
+292
+00:10:37,610 --> 00:10:39,380
+This is actually a great position to be in
+
+293
+00:10:39,380 --> 00:10:41,110
+because the person authorizing the budget
+
+294
+00:10:41,110 --> 00:10:43,920
+is also the person making
+the requirements decisions.
+
+295
+00:10:43,920 --> 00:10:46,700
+Unfortunately though, in a
+lot of large organizations,
+
+296
+00:10:46,700 --> 00:10:49,440
+the person who authorizes
+the budget for an IT service
+
+297
+00:10:49,440 --> 00:10:52,030
+is not a customer or a
+user of that service.
+
+298
+00:10:52,030 --> 00:10:54,570
+And this type of disconnect
+can actually cause problems
+
+299
+00:10:54,570 --> 00:10:56,580
+because the sponsor who
+funds the requirements
+
+300
+00:10:56,580 --> 00:10:58,750
+and the customer who
+creates those requirements
+
+301
+00:10:58,750 --> 00:11:01,820
+often have arguments over what
+those requirements should be.
+
+302
+00:11:01,820 --> 00:11:04,140
+Because, the sponsor's
+focused on the efficiency
+
+303
+00:11:04,140 --> 00:11:06,140
+and cost savings, whereas the customers
+
+304
+00:11:06,140 --> 00:11:08,260
+are focused on the
+requirements and the users
+
+305
+00:11:08,260 --> 00:11:10,770
+are focused on the
+usability of this service.
+
+306
+00:11:10,770 --> 00:11:12,790
+This can create a gap between the user
+
+307
+00:11:12,790 --> 00:11:14,750
+and the customer's interest as well.
+
+308
+00:11:14,750 --> 00:11:17,080
+As a service provider,
+it's our responsibility
+
+309
+00:11:17,080 --> 00:11:19,060
+to recognize these three generic roles
+
+310
+00:11:19,060 --> 00:11:21,880
+on a consumer side, and to
+work with them appropriately
+
+311
+00:11:21,880 --> 00:11:23,800
+to ensure the right
+service is being delivered
+
+312
+00:11:23,800 --> 00:11:25,900
+and supplied to meet those needs.
+
+313
+00:11:25,900 --> 00:11:28,040
+This means we need to
+ensure that the financials
+
+314
+00:11:28,040 --> 00:11:30,040
+work for the sponsor,
+that the requirements
+
+315
+00:11:30,040 --> 00:11:32,030
+are met for the customer, and the users
+
+316
+00:11:32,030 --> 00:11:35,170
+get what they expect in
+usability of our service.
+
+317
+00:11:35,170 --> 00:11:36,910
+At the end of the day, we want to achieve
+
+318
+00:11:36,910 --> 00:11:39,280
+user satisfaction, customer satisfaction,
+
+319
+00:11:39,280 --> 00:11:40,900
+and sponsor satisfaction
+
+320
+00:11:40,900 --> 00:11:42,910
+because when all three come together
+
+321
+00:11:42,910 --> 00:11:44,510
+we're more likely to have repeat business
+
+322
+00:11:44,510 --> 00:11:46,160
+from the consumer's organization.
+

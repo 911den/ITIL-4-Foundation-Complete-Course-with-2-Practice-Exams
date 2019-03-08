@@ -1,0 +1,167 @@
+﻿1
+00:00:01,170 --> 00:00:03,220
+- Measurement and reporting.
+
+2
+00:00:03,220 --> 00:00:06,000
+Measurement and reporting is
+another one of those practices
+
+3
+00:00:06,000 --> 00:00:08,500
+that's not covered by the ITIL 4 Exam.
+
+4
+00:00:08,500 --> 00:00:10,540
+But it's a good one to
+know because there are
+
+5
+00:00:10,540 --> 00:00:13,200
+pieces of this that we
+have discussed already.
+
+6
+00:00:13,200 --> 00:00:15,080
+Now, measurement and
+reporting is the practice
+
+7
+00:00:15,080 --> 00:00:16,850
+of supporting good decision making
+
+8
+00:00:16,850 --> 00:00:18,760
+and continual improvement by decreasing
+
+9
+00:00:18,760 --> 00:00:20,400
+levels of uncertainty.
+
+10
+00:00:20,400 --> 00:00:22,260
+We do this by measuring things.
+
+11
+00:00:22,260 --> 00:00:24,730
+If you remember back in our
+continual improvement model,
+
+12
+00:00:24,730 --> 00:00:27,380
+we talked about measuring
+and creating a baseline.
+
+13
+00:00:27,380 --> 00:00:29,460
+And then, after we took
+action, we went back
+
+14
+00:00:29,460 --> 00:00:32,060
+and measured again to
+see how things changed.
+
+15
+00:00:32,060 --> 00:00:34,260
+That's what measuring and
+reporting is all about.
+
+16
+00:00:34,260 --> 00:00:36,160
+When discussing measurement and reporting,
+
+17
+00:00:36,160 --> 00:00:37,990
+two key terms come up a lot.
+
+18
+00:00:37,990 --> 00:00:40,660
+It's KPIs, or Key Performance Indicators,
+
+19
+00:00:40,660 --> 00:00:44,130
+and CSFs, or Critical Success Factors.
+
+20
+00:00:44,130 --> 00:00:45,900
+We've already discussed both of these back
+
+21
+00:00:45,900 --> 00:00:49,390
+when we talked about the model
+inside continual improvement.
+
+22
+00:00:49,390 --> 00:00:51,710
+Now, when you talk about
+measurement and reporting,
+
+23
+00:00:51,710 --> 00:00:54,190
+remember what I said very
+early on in this course.
+
+24
+00:00:54,190 --> 00:00:56,560
+It's very easy to measure outputs,
+
+25
+00:00:56,560 --> 00:00:59,020
+but it's difficult to measure outcomes.
+
+26
+00:00:59,020 --> 00:01:01,280
+One of the difficulties of this practice
+
+27
+00:01:01,280 --> 00:01:03,110
+is being able to figure out what things
+
+28
+00:01:03,110 --> 00:01:05,890
+you really should be measuring
+and are you measuring
+
+29
+00:01:05,890 --> 00:01:07,000
+the right things.
+
+30
+00:01:07,000 --> 00:01:08,450
+Because we want to make
+sure we're measuring
+
+31
+00:01:08,450 --> 00:01:11,460
+the outcome and not just the outputs.
+
+32
+00:01:11,460 --> 00:01:13,830
+Again, this is an entire field with people
+
+33
+00:01:13,830 --> 00:01:15,100
+who are dedicated to it.
+
+34
+00:01:15,100 --> 00:01:17,330
+You're going to get people
+from business analysis
+
+35
+00:01:17,330 --> 00:01:18,940
+that are going to be working in this field
+
+36
+00:01:18,940 --> 00:01:20,830
+that really help you drive those numbers
+
+37
+00:01:20,830 --> 00:01:22,920
+and figure out what are those key metrics
+
+38
+00:01:22,920 --> 00:01:24,233
+that your business needs.
+

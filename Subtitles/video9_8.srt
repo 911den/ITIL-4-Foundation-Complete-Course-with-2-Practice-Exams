@@ -1,0 +1,223 @@
+﻿1
+00:00:00,498 --> 00:00:02,570
+- IT Asset Management.
+
+2
+00:00:02,570 --> 00:00:04,750
+In this lesson, we're going
+to talk about the practice
+
+3
+00:00:04,750 --> 00:00:06,370
+of IT Asset Management.
+
+4
+00:00:06,370 --> 00:00:07,840
+And this starts the
+ones that we're going to
+
+5
+00:00:07,840 --> 00:00:09,720
+talk about from the recall only.
+
+6
+00:00:09,720 --> 00:00:11,330
+So what you need to know from this lesson
+
+7
+00:00:11,330 --> 00:00:15,060
+is really to memorize the
+purpose of IT Asset Management.
+
+8
+00:00:15,060 --> 00:00:18,120
+And that is to plan and
+manage the full life cycle
+
+9
+00:00:18,120 --> 00:00:19,340
+of IT assets.
+
+10
+00:00:19,340 --> 00:00:22,770
+To help the organization
+maximize value, control costs,
+
+11
+00:00:22,770 --> 00:00:25,860
+manage risks, support
+decision-making about purchases,
+
+12
+00:00:25,860 --> 00:00:28,880
+re-use and retirement of
+assets, and meet the regulatory
+
+13
+00:00:28,880 --> 00:00:31,020
+and contractual obligations.
+
+14
+00:00:31,020 --> 00:00:34,340
+But in addition to memorizing
+that purpose, you also need
+
+15
+00:00:34,340 --> 00:00:38,160
+to memorize the term IT Asset
+that was used in that purpose.
+
+16
+00:00:38,160 --> 00:00:39,770
+What's an IT Asset?
+
+17
+00:00:39,770 --> 00:00:42,940
+Well, an IT Asset is
+any valuable component
+
+18
+00:00:42,940 --> 00:00:44,620
+that can contribute to the delivery
+
+19
+00:00:44,620 --> 00:00:47,100
+of a IT product or service.
+
+20
+00:00:47,100 --> 00:00:49,540
+Now, when we think about
+IT Asset Management,
+
+21
+00:00:49,540 --> 00:00:51,630
+what I want you to think about is the fact
+
+22
+00:00:51,630 --> 00:00:53,080
+that it's like inventory.
+
+23
+00:00:53,080 --> 00:00:55,100
+We want to know all of
+the different components
+
+24
+00:00:55,100 --> 00:00:57,040
+that are out inside our organization
+
+25
+00:00:57,040 --> 00:00:58,550
+and what they're doing for us.
+
+26
+00:00:58,550 --> 00:00:59,960
+Because if I know what they all are,
+
+27
+00:00:59,960 --> 00:01:03,100
+I can help maximize the
+value, I can control the cost,
+
+28
+00:01:03,100 --> 00:01:05,880
+I can manage the risks, and
+I can support decision-making
+
+29
+00:01:05,880 --> 00:01:07,530
+about future purchases.
+
+30
+00:01:07,530 --> 00:01:09,870
+So, if I think about it
+in my company, we've got
+
+31
+00:01:09,870 --> 00:01:11,610
+a bunch of computers that we use.
+
+32
+00:01:11,610 --> 00:01:13,530
+Well, I need to keep
+track of that computer
+
+33
+00:01:13,530 --> 00:01:14,650
+and how old it is.
+
+34
+00:01:14,650 --> 00:01:16,640
+So I know that, hey in three years I need
+
+35
+00:01:16,640 --> 00:01:18,890
+to replace that computer,
+that's going to cost
+
+36
+00:01:18,890 --> 00:01:20,070
+x amount of dollars.
+
+37
+00:01:20,070 --> 00:01:21,831
+So we need to start budgeting for that.
+
+38
+00:01:21,831 --> 00:01:24,350
+IT Asset Management helps us do that.
+
+39
+00:01:24,350 --> 00:01:27,210
+It helps us plan and manage
+the full life cycle of these
+
+40
+00:01:27,210 --> 00:01:31,300
+IT Assets, from purchase,
+to use, to retirement
+
+41
+00:01:31,300 --> 00:01:32,790
+and then replacement.
+
+42
+00:01:32,790 --> 00:01:34,350
+That's the whole concept here.
+
+43
+00:01:34,350 --> 00:01:37,480
+And again, any asset that
+is a valuable component
+
+44
+00:01:37,480 --> 00:01:39,330
+can be considered an IT Asset.
+
+45
+00:01:39,330 --> 00:01:41,620
+It's going to contribute to
+the delivery of an IT service
+
+46
+00:01:41,620 --> 00:01:44,420
+or a product, it's part of our IT Assets.
+
+47
+00:01:44,420 --> 00:01:48,460
+That might mobile phones,
+servers, network gear, racks,
+
+48
+00:01:48,460 --> 00:01:52,071
+switches, computers,
+laptops, desktops, monitors,
+
+49
+00:01:52,071 --> 00:01:53,210
+you name it.
+
+50
+00:01:53,210 --> 00:01:54,793
+It's probably an IT Asset.
+

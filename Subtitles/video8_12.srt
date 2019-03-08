@@ -1,0 +1,266 @@
+﻿1
+00:00:01,260 --> 00:00:03,970
+- Our next practice is project management.
+
+2
+00:00:03,970 --> 00:00:05,640
+Now unlike portfolio management,
+
+3
+00:00:05,640 --> 00:00:07,220
+where we're trying to figure out what are
+
+4
+00:00:07,220 --> 00:00:09,440
+the different projects
+and products and services
+
+5
+00:00:09,440 --> 00:00:10,690
+that we should create,
+
+6
+00:00:10,690 --> 00:00:13,410
+project management is
+focused on a single product
+
+7
+00:00:13,410 --> 00:00:16,090
+or service or project that
+we're trying to get through.
+
+8
+00:00:16,090 --> 00:00:18,000
+Project management is
+the practice of ensuring
+
+9
+00:00:18,000 --> 00:00:20,100
+that all of our organization's projects
+
+10
+00:00:20,100 --> 00:00:21,950
+are delivered successfully.
+
+11
+00:00:21,950 --> 00:00:24,540
+So, when I decided to make this course,
+
+12
+00:00:24,540 --> 00:00:26,910
+this course became a project.
+
+13
+00:00:26,910 --> 00:00:29,400
+We then went through our
+PRINCE2 methodologies,
+
+14
+00:00:29,400 --> 00:00:31,680
+and we built the entire course based on
+
+15
+00:00:31,680 --> 00:00:33,670
+that project management life cycle.
+
+16
+00:00:33,670 --> 00:00:36,950
+As we moved it from our idea,
+through the different phases,
+
+17
+00:00:36,950 --> 00:00:38,410
+to finally getting it completed,
+
+18
+00:00:38,410 --> 00:00:39,650
+and getting it out to you,
+
+19
+00:00:39,650 --> 00:00:41,710
+that took the project from idea
+
+20
+00:00:41,710 --> 00:00:43,220
+all the way through to delivery.
+
+21
+00:00:43,220 --> 00:00:44,590
+And if we do that properly,
+
+22
+00:00:44,590 --> 00:00:45,830
+and we can do it successfully,
+
+23
+00:00:45,830 --> 00:00:48,480
+if we're using a good
+project management process.
+
+24
+00:00:48,480 --> 00:00:50,740
+Now why is project
+management so important?
+
+25
+00:00:50,740 --> 00:00:52,660
+Well, let's say you need to install
+
+26
+00:00:52,660 --> 00:00:54,960
+a brand new network for your organization.
+
+27
+00:00:54,960 --> 00:00:56,630
+It's going to be hundreds of computers,
+
+28
+00:00:56,630 --> 00:01:00,210
+dozens of servers, lots of
+racks of network equipment
+
+29
+00:01:00,210 --> 00:01:02,040
+and all of that kind of stuff.
+
+30
+00:01:02,040 --> 00:01:04,060
+Well, if you were doing
+it all by yourself,
+
+31
+00:01:04,060 --> 00:01:05,930
+you might not need project management.
+
+32
+00:01:05,930 --> 00:01:08,470
+But you're probably going
+to have a team of five or 10
+
+33
+00:01:08,470 --> 00:01:10,290
+or 50 people working for you.
+
+34
+00:01:10,290 --> 00:01:12,270
+And if you have a large
+team, everyone needs to know
+
+35
+00:01:12,270 --> 00:01:14,660
+what their role is and
+what pieces need to be done
+
+36
+00:01:14,660 --> 00:01:16,030
+and when those pieces need to be done,
+
+37
+00:01:16,030 --> 00:01:17,780
+at which piece of time.
+
+38
+00:01:17,780 --> 00:01:19,290
+Do I need to get the servers in first
+
+39
+00:01:19,290 --> 00:01:20,680
+or the racks in first?
+
+40
+00:01:20,680 --> 00:01:22,240
+Do I need to get the work stations online
+
+41
+00:01:22,240 --> 00:01:23,930
+before or after the servers?
+
+42
+00:01:23,930 --> 00:01:26,010
+All of those things are things
+that are going to be handled
+
+43
+00:01:26,010 --> 00:01:27,440
+within project management.
+
+44
+00:01:27,440 --> 00:01:28,900
+They're going to figure out the timing,
+
+45
+00:01:28,900 --> 00:01:31,220
+the sequencing and making sure we can get
+
+46
+00:01:31,220 --> 00:01:33,110
+from the idea and the plan
+
+47
+00:01:33,110 --> 00:01:35,610
+to the final execution, successfully.
+
+48
+00:01:35,610 --> 00:01:37,520
+Project management is a huge field
+
+49
+00:01:37,520 --> 00:01:39,140
+and if you're interested
+in project management,
+
+50
+00:01:39,140 --> 00:01:41,410
+I recommend looking into
+the PRINCE2 courses,
+
+51
+00:01:41,410 --> 00:01:43,310
+which are focused on project management
+
+52
+00:01:43,310 --> 00:01:44,900
+or doing something like PMP,
+
+53
+00:01:44,900 --> 00:01:46,720
+which is Project Management Professional.
+
+54
+00:01:46,720 --> 00:01:48,370
+Depending on where you live in the world,
+
+55
+00:01:48,370 --> 00:01:51,140
+one of those two certifications
+is going to be more popular.
+
+56
+00:01:51,140 --> 00:01:52,780
+Here in the United States,
+
+57
+00:01:52,780 --> 00:01:54,840
+PMP tends to be a little bit more popular.
+
+58
+00:01:54,840 --> 00:01:56,610
+If you're in Europe or Asia,
+
+59
+00:01:56,610 --> 00:01:58,310
+PRINCE2 seems to be more popular.
+
+60
+00:01:58,310 --> 00:01:59,800
+So if you want to get
+into project management,
+
+61
+00:01:59,800 --> 00:02:01,140
+those would be my recommendation,
+
+62
+00:02:01,140 --> 00:02:02,590
+looking at those two courses.
+

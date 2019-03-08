@@ -1,0 +1,223 @@
+﻿1
+00:00:00,610 --> 00:00:03,650
+- Strategy management,
+this is another practice
+
+2
+00:00:03,650 --> 00:00:04,680
+for your general knowledge,
+
+3
+00:00:04,680 --> 00:00:06,770
+and it's not covered by the exam.
+
+4
+00:00:06,770 --> 00:00:09,730
+Strategy management is the
+practice of formulating the goals
+
+5
+00:00:09,730 --> 00:00:12,500
+of an organization, and
+adopting the courses of action
+
+6
+00:00:12,500 --> 00:00:14,740
+and allocation of resources necessary
+
+7
+00:00:14,740 --> 00:00:16,550
+for achieving those goals.
+
+8
+00:00:16,550 --> 00:00:18,420
+Strategy management is simply responsible
+
+9
+00:00:18,420 --> 00:00:20,680
+for establishing the
+organization's direction,
+
+10
+00:00:20,680 --> 00:00:22,620
+focusing our effort to finding
+
+11
+00:00:22,620 --> 00:00:24,920
+and clarifying our
+organizational priorities,
+
+12
+00:00:24,920 --> 00:00:26,810
+and providing consistency or guidance
+
+13
+00:00:26,810 --> 00:00:28,470
+in response to the environment.
+
+14
+00:00:28,470 --> 00:00:30,620
+Normally, strategy management
+is going to be done
+
+15
+00:00:30,620 --> 00:00:32,940
+at very high levels in your organization.
+
+16
+00:00:32,940 --> 00:00:35,170
+You're going to get
+direction from the CEO,
+
+17
+00:00:35,170 --> 00:00:37,300
+as well as the other C-Suite executives,
+
+18
+00:00:37,300 --> 00:00:39,800
+on which way the
+organization should be going.
+
+19
+00:00:39,800 --> 00:00:42,250
+And they're going to do this
+based on the changing environment
+
+20
+00:00:42,250 --> 00:00:44,690
+that they see outside of the organization.
+
+21
+00:00:44,690 --> 00:00:47,160
+For example, let's go
+back to the early 2000s
+
+22
+00:00:47,160 --> 00:00:49,430
+and think about the company called Kodak.
+
+23
+00:00:49,430 --> 00:00:53,210
+Kodak was a film company,
+and around the early 2000s,
+
+24
+00:00:53,210 --> 00:00:56,010
+digital cameras were
+starting to outpace the way
+
+25
+00:00:56,010 --> 00:00:58,450
+that traditional film
+companies were operating,
+
+26
+00:00:58,450 --> 00:00:59,780
+because most people were moving
+
+27
+00:00:59,780 --> 00:01:02,450
+from a regular camera to a digital camera.
+
+28
+00:01:02,450 --> 00:01:05,840
+Well, if you think about
+it nowadays, here in 2019,
+
+29
+00:01:05,840 --> 00:01:07,900
+how many people have
+a film camera anymore?
+
+30
+00:01:07,900 --> 00:01:09,490
+Almost nobody, right?
+
+31
+00:01:09,490 --> 00:01:11,500
+Well, that would put
+Kodak out of business,
+
+32
+00:01:11,500 --> 00:01:14,670
+because their major
+profit center was film.
+
+33
+00:01:14,670 --> 00:01:16,760
+And so, what they had to
+start doing was figuring out,
+
+34
+00:01:16,760 --> 00:01:18,960
+with their strategy, should they pivot?
+
+35
+00:01:18,960 --> 00:01:22,120
+Should they move from
+film to digital cameras?
+
+36
+00:01:22,120 --> 00:01:23,310
+And they tried to do that,
+
+37
+00:01:23,310 --> 00:01:24,910
+but they did it a little bit too late.
+
+38
+00:01:24,910 --> 00:01:27,800
+And so, they didn't
+really get enough of a go,
+
+39
+00:01:27,800 --> 00:01:30,960
+and that company ended up not
+doing well in the long-term.
+
+40
+00:01:30,960 --> 00:01:33,170
+The reason for this was
+they didn't see the writing
+
+41
+00:01:33,170 --> 00:01:35,340
+on the wall, they didn't
+pivot quick enough
+
+42
+00:01:35,340 --> 00:01:37,590
+because their strategy
+didn't change quick enough.
+
+43
+00:01:37,590 --> 00:01:40,000
+Strategy management is
+focused on doing that.
+
+44
+00:01:40,000 --> 00:01:42,100
+It's being able to see what the future is
+
+45
+00:01:42,100 --> 00:01:45,520
+and turning the organization
+before that future hits you.
+
+46
+00:01:45,520 --> 00:01:47,020
+That's the whole goal here.
+
+47
+00:01:47,020 --> 00:01:48,720
+We want to be able to focus our effort
+
+48
+00:01:48,720 --> 00:01:50,470
+to find our organizational priorities
+
+49
+00:01:50,470 --> 00:01:53,470
+and make sure that we're all
+aiming towards the same vision.
+

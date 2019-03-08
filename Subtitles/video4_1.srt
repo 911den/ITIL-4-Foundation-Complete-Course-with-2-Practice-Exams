@@ -1,0 +1,331 @@
+﻿1
+00:00:00,000 --> 00:00:02,619
+- The Service Value System
+
+2
+00:00:02,619 --> 00:00:03,938
+In this section of the course
+
+3
+00:00:03,938 --> 00:00:05,469
+we are going to briefly describe
+
+4
+00:00:05,469 --> 00:00:07,750
+the service value system.
+
+5
+00:00:07,750 --> 00:00:08,918
+Now this ties back to one of the
+
+6
+00:00:08,918 --> 00:00:11,020
+objectives on the exam, which is to
+
+7
+00:00:11,020 --> 00:00:13,240
+describe the service value system.
+
+8
+00:00:13,240 --> 00:00:14,880
+So of the exam, you need to make
+
+9
+00:00:14,880 --> 00:00:16,480
+sure you understand what the service value
+
+10
+00:00:16,480 --> 00:00:18,339
+system is and the components that
+
+11
+00:00:18,339 --> 00:00:21,260
+make up this service value system.
+
+12
+00:00:21,260 --> 00:00:22,093
+So lets start with,
+
+13
+00:00:22,093 --> 00:00:24,330
+What is the service value system?
+
+14
+00:00:24,330 --> 00:00:25,640
+Well, the service value system
+
+15
+00:00:25,640 --> 00:00:28,250
+or the SVS, is going to describe
+
+16
+00:00:28,250 --> 00:00:30,170
+how all of the components and activities
+
+17
+00:00:30,170 --> 00:00:33,090
+of your organization
+work together as a system
+
+18
+00:00:33,090 --> 00:00:35,670
+to enable value co-creation.
+
+19
+00:00:35,670 --> 00:00:37,460
+Now, these components and activities
+
+20
+00:00:37,460 --> 00:00:38,820
+are all tied together within the
+
+21
+00:00:38,820 --> 00:00:40,730
+organizations resources and they
+
+22
+00:00:40,730 --> 00:00:42,620
+can be configured and reconfigured
+
+23
+00:00:42,620 --> 00:00:44,371
+in multiple different combinations
+
+24
+00:00:44,371 --> 00:00:48,120
+in this flexible way based
+on the circumstances.
+
+25
+00:00:48,120 --> 00:00:49,570
+Now this is going to require some
+
+26
+00:00:49,570 --> 00:00:50,901
+integration and coordination of
+
+27
+00:00:50,901 --> 00:00:52,780
+all of the different activities
+
+28
+00:00:52,780 --> 00:00:55,730
+and practices and teams
+within the organization.
+
+29
+00:00:55,730 --> 00:00:56,980
+As well as different authorities and
+
+30
+00:00:56,980 --> 00:01:00,010
+responsibilities for this
+to truly be effective.
+
+31
+00:01:00,010 --> 00:01:01,451
+Some organizations are much more
+
+32
+00:01:01,451 --> 00:01:03,670
+flexible than others, some are very
+
+33
+00:01:03,670 --> 00:01:05,310
+tight and stringent in their ways
+
+34
+00:01:05,310 --> 00:01:07,120
+but depending on your organization
+
+35
+00:01:07,120 --> 00:01:08,510
+and its culture, you are going to
+
+36
+00:01:08,510 --> 00:01:10,600
+be able to utilize this system
+
+37
+00:01:10,600 --> 00:01:13,010
+in a very rigid or very flexible manner
+
+38
+00:01:13,010 --> 00:01:14,560
+It just depends on your organization
+
+39
+00:01:14,560 --> 00:01:16,250
+and how you implement it.
+
+40
+00:01:16,250 --> 00:01:18,040
+Now the purpose of the service value
+
+41
+00:01:18,040 --> 00:01:20,130
+system is to ensure that your organization
+
+42
+00:01:20,130 --> 00:01:22,032
+is continually co-creating value
+
+43
+00:01:22,032 --> 00:01:24,011
+with all of your stakeholders
+
+44
+00:01:24,011 --> 00:01:25,980
+through the use and management
+
+45
+00:01:25,980 --> 00:01:27,510
+of the products and services that
+
+46
+00:01:27,510 --> 00:01:29,960
+you have within your organization.
+
+47
+00:01:29,960 --> 00:01:32,520
+Now when we look at this
+service value system
+
+48
+00:01:32,520 --> 00:01:34,957
+its made up of three basic blocks
+
+49
+00:01:34,957 --> 00:01:36,590
+that we're going to see.
+
+50
+00:01:36,590 --> 00:01:37,710
+You'll see on the left side we
+
+51
+00:01:37,710 --> 00:01:40,730
+have opportunity and
+demand, that's our input.
+
+52
+00:01:40,730 --> 00:01:42,900
+We have on the right side, value
+
+53
+00:01:42,900 --> 00:01:44,530
+that's our output and then we have
+
+54
+00:01:44,530 --> 00:01:46,360
+all this stuff in the middle.
+
+55
+00:01:46,360 --> 00:01:47,760
+In the middle we have the service
+
+56
+00:01:47,760 --> 00:01:49,610
+value chain and we are going to dedicate
+
+57
+00:01:49,610 --> 00:01:51,176
+an entire section of this course
+
+58
+00:01:51,176 --> 00:01:53,648
+to talking about the service value chain.
+
+59
+00:01:53,648 --> 00:01:55,550
+Around that service value chain
+
+60
+00:01:55,550 --> 00:01:57,638
+we also have governance and practices,
+
+61
+00:01:57,638 --> 00:01:59,250
+we are going to talk a lot about
+
+62
+00:01:59,250 --> 00:02:01,398
+practices in their own
+section of this course,
+
+63
+00:02:01,398 --> 00:02:03,318
+which is the final three sections
+
+64
+00:02:03,318 --> 00:02:05,907
+because there are thirty
+four different practices
+
+65
+00:02:05,907 --> 00:02:08,750
+inside of idle four that
+we're going to cover.
+
+66
+00:02:08,750 --> 00:02:10,370
+And then we have governance which is
+
+67
+00:02:10,370 --> 00:02:12,210
+the way the organization is run.
+
+68
+00:02:12,210 --> 00:02:13,340
+We've talked a little bit about
+
+69
+00:02:13,340 --> 00:02:14,710
+governance before and we're going to
+
+70
+00:02:14,710 --> 00:02:16,376
+revisit that in this section.
+
+71
+00:02:16,376 --> 00:02:18,930
+And then we have the guiding principles
+
+72
+00:02:18,930 --> 00:02:20,516
+and continual improvement and again
+
+73
+00:02:20,516 --> 00:02:22,866
+the guidance principles is a big concept
+
+74
+00:02:22,866 --> 00:02:24,610
+so we are going to spend an entire
+
+75
+00:02:24,610 --> 00:02:26,250
+section on that as well.
+
+76
+00:02:26,250 --> 00:02:28,300
+So before we go any further I just
+
+77
+00:02:28,300 --> 00:02:30,370
+want to say welcome to the service
+
+78
+00:02:30,370 --> 00:02:32,130
+value system and we are going to start
+
+79
+00:02:32,130 --> 00:02:34,558
+focusing on opportunity
+and demand and value,
+
+80
+00:02:34,558 --> 00:02:37,423
+those inputs and outputs,
+in the next lesson.
+

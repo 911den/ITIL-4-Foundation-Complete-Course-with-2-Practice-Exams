@@ -1,0 +1,128 @@
+﻿1
+00:00:00,980 --> 00:00:03,060
+- The Release Management practice.
+
+2
+00:00:03,060 --> 00:00:06,100
+This is another one that you
+have to recall the purpose of.
+
+3
+00:00:06,100 --> 00:00:07,550
+So, what is that purpose?
+
+4
+00:00:07,550 --> 00:00:09,890
+Well, the purpose of
+Release Management practice
+
+5
+00:00:09,890 --> 00:00:11,580
+is to make new and changed services
+
+6
+00:00:11,580 --> 00:00:13,810
+and features available for use.
+
+7
+00:00:13,810 --> 00:00:16,740
+Basically, it's going to
+provide us some set of processes
+
+8
+00:00:16,740 --> 00:00:18,150
+that we're going to have to go through
+
+9
+00:00:18,150 --> 00:00:20,970
+to get the thing from the
+design all the way out
+
+10
+00:00:20,970 --> 00:00:23,420
+until it's finally live
+in the environment.
+
+11
+00:00:23,420 --> 00:00:25,970
+Generally, this will involve
+having a release plan,
+
+12
+00:00:25,970 --> 00:00:27,890
+will have the newer
+changed infrastructure,
+
+13
+00:00:27,890 --> 00:00:29,230
+newer changed software,
+
+14
+00:00:29,230 --> 00:00:32,320
+and newer changed documentation
+and training given to us
+
+15
+00:00:32,320 --> 00:00:33,740
+and then we'll be able to put it into
+
+16
+00:00:33,740 --> 00:00:35,880
+the deployment and release process.
+
+17
+00:00:35,880 --> 00:00:37,660
+And this is where we're going to review it
+
+18
+00:00:37,660 --> 00:00:39,980
+and eventually release it
+so that it can be deployed
+
+19
+00:00:39,980 --> 00:00:41,400
+into the environment.
+
+20
+00:00:41,400 --> 00:00:43,430
+That's the whole purpose
+of release management.
+
+21
+00:00:43,430 --> 00:00:44,980
+We don't want things to just get put out
+
+22
+00:00:44,980 --> 00:00:46,820
+into the environment
+without us knowing about it.
+
+23
+00:00:46,820 --> 00:00:48,750
+We want to properly transition them
+
+24
+00:00:48,750 --> 00:00:50,300
+and take them from design,
+
+25
+00:00:50,300 --> 00:00:52,130
+through testing and transition,
+
+26
+00:00:52,130 --> 00:00:53,650
+out and then be released
+
+27
+00:00:53,650 --> 00:00:55,270
+into the operation environment,
+
+28
+00:00:55,270 --> 00:00:57,920
+and make sure that the service
+desk is ready to support it
+
+29
+00:00:57,920 --> 00:00:59,673
+inside deliver and support.
+

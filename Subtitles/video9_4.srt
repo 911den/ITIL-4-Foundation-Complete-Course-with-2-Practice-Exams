@@ -1,0 +1,598 @@
+﻿1
+00:00:00,750 --> 00:00:03,080
+- Problem management, this is another one
+
+2
+00:00:03,080 --> 00:00:04,770
+that you need to know in depth.
+
+3
+00:00:04,770 --> 00:00:06,550
+Now for the exam, I want you to remember
+
+4
+00:00:06,550 --> 00:00:08,300
+the purpose of problem management.
+
+5
+00:00:08,300 --> 00:00:10,460
+This is to reduce the
+likelihood and impact
+
+6
+00:00:10,460 --> 00:00:12,600
+of incidents by identifying actual
+
+7
+00:00:12,600 --> 00:00:14,440
+and potential causes of incidents
+
+8
+00:00:14,440 --> 00:00:17,260
+and managing workarounds and known errors.
+
+9
+00:00:17,260 --> 00:00:19,380
+In this definition, there's two key terms
+
+10
+00:00:19,380 --> 00:00:21,540
+that you need to be able
+to recall for the exam.
+
+11
+00:00:21,540 --> 00:00:24,730
+They're the words problem
+and a known error.
+
+12
+00:00:24,730 --> 00:00:26,970
+Now a problem is a cause or potential
+
+13
+00:00:26,970 --> 00:00:29,020
+cause of one or more incidents.
+
+14
+00:00:29,020 --> 00:00:30,900
+Remember, an incident is an unplanned
+
+15
+00:00:30,900 --> 00:00:32,840
+interruption to a service or a reduction
+
+16
+00:00:32,840 --> 00:00:34,410
+in the quality of that service.
+
+17
+00:00:34,410 --> 00:00:37,100
+If this happens more than once
+to the same type of thing,
+
+18
+00:00:37,100 --> 00:00:39,140
+then it becomes a problem.
+
+19
+00:00:39,140 --> 00:00:40,710
+Sometimes though a problem can
+
+20
+00:00:40,710 --> 00:00:42,890
+be classified as a known error.
+
+21
+00:00:42,890 --> 00:00:44,640
+A known error is a problem that has been
+
+22
+00:00:44,640 --> 00:00:47,250
+analyzed and has not been resolved yet.
+
+23
+00:00:47,250 --> 00:00:49,270
+For example, we recently underwent
+
+24
+00:00:49,270 --> 00:00:52,160
+a website migration from
+one server to another.
+
+25
+00:00:52,160 --> 00:00:54,620
+During that migration,
+we found that the log in
+
+26
+00:00:54,620 --> 00:00:57,460
+link on our website was routing
+users to the wrong place.
+
+27
+00:00:57,460 --> 00:00:59,110
+And it was preventing them from logging in
+
+28
+00:00:59,110 --> 00:01:00,760
+and accessing their training.
+
+29
+00:01:00,760 --> 00:01:02,900
+Now while our web developer
+was working to resolve
+
+30
+00:01:02,900 --> 00:01:05,160
+the underlying issue,
+we were able to notify
+
+31
+00:01:05,160 --> 00:01:07,160
+our users of this issue and we told them
+
+32
+00:01:07,160 --> 00:01:09,180
+that we had a known error
+and gave them a direct
+
+33
+00:01:09,180 --> 00:01:11,660
+link to use to access the login page.
+
+34
+00:01:11,660 --> 00:01:13,650
+By giving our users this direct link,
+
+35
+00:01:13,650 --> 00:01:16,160
+we created what's known as a workaround.
+
+36
+00:01:16,160 --> 00:01:18,670
+A workaround is a solution
+that reduces or eliminates
+
+37
+00:01:18,670 --> 00:01:21,410
+the impact of an incident
+or problem for which a full
+
+38
+00:01:21,410 --> 00:01:23,730
+resolution is not yet available.
+
+39
+00:01:23,730 --> 00:01:25,840
+Sometimes these workarounds
+will help you to reduce
+
+40
+00:01:25,840 --> 00:01:28,040
+the likelihood of incidents
+from occurring again,
+
+41
+00:01:28,040 --> 00:01:29,820
+and these workarounds are documented
+
+42
+00:01:29,820 --> 00:01:31,590
+in your problem records.
+
+43
+00:01:31,590 --> 00:01:33,990
+Workarounds can then be
+created at any stage,
+
+44
+00:01:33,990 --> 00:01:36,080
+and they don't need to wait
+for you to fully analyze
+
+45
+00:01:36,080 --> 00:01:39,400
+the problem and have the
+full complete solution done.
+
+46
+00:01:39,400 --> 00:01:41,770
+Instead, if you have a
+workaround that's been documented
+
+47
+00:01:41,770 --> 00:01:43,720
+early in the problem control stage,
+
+48
+00:01:43,720 --> 00:01:45,830
+then this can be reviewed and improved
+
+49
+00:01:45,830 --> 00:01:48,670
+after the problem analysis
+is fully completed.
+
+50
+00:01:48,670 --> 00:01:51,170
+So when we talk about problem
+management, at its core,
+
+51
+00:01:51,170 --> 00:01:53,670
+we have three major steps inside of it.
+
+52
+00:01:53,670 --> 00:01:55,850
+The first is problem identification.
+
+53
+00:01:55,850 --> 00:01:57,600
+The second is problem control.
+
+54
+00:01:57,600 --> 00:01:59,610
+And the third is error control.
+
+55
+00:01:59,610 --> 00:02:01,600
+When we talk about problem identification,
+
+56
+00:02:01,600 --> 00:02:04,420
+here's what we're looking at
+things like trend analysis,
+
+57
+00:02:04,420 --> 00:02:06,530
+identifying what recurring
+incidents or major
+
+58
+00:02:06,530 --> 00:02:09,010
+incidents have happened, we're
+looking at all the supplier
+
+59
+00:02:09,010 --> 00:02:11,440
+and partner information,
+the software developers,
+
+60
+00:02:11,440 --> 00:02:13,210
+testers, and projects that are on-going.
+
+61
+00:02:13,210 --> 00:02:15,490
+And identifying any possible issues
+
+62
+00:02:15,490 --> 00:02:17,700
+that may turn into problems for us.
+
+63
+00:02:17,700 --> 00:02:19,200
+When we look at problem control,
+
+64
+00:02:19,200 --> 00:02:22,130
+we're trying to prioritize
+and manage based on the risk.
+
+65
+00:02:22,130 --> 00:02:24,470
+We might have 5 or 6 or 7 problems,
+
+66
+00:02:24,470 --> 00:02:25,660
+but we only have enough time and money
+
+67
+00:02:25,660 --> 00:02:27,230
+to solve one of them right now.
+
+68
+00:02:27,230 --> 00:02:28,700
+Which one should we do first?
+
+69
+00:02:28,700 --> 00:02:30,470
+Well that becomes a prioritization
+
+70
+00:02:30,470 --> 00:02:32,110
+and risk management decision.
+
+71
+00:02:32,110 --> 00:02:34,290
+Also, we want to do our problem analysis
+
+72
+00:02:34,290 --> 00:02:36,770
+from the perspective
+of all four dimensions.
+
+73
+00:02:36,770 --> 00:02:38,990
+We want to think about it
+through all four of those lenses,
+
+74
+00:02:38,990 --> 00:02:41,380
+because it might be a problem
+that can be solved with people
+
+75
+00:02:41,380 --> 00:02:44,220
+as opposed to technology or vice versa.
+
+76
+00:02:44,220 --> 00:02:46,160
+And then we go into error control.
+
+77
+00:02:46,160 --> 00:02:47,680
+With error control
+we're trying to identify
+
+78
+00:02:47,680 --> 00:02:50,570
+potential permanent
+solutions for this problem.
+
+79
+00:02:50,570 --> 00:02:53,350
+This allows us to reassess
+any status of known errors
+
+80
+00:02:53,350 --> 00:02:55,460
+and improve our workarounds
+so that we can solve
+
+81
+00:02:55,460 --> 00:02:56,590
+a lot of these problems.
+
+82
+00:02:56,590 --> 00:02:58,810
+Problem management is a
+practice that relies heavily
+
+83
+00:02:58,810 --> 00:03:00,730
+on other practices as well.
+
+84
+00:03:00,730 --> 00:03:02,890
+Problem management has a
+large amount of overlap
+
+85
+00:03:02,890 --> 00:03:04,960
+with the incident
+management, risk management,
+
+86
+00:03:04,960 --> 00:03:07,270
+change control, knowledge management,
+
+87
+00:03:07,270 --> 00:03:09,460
+and continual improvement practices.
+
+88
+00:03:09,460 --> 00:03:11,420
+Each of these practices
+will either provide
+
+89
+00:03:11,420 --> 00:03:12,850
+an input to problem management,
+
+90
+00:03:12,850 --> 00:03:15,050
+or receive information
+from problem management
+
+91
+00:03:15,050 --> 00:03:17,190
+to better do their own jobs.
+
+92
+00:03:17,190 --> 00:03:18,870
+Now when we think about problem management
+
+93
+00:03:18,870 --> 00:03:20,220
+and the value chain activities,
+
+94
+00:03:20,220 --> 00:03:22,450
+it does impact a lot of them.
+
+95
+00:03:22,450 --> 00:03:23,910
+Let's start with improve.
+
+96
+00:03:23,910 --> 00:03:26,100
+When we think about
+improve, problem management
+
+97
+00:03:26,100 --> 00:03:28,560
+and doing it effectively is
+going to provide us a better
+
+98
+00:03:28,560 --> 00:03:30,640
+understanding of what needs to be done
+
+99
+00:03:30,640 --> 00:03:32,710
+to reduce the number
+of incidents, thereby,
+
+100
+00:03:32,710 --> 00:03:35,290
+improving our services and our products.
+
+101
+00:03:35,290 --> 00:03:37,330
+Now engage on the other
+hand, is going to be where
+
+102
+00:03:37,330 --> 00:03:39,010
+we take problems that
+have significant impact
+
+103
+00:03:39,010 --> 00:03:40,880
+to our services, and tell our users
+
+104
+00:03:40,880 --> 00:03:42,170
+and our customers about it.
+
+105
+00:03:42,170 --> 00:03:44,350
+If we're telling our
+customers or users something,
+
+106
+00:03:44,350 --> 00:03:45,393
+that's engage.
+
+107
+00:03:45,393 --> 00:03:47,610
+When we think about it from
+a design and transition
+
+108
+00:03:47,610 --> 00:03:49,700
+perspective, problem
+management is going to provide
+
+109
+00:03:49,700 --> 00:03:51,820
+information that helps
+us to improve testing
+
+110
+00:03:51,820 --> 00:03:54,430
+and knowledge transfer from
+those who are designing
+
+111
+00:03:54,430 --> 00:03:57,600
+and transitioning those
+services into the real world.
+
+112
+00:03:57,600 --> 00:03:59,980
+And once they hit the real
+world to deliver and support,
+
+113
+00:03:59,980 --> 00:04:02,890
+that's when your service
+analysts have to know about it.
+
+114
+00:04:02,890 --> 00:04:05,030
+When we look at it from an
+obtain and build perspective,
+
+115
+00:04:05,030 --> 00:04:06,420
+it's very similar to this.
+
+116
+00:04:06,420 --> 00:04:08,090
+Problem management activities
+are going to help us
+
+117
+00:04:08,090 --> 00:04:10,680
+identify product defects
+that are managed as part
+
+118
+00:04:10,680 --> 00:04:12,610
+of the overall value chain activity.
+
+119
+00:04:12,610 --> 00:04:15,380
+And we want to transfer that
+information to the transition
+
+120
+00:04:15,380 --> 00:04:17,610
+team and to the deliver and support team.
+
+121
+00:04:17,610 --> 00:04:19,450
+And when we look at the
+deliver and support,
+
+122
+00:04:19,450 --> 00:04:21,470
+problem management is
+going to make a significant
+
+123
+00:04:21,470 --> 00:04:24,130
+contribution here, just like
+incident management did.
+
+124
+00:04:24,130 --> 00:04:26,700
+Because as we identify
+repetition of incidents,
+
+125
+00:04:26,700 --> 00:04:29,102
+we can then try to find
+timely incident resolution
+
+126
+00:04:29,102 --> 00:04:31,430
+and solve them for the longer term
+
+127
+00:04:31,430 --> 00:04:33,610
+by solving the underlying problem.
+
+128
+00:04:33,610 --> 00:04:34,820
+That's the way we want to do this
+
+129
+00:04:34,820 --> 00:04:36,220
+as we look at problem management.
+
+130
+00:04:36,220 --> 00:04:39,250
+We want to find things that
+happen again and again and again
+
+131
+00:04:39,250 --> 00:04:41,710
+and solve the root cause,
+instead of having to keep
+
+132
+00:04:41,710 --> 00:04:44,810
+playing Whack-a-Mole with all
+of the minor little incidents.
+
+133
+00:04:44,810 --> 00:04:46,170
+That's the whole goal here,
+
+134
+00:04:46,170 --> 00:04:48,270
+inside of the project management practice.
+

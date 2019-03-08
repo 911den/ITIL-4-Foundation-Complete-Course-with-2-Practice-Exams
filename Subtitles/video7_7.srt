@@ -1,0 +1,145 @@
+﻿1
+00:00:00,980 --> 00:00:03,510
+- It's finally time to take some action.
+
+2
+00:00:03,510 --> 00:00:05,830
+We have our vision, we have our baseline,
+
+3
+00:00:05,830 --> 00:00:08,110
+we have our goals, and we have our plan.
+
+4
+00:00:08,110 --> 00:00:10,310
+Now in step five we're
+going to take action
+
+5
+00:00:10,310 --> 00:00:12,480
+and put those plans into motion.
+
+6
+00:00:12,480 --> 00:00:14,270
+When you're taking action you can do this
+
+7
+00:00:14,270 --> 00:00:16,190
+under a traditional waterfall approach,
+
+8
+00:00:16,190 --> 00:00:17,660
+where a large improvement initiative
+
+9
+00:00:17,660 --> 00:00:19,310
+is broken down into phases,
+
+10
+00:00:19,310 --> 00:00:21,480
+a lot of planning and
+preparation is performed
+
+11
+00:00:21,480 --> 00:00:23,910
+and then a large sweeping change occurs
+
+12
+00:00:23,910 --> 00:00:25,540
+over a very short period of time,
+
+13
+00:00:25,540 --> 00:00:27,680
+and you transition to the new system.
+
+14
+00:00:27,680 --> 00:00:28,880
+This may work when you needed
+
+15
+00:00:28,880 --> 00:00:31,080
+to take a really old system, for example,
+
+16
+00:00:31,080 --> 00:00:32,910
+and completely replace it.
+
+17
+00:00:32,910 --> 00:00:35,600
+But, most of the time, you're
+probably going to take action
+
+18
+00:00:35,600 --> 00:00:39,610
+in smaller iterations, using
+a much more agile methodology.
+
+19
+00:00:39,610 --> 00:00:41,610
+In this case, you're
+going to deliver smaller
+
+20
+00:00:41,610 --> 00:00:43,220
+product and service improvements,
+
+21
+00:00:43,220 --> 00:00:45,370
+but you're going to do
+them much more frequently
+
+22
+00:00:45,370 --> 00:00:48,920
+creating incremental but
+smaller wins and value.
+
+23
+00:00:48,920 --> 00:00:50,800
+Either method'll work
+and it really depends
+
+24
+00:00:50,800 --> 00:00:53,490
+on your situation on which
+one you're going to use.
+
+25
+00:00:53,490 --> 00:00:55,150
+During this effort there needs to be
+
+26
+00:00:55,150 --> 00:00:57,420
+a continual focus on
+measuring your progress
+
+27
+00:00:57,420 --> 00:01:00,480
+towards the vision, managing
+your risk during those changes,
+
+28
+00:01:00,480 --> 00:01:03,360
+and ensuring visibility and
+awareness of the initiative
+
+29
+00:01:03,360 --> 00:01:05,230
+is spread throughout the organization
+
+30
+00:01:05,230 --> 00:01:07,470
+so everybody knows what's going on.
+
+31
+00:01:07,470 --> 00:01:09,510
+Once the improvement
+initiative is complete,
+
+32
+00:01:09,510 --> 00:01:11,380
+we then can move on to step six
+
+33
+00:01:11,380 --> 00:01:13,480
+and find out if we were successful or not.
+

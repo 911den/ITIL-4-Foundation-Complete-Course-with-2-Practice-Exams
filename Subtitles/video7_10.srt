@@ -1,0 +1,484 @@
+﻿1
+00:00:00,880 --> 00:00:03,860
+- Continual improvement
+and the guiding principles.
+
+2
+00:00:03,860 --> 00:00:06,110
+In this lesson I want to briefly discuss
+
+3
+00:00:06,110 --> 00:00:09,260
+how we can tie the idea of the
+continual improvement model
+
+4
+00:00:09,260 --> 00:00:11,410
+back to our guiding principles.
+
+5
+00:00:11,410 --> 00:00:12,470
+You may have thought to yourself
+
+6
+00:00:12,470 --> 00:00:15,100
+while I was covering those
+different steps hey, wouldn't
+
+7
+00:00:15,100 --> 00:00:17,670
+the
+insert-the-name-of-your-guiding-principle
+here,
+
+8
+00:00:17,670 --> 00:00:20,430
+be very useful during
+this step, and guess what?
+
+9
+00:00:20,430 --> 00:00:21,790
+You would be right.
+
+10
+00:00:21,790 --> 00:00:24,290
+All of the principles are
+applicable and relevant
+
+11
+00:00:24,290 --> 00:00:26,890
+at nearly every step of
+the improvement initiative.
+
+12
+00:00:26,890 --> 00:00:29,280
+However, some of our
+guiding principles are
+
+13
+00:00:29,280 --> 00:00:31,820
+especially relevant to certain steps.
+
+14
+00:00:31,820 --> 00:00:34,020
+So we're going to go through
+the seven steps again
+
+15
+00:00:34,020 --> 00:00:35,990
+really quickly, one more time.
+
+16
+00:00:35,990 --> 00:00:38,070
+But this time we're
+going to link them back
+
+17
+00:00:38,070 --> 00:00:40,850
+to our useful guiding
+principle for each step
+
+18
+00:00:40,850 --> 00:00:44,070
+and we're going to figure out
+which ones are the most useful.
+
+19
+00:00:44,070 --> 00:00:46,560
+First we have what is the vision.
+
+20
+00:00:46,560 --> 00:00:47,970
+When we're thinking about the vision
+
+21
+00:00:47,970 --> 00:00:49,850
+we want to have a focus on value.
+
+22
+00:00:49,850 --> 00:00:51,390
+We want to think about collaborating
+
+23
+00:00:51,390 --> 00:00:53,960
+and promoting visibility
+so we can share that vision
+
+24
+00:00:53,960 --> 00:00:55,570
+across the organization.
+
+25
+00:00:55,570 --> 00:00:57,990
+And we want to think and work holistically
+
+26
+00:00:57,990 --> 00:00:59,150
+because we want to create a vision
+
+27
+00:00:59,150 --> 00:01:01,340
+that works for the entire organization,
+
+28
+00:01:01,340 --> 00:01:03,510
+not just for a single department.
+
+29
+00:01:03,510 --> 00:01:05,700
+Our second step, where are we now,
+
+30
+00:01:05,700 --> 00:01:07,620
+that's going to start with where we are.
+
+31
+00:01:07,620 --> 00:01:09,990
+So going back to the principle
+of start where you are
+
+32
+00:01:09,990 --> 00:01:11,500
+is a great place.
+
+33
+00:01:11,500 --> 00:01:14,310
+Also, we want to collaborate
+and promote visibility.
+
+34
+00:01:14,310 --> 00:01:16,780
+We want everyone to know
+exactly where we are
+
+35
+00:01:16,780 --> 00:01:18,700
+and how we're performing.
+
+36
+00:01:18,700 --> 00:01:21,550
+Third, we want to go to
+where do we want to be.
+
+37
+00:01:21,550 --> 00:01:22,860
+This is where we're going to progress
+
+38
+00:01:22,860 --> 00:01:24,520
+iteratively with feedback.
+
+39
+00:01:24,520 --> 00:01:26,080
+We're going to start setting out goals
+
+40
+00:01:26,080 --> 00:01:27,810
+and start some things into motion.
+
+41
+00:01:27,810 --> 00:01:29,990
+We also want to think
+and work holistically
+
+42
+00:01:29,990 --> 00:01:31,490
+so we can think about
+how it's going to affect
+
+43
+00:01:31,490 --> 00:01:33,000
+the entire organization.
+
+44
+00:01:33,000 --> 00:01:33,990
+We also want to think about
+
+45
+00:01:33,990 --> 00:01:35,750
+keeping it simple and practical.
+
+46
+00:01:35,750 --> 00:01:36,760
+When I start figuring out
+
+47
+00:01:36,760 --> 00:01:38,850
+how I'm going to do metrics and measures,
+
+48
+00:01:38,850 --> 00:01:40,880
+I don't want to have it very complicated.
+
+49
+00:01:40,880 --> 00:01:42,970
+I want something that's simple, practical,
+
+50
+00:01:42,970 --> 00:01:44,410
+and easy to measure.
+
+51
+00:01:44,410 --> 00:01:47,500
+Then I also want to think
+about optimizing and automation
+
+52
+00:01:47,500 --> 00:01:48,660
+because I don't want to have to go
+
+53
+00:01:48,660 --> 00:01:51,030
+and check all the server spaces manually.
+
+54
+00:01:51,030 --> 00:01:53,920
+I want to figure out the
+capacity metric automated,
+
+55
+00:01:53,920 --> 00:01:55,910
+and I want to do that
+through an optimized method.
+
+56
+00:01:55,910 --> 00:01:56,980
+So these are going to be the four
+
+57
+00:01:56,980 --> 00:01:58,820
+that are most important to us.
+
+58
+00:01:58,820 --> 00:02:00,790
+In our fourth step, how do we get there,
+
+59
+00:02:00,790 --> 00:02:02,420
+we're starting to plan, right?
+
+60
+00:02:02,420 --> 00:02:04,800
+Well, when we plan we want to plan
+
+61
+00:02:04,800 --> 00:02:07,260
+to progress iteratively and with feedback.
+
+62
+00:02:07,260 --> 00:02:08,670
+We also want to make
+sure we're collaborating
+
+63
+00:02:08,670 --> 00:02:11,610
+and promoting visibility of
+that plan to everybody else.
+
+64
+00:02:11,610 --> 00:02:14,110
+We want to think and work
+holistically so our plan is
+
+65
+00:02:14,110 --> 00:02:16,970
+going to affect everyone in
+the organization properly.
+
+66
+00:02:16,970 --> 00:02:20,720
+And we want to keep our
+plan simple and practical.
+
+67
+00:02:20,720 --> 00:02:23,040
+Our fifth step is where we take action.
+
+68
+00:02:23,040 --> 00:02:25,670
+When we take action
+we're focusing on value.
+
+69
+00:02:25,670 --> 00:02:27,320
+What actions can we do to get us
+
+70
+00:02:27,320 --> 00:02:29,300
+the most value the quickest?
+
+71
+00:02:29,300 --> 00:02:31,890
+We also want to progress
+iteratively and with feedback,
+
+72
+00:02:31,890 --> 00:02:33,810
+incorporating that feedback as we go,
+
+73
+00:02:33,810 --> 00:02:37,000
+and taking positive action
+and continually move forward.
+
+74
+00:02:37,000 --> 00:02:39,760
+Then we want to collaborate
+and promote visibility.
+
+75
+00:02:39,760 --> 00:02:40,940
+We want to make sure everybody knows
+
+76
+00:02:40,940 --> 00:02:44,130
+what actions we're taking
+and why we're doing it.
+
+77
+00:02:44,130 --> 00:02:46,180
+Next, we're going to
+move into the sixth step
+
+78
+00:02:46,180 --> 00:02:47,770
+which is did we get there.
+
+79
+00:02:47,770 --> 00:02:49,760
+When we're thinking
+about did we get there,
+
+80
+00:02:49,760 --> 00:02:52,080
+we're again going to
+have a focus on value.
+
+81
+00:02:52,080 --> 00:02:54,180
+We're going to collaborate
+and promote the visibility
+
+82
+00:02:54,180 --> 00:02:57,320
+of the results so people know
+yes, we did it, it worked;
+
+83
+00:02:57,320 --> 00:03:00,120
+or uh-oh, it didn't,
+we need to try harder.
+
+84
+00:03:00,120 --> 00:03:02,170
+And we want to think and work holistically
+
+85
+00:03:02,170 --> 00:03:04,850
+again across the entire organization.
+
+86
+00:03:04,850 --> 00:03:07,350
+That brings us to our
+seventh and final step.
+
+87
+00:03:07,350 --> 00:03:09,140
+How do we keep the momentum going?
+
+88
+00:03:09,140 --> 00:03:11,170
+Well, we're going to focus on value.
+
+89
+00:03:11,170 --> 00:03:13,340
+We're going to collaborate
+and promote visibility,
+
+90
+00:03:13,340 --> 00:03:15,310
+sharing the message with everybody else.
+
+91
+00:03:15,310 --> 00:03:16,810
+We're going to think and work holistically
+
+92
+00:03:16,810 --> 00:03:18,520
+across the organization.
+
+93
+00:03:18,520 --> 00:03:20,690
+And now that we've got
+something that's working,
+
+94
+00:03:20,690 --> 00:03:23,270
+we want to optimize it,
+and once we optimize it
+
+95
+00:03:23,270 --> 00:03:24,480
+we want to automate it.
+
+96
+00:03:24,480 --> 00:03:26,020
+So optimize and automate would be
+
+97
+00:03:26,020 --> 00:03:27,720
+our last guiding principle.
+
+98
+00:03:27,720 --> 00:03:30,710
+So as you can see, by using
+the continual improvement
+
+99
+00:03:30,710 --> 00:03:32,430
+along with the guiding principles,
+
+100
+00:03:32,430 --> 00:03:34,240
+you can create a solid framework
+
+101
+00:03:34,240 --> 00:03:36,520
+for successful service management.
+
+102
+00:03:36,520 --> 00:03:38,830
+These concept models
+work exceptionally well
+
+103
+00:03:38,830 --> 00:03:41,100
+with Agile methodologies,
+especially with that
+
+104
+00:03:41,100 --> 00:03:42,890
+progressive iterative feedback,
+
+105
+00:03:42,890 --> 00:03:46,040
+and we also can use it for
+DevOps or development operations
+
+106
+00:03:46,040 --> 00:03:47,820
+and Lean frameworks as well.
+
+107
+00:03:47,820 --> 00:03:50,700
+It really does work well
+and it is an excellent tool
+
+108
+00:03:50,700 --> 00:03:52,730
+to put in your toolbox as you move forward
+
+109
+00:03:52,730 --> 00:03:53,793
+into the real world.
+

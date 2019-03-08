@@ -1,0 +1,533 @@
+﻿1
+00:00:00,810 --> 00:00:02,120
+- Plan.
+
+2
+00:00:02,120 --> 00:00:04,620
+The first value chain activity
+we're going to discuss
+
+3
+00:00:04,620 --> 00:00:06,653
+in this section is known as Plan.
+
+4
+00:00:06,653 --> 00:00:09,540
+The purpose of the Plan
+value chain activity
+
+5
+00:00:09,540 --> 00:00:11,340
+is to ensure a shared understanding
+
+6
+00:00:11,340 --> 00:00:13,300
+of vision, the current status,
+
+7
+00:00:13,300 --> 00:00:14,640
+and the improvement direction
+
+8
+00:00:14,640 --> 00:00:17,720
+for all four dimensions of
+the IT service management,
+
+9
+00:00:17,720 --> 00:00:19,400
+and all of our products and services
+
+10
+00:00:19,400 --> 00:00:21,105
+across the organization.
+
+11
+00:00:21,105 --> 00:00:23,760
+This is your executive vision.
+
+12
+00:00:23,760 --> 00:00:25,340
+It's where we want to be,
+
+13
+00:00:25,340 --> 00:00:27,520
+and then the plans to get us there.
+
+14
+00:00:27,520 --> 00:00:30,260
+As we look at the inputs
+to the Plan process,
+
+15
+00:00:30,260 --> 00:00:31,890
+we're going to be looking at policies,
+
+16
+00:00:31,890 --> 00:00:34,370
+requirements, and
+constraints that are provided
+
+17
+00:00:34,370 --> 00:00:36,810
+by the organization's governance body.
+
+18
+00:00:36,810 --> 00:00:38,340
+We're also going to be
+looking at consolidating
+
+19
+00:00:38,340 --> 00:00:40,220
+all of the demands and opportunities
+
+20
+00:00:40,220 --> 00:00:42,720
+that are being sent to us
+from the Engage process
+
+21
+00:00:42,720 --> 00:00:44,800
+that we're going to be talking
+about in a few minutes.
+
+22
+00:00:44,800 --> 00:00:45,970
+We're also going to be
+looking at all of the
+
+23
+00:00:45,970 --> 00:00:47,950
+value chain performance information,
+
+24
+00:00:47,950 --> 00:00:49,050
+the improvement initiatives,
+
+25
+00:00:49,050 --> 00:00:51,970
+and the plans that are provided
+from the Improve process.
+
+26
+00:00:51,970 --> 00:00:53,920
+We're also going to be looking
+at improvement status reports
+
+27
+00:00:53,920 --> 00:00:55,310
+from the Improve process.
+
+28
+00:00:55,310 --> 00:00:57,250
+We're going to be looking
+at knowledge and information
+
+29
+00:00:57,250 --> 00:00:59,390
+about our new and changed proxy services
+
+30
+00:00:59,390 --> 00:01:01,150
+from our design and transition or
+
+31
+00:01:01,150 --> 00:01:03,090
+obtain and build processes.
+
+32
+00:01:03,090 --> 00:01:04,680
+We're going to take that
+knowledge and information
+
+33
+00:01:04,680 --> 00:01:06,920
+about third party service
+components as well,
+
+34
+00:01:06,920 --> 00:01:08,675
+coming in from the Engage process.
+
+35
+00:01:08,675 --> 00:01:11,830
+All of this is things that are
+going to go into our planning,
+
+36
+00:01:11,830 --> 00:01:14,850
+so we can figure out how we
+can best get our services
+
+37
+00:01:14,850 --> 00:01:16,670
+to where we want them to be.
+
+38
+00:01:16,670 --> 00:01:19,010
+If you're familiar with the old ITIL ways,
+
+39
+00:01:19,010 --> 00:01:20,870
+it used to be known as strategy.
+
+40
+00:01:20,870 --> 00:01:24,200
+A lot of that is now part
+of this Plan process.
+
+41
+00:01:24,200 --> 00:01:26,100
+Now, all of that is the inputs,
+
+42
+00:01:26,100 --> 00:01:28,190
+what comes out of the Plan process?
+
+43
+00:01:28,190 --> 00:01:31,240
+Well, we're going to be looking
+at three levels of Plans.
+
+44
+00:01:31,240 --> 00:01:32,540
+We have strategic plans,
+
+45
+00:01:32,540 --> 00:01:34,750
+which are those big organizational plans.
+
+46
+00:01:34,750 --> 00:01:38,060
+We have tactical plans, and
+we have operational plans.
+
+47
+00:01:38,060 --> 00:01:40,730
+And this is kind of big, middle, and small
+
+48
+00:01:40,730 --> 00:01:42,810
+as we get down into the weeds.
+
+49
+00:01:42,810 --> 00:01:45,000
+We also have portfolio decisions
+that are going to be made,
+
+50
+00:01:45,000 --> 00:01:48,160
+so we can decide what services
+are we going to bring online
+
+51
+00:01:48,160 --> 00:01:50,750
+so that we can pass those
+to Design and Transition,
+
+52
+00:01:50,750 --> 00:01:53,340
+so they can actually design
+and build those services,
+
+53
+00:01:53,340 --> 00:01:55,480
+and figure out how to make them a reality.
+
+54
+00:01:55,480 --> 00:01:57,060
+When we talk about Plan,
+we're talking about
+
+55
+00:01:57,060 --> 00:01:59,530
+the big, overarching way of thinking about
+
+56
+00:01:59,530 --> 00:02:01,150
+how we're going to get somewhere.
+
+57
+00:02:01,150 --> 00:02:02,000
+We also want to think about
+
+58
+00:02:02,000 --> 00:02:03,810
+our architectures and our policies,
+
+59
+00:02:03,810 --> 00:02:05,370
+and those are things that
+we're going to output
+
+60
+00:02:05,370 --> 00:02:07,300
+and give to Design and Transition.
+
+61
+00:02:07,300 --> 00:02:09,349
+Now what do I mean by
+architectures and policies?
+
+62
+00:02:09,349 --> 00:02:11,430
+Well, maybe part of our plan means
+
+63
+00:02:11,430 --> 00:02:13,710
+that we're going to use
+cloud architectures.
+
+64
+00:02:13,710 --> 00:02:15,830
+That means the Design
+and Transition should
+
+65
+00:02:15,830 --> 00:02:19,340
+no longer be trying to build
+server farms for us to use.
+
+66
+00:02:19,340 --> 00:02:21,490
+Instead, they should be
+looking at getting things
+
+67
+00:02:21,490 --> 00:02:22,899
+on the Amazon Web Services,
+
+68
+00:02:22,899 --> 00:02:25,860
+or Microsoft Azure, or Google Cloud.
+
+69
+00:02:25,860 --> 00:02:27,580
+That would be an architecture decision
+
+70
+00:02:27,580 --> 00:02:28,970
+that's going to come out of plans,
+
+71
+00:02:28,970 --> 00:02:31,560
+and be given to Design and Transition.
+
+72
+00:02:31,560 --> 00:02:33,810
+As we want to give things
+back to the Improve process,
+
+73
+00:02:33,810 --> 00:02:36,260
+we want to tell them,
+based on our planning,
+
+74
+00:02:36,260 --> 00:02:38,300
+we think these are things
+that can be improved,
+
+75
+00:02:38,300 --> 00:02:40,240
+these are improvement opportunities.
+
+76
+00:02:40,240 --> 00:02:43,320
+So, we'll pass that back to
+the Improve process as well.
+
+77
+00:02:43,320 --> 00:02:45,037
+Another thing we're going to
+give to the Engage process
+
+78
+00:02:45,037 --> 00:02:47,960
+is our product and our service portfolio.
+
+79
+00:02:47,960 --> 00:02:50,910
+As an organization, we're
+going to create the roadmap
+
+80
+00:02:50,910 --> 00:02:53,270
+of what we want to build
+and what we want to get
+
+81
+00:02:53,270 --> 00:02:55,740
+over the next, say, three or five years.
+
+82
+00:02:55,740 --> 00:02:57,730
+Once we have that plan in place,
+
+83
+00:02:57,730 --> 00:02:59,876
+we give that to Engage,
+and they're going to go out
+
+84
+00:02:59,876 --> 00:03:02,700
+and engage with customers, consumers,
+
+85
+00:03:02,700 --> 00:03:04,840
+as well as service
+providers, to figure out
+
+86
+00:03:04,840 --> 00:03:08,640
+how we can build what we
+want to get from this plan.
+
+87
+00:03:08,640 --> 00:03:10,910
+And that engagement is
+going to happen by going out
+
+88
+00:03:10,910 --> 00:03:13,130
+and making contracts or making connections
+
+89
+00:03:13,130 --> 00:03:14,420
+to get what we need.
+
+90
+00:03:14,420 --> 00:03:15,779
+Which brings us to the last thing.
+
+91
+00:03:15,779 --> 00:03:18,830
+Engagement also is going
+to go out as an output
+
+92
+00:03:18,830 --> 00:03:21,180
+from our plans and get the contracts
+
+93
+00:03:21,180 --> 00:03:23,680
+and the agreements in place
+so that we can actually
+
+94
+00:03:23,680 --> 00:03:25,740
+give that into the Design and Transition,
+
+95
+00:03:25,740 --> 00:03:26,920
+and then to the Build team,
+
+96
+00:03:26,920 --> 00:03:28,966
+so they can build what
+it is we're envisioning.
+
+97
+00:03:28,966 --> 00:03:30,410
+That's the idea.
+
+98
+00:03:30,410 --> 00:03:33,600
+When you hear about plans
+inside the service value chain,
+
+99
+00:03:33,600 --> 00:03:35,230
+I want you to think
+about the fact that we're
+
+100
+00:03:35,230 --> 00:03:36,980
+thinking about big plans.
+
+101
+00:03:36,980 --> 00:03:38,640
+We're talking about roadmaps.
+
+102
+00:03:38,640 --> 00:03:41,000
+For example, in my
+company, we have roadmap
+
+103
+00:03:41,000 --> 00:03:42,810
+that says over the next three years,
+
+104
+00:03:42,810 --> 00:03:44,787
+these are the different
+certification programs
+
+105
+00:03:44,787 --> 00:03:48,140
+that we're going to support and
+create videos and exams for.
+
+106
+00:03:48,140 --> 00:03:49,460
+If it's not on that roadmap,
+
+107
+00:03:49,460 --> 00:03:50,930
+we're not going to put effort towards it,
+
+108
+00:03:50,930 --> 00:03:52,330
+because that is our plan.
+
+109
+00:03:52,330 --> 00:03:54,150
+That is what we're going
+to be going towards.
+
+110
+00:03:54,150 --> 00:03:57,570
+That is our big, overarching,
+strategic vision.
+
+111
+00:03:57,570 --> 00:03:59,530
+Now, from that strategic vision,
+
+112
+00:03:59,530 --> 00:04:02,210
+we have a tactical plan
+that says in the next year,
+
+113
+00:04:02,210 --> 00:04:04,920
+we're going to do these
+three certifications maybe.
+
+114
+00:04:04,920 --> 00:04:06,340
+And then we have operational plans
+
+115
+00:04:06,340 --> 00:04:09,250
+of how we're going to build one
+of those individual courses.
+
+116
+00:04:09,250 --> 00:04:11,840
+So it goes from the big
+plan, to a medium sized plan,
+
+117
+00:04:11,840 --> 00:04:14,540
+down to the very detailed
+operational plan.
+
+118
+00:04:14,540 --> 00:04:16,480
+That's the idea here
+when we talk about plans
+
+119
+00:04:16,480 --> 00:04:18,263
+inside the service value chain.
+

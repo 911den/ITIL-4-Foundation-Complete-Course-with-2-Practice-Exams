@@ -1,0 +1,976 @@
+﻿1
+00:00:00,320 --> 00:00:02,040
+- Information and Technology.
+
+2
+00:00:02,040 --> 00:00:03,420
+It's our second dimension,
+
+3
+00:00:03,420 --> 00:00:04,710
+and when we talk about these dimensions
+
+4
+00:00:04,710 --> 00:00:06,790
+it's the perspective that we're looking at
+
+5
+00:00:06,790 --> 00:00:08,420
+those products and services through
+
+6
+00:00:08,420 --> 00:00:11,170
+so we can co-create that
+value for our consumers.
+
+7
+00:00:11,170 --> 00:00:13,280
+We look at it from information technology.
+
+8
+00:00:13,280 --> 00:00:14,800
+These are two different things.
+
+9
+00:00:14,800 --> 00:00:17,510
+We have the information,
+and we have the technology
+
+10
+00:00:17,510 --> 00:00:19,360
+that we're going to
+hold the information in.
+
+11
+00:00:19,360 --> 00:00:21,060
+Let's start with technologies
+'cause that's the one
+
+12
+00:00:21,060 --> 00:00:23,110
+that's probably easier to understand.
+
+13
+00:00:23,110 --> 00:00:25,810
+When we talk about technology,
+this is all the things
+
+14
+00:00:25,810 --> 00:00:27,630
+that an information technology specialist
+
+15
+00:00:27,630 --> 00:00:29,470
+is going to deal with on a daily basis.
+
+16
+00:00:29,470 --> 00:00:32,720
+That's the servers, the
+mobile phones, the laptops,
+
+17
+00:00:32,720 --> 00:00:36,390
+the desktops, the routers, the
+switches, all of that stuff.
+
+18
+00:00:36,390 --> 00:00:38,090
+But when we talk about technology,
+
+19
+00:00:38,090 --> 00:00:40,690
+it's really split up into
+two different things.
+
+20
+00:00:40,690 --> 00:00:42,500
+There's technologies
+that are going to support
+
+21
+00:00:42,500 --> 00:00:45,070
+the IT Service and there's
+technologies that are going to
+
+22
+00:00:45,070 --> 00:00:47,650
+support the IT Service Management.
+
+23
+00:00:47,650 --> 00:00:49,250
+Notice there's a difference there.
+
+24
+00:00:49,250 --> 00:00:51,310
+Now I talk about the IT Services.
+
+25
+00:00:51,310 --> 00:00:52,890
+Let's say that you're Uber.
+
+26
+00:00:52,890 --> 00:00:55,160
+You're going to be a ride sharing service.
+
+27
+00:00:55,160 --> 00:00:58,590
+What technologies do you
+need to provide your service?
+
+28
+00:00:58,590 --> 00:01:00,890
+You have to have a website.
+You have to have an app.
+
+29
+00:01:00,890 --> 00:01:03,180
+You need to have servers
+and infrastructure.
+
+30
+00:01:03,180 --> 00:01:05,930
+You need to have applications
+and communication systems,
+
+31
+00:01:05,930 --> 00:01:07,440
+maybe some artificial intelligence
+
+32
+00:01:07,440 --> 00:01:09,800
+to send the right driver
+to the right location.
+
+33
+00:01:09,800 --> 00:01:12,550
+You might be using cloud
+computing and cognitive computing.
+
+34
+00:01:12,550 --> 00:01:13,750
+You may even be using Blockchain
+
+35
+00:01:13,750 --> 00:01:15,530
+if you're accepting Bitcoin for payment.
+
+36
+00:01:15,530 --> 00:01:18,270
+All of that stuff is the
+stuff that we need to do
+
+37
+00:01:18,270 --> 00:01:21,380
+to get that service in the
+hands of your consumer.
+
+38
+00:01:21,380 --> 00:01:23,690
+Now on the other side of
+things, we have technologies
+
+39
+00:01:23,690 --> 00:01:25,840
+that support Service Management.
+
+40
+00:01:25,840 --> 00:01:27,940
+And when we're talking about
+technologies supporting
+
+41
+00:01:27,940 --> 00:01:30,080
+IT Service Management, we're
+talking about the things
+
+42
+00:01:30,080 --> 00:01:32,020
+that allow the business
+to do it's function.
+
+43
+00:01:32,020 --> 00:01:33,990
+That's things like work flow management.
+
+44
+00:01:33,990 --> 00:01:36,070
+It might be your customer service tools.
+
+45
+00:01:36,070 --> 00:01:38,530
+It might be remote
+collaboration so you can log in
+
+46
+00:01:38,530 --> 00:01:42,150
+to those IT services, those
+servers and cloud services,
+
+47
+00:01:42,150 --> 00:01:43,570
+to go in and configure them.
+
+48
+00:01:43,570 --> 00:01:45,700
+It might be things like mobile platforms
+
+49
+00:01:45,700 --> 00:01:47,720
+or inventory systems so you can figure out
+
+50
+00:01:47,720 --> 00:01:49,530
+where all your spare parts are.
+
+51
+00:01:49,530 --> 00:01:51,710
+All the things that aren't
+going to necessarily deliver
+
+52
+00:01:51,710 --> 00:01:53,260
+the service to the end user,
+
+53
+00:01:53,260 --> 00:01:55,430
+but are things the business needs anyway.
+
+54
+00:01:55,430 --> 00:01:58,630
+For example, you might have
+an Intranet SharePoint site
+
+55
+00:01:58,630 --> 00:02:01,040
+that serves as your
+knowledge base, and if so,
+
+56
+00:02:01,040 --> 00:02:05,340
+that would be a supporting IT
+Service Management technology,
+
+57
+00:02:05,340 --> 00:02:08,100
+not an IT Services technology.
+
+58
+00:02:08,100 --> 00:02:10,120
+Now some of these
+technologies will be the same.
+
+59
+00:02:10,120 --> 00:02:12,700
+You might be using cloud
+computing in both areas.
+
+60
+00:02:12,700 --> 00:02:15,460
+You might be using artificial
+intelligence in both areas.
+
+61
+00:02:15,460 --> 00:02:17,100
+But there is that difference there.
+
+62
+00:02:17,100 --> 00:02:19,360
+There's those things that
+are supporting the end user,
+
+63
+00:02:19,360 --> 00:02:22,320
+those IT Services, and then
+those things that are supporting
+
+64
+00:02:22,320 --> 00:02:25,420
+your internal staff so they
+can support your end user,
+
+65
+00:02:25,420 --> 00:02:26,950
+and those things are going to be
+
+66
+00:02:26,950 --> 00:02:29,940
+the IT Service Management technologies.
+
+67
+00:02:29,940 --> 00:02:31,700
+That's the technology side of things.
+
+68
+00:02:31,700 --> 00:02:34,640
+Now, let's consider the
+information side of things
+
+69
+00:02:34,640 --> 00:02:36,700
+as we look at our products and services.
+
+70
+00:02:36,700 --> 00:02:39,610
+For some of our services,
+information management
+
+71
+00:02:39,610 --> 00:02:41,240
+is probably the primary means
+
+72
+00:02:41,240 --> 00:02:43,200
+of enabling that customer value.
+
+73
+00:02:43,200 --> 00:02:46,390
+For example, if you're a
+newspaper that's online,
+
+74
+00:02:46,390 --> 00:02:48,400
+what are you delivering to your customers?
+
+75
+00:02:48,400 --> 00:02:50,020
+You're delivering information.
+
+76
+00:02:50,020 --> 00:02:52,630
+And so information management
+is critical to that.
+
+77
+00:02:52,630 --> 00:02:54,440
+You might be a data analytics company
+
+78
+00:02:54,440 --> 00:02:56,420
+and you're providing data analysis
+
+79
+00:02:56,420 --> 00:02:59,250
+and the results of that data
+analysis as information.
+
+80
+00:02:59,250 --> 00:03:00,670
+And so if that's the case,
+
+81
+00:03:00,670 --> 00:03:03,128
+information is very important to you.
+
+82
+00:03:03,128 --> 00:03:05,210
+Information management has lots
+
+83
+00:03:05,210 --> 00:03:06,660
+of different challenges though,
+
+84
+00:03:06,660 --> 00:03:08,540
+because when you talk about information,
+
+85
+00:03:08,540 --> 00:03:09,720
+there's all these different things
+
+86
+00:03:09,720 --> 00:03:11,410
+we need to make sure are there
+
+87
+00:03:11,410 --> 00:03:13,530
+so the information can get
+to where it needs to be
+
+88
+00:03:13,530 --> 00:03:14,840
+to add that value.
+
+89
+00:03:14,840 --> 00:03:17,010
+That's things like ensuring
+we have availability
+
+90
+00:03:17,010 --> 00:03:19,760
+of the information,
+reliability of the information,
+
+91
+00:03:19,760 --> 00:03:21,660
+accessibility of the information.
+
+92
+00:03:21,660 --> 00:03:24,510
+The information needs to be
+timely, it needs to be accurate,
+
+93
+00:03:24,510 --> 00:03:26,010
+and it needs to be relevant.
+
+94
+00:03:26,010 --> 00:03:29,150
+All of these are factors
+that we judge information by.
+
+95
+00:03:29,150 --> 00:03:30,810
+And if we can get all those six factors,
+
+96
+00:03:30,810 --> 00:03:33,490
+we probably have some
+highly valuable information.
+
+97
+00:03:33,490 --> 00:03:35,960
+But, to maintain all those is a challenge,
+
+98
+00:03:35,960 --> 00:03:37,310
+and it's difficult.
+
+99
+00:03:37,310 --> 00:03:39,100
+To be able to do that,
+we have to make sure
+
+100
+00:03:39,100 --> 00:03:40,740
+that we're providing good security for it,
+
+101
+00:03:40,740 --> 00:03:43,450
+and good IT services that
+underlie those informations.
+
+102
+00:03:43,450 --> 00:03:45,510
+We meed to make sure we're meeting all the
+
+103
+00:03:45,510 --> 00:03:47,180
+regulatory compliance requirements
+
+104
+00:03:47,180 --> 00:03:48,770
+and the legal requirements.
+
+105
+00:03:48,770 --> 00:03:51,240
+All of this is things
+that we have to consider
+
+106
+00:03:51,240 --> 00:03:53,360
+when we think about the
+information dimension,
+
+107
+00:03:53,360 --> 00:03:55,240
+or that perspective as we look at
+
+108
+00:03:55,240 --> 00:03:58,010
+building out our products and services.
+
+109
+00:03:58,010 --> 00:03:58,843
+When we look at this
+
+110
+00:03:58,843 --> 00:04:00,730
+and when we look at
+information and technology,
+
+111
+00:04:00,730 --> 00:04:01,960
+what are some of the considerations
+
+112
+00:04:01,960 --> 00:04:03,680
+that we should be thinking of?
+
+113
+00:04:03,680 --> 00:04:04,550
+We should be thinking of
+
+114
+00:04:04,550 --> 00:04:07,100
+is this compatible with
+the current architecture?
+
+115
+00:04:07,100 --> 00:04:08,160
+Is this going to work with
+
+116
+00:04:08,160 --> 00:04:10,490
+the technology we're already using?
+
+117
+00:04:10,490 --> 00:04:13,850
+Does it raise any kind of
+regulatory, legal, compliance,
+
+118
+00:04:13,850 --> 00:04:16,000
+or information security control issues?
+
+119
+00:04:16,000 --> 00:04:18,930
+If I start holding a lot of
+people's personal information,
+
+120
+00:04:18,930 --> 00:04:20,550
+how am I going to protect it for instance?
+
+121
+00:04:20,550 --> 00:04:23,420
+Because there's laws that
+say I have to protect it.
+
+122
+00:04:23,420 --> 00:04:25,570
+The next thing is will
+it continue to be viable
+
+123
+00:04:25,570 --> 00:04:27,080
+in the foreseeable future?
+
+124
+00:04:27,080 --> 00:04:29,140
+If I'm going to invest a
+lot of money into moving
+
+125
+00:04:29,140 --> 00:04:31,330
+to this new server, is
+this going to be good
+
+126
+00:04:31,330 --> 00:04:33,250
+for the next three to five years?
+
+127
+00:04:33,250 --> 00:04:34,500
+Or is this something that's
+only going to be good
+
+128
+00:04:34,500 --> 00:04:35,670
+for three months?
+
+129
+00:04:35,670 --> 00:04:37,410
+If it's not good for
+the foreseeable future,
+
+130
+00:04:37,410 --> 00:04:39,030
+we may want to rethink it.
+
+131
+00:04:39,030 --> 00:04:41,150
+When we think about new
+technology, is it going to align
+
+132
+00:04:41,150 --> 00:04:44,100
+with the service provider or
+the service consumer strategy?
+
+133
+00:04:44,100 --> 00:04:46,730
+We have to have a strategy
+of where we're going.
+
+134
+00:04:46,730 --> 00:04:49,160
+For example, in my
+company, we have a strategy
+
+135
+00:04:49,160 --> 00:04:51,530
+of what kind of courses we want to teach.
+
+136
+00:04:51,530 --> 00:04:53,160
+Even though I can teach probably 50
+
+137
+00:04:53,160 --> 00:04:54,750
+or even a hundred different courses,
+
+138
+00:04:54,750 --> 00:04:56,330
+there's only about 20 or 30 courses
+
+139
+00:04:56,330 --> 00:04:57,820
+that we have in our portfolio.
+
+140
+00:04:57,820 --> 00:05:00,320
+And the reason is, that
+aligns with our strategy
+
+141
+00:05:00,320 --> 00:05:01,860
+where some of the other things don't.
+
+142
+00:05:01,860 --> 00:05:03,550
+And when you think about
+this from your business,
+
+143
+00:05:03,550 --> 00:05:05,730
+you have to think about what's
+in line with your strategy
+
+144
+00:05:05,730 --> 00:05:07,030
+and what isn't.
+
+145
+00:05:07,030 --> 00:05:09,010
+If you're a computer
+company you probably want
+
+146
+00:05:09,010 --> 00:05:11,090
+to be doing things that build computers.
+
+147
+00:05:11,090 --> 00:05:13,200
+You don't want to start
+doing healthcare services.
+
+148
+00:05:13,200 --> 00:05:15,240
+It doesn't align with your brand.
+
+149
+00:05:15,240 --> 00:05:16,270
+Next we're going to think about
+
+150
+00:05:16,270 --> 00:05:18,171
+does the organization
+have the right skills
+
+151
+00:05:18,171 --> 00:05:21,180
+to support and maintain the technology?
+
+152
+00:05:21,180 --> 00:05:22,300
+For example, if you're going
+
+153
+00:05:22,300 --> 00:05:24,030
+to move all your stuff to the cloud,
+
+154
+00:05:24,030 --> 00:05:27,340
+do you have people who know
+how to run Azure and AWS?
+
+155
+00:05:27,340 --> 00:05:29,170
+Because those are skills
+you're going to need,
+
+156
+00:05:29,170 --> 00:05:31,140
+and running cloud servers is different
+
+157
+00:05:31,140 --> 00:05:33,200
+than running your own server farm.
+
+158
+00:05:33,200 --> 00:05:34,630
+The next consideration
+we have to think about
+
+159
+00:05:34,630 --> 00:05:37,150
+is is it going to have enough
+automation capabilities
+
+160
+00:05:37,150 --> 00:05:39,540
+that you can develop it, and
+deploy it, and operate it
+
+161
+00:05:39,540 --> 00:05:41,330
+with less people in the future?
+
+162
+00:05:41,330 --> 00:05:43,420
+Because we're always trying
+to minimize our overhead
+
+163
+00:05:43,420 --> 00:05:44,880
+and lower our costs.
+
+164
+00:05:44,880 --> 00:05:46,330
+Anything that can be automated,
+
+165
+00:05:46,330 --> 00:05:48,110
+we probably want to automate it.
+
+166
+00:05:48,110 --> 00:05:49,240
+Another thing we have to think about is
+
+167
+00:05:49,240 --> 00:05:51,390
+does it have additional
+capabilities that we can leverage
+
+168
+00:05:51,390 --> 00:05:53,290
+for other products and services?
+
+169
+00:05:53,290 --> 00:05:54,610
+This is an interesting one.
+
+170
+00:05:54,610 --> 00:05:55,680
+If you think about this,
+
+171
+00:05:55,680 --> 00:05:59,080
+this is actually how Amazon
+Web Services Started.
+
+172
+00:05:59,080 --> 00:06:01,719
+Amazon had to start
+building large server farms
+
+173
+00:06:01,719 --> 00:06:06,200
+so that they could start selling
+more product as amazon.com.
+
+174
+00:06:06,200 --> 00:06:08,680
+But as they did that they
+built up a lot of capability,
+
+175
+00:06:08,680 --> 00:06:11,370
+and they go oh wait I bet
+other businesses would like
+
+176
+00:06:11,370 --> 00:06:12,810
+to have this capability too.
+
+177
+00:06:12,810 --> 00:06:16,490
+And they started selling it is
+AWS, or Amazon Web Services.
+
+178
+00:06:16,490 --> 00:06:18,290
+Maybe that might apply
+to your business as well.
+
+179
+00:06:18,290 --> 00:06:20,400
+As you're doing some
+kind of new capability,
+
+180
+00:06:20,400 --> 00:06:22,330
+you're going to buy
+something for one capability
+
+181
+00:06:22,330 --> 00:06:24,100
+but it brings you other capabilities.
+
+182
+00:06:24,100 --> 00:06:27,140
+And that now may add to your
+product or service line,
+
+183
+00:06:27,140 --> 00:06:29,259
+just like Amazon did with AWS.
+
+184
+00:06:29,259 --> 00:06:31,210
+And finally we want to think about
+
+185
+00:06:31,210 --> 00:06:33,780
+does this new technology
+introduce new risks
+
+186
+00:06:33,780 --> 00:06:35,580
+or new constraints to your organization?
+
+187
+00:06:35,580 --> 00:06:37,830
+If I'm going to move
+everything to the cloud,
+
+188
+00:06:37,830 --> 00:06:38,870
+how is that going to work
+
+189
+00:06:38,870 --> 00:06:40,840
+from a data loss prevention strategy?
+
+190
+00:06:40,840 --> 00:06:41,760
+How is that going to work
+
+191
+00:06:41,760 --> 00:06:43,910
+from a regulation compliance strategy?
+
+192
+00:06:43,910 --> 00:06:46,480
+All of those are things we have
+to think about in the risk.
+
+193
+00:06:46,480 --> 00:06:49,140
+When we think about risk,
+we're actually going to go back
+
+194
+00:06:49,140 --> 00:06:50,850
+to our last dimension as well.
+
+195
+00:06:50,850 --> 00:06:53,130
+It's going to go back to
+our organizational culture.
+
+196
+00:06:53,130 --> 00:06:55,680
+Depending on the nature of
+your organization's business
+
+197
+00:06:55,680 --> 00:06:57,180
+and the culture you have,
+
+198
+00:06:57,180 --> 00:07:00,250
+you may be more or less risk averse.
+
+199
+00:07:00,250 --> 00:07:01,920
+For example, if you're a small start-up
+
+200
+00:07:01,920 --> 00:07:03,890
+out in Silicon Valley,
+you're probably willing
+
+201
+00:07:03,890 --> 00:07:05,640
+to take a lot of risk,
+
+202
+00:07:05,640 --> 00:07:07,457
+but if you're a big established company,
+
+203
+00:07:07,457 --> 00:07:10,270
+you probably don't want
+to take a lot of risks.
+
+204
+00:07:10,270 --> 00:07:12,011
+You want to make sure things are stable,
+
+205
+00:07:12,011 --> 00:07:13,890
+accurate, and reliable.
+
+206
+00:07:13,890 --> 00:07:16,090
+Those things are things
+you have to consider
+
+207
+00:07:16,090 --> 00:07:17,940
+which technologies you're
+going to implement.
+
+208
+00:07:17,940 --> 00:07:20,740
+Are you going to get the cutting
+edge, which is more risky,
+
+209
+00:07:20,740 --> 00:07:22,250
+or are you going to get
+something that's more stable
+
+210
+00:07:22,250 --> 00:07:23,820
+and tried and true?
+
+211
+00:07:23,820 --> 00:07:25,620
+Again, these are all
+different considerations
+
+212
+00:07:25,620 --> 00:07:26,453
+to think about.
+
+213
+00:07:26,453 --> 00:07:28,980
+But the bottom line,
+especially for the exam,
+
+214
+00:07:28,980 --> 00:07:30,400
+is that one of the dimensions we're going
+
+215
+00:07:30,400 --> 00:07:32,290
+to be thinking about when
+we're building our product
+
+216
+00:07:32,290 --> 00:07:36,190
+or service is based on the
+information and technology,
+
+217
+00:07:36,190 --> 00:07:38,579
+and figuring out how that
+information technology
+
+218
+00:07:38,579 --> 00:07:41,883
+is going to impact the
+service for the long haul.
+

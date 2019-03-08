@@ -1,0 +1,174 @@
+﻿1
+00:00:00,395 --> 00:00:01,731
+- How do we get there?
+
+2
+00:00:01,731 --> 00:00:04,269
+It's finally time to
+plan for some changes.
+
+3
+00:00:04,269 --> 00:00:06,575
+Up to this point, we've
+agreed upon the vision,
+
+4
+00:00:06,575 --> 00:00:08,429
+we've created our baseline to determine
+
+5
+00:00:08,429 --> 00:00:10,189
+what the current state
+actually looks like,
+
+6
+00:00:10,189 --> 00:00:11,979
+and then we determine what the proper
+
+7
+00:00:11,979 --> 00:00:14,291
+goals and metrics are for us to aim for.
+
+8
+00:00:14,291 --> 00:00:16,640
+Now, we want to ask the fourth question,
+
+9
+00:00:16,640 --> 00:00:19,269
+known as step four, how do we get there?
+
+10
+00:00:19,269 --> 00:00:21,899
+So in step four, we are
+going to create a plan.
+
+11
+00:00:21,899 --> 00:00:24,459
+This plan may be
+straightforward and direct
+
+12
+00:00:24,459 --> 00:00:25,779
+and provide us the quickest route
+
+13
+00:00:25,779 --> 00:00:28,189
+to completing a single,
+simple improvement,
+
+14
+00:00:28,189 --> 00:00:30,189
+or it could be more complex,
+
+15
+00:00:30,189 --> 00:00:32,539
+more involved, and made up of a series
+
+16
+00:00:32,539 --> 00:00:35,320
+of twisting roads or starts stops.
+
+17
+00:00:35,320 --> 00:00:37,631
+The most effective approach
+to executing the improvement
+
+18
+00:00:37,631 --> 00:00:40,229
+may not be clear at the beginning
+of our planning efforts.
+
+19
+00:00:40,229 --> 00:00:42,191
+You may not know what right looks like.
+
+20
+00:00:42,191 --> 00:00:45,500
+And so, if this is the case,
+sometimes it may be necessary
+
+21
+00:00:45,500 --> 00:00:48,020
+to design experiments
+that are going to test
+
+22
+00:00:48,020 --> 00:00:49,572
+which options have the most potential
+
+23
+00:00:49,572 --> 00:00:52,319
+so you can figure out
+which path to go down.
+
+24
+00:00:52,319 --> 00:00:55,410
+Either way, we want to plan
+for how we're going to go
+
+25
+00:00:55,410 --> 00:00:56,954
+and get to the desired set of goals
+
+26
+00:00:56,954 --> 00:00:58,790
+that we set out for ourselves.
+
+27
+00:00:58,790 --> 00:01:00,291
+And we're going to break
+the improvement initiative
+
+28
+00:01:00,291 --> 00:01:02,916
+down into workable chunks or units.
+
+29
+00:01:02,916 --> 00:01:04,580
+After each portion is complete,
+
+30
+00:01:04,580 --> 00:01:06,406
+we're going to reassess where we are
+
+31
+00:01:06,406 --> 00:01:07,958
+and if that planned set of actions
+
+32
+00:01:07,958 --> 00:01:10,361
+is getting us closer to our actual goals.
+
+33
+00:01:10,361 --> 00:01:13,831
+If you don't have a plan,
+remember, you're planning to fail.
+
+34
+00:01:13,831 --> 00:01:16,361
+There is nothing worse than
+an improvement initiative
+
+35
+00:01:16,361 --> 00:01:19,591
+that flounders and fails simply
+because no one ever created
+
+36
+00:01:19,591 --> 00:01:22,576
+a plan of action for the
+organization to follow.
+
+37
+00:01:22,576 --> 00:01:25,211
+Be a leader, determine how
+we're going to get there,
+
+38
+00:01:25,211 --> 00:01:26,961
+and then we can move into step five
+
+39
+00:01:26,961 --> 00:01:29,283
+and finally take some action.
+

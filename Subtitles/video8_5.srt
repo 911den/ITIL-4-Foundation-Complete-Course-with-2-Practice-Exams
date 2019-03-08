@@ -1,0 +1,244 @@
+﻿1
+00:00:00,560 --> 00:00:02,640
+- Relationship management.
+
+2
+00:00:02,640 --> 00:00:05,070
+Our next practice is
+relationship management.
+
+3
+00:00:05,070 --> 00:00:07,260
+And for the exam you do need to understand
+
+4
+00:00:07,260 --> 00:00:09,050
+the purpose of relationship management,
+
+5
+00:00:09,050 --> 00:00:11,020
+and memorize this definition.
+
+6
+00:00:11,020 --> 00:00:12,940
+The purpose of relationship management
+
+7
+00:00:12,940 --> 00:00:14,730
+is to establish and nurture the links
+
+8
+00:00:14,730 --> 00:00:17,040
+between the organization
+and its stakeholders
+
+9
+00:00:17,040 --> 00:00:19,360
+at strategic and tactical levels.
+
+10
+00:00:19,360 --> 00:00:22,920
+Now, we do this by identifying, analyzing,
+
+11
+00:00:22,920 --> 00:00:25,130
+monitoring, and doing
+continual improvement
+
+12
+00:00:25,130 --> 00:00:28,230
+of those relationships
+between various stakeholders.
+
+13
+00:00:28,230 --> 00:00:29,810
+The most common of these relationships
+
+14
+00:00:29,810 --> 00:00:31,540
+is the one between the service provider
+
+15
+00:00:31,540 --> 00:00:33,210
+and the service consumer.
+
+16
+00:00:33,210 --> 00:00:34,580
+So, in our relationship,
+
+17
+00:00:34,580 --> 00:00:37,240
+I'm the service provider and
+you're the service consumer.
+
+18
+00:00:37,240 --> 00:00:39,120
+I want to make sure that you're happy.
+
+19
+00:00:39,120 --> 00:00:41,120
+I want to make sure
+that your needs are met.
+
+20
+00:00:41,120 --> 00:00:42,490
+And by understanding all of that,
+
+21
+00:00:42,490 --> 00:00:44,730
+and having a proper
+relationship between us,
+
+22
+00:00:44,730 --> 00:00:46,460
+I'm hoping that you're
+going to come and take
+
+23
+00:00:46,460 --> 00:00:47,600
+more courses from us,
+
+24
+00:00:47,600 --> 00:00:48,577
+and that you're going to pass this exam,
+
+25
+00:00:48,577 --> 00:00:51,010
+and you're going to be happy
+and tell all of your friends.
+
+26
+00:00:51,010 --> 00:00:52,830
+If that happens, then I have some good
+
+27
+00:00:52,830 --> 00:00:53,700
+things that come out of this
+
+28
+00:00:53,700 --> 00:00:55,660
+relationship management practice.
+
+29
+00:00:55,660 --> 00:00:57,740
+Now, when we look at
+this about stakeholders
+
+30
+00:00:57,740 --> 00:00:59,480
+at strategic and tactical levels,
+
+31
+00:00:59,480 --> 00:01:02,500
+it's not just service provider
+and service consumer though.
+
+32
+00:01:02,500 --> 00:01:04,940
+There are a lot of other ones in there.
+
+33
+00:01:04,940 --> 00:01:06,780
+So, as I'm going through and I'm building
+
+34
+00:01:06,780 --> 00:01:09,470
+those relationships, I need to
+monitor those relationships.
+
+35
+00:01:09,470 --> 00:01:11,840
+I need to identify the needs
+of those relationships.
+
+36
+00:01:11,840 --> 00:01:14,260
+What exactly does that stakeholder need?
+
+37
+00:01:14,260 --> 00:01:16,200
+There may be a stakeholder who is asking
+
+38
+00:01:16,200 --> 00:01:17,870
+for a new product or service.
+
+39
+00:01:17,870 --> 00:01:20,050
+Well, as part of relationship management,
+
+40
+00:01:20,050 --> 00:01:21,650
+we're going to talk to them and identify
+
+41
+00:01:21,650 --> 00:01:24,230
+exactly what all of those
+needs are that they have.
+
+42
+00:01:24,230 --> 00:01:26,000
+We can then put that into our requirements
+
+43
+00:01:26,000 --> 00:01:28,010
+and figure our how we're
+going to build to those.
+
+44
+00:01:28,010 --> 00:01:29,620
+As we do that, we're
+going to monitor that,
+
+45
+00:01:29,620 --> 00:01:31,340
+and make sure that we're
+meeting all the things
+
+46
+00:01:31,340 --> 00:01:32,930
+we needed to, and then,
+
+47
+00:01:32,930 --> 00:01:35,020
+we're going to make sure
+that it's done properly,
+
+48
+00:01:35,020 --> 00:01:36,430
+and we'll go through continual improvement
+
+49
+00:01:36,430 --> 00:01:38,270
+to make that go through again,
+
+50
+00:01:38,270 --> 00:01:40,370
+and get it better than it was before.
+
+51
+00:01:40,370 --> 00:01:42,900
+The whole idea here with
+relationship management, again,
+
+52
+00:01:42,900 --> 00:01:45,980
+is to establish and nurture
+the links between the
+
+53
+00:01:45,980 --> 00:01:48,650
+organization and its various stakeholders
+
+54
+00:01:48,650 --> 00:01:50,820
+at strategic and tactical levels.
+
+55
+00:01:50,820 --> 00:01:52,170
+If you remember that for the exam,
+
+56
+00:01:52,170 --> 00:01:53,303
+you're going to do great.
+

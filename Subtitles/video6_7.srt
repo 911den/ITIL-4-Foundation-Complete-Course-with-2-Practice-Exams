@@ -1,0 +1,620 @@
+﻿1
+00:00:00,560 --> 00:00:02,370
+- The third value chain activity
+
+2
+00:00:02,370 --> 00:00:05,020
+inside the center of the value chain
+
+3
+00:00:05,020 --> 00:00:07,010
+is deliver and support.
+
+4
+00:00:07,010 --> 00:00:10,580
+This is where a lot of us work
+if we work in the IT world.
+
+5
+00:00:10,580 --> 00:00:12,830
+If you happen to work in IT support,
+
+6
+00:00:12,830 --> 00:00:16,000
+you probably work inside
+of deliver and support.
+
+7
+00:00:16,000 --> 00:00:19,300
+The purpose of deliver and
+support as a value chain activity
+
+8
+00:00:19,300 --> 00:00:22,630
+is to ensure that the services
+are delivered and supported
+
+9
+00:00:22,630 --> 00:00:24,630
+according to the agreed specifications
+
+10
+00:00:24,630 --> 00:00:26,890
+and stakeholder expectations.
+
+11
+00:00:26,890 --> 00:00:30,000
+I like to think about
+this as service operation.
+
+12
+00:00:30,000 --> 00:00:31,640
+We want to make sure the end user
+
+13
+00:00:31,640 --> 00:00:33,760
+is getting the service and
+support that they need.
+
+14
+00:00:33,760 --> 00:00:36,240
+And that's why we call
+it deliver and support.
+
+15
+00:00:36,240 --> 00:00:38,710
+I am going to deliver
+some sort of capability
+
+16
+00:00:38,710 --> 00:00:40,650
+and support that end user.
+
+17
+00:00:40,650 --> 00:00:42,280
+When you're watching one of my videos,
+
+18
+00:00:42,280 --> 00:00:44,810
+you're using the deliver
+and support process.
+
+19
+00:00:44,810 --> 00:00:47,120
+We are delivering that video to you,
+
+20
+00:00:47,120 --> 00:00:49,220
+and if you have a problem, we support you.
+
+21
+00:00:49,220 --> 00:00:51,220
+That's part of that particular service.
+
+22
+00:00:51,220 --> 00:00:53,480
+Now, as we design the next video,
+
+23
+00:00:53,480 --> 00:00:55,920
+that would go back to
+design and transition.
+
+24
+00:00:55,920 --> 00:00:58,210
+As we're trying to film
+and edit that next video,
+
+25
+00:00:58,210 --> 00:00:59,610
+that's obtain and build.
+
+26
+00:00:59,610 --> 00:01:02,230
+But once we have it ready and
+you're ready to consume it,
+
+27
+00:01:02,230 --> 00:01:04,330
+that becomes deliver and support.
+
+28
+00:01:04,330 --> 00:01:07,040
+And the same thing works
+inside our IT services.
+
+29
+00:01:07,040 --> 00:01:08,940
+If I'm building a new email server,
+
+30
+00:01:08,940 --> 00:01:10,540
+that's an obtain build.
+
+31
+00:01:10,540 --> 00:01:13,130
+Once it's out and you're
+using that email server,
+
+32
+00:01:13,130 --> 00:01:15,340
+we're now in deliver and support.
+
+33
+00:01:15,340 --> 00:01:17,190
+So, what are some of the inputs
+
+34
+00:01:17,190 --> 00:01:19,270
+inside of deliver and support?
+
+35
+00:01:19,270 --> 00:01:22,540
+The first one is any new and
+changed products and services
+
+36
+00:01:22,540 --> 00:01:25,010
+that are provided by
+design and transition.
+
+37
+00:01:25,010 --> 00:01:27,450
+Remember, obtain build
+is going to build it,
+
+38
+00:01:27,450 --> 00:01:29,010
+pass it back to transition,
+
+39
+00:01:29,010 --> 00:01:30,850
+and then transition is going to make sure
+
+40
+00:01:30,850 --> 00:01:32,920
+it gets smoothly put into the marketplace,
+
+41
+00:01:32,920 --> 00:01:35,640
+so that deliver and support
+can then run it from there.
+
+42
+00:01:35,640 --> 00:01:37,860
+We're also going to have our
+contracts and our agreements
+
+43
+00:01:37,860 --> 00:01:40,270
+with external and internal
+suppliers and partners
+
+44
+00:01:40,270 --> 00:01:42,630
+provided to us from engage.
+
+45
+00:01:42,630 --> 00:01:45,100
+As engage does all the
+external engagements,
+
+46
+00:01:45,100 --> 00:01:47,120
+we're then going to use those contracts
+
+47
+00:01:47,120 --> 00:01:50,320
+to get the things we need
+inside of deliver and support.
+
+48
+00:01:50,320 --> 00:01:52,200
+We also are going to
+get service components
+
+49
+00:01:52,200 --> 00:01:54,130
+provided to us by obtain and build.
+
+50
+00:01:54,130 --> 00:01:56,040
+As they built that new email server,
+
+51
+00:01:56,040 --> 00:01:58,110
+it's going to be
+transitioned and eventually
+
+52
+00:01:58,110 --> 00:02:01,160
+we are going to get it here
+in deliver and support.
+
+53
+00:02:01,160 --> 00:02:03,630
+Then we're going to get things
+like improvement initiatives
+
+54
+00:02:03,630 --> 00:02:05,490
+and plans that are going to come out
+
+55
+00:02:05,490 --> 00:02:08,530
+of the improve process or
+a value chain activity.
+
+56
+00:02:08,530 --> 00:02:10,680
+We're also going to get
+improvement status reports
+
+57
+00:02:10,680 --> 00:02:12,680
+from the improve value chain activity.
+
+58
+00:02:12,680 --> 00:02:15,270
+We're going to get user
+support tasks from engage,
+
+59
+00:02:15,270 --> 00:02:17,210
+because any time we're talking to a user,
+
+60
+00:02:17,210 --> 00:02:19,250
+that's an engagement function.
+
+61
+00:02:19,250 --> 00:02:20,620
+And we're also going to be looking at
+
+62
+00:02:20,620 --> 00:02:22,080
+the knowledge and information.
+
+63
+00:02:22,080 --> 00:02:23,160
+The knowledge and information
+
+64
+00:02:23,160 --> 00:02:25,750
+about our new and changed
+service components and services
+
+65
+00:02:25,750 --> 00:02:28,310
+from design and transition
+or obtain and build,
+
+66
+00:02:28,310 --> 00:02:29,820
+or the knowledge and information
+
+67
+00:02:29,820 --> 00:02:31,840
+about third-party service components
+
+68
+00:02:31,840 --> 00:02:33,980
+from our engage partnerships.
+
+69
+00:02:33,980 --> 00:02:35,690
+All of that is the way
+we're going to get things
+
+70
+00:02:35,690 --> 00:02:37,940
+into this value chain activity.
+
+71
+00:02:37,940 --> 00:02:41,280
+Now, on the other side, we're
+going to output a lot of things.
+
+72
+00:02:41,280 --> 00:02:42,380
+And we're going to output things
+
+73
+00:02:42,380 --> 00:02:43,970
+like the services that we're delivering
+
+74
+00:02:43,970 --> 00:02:45,820
+to our customers and users.
+
+75
+00:02:45,820 --> 00:02:47,940
+This is the thing that
+you're actually using.
+
+76
+00:02:47,940 --> 00:02:49,480
+When you go to the website,
+
+77
+00:02:49,480 --> 00:02:51,310
+you're in the deliver and support
+
+78
+00:02:51,310 --> 00:02:53,780
+because you're taking
+advantage of the delivery.
+
+79
+00:02:53,780 --> 00:02:56,080
+You're also going to get
+the outputs of information
+
+80
+00:02:56,080 --> 00:02:59,530
+on the completion of user
+support tasks for engage.
+
+81
+00:02:59,530 --> 00:03:02,550
+So if you have a problem and
+you submitted a support ticket,
+
+82
+00:03:02,550 --> 00:03:05,210
+at some point, you're going to
+get a result coming back to you
+
+83
+00:03:05,210 --> 00:03:06,770
+through the engage process
+
+84
+00:03:06,770 --> 00:03:08,720
+that says your ticket has been solved,
+
+85
+00:03:08,720 --> 00:03:10,770
+and here was the resolution.
+
+86
+00:03:10,770 --> 00:03:11,920
+Another thing you're going to get
+
+87
+00:03:11,920 --> 00:03:14,280
+is product and service
+performance information
+
+88
+00:03:14,280 --> 00:03:16,240
+that comes out of engage and improve
+
+89
+00:03:16,240 --> 00:03:18,030
+as those value chain activities.
+
+90
+00:03:18,030 --> 00:03:21,250
+All of this needs to get
+back out to that end user.
+
+91
+00:03:21,250 --> 00:03:22,500
+We're also going to output things
+
+92
+00:03:22,500 --> 00:03:24,020
+like improvement opportunities.
+
+93
+00:03:24,020 --> 00:03:25,020
+And as we figure out,
+
+94
+00:03:25,020 --> 00:03:28,320
+hey the way we're delivering
+our videos isn't the best,
+
+95
+00:03:28,320 --> 00:03:30,320
+maybe we should do it this other way,
+
+96
+00:03:30,320 --> 00:03:32,150
+we would give that
+improvement recommendation
+
+97
+00:03:32,150 --> 00:03:34,290
+and opportunity over to improve,
+
+98
+00:03:34,290 --> 00:03:36,790
+which then can consolidate
+that, prioritize that,
+
+99
+00:03:36,790 --> 00:03:38,900
+and figure out how we're
+going to better ourself
+
+100
+00:03:38,900 --> 00:03:40,590
+for the long term.
+
+101
+00:03:40,590 --> 00:03:41,700
+When we talk about improvements
+
+102
+00:03:41,700 --> 00:03:43,760
+for contracts and agreement requirements,
+
+103
+00:03:43,760 --> 00:03:46,900
+that's going to go into the
+engage value chain activity.
+
+104
+00:03:46,900 --> 00:03:49,220
+And, if we look at all the
+different change requests,
+
+105
+00:03:49,220 --> 00:03:51,960
+any of those that come in as
+part of delivery and support,
+
+106
+00:03:51,960 --> 00:03:54,400
+we're going to output those
+over to obtain and build,
+
+107
+00:03:54,400 --> 00:03:56,550
+so that they can obtain or build the thing
+
+108
+00:03:56,550 --> 00:03:58,590
+and change it to the way we need.
+
+109
+00:03:58,590 --> 00:04:00,440
+All of this are things, as you can see,
+
+110
+00:04:00,440 --> 00:04:01,970
+that interlock together.
+
+111
+00:04:01,970 --> 00:04:05,540
+They're all very much going
+in and out all of the time.
+
+112
+00:04:05,540 --> 00:04:07,100
+And the last output we have
+
+113
+00:04:07,100 --> 00:04:08,950
+for the deliver and support activity,
+
+114
+00:04:08,950 --> 00:04:11,170
+is the service performance information.
+
+115
+00:04:11,170 --> 00:04:14,320
+We're going to collect a lot of
+information about our services.
+
+116
+00:04:14,320 --> 00:04:16,400
+Maybe we're running servers
+and we're finding out
+
+117
+00:04:16,400 --> 00:04:18,570
+how much space is left on a share drive,
+
+118
+00:04:18,570 --> 00:04:21,870
+or the uptime, or the
+availability, or the capacity,
+
+119
+00:04:21,870 --> 00:04:22,910
+or the throughput.
+
+120
+00:04:22,910 --> 00:04:25,230
+All of that is service
+performance information.
+
+121
+00:04:25,230 --> 00:04:26,810
+And as we collect all of that,
+
+122
+00:04:26,810 --> 00:04:29,170
+we're going to process
+it and then pass it back
+
+123
+00:04:29,170 --> 00:04:31,650
+over to the design and transition phase.
+
+124
+00:04:31,650 --> 00:04:33,870
+Why would we give it to
+design and transition?
+
+125
+00:04:33,870 --> 00:04:35,700
+Well, because they're constantly looking
+
+126
+00:04:35,700 --> 00:04:39,150
+at what capacity you have
+and do you need more?
+
+127
+00:04:39,150 --> 00:04:41,870
+For example, if we had
+one single web server
+
+128
+00:04:41,870 --> 00:04:43,890
+and we started seeing that the trend was
+
+129
+00:04:43,890 --> 00:04:47,740
+that we were using 80 or
+90 or 95 percent capacity,
+
+130
+00:04:47,740 --> 00:04:49,140
+we want to make sure we're designing
+
+131
+00:04:49,140 --> 00:04:52,540
+version two of that web server,
+with additional capacity.
+
+132
+00:04:52,540 --> 00:04:54,710
+Maybe that's moving to
+a cloud architecture,
+
+133
+00:04:54,710 --> 00:04:57,550
+maybe that's moving to a
+multi site homed environment,
+
+134
+00:04:57,550 --> 00:04:59,700
+or using a content distribution network.
+
+135
+00:04:59,700 --> 00:05:01,950
+Whatever that is, it has to be designed.
+
+136
+00:05:01,950 --> 00:05:04,130
+And so by feeding this service
+performance information
+
+137
+00:05:04,130 --> 00:05:05,708
+back to design and transition,
+
+138
+00:05:05,708 --> 00:05:08,360
+they can help us design
+what the next version
+
+139
+00:05:08,360 --> 00:05:10,060
+of our service is going to look like.
+

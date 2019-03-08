@@ -1,0 +1,122 @@
+﻿1
+00:00:00,170 --> 00:00:02,760
+- Infrastructure and Platform Management.
+
+2
+00:00:02,760 --> 00:00:04,440
+Now, this practice is another one
+
+3
+00:00:04,440 --> 00:00:06,970
+you do not need to know for the exam.
+
+4
+00:00:06,970 --> 00:00:08,650
+But instead, we are going to cover it
+
+5
+00:00:08,650 --> 00:00:10,210
+so you at least have heard about it,
+
+6
+00:00:10,210 --> 00:00:11,720
+and you'll understand it a little bit
+
+7
+00:00:11,720 --> 00:00:13,500
+if somebody asks you about it.
+
+8
+00:00:13,500 --> 00:00:15,040
+When we talk about the infrastructure
+
+9
+00:00:15,040 --> 00:00:16,690
+and platform management practice,
+
+10
+00:00:16,690 --> 00:00:18,550
+it's really responsible for overseeing
+
+11
+00:00:18,550 --> 00:00:20,450
+the infrastructure and the platforms
+
+12
+00:00:20,450 --> 00:00:22,520
+that are used by the organization.
+
+13
+00:00:22,520 --> 00:00:23,670
+Now, what this really means
+
+14
+00:00:23,670 --> 00:00:25,160
+is that it's going to
+enable the monitoring
+
+15
+00:00:25,160 --> 00:00:27,180
+of the technology solutions
+that are available,
+
+16
+00:00:27,180 --> 00:00:29,320
+including solutions from third-parties.
+
+17
+00:00:29,320 --> 00:00:31,750
+So when I think about the
+platform or the infrastructure,
+
+18
+00:00:31,750 --> 00:00:34,390
+I think about the servers, the software,
+
+19
+00:00:34,390 --> 00:00:36,620
+the network, all of that stuff.
+
+20
+00:00:36,620 --> 00:00:38,180
+Well, the people who are monitoring it
+
+21
+00:00:38,180 --> 00:00:40,750
+to make sure it's up and working properly,
+
+22
+00:00:40,750 --> 00:00:43,930
+that is part of infrastructure
+and platform management.
+
+23
+00:00:43,930 --> 00:00:45,850
+This tends to be a very technical domain,
+
+24
+00:00:45,850 --> 00:00:48,140
+and it's one that's covered
+by technical personnel
+
+25
+00:00:48,140 --> 00:00:49,640
+who are responsible to make sure
+
+26
+00:00:49,640 --> 00:00:51,840
+the systems are
+up-and-running at all times.
+
+27
+00:00:51,840 --> 00:00:53,330
+Normally, this is people inside
+
+28
+00:00:53,330 --> 00:00:54,890
+your network operations center
+
+29
+00:00:54,890 --> 00:00:56,927
+or your security operations center.
+
